@@ -661,7 +661,7 @@
  },
  {
   "id": "keychain-38",
-  "name": "Riipus | Lil' Curse",
+  "name": "Riipus | Pikku-Kirous",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "38",
   "rarity": {
@@ -675,7 +675,7 @@
  },
  {
   "id": "keychain-39",
-  "name": "Riipus | Lil' Serpent",
+  "name": "Riipus | Pikku-Kärmes",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "39",
   "rarity": {
@@ -689,7 +689,7 @@
  },
  {
   "id": "keychain-40",
-  "name": "Riipus | Lil' Baller",
+  "name": "Riipus | Pikku-Pomppu",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "40",
   "rarity": {
@@ -703,7 +703,7 @@
  },
  {
   "id": "keychain-41",
-  "name": "Riipus | Dead Weight",
+  "name": "Riipus | Riippakivi",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "41",
   "rarity": {
@@ -717,7 +717,7 @@
  },
  {
   "id": "keychain-42",
-  "name": "Riipus | Lil' Prick",
+  "name": "Riipus | Pikku-Piikkis",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "42",
   "rarity": {
@@ -731,7 +731,7 @@
  },
  {
   "id": "keychain-43",
-  "name": "Riipus | Lil' Buns",
+  "name": "Riipus | Pikku-Purilainen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "43",
   "rarity": {
@@ -745,7 +745,7 @@
  },
  {
   "id": "keychain-44",
-  "name": "Riipus | Lil' Smokey",
+  "name": "Riipus | Pikku-Savunen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "44",
   "rarity": {
@@ -759,7 +759,7 @@
  },
  {
   "id": "keychain-45",
-  "name": "Riipus | Lil' Eldritch",
+  "name": "Riipus | Pikku-Kammonen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "45",
   "rarity": {
@@ -773,7 +773,7 @@
  },
  {
   "id": "keychain-46",
-  "name": "Riipus | Lil' Happy",
+  "name": "Riipus | Pikku-Ilopilleri",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "46",
   "rarity": {
@@ -787,7 +787,7 @@
  },
  {
   "id": "keychain-47",
-  "name": "Riipus | Magmatude",
+  "name": "Riipus | Magmamiekkonen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "47",
   "rarity": {
@@ -801,7 +801,7 @@
  },
  {
   "id": "keychain-48",
-  "name": "Riipus | Lil' Cackle",
+  "name": "Riipus | Pikku-Kielimö",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "48",
   "rarity": {
@@ -815,7 +815,7 @@
  },
  {
   "id": "keychain-49",
-  "name": "Riipus | Quick Silver",
+  "name": "Riipus | Elohopeasankari",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "49",
   "rarity": {
@@ -829,7 +829,7 @@
  },
  {
   "id": "keychain-50",
-  "name": "Riipus | Lil' No. 2",
+  "name": "Riipus | Pikku-Kakkonen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "50",
   "rarity": {
@@ -843,7 +843,7 @@
  },
  {
   "id": "keychain-51",
-  "name": "Riipus | Piñatita",
+  "name": "Riipus | Pikku-Piñata",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "51",
   "rarity": {
@@ -857,7 +857,7 @@
  },
  {
   "id": "keychain-52",
-  "name": "Riipus | Pocket Pop",
+  "name": "Riipus | Jädejässikkä",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "52",
   "rarity": {
@@ -871,7 +871,7 @@
  },
  {
   "id": "keychain-53",
-  "name": "Riipus | Lil' Hero",
+  "name": "Riipus | Pikku-Heeros",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "53",
   "rarity": {
@@ -885,7 +885,7 @@
  },
  {
   "id": "keychain-54",
-  "name": "Riipus | Lil' Tusk",
+  "name": "Riipus | Pikku-Torahammas",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "54",
   "rarity": {
@@ -899,7 +899,7 @@
  },
  {
   "id": "keychain-55",
-  "name": "Riipus | Lil' Goop",
+  "name": "Riipus | Pikku-Mönjis",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "55",
   "rarity": {
@@ -913,7 +913,7 @@
  },
  {
   "id": "keychain-56",
-  "name": "Riipus | Hang Loose",
+  "name": "Riipus | Lomakeisari",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "56",
   "rarity": {
@@ -927,7 +927,7 @@
  },
  {
   "id": "keychain-57",
-  "name": "Riipus | Lil' Vino",
+  "name": "Riipus | Pikku-Viinanen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "57",
   "rarity": {
@@ -941,7 +941,7 @@
  },
  {
   "id": "keychain-58",
-  "name": "Riipus | Lil' Moments",
+  "name": "Riipus | Pikku-Kameramies",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "58",
   "rarity": {
@@ -955,7 +955,7 @@
  },
  {
   "id": "keychain-59",
-  "name": "Riipus | Lil' Boo",
+  "name": "Riipus | Pikku-Pöö",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "59",
   "rarity": {
@@ -969,7 +969,7 @@
  },
  {
   "id": "keychain-60",
-  "name": "Riipus | Lil' Chirp",
+  "name": "Riipus | Pikku-Taskusankari",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "60",
   "rarity": {
@@ -983,7 +983,7 @@
  },
  {
   "id": "keychain-61",
-  "name": "Riipus | Big Brain",
+  "name": "Riipus | Isoaivo",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "61",
   "rarity": {
@@ -997,7 +997,7 @@
  },
  {
   "id": "keychain-62",
-  "name": "Riipus | Biomech",
+  "name": "Riipus | Biohirmu",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "62",
   "rarity": {
@@ -1011,7 +1011,7 @@
  },
  {
   "id": "keychain-63",
-  "name": "Riipus | Splatter Cat",
+  "name": "Riipus | Läiskiäinen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "63",
   "rarity": {
@@ -1025,7 +1025,7 @@
  },
  {
   "id": "keychain-64",
-  "name": "Riipus | Gritty",
+  "name": "Riipus | Roso",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "64",
   "rarity": {
@@ -1039,7 +1039,7 @@
  },
  {
   "id": "keychain-65",
-  "name": "Riipus | Fluffy",
+  "name": "Riipus | Nahkis",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "65",
   "rarity": {
@@ -1053,7 +1053,7 @@
  },
  {
   "id": "keychain-66",
-  "name": "Riipus | Whittle Guy",
+  "name": "Riipus | Patsuli",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "66",
   "rarity": {
@@ -1067,7 +1067,7 @@
  },
  {
   "id": "keychain-67",
-  "name": "Riipus | Lil' Zen",
+  "name": "Riipus | Pikku-Zen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "67",
   "rarity": {
@@ -1081,7 +1081,7 @@
  },
  {
   "id": "keychain-68",
-  "name": "Riipus | Lil' Facelift",
+  "name": "Riipus | Pikku-Naamis",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "68",
   "rarity": {
@@ -1095,7 +1095,7 @@
  },
  {
   "id": "keychain-69",
-  "name": "Riipus | Lil' Chomper",
+  "name": "Riipus | Pikku-Purukalunen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "69",
   "rarity": {
@@ -1109,7 +1109,7 @@
  },
  {
   "id": "keychain-70",
-  "name": "Riipus | Lil' Bloody",
+  "name": "Riipus | Pikku-Verinen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "70",
   "rarity": {
@@ -1123,7 +1123,7 @@
  },
  {
   "id": "keychain-71",
-  "name": "Riipus | Lil' Dumplin'",
+  "name": "Riipus | Pikku-Nyytti",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "71",
   "rarity": {
@@ -1137,7 +1137,7 @@
  },
  {
   "id": "keychain-72",
-  "name": "Riipus | Bomb Tag",
+  "name": "Riipus | Pommipeto",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "72",
   "rarity": {
@@ -1151,7 +1151,7 @@
  },
  {
   "id": "keychain-73",
-  "name": "Riipus | Glitter Bomb",
+  "name": "Riipus | Hilepommi",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "73",
   "rarity": {
@@ -1165,7 +1165,7 @@
  },
  {
   "id": "keychain-74",
-  "name": "Riipus | Lil' Eco",
+  "name": "Riipus | Pikku-Kierrätysmies",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "74",
   "rarity": {
@@ -1179,7 +1179,7 @@
  },
  {
   "id": "keychain-75",
-  "name": "Riipus | Hungry Eyes",
+  "name": "Riipus | Nälkimö",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "75",
   "rarity": {
@@ -1193,7 +1193,7 @@
  },
  {
   "id": "keychain-76",
-  "name": "Riipus | Eye of Ball",
+  "name": "Riipus | Silmiäinen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "76",
   "rarity": {
@@ -1207,7 +1207,7 @@
  },
  {
   "id": "keychain-77",
-  "name": "Riipus | Lil' Yeti",
+  "name": "Riipus | Pikku-Lumimies",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "77",
   "rarity": {
@@ -1221,7 +1221,7 @@
  },
  {
   "id": "keychain-78",
-  "name": "Riipus | 8 Ball IGL",
+  "name": "Riipus | Kasipallonen",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "78",
   "rarity": {
@@ -1235,7 +1235,7 @@
  },
  {
   "id": "keychain-79",
-  "name": "Riipus | Flash Bomb",
+  "name": "Riipus | Valopommi",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "79",
   "rarity": {
@@ -1249,7 +1249,7 @@
  },
  {
   "id": "keychain-80",
-  "name": "Riipus | Lil' Ferno",
+  "name": "Riipus | Pikku-Ferno",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "80",
   "rarity": {
@@ -1263,7 +1263,7 @@
  },
  {
   "id": "keychain-81",
-  "name": "Riipus | Butane Buddy",
+  "name": "Riipus | Butaanihemmo",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "81",
   "rarity": {
@@ -1277,7 +1277,7 @@
  },
  {
   "id": "keychain-82",
-  "name": "Riipus | Dr. Brian",
+  "name": "Riipus | Tohtori Brian",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "def_index": "82",
   "rarity": {
