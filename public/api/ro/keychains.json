@@ -1322,7 +1322,7 @@
  {
   "id": "highlight-aus2025_chopperwins1v1vsbrollanonmiragemouz",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 1v2 negat",
-  "description": "Încercarea lui Brollan de câștiga un duel 1 vs 2 pe Mirage este negată de chopper care câștigă duelul de pe scări.",
+  "description": "Încercarea lui Brollan de a câștiga un duel 1 vs 2 pe Mirage este negată de chopper care câștigă duelul de pe scări.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -2672,7 +2672,7 @@
  {
   "id": "highlight-aus2025_nqzjustonevsfuriaonnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Doar unul",
-  "description": "nqz gets set up with the Dualies, but only manages to get a single kill.",
+  "description": "nqz își pândește cu Dual Berettas oponenții, dar realizează doar o singură ucidere.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -2912,7 +2912,7 @@
  {
   "id": "highlight-aus2025_dgtpistolgodvsfuriaonanubis",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Oponenți afumați",
-  "description": "dgt has a sixth sense, as he gets four kills through the smoke in the pistol round.",
+  "description": "dgt își folosește al șaselea simț și realizează patru ucideri prin fum în runda de pistoale.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3212,7 +3212,7 @@
  {
   "id": "highlight-aus2025_dav1deus2kvsfuriahoninferno",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Flancare surprinzătoare",
-  "description": "dav1deuS's flank from Banana catches two FURIA players off guard, earning him a double kill and securing the round.",
+  "description": "Flancarea de pe banană realizată de dav1deuS îi surprinde pe cei doi jucători de la FURIA și îi asigură acestuia două ucideri și runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3242,7 +3242,7 @@
  {
   "id": "highlight-aus2025_fallen2kpistolvspainoninferno",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | FalleN – ucidere dublă cu lovituri în cap",
-  "description": "FalleN finishes off the last two with crisp USP headshots.",
+  "description": "FalleN folosește USP-ul ca să-i ucidă cu lovituri în cap pe ultimii doi oponenți rămași.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3332,7 +3332,7 @@
  {
   "id": "highlight-aus2025_molodoy2kandfailedclutchvspainoninferno",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | molodoy – la un pas de a fi erou",
-  "description": "Two kills with the Tec-9 give molodoy the bomb plant, but he fails to capitalize in the one-versus-two clutch.",
+  "description": "Două ucideri cu Tec-9 îi permit lui molodoy să armeze bomba, dar nu reușește să fructifice oportunitatea în confruntarea 1 vs 2 care are loc.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3421,7 +3421,7 @@
  },
  {
   "id": "highlight-aus2025_snowspraytransferivspainoninferno",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Aplauze pentru schimburile de focuri",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Aplauze pentru rafala controlată",
   "description": "Două ucideri realizate de snow în urma unei rafale de gloanțe ridică publicul în picioare, întrucât acesta asigură câștigarea rundei.",
   "def_index": null,
   "highlight": true,
@@ -3616,8 +3616,8 @@
  },
  {
   "id": "highlight-aus2025_b1tdoubleentryvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t Double Entry",
-  "description": "Two fast entries on the B-site from b1t open up the site for NAVI.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t – ucidere dublă în deschidere",
+  "description": "Două prim-ucideri rapide realizate de b1t în zona țintă B deschide calea echipei NAVI.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3631,8 +3631,8 @@
  },
  {
   "id": "highlight-aus2025_b1tdoubledualieentryvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t: The Mirage Cowboy",
-  "description": "A sick support flash helps b1t secure two quick frags with the Dual Berettas.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t: cowboyul de pe Mirage",
+  "description": "O grenadă de șoc bine plasată de un coechipier îl ajută pe b1t să realizeze două ucideri rapide cu Dual Berettas.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3647,7 +3647,7 @@
  {
   "id": "highlight-aus2025_b1tfast2ecosvsvitalityonmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t – ucidere dublă cu MP9",
-  "description": "b1t rushes behind top mid to secure two quick eco frags with the MP9.",
+  "description": "b1t gonește spre zona din spate a cutiilor din partea de sus a culoarului de pe mijloc pentru a ucide rapid cu MP9 doi jucători care fac eco.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3661,8 +3661,8 @@
  },
  {
   "id": "highlight-aus2025_flamezspraytransfervsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Spray Transfer",
-  "description": "A spray transfer from flameZ nets him a double kill, helping Vitality open up the A-site.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Rafala controlată",
+  "description": "O rafală controlată îi asigură lui flameZ două ucideri, ajutându-i pe cei de la Vitaly să deschidă calea către zona țintă A.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3676,8 +3676,8 @@
  },
  {
   "id": "highlight-aus2025_flamesdoublentryvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | flameZ: The Entry Demon",
-  "description": "A great clear by flameZ on A gives him the opening to secure a double entry kill, thanks to a well-timed support flash from apEX.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | flameZ: demonul prim-uciderilor",
+  "description": "flameZ realizează primele două ucideri din rundă, în zona țintă A, datorită unei grenade de șoc aruncate de apEX la momentul oportun.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3691,8 +3691,8 @@
  },
  {
   "id": "highlight-aus2025_flameztripleentryvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | flameZ Triple Entry",
-  "description": "flameZ, with perfect timing in Connector, opens up the map with three clean entry kills.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | flameZ – tripletă de prim-ucideri",
+  "description": "flameZ își sincronizează perfect atacurile din conector și deschide harta cu primele trei ucideri din rundă.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3707,7 +3707,7 @@
  {
   "id": "highlight-aus2025_imquadkillvsvitalityonmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | iM – ucidere cvadruplă",
-  "description": "iM's two-man spraydown secures him the quad kill and delivers the round win for NAVI.",
+  "description": "iM realizează patru ucideri, dintre care două în urma unei rafale de gloanțe, și câștigă runda pentru NAVI.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3721,8 +3721,8 @@
  },
  {
   "id": "highlight-aus2025_jlentryandhevsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | An Entry And A Donk",
-  "description": "A swift entry kill and a well-placed HE from jL scare off Vitality in the post-plant.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Prim-ucidere urmată de grenadă",
+  "description": "jL realizează o prim-ucidere rapidă și îi sperie pe cei de la Vitaly cu o grenadă explozivă bine-plasată după armarea bombei.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3736,8 +3736,8 @@
  },
  {
   "id": "highlight-aus2025_jltriplehsvsecovsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Triple Headshot",
-  "description": "Three clean headshots with the AK from jL secure the anti-eco round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Tripletă cu lovituri în cap",
+  "description": "jL realizează cu AK-ul trei ucideri cu lovituri în cap și asigură victoria rundei anti-eco.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3752,7 +3752,7 @@
  {
   "id": "highlight-aus2025_mezii2kpistolvsnavionmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii – ucidere dublă pe Mirage",
-  "description": "mezii stays alive on A long enough for the cavalry to arrive and secures a double kill in the pistol round.",
+  "description": "mezii rămâne în viață în zona țintă A suficient de mult ca să ajungă cavaleria și realizează două ucideri în runda de pistoale.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3766,8 +3766,8 @@
  },
  {
   "id": "highlight-aus2025_mezii4kclutchvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Quad Kill And A Clutch",
-  "description": "The eco round from NAVI gets denied by mezii as he wins the one-versus-three clutch and secures a quad kill in the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ucidere cvadruplă și o situație-limită",
+  "description": "Runda eco a celor de la NAVI este subminată de mezii, care se impune ca ultim supraviețuitor contra trei adversari, realizând în total patru ucideri în decursul rundei.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3781,8 +3781,8 @@
  },
  {
   "id": "highlight-aus2025_meziiflickvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Spraying Flick",
-  "description": "mezii buys time with an entry and an insane spray transfer flick to win the round for Vitality.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Rafală în rotire",
+  "description": "mezii câștigă timp cu o prim-ucidere și, cu o rafală controlată incredibil în timpul unei rotiri, ucide un al doilea inamic, câștigând runda pentru Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3796,8 +3796,8 @@
  },
  {
   "id": "highlight-aus2025_ropzbholdvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | B Site Survivor",
-  "description": "ropz manages to buy time for his team on the B-site while also securing a triple kill on the defense.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Supraviețuitorul zonei țintă B",
+  "description": "ropz reușește să câștige timp pentru echipa sa în zona țintă B, realizând, de asemenea, trei ucideri în timp ce apără zona.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3811,8 +3811,8 @@
  },
  {
   "id": "highlight-aus2025_ropzdoublesprayvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Double Spraydown",
-  "description": "ropz holds the Palace push, securing a two-man spraydown.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Doi dintr-o rafală",
+  "description": "ropz se asigură că nimeni nu avansează în palat și realizează două ucideri cu o rafală de gloanțe.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3826,8 +3826,8 @@
  },
  {
   "id": "highlight-aus2025_wonderful2kdeagvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful Double Deagle",
-  "description": "w0nderful's double kill with his Deagle gives NAVI a chance in the eco round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful – ucidere dublă cu Deagle",
+  "description": "Dubla ucidere cu Deagle a lui w0nderful le oferă o șansă celor de la NAVI în runda eco.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3841,8 +3841,8 @@
  },
  {
   "id": "highlight-aus2025_wonderfulteamkillvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful Teamkiller",
-  "description": "w0nderful accidentally kills his teammate jL, allowing ropz to move freely on the B-site, which ultimately costs them the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful: ucigașul de coechipieri",
+  "description": "w0nderful îl ucide din greșeală pe coechipierul său jL, permițându-i lui ropz să se miște liber în zona țintă B, ceea ce îi costă în cele din urmă runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3856,8 +3856,8 @@
  },
  {
   "id": "highlight-aus2025_wonderful2kandcluchvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful: The Clutch God",
-  "description": "w0nderful wins the one-versus-one clutch against mezii, netting two kills with the AWP in the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful: zeul situațiilor-limită",
+  "description": "w0nderful câștigă o luptă 1 vs 1 împotriva lui mezii, realizând în total două ucideri cu AWP-ul în decursul rundei.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3872,7 +3872,7 @@
  {
   "id": "highlight-aus2025_wonderful3kawpvsvitalityonmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ucidere triplă cu AWP",
-  "description": "A failed Connector smoke allows w0nderful to pick up two easy kills with the AWP, earning him a triple kill and the round.",
+  "description": "O grenadă fumigenă aruncată greșit în conector îi permite lui w0nderful să realizeze cu ușurință două ucideri cu AWP-ul, realizând în total trei ucideri și câștigând runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3886,8 +3886,8 @@
  },
  {
   "id": "highlight-aus2025_wonderfulgamblevsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Gamble",
-  "description": "NAVI takes a gamble by giving up the A-site to stack B, aiming to save all their weapons for the next round if the gamble doesn't pay off.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Pariul",
+  "description": "NAVI își încearcă norocul și renunță la zona țintă A pentru a apăra laolaltă zona țintă B, urmărind să-și salveze toate armele pentru runda următoare dacă această mișcare dă roade.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3901,8 +3901,8 @@
  },
  {
   "id": "highlight-aus2025_zywooraremissesandaflickvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Rare Misses But Manages A Flick",
-  "description": "Rare misses from ZywOo's AWP, but he still manages to land a flick while fully flashed.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Al treilea foc e cu noroc",
+  "description": "ZywOo ratează de două ori cu AWP-ul, dar reușește să realizeze o ucidere din rotire în timp ce e orbit de o grenadă de șoc.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3917,7 +3917,7 @@
  {
   "id": "highlight-aus2025_zywoo2kvsnavionmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | ZywOo – ucidere dublă pe Mirage",
-  "description": "Two frags by ZywOo from the A-site help Vitality secure the round.",
+  "description": "ZywOo realizează două ucideri din zona țintă A și-i ajută pe cei de la Vitality să câștige runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3931,8 +3931,8 @@
  },
  {
   "id": "highlight-aus2025_zywoodeniestheaceclutchvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Denied",
-  "description": "An entry and a wallbang from ZywOo deny Aleksib the ace clutch.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Subminat",
+  "description": "ZywOo realizează prima ucidere din rundă și o alta trăgând prin cutie, împiedicându-l pe Aleksib să obțină un as ca ultim supraviețuitor.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3946,8 +3946,8 @@
  },
  {
   "id": "highlight-aus2025_zywoo4kakvsnavionmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | He Can Rifle Too",
-  "description": "Clean AK-47 frags from ZywOo earn him a quad kill and secure the round for Vitality.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Priceput nu doar cu AWP-ul",
+  "description": "ZywOo realizeze cu ușurință patru ucideri cu AK-47 și câștigă runda pentru Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3961,8 +3961,8 @@
  },
  {
   "id": "highlight-aus2025_apex2kvsnavionvitality",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Smoke Sneaker",
-  "description": "Dodging HE clears and sneaking through the smokes, apEX secures a double kill to close out the round for Vitality.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ninja din fum",
+  "description": "Evitând grenade explozive și strecurându-se prin fumigene, apEX realizează o ucidere dublă și câștigă runda pentru Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3976,8 +3976,8 @@
  },
  {
   "id": "highlight-aus2025_apexwhiffvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Whiff",
-  "description": "apEX fails to connect most of his shots with the FAMAS, and along with flameZ and ropz, misses key opportunities for frags  ultimately costing them the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Mirosul",
+  "description": "Majoritatea focurilor trase de apEx cu FAMAS nu-ți ating ținta și, împreună cu flameZ și ropz, ratează oportunități importante de a realiza ucideri, care îi costă în cele din urmă runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -3991,8 +3991,8 @@
  },
  {
   "id": "highlight-aus2025_apex2kinclutchvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Clutching MP9",
-  "description": "apEX comes in clutch in the two-versus-two, picking up both kills with the MP9 to secure the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Impunere cu MP9 ca ultim supraviețuitor",
+  "description": "apEx ajunge într-o situație limită 2 vs 2, realizând ambele ucideri cu MP9 și câștigând runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4006,8 +4006,8 @@
  },
  {
   "id": "highlight-aus2025_apexforgotreloadvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 1 Bullet",
-  "description": "Only one bullet left in the chamber as apEX forgets to reload  a costly mistake, despite landing a kill with that single shot.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Un singur glonț",
+  "description": "apEX uită să-și reîncarce arma și rămâne cu un singur glonț: o greșeală costisitoare, în ciuda faptului că a realizat o ucidere cu acel glonț.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4021,8 +4021,8 @@
  },
  {
   "id": "highlight-aus2025_apexblockingsmokesvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Bodyblocking Smokes",
-  "description": "NAVI's smoke wall outside falls apart as apEX exposes himself to body-block the smokes.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Interceptarea fumigenelor",
+  "description": "Fumigenele aruncate afară de NAVI sunt interceptate de apEX, care se expune pentru a le bloca.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4036,8 +4036,8 @@
  },
  {
   "id": "highlight-aus2025_b1t2kpistolvsvitalityonnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t: The Nuke Cowboy",
-  "description": "b1t shuts down Vitality in the two-versus-two, landing a quick double kill with the Dual Berettas.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | b1t: cowboyul de pe Nuke",
+  "description": "b1t îi ucide pe cei de la Vitaly într-o confruntare 2 vs 2, obținând o dublă ucidere rapidă cu Dual Berettas.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4052,7 +4052,7 @@
  {
   "id": "highlight-aus2025_flamez2kinnervsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | flameZ – ucidere dublă pe Nuke",
-  "description": "The A-site is locked down as flameZ picks up two frags with the MP9.",
+  "description": "flameZ realizează două ucideri cu MP9-ul și blochează accesul în zona țintă A.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4066,8 +4066,8 @@
  },
  {
   "id": "highlight-aus2025_imsilmtaneousdeathvsvitalityonnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Simultaneous Death",
-  "description": "iM gets one shot off just before his death, taking flameZ with him to the grave and opening up the B-site for his teammates.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Moarte simultană",
+  "description": "iM reușește să tragă un foc înainte să moară, luându-l pe flameZ cu el în mormânt și deschizând accesul către zona țintă B coechipierilor săi.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4082,7 +4082,7 @@
  {
   "id": "highlight-aus2025_mezii3kpistolvsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii – ucidere triplă cu pistolul",
-  "description": "mezii keeps the attack alive by securing three kills in the pistol round.",
+  "description": "mezii menține ofensiva, realizând trei ucideri în runda de pistoale.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4096,8 +4096,8 @@
  },
  {
   "id": "highlight-aus2025_mezii3kvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii Triple Entry",
-  "description": "The A-site is left wide open as mezii picks up three entry frags.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii – tripletă de prim-ucideri",
+  "description": "Zona țintă A rămâne descoperită după ce mezii intră și realizează trei prim-ucideri.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4111,8 +4111,8 @@
  },
  {
   "id": "highlight-aus2025_meziitkvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii Teamkiller",
-  "description": "While shooting at an enemy, mezii accidentally kills his teammate ZywOo.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mezii: ucigașul de coechipieri",
+  "description": "În timp ce trăgea asupra unui inamic, mezii îl ucide din greșeală pe coechipierul său ZywOo.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4126,8 +4126,8 @@
  },
  {
   "id": "highlight-aus2025_meziiladderkillvsnavionuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | On The Ladder??",
-  "description": "A crazy shot on the ladder from mezii keeps them in the round, but he's denied in the clutch.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Pe scară??",
+  "description": "O împușcătură incredibilă a lui mezii de pe scară îl menține în joc, dar nu reușește să se impună ca ultim supraviețuitor.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4141,8 +4141,8 @@
  },
  {
   "id": "highlight-aus2025_mezi2kinnervsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Not Enough",
-  "description": "mezii takes two, but it's not enough as Vitality gets overrun by the A-split.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Insuficient",
+  "description": "mezii ucide doi adversari, dar nu este suficient, deoarece Vitality nu face față ofensivei divizate.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4156,8 +4156,8 @@
  },
  {
   "id": "highlight-aus2025_mezii4kshutdownvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Quad Kill Shutdown",
-  "description": "Victory is secured as mezii proves unstoppable with a quad kill on the inside hold for Vitality.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ucidere cvadruplă decisivă",
+  "description": "Victoria este asigurată după ce mezii se dovedește de neoprit, realizând o ucidere cvadruplă în interiorul liniei de apărare a echipei Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4172,7 +4172,7 @@
  {
   "id": "highlight-aus2025_ropz2kvsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | ropz – ucidere dublă pe Nuke",
-  "description": "ropz seals the round by finding two frags on the lower B-site.",
+  "description": "ropz câștigă runda realizând două ucideri în zona țintă B.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4186,8 +4186,8 @@
  },
  {
   "id": "highlight-aus2025_wonderful3kecovsvitalityonnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful: The Eco Fragger",
-  "description": "The hero AK from ZywOo gets shut down by w0nderful, who picks up a triple kill.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful: distrugătorul de runde eco",
+  "description": "w0nderful pune capăt unei acțiuni eroice a lui ZywOo cu AK-47 și realizează trei ucideri.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4202,7 +4202,7 @@
  {
   "id": "highlight-aus2025_wonderful2kawpvsvitalityonnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful – ucidere dublă cu AWP",
-  "description": "Patience from w0nderful nets him a double kill with the AWP and secures the round for NAVI.",
+  "description": "Răbdarea lui w0nderful este răsplătită cu o dublă ucidere cu AWP-ul, iar NAVI câștigă runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4216,8 +4216,8 @@
  },
  {
   "id": "highlight-aus2025_wonderfulfailedclutchvsvitalityonnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful Combat AWP",
-  "description": "A heroic one-versus-three clutch attempt gets denied, despite w0nderful landing a no-scope flick in the post-plant.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | w0nderful – luptă cu AWP-ul",
+  "description": "Având bomba armată, w0nderful rămâne singur împotriva a trei inamici și realizează o ucidere fără lunetă, din rotire, însă fără a reuși să se impună.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4232,7 +4232,7 @@
  {
   "id": "highlight-aus2025_zywoo2kvsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | ZywOo – ucidere dublă pe Nuke",
-  "description": "ZywOo picks up the opening frag and the final kill to secure the round for Vitality.",
+  "description": "ZywOo realizează prima ucidere și ultima ucidere din rundă, câștigând runda pentru Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4246,8 +4246,8 @@
  },
  {
   "id": "highlight-aus2025_zywoo2kvsecovsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | You Won't Get My AK",
-  "description": "Two NAVI players rushing ZywOo get taken down, giving him a double kill.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Nimeni nu-mi va lua AK-ul",
+  "description": "Doi jucători de la NAVI care năvălesc peste ZywOo sunt uciși, acesta realizând astfel o ucidere dublă.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4261,8 +4261,8 @@
  },
  {
   "id": "highlight-aus2025_zywooknifekillvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Backstabber",
-  "description": "Failing to clear his angles gives ZywOo the opportunity to knife w0nderful.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Junghiul din spate",
+  "description": "Nefiind atent în toate părțile, w0nderful este înjunghiat de ZywOo.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4276,8 +4276,8 @@
  },
  {
   "id": "highlight-aus2025_zywoo3konsaversvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | There's No Escape",
-  "description": "There's no escape for the last two CTs trying to save, as ZywOo hunts them down to secure the round and a triple kill.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Nicio scăpare",
+  "description": "Nu există nicio scăpare pentru ultimii doi contrateroriști, deoarece ZywOo îi vânează și câștigă runda cu o ucidere triplă.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4291,7 +4291,7 @@
  },
  {
   "id": "highlight-aus2025_zywoofailedclutchvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Look 1 Hand",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Cu o singură mână",
   "description": "Chilling in T-spawn with his hand off the keyboard gives ZywOo a free frag and a chance at the clutch, but he's denied in the end.",
   "def_index": null,
   "highlight": true,
@@ -4307,7 +4307,7 @@
  {
   "id": "highlight-aus2025_zywoo2kentryvsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The AWP Headshooter",
-  "description": "Winning the AWP duel and trading his teammate earns ZywOo a double kill and gives Vitality a chance in the round.",
+  "description": "ZywOo câștigă duelul cu AWP-ul și realizează o dublă ucidere după ce coechipierul său este ucis, oferind echipei Vitality o șansă în rundă.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4321,7 +4321,7 @@
  },
  {
   "id": "highlight-aus2025_zywoo2kdualiesvsnavionnuke",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | ZywOo: The Cowboy",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | ZyWoo: cowboyul",
   "description": "The retake from Vitality is secured as ZywOo lands two quick headshots with the Dual Berettas.",
   "def_index": null,
   "highlight": true,
@@ -4337,7 +4337,7 @@
  {
   "id": "highlight-aus2025_zywoo3krampvsnavionnuke",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ramp Shutdown",
-  "description": "Ramp is shut down as ZywOo takes down three on the hold.",
+  "description": "ZywOo blochează rampa ucigând trei adversari.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4351,7 +4351,7 @@
  },
  {
   "id": "highlight-aus2025_910doubledeaglevsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Deagle Supremacy",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Supremația Desert Eagle",
   "description": "910 and The MongolZ win the round with Deagles. 910 gets two kills and deals 93 damage in an assist to secure the win.",
   "def_index": null,
   "highlight": true,
@@ -4381,7 +4381,7 @@
  },
  {
   "id": "highlight-aus2025_9103ktowinmapvsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 910 Triple Kill vs FaZe",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 910 – ucidere triplă contra Vitality",
   "description": "910 rushes mid, picks up two kills and an AWP, then secures a third to dismantle FaZe's default.",
   "def_index": null,
   "highlight": true,
@@ -4396,8 +4396,8 @@
  },
  {
   "id": "highlight-aus2025_blitzalmostkillsallvsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Almost 500 Damage",
-  "description": "bLitz kills four and nearly finishes off the fifth.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Aproape 500 de răni",
+  "description": "bLitz ucide patru adversari și îl omoară aproape și pe al cincilea.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4411,8 +4411,8 @@
  },
  {
   "id": "highlight-aus2025_blitz2kvsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz Double Smoke Kill",
-  "description": "A chaotic smoke makes it difficult for The MongolZ, but bLitz manages to pick up two kills and secure the round.",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz – ucidere dublă prin fum",
+  "description": "O fumigenă haotică îngreunează situația pentru mongolZ, dar bLitz reușește să realizeze două ucideri și câștigă runda.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4441,7 +4441,7 @@
  },
  {
   "id": "highlight-aus2025_blitzfast2kvsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Quick Double",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ucidere dublă rapidă",
   "description": "bLitz brings the round back for The MongolZ as he grabs a quick double kill in the retake.",
   "def_index": null,
   "highlight": true,
@@ -4456,7 +4456,7 @@
  },
  {
   "id": "highlight-aus2025_blitztrytoknifevsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Knife?",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Cuțit?",
   "description": "bLitz gets overconfident as he tries to knife karrigan for the final kill to win the map.",
   "def_index": null,
   "highlight": true,
@@ -4486,7 +4486,7 @@
  },
  {
   "id": "highlight-aus2025_frozen2kvsmongolzonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | The Fast Rotation",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Rotația rapidă",
   "description": "A fast rotation to the B-site helps FaZe hold it down, as EliGE picks up a double kill.",
   "def_index": null,
   "highlight": true,
@@ -4501,7 +4501,7 @@
  },
  {
   "id": "highlight-aus2025_karrigandefensevsmongolzonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Defending Connector",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Apărarea conectorului",
   "description": "karrigan gets two kills in Connector on Mirage.",
   "def_index": null,
   "highlight": true,
@@ -4562,7 +4562,7 @@
  {
   "id": "highlight-aus2025_mzinhodoubleentryvsfazeonmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mzinho Double B-Site Entry",
-  "description": "A double entry on the B attack gives The MongolZ an open B bombsite.",
+  "description": "O dublă ucidere la intrarea în zona țintă B deschide calea pentru The MongolZ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4622,7 +4622,7 @@
  {
   "id": "highlight-aus2025_s1mple2kdualiesvsmongolzonmirage",
   "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 2K Dualies",
-  "description": "s1mple kills the first two opponents with the Dualies on the A-site of Mirage.",
+  "description": "s1mple ucide primii doi adversari cu Dual Berettas în zona țintă A pe Mirage.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -4636,7 +4636,7 @@
  },
  {
   "id": "highlight-aus2025_s1mpleawarenessvsmongolzonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Awareness",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Conștientizare",
   "description": "bLitz catches great timing in mid, but s1mple is aware and takes him down with the AWP.",
   "def_index": null,
   "highlight": true,
@@ -4726,7 +4726,7 @@
  },
  {
   "id": "highlight-aus2025_senzudoubleentryvsfazeonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Senzu Double Entry",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Senzu – ucidere dublă în deschidere",
   "description": "Senzu kills two opponents to open up the B-site on Mirage.",
   "def_index": null,
   "highlight": true,
@@ -4951,7 +4951,7 @@
  },
  {
   "id": "highlight-aus2025_karrigan2kentryvsmongolzonanubis",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | karrigan Entry Fragger",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | karrigan: creatorul de ocazii",
   "description": "The Tec-9 from karrigan opens up the B bombsite for FaZe.",
   "def_index": null,
   "highlight": true,
@@ -5086,7 +5086,7 @@
  },
  {
   "id": "highlight-aus2025_senzu2kandclutchvsfazeonanubis",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Clutch Double Kill",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Ucidere dublă ca ultim supraviețuitor",
   "description": "Senzu finds two kills and wins the one-versus-one clutch to secure the round for The MongolZ.",
   "def_index": null,
   "highlight": true,
@@ -5116,7 +5116,7 @@
  },
  {
   "id": "highlight-aus2025_senzuswift2kvsfazeonanubis",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Swift Double Kill",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | Dublă ucidere fulgerătoare",
   "description": "Two swift kills from Senzu on the A-site defense give The MongolZ a real chance in the round.",
   "def_index": null,
   "highlight": true,
@@ -5386,7 +5386,7 @@
  },
  {
   "id": "highlight-aus2025_mzinhodobleentryvspainonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mzinho Double A-Site Entry",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | mzinho – ucidere dublă în zona țintă A",
   "description": "A double entry from mzinho cracks open the A-site for The MongolZ.",
   "def_index": null,
   "highlight": true,
@@ -6481,7 +6481,7 @@
  },
  {
   "id": "highlight-aus2025_910triplekillvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 910 Triple Kill vs Vitality",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | 910 – ucidere triplă contra Vitality",
   "description": "The A execute from Vitality gets destroyed by 910 as he finds a triple kill with a spray transfer.",
   "def_index": null,
   "highlight": true,
@@ -6586,7 +6586,7 @@
  },
  {
   "id": "highlight-aus2025_blitz3kvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz Triple Kill vs Vitality",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz – ucidere triplă contra Vitality",
   "description": "A triple kill from bLitz secures the afterplant for The MongolZ.",
   "def_index": null,
   "highlight": true,
@@ -6616,7 +6616,7 @@
  },
  {
   "id": "highlight-aus2025_blitz2kvsvitalityonmirage",
-  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz Double Connector Kill",
+  "name": "Souvenir Charm | Moment deosebit | Austin 2025 | bLitz – ucidere dublă în conector",
   "description": "A swift double kill from bLitz breaks Vitality's defense on A.",
   "def_index": null,
   "highlight": true,
