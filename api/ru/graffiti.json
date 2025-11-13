@@ -28586,5 +28586,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | BLAST.tv | Austin 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/blst_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9621",
+  "name": "Запечатанный граффити | FURIA | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9622",
+  "name": "Запечатанный граффити | Vitality | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9623",
+  "name": "Запечатанный граффити | Falcons | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9624",
+  "name": "Запечатанный граффити | The MongolZ | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9625",
+  "name": "Запечатанный граффити | MOUZ | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9626",
+  "name": "Запечатанный граффити | Team Spirit | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9627",
+  "name": "Запечатанный граффити | G2 Esports | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9628",
+  "name": "Запечатанный граффити | paiN Gaming | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9629",
+  "name": "Запечатанный граффити | Aurora | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9630",
+  "name": "Запечатанный граффити | Natus Vincere | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9631",
+  "name": "Запечатанный граффити | Team Liquid | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9632",
+  "name": "Запечатанный граффити | 3DMAX | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 3DMAX | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/3dm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9633",
+  "name": "Запечатанный граффити | Astralis | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9634",
+  "name": "Запечатанный граффити | TYLOO | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9635",
+  "name": "Запечатанный граффити | MIBR | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9636",
+  "name": "Запечатанный граффити | Passion UA | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Passion UA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/psnu_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9637",
+  "name": "Запечатанный граффити | Legacy | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9638",
+  "name": "Запечатанный граффити | FaZe Clan | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/faze_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9639",
+  "name": "Запечатанный граффити | B8 | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9640",
+  "name": "Запечатанный граффити | GamerLegion | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9641",
+  "name": "Запечатанный граффити | Fnatic | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | fnatic | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fntc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9642",
+  "name": "Запечатанный граффити | PARIVISION | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9643",
+  "name": "Запечатанный граффити | Ninjas in Pyjamas | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Ninjas in Pyjamas | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nip_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9644",
+  "name": "Запечатанный граффити | Imperial Esports | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Imperial Esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/imp_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9645",
+  "name": "Запечатанный граффити | FlyQuest | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9646",
+  "name": "Запечатанный граффити | Lynn Vision | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9647",
+  "name": "Запечатанный граффити | M80 | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9648",
+  "name": "Запечатанный граффити | Fluxo | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Fluxo | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/flux_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9649",
+  "name": "Запечатанный граффити | RED Canids | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | RED Canids | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/redc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9650",
+  "name": "Запечатанный граффити | The Huns | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Huns | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/huns_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9651",
+  "name": "Запечатанный граффити | NRG | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9652",
+  "name": "Запечатанный граффити | Rare Atom | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Rare Atom | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/ratm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9653",
+  "name": "Запечатанный граффити | StarLadder | Будапешт-2025",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
  }
 ]

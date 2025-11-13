@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Budapeşte 2025 İzleyici Bileti",
+  "description": "Bu bir mühürlü StarLadder Budapeşte 2025 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Budapeşte 2025 jetonu, Budapeşte 2025 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nJeton mücadelelerini tamamlayarak Budapeşte 2025 jetonunu yükselt. Jetonunu her yükselttiğinde bir hatıra paketi jetonu kazanırsın.\\n\\nBu biletin satışından elde edilen gelirin %50'si katılımcı organizasyonlara onları desteklemek için aktarılır.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Budapeşte 2025 Jetonu",
+  "description": "Bu jeton StarLadder Budapeşte 2025 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Budapeşte 2025 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nBudapeşte 2025 jetonunu mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra bir hatıra paketi jetonu kazanırsın.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Budapeşte 2025 Gümüş Jeton",
+  "description": "Bu jeton StarLadder Budapeşte 2025 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Budapeşte 2025 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nBudapeşte 2025 jetonunu mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra bir hatıra paketi jetonu kazanırsın.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Budapeşte 2025 Altın Jeton",
+  "description": "Bu jeton StarLadder Budapeşte 2025 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Budapeşte 2025 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nBudapeşte 2025 jetonunu mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra bir hatıra paketi jetonu kazanırsın.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Budapeşte 2025 Elmas Jeton",
+  "description": "Bu jeton StarLadder Budapeşte 2025 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Budapeşte 2025 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nBudapeşte 2025 jetonunu mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra bir hatıra paketi jetonu kazanırsın.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Budapeşte 2025 İzleyici Bileti + 3 Hatıra Jetonu",
+  "description": "Bu bir mühürlü StarLadder Budapeşte 2025 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Budapeşte 2025 jetonu, Budapeşte 2025 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nJeton mücadelelerini tamamlayarak Budapeşte 2025 jetonunu yükselt. Jetonunu her yükselttiğinde bir hatıra paketi jetonu kazanırsın.\\n\\nBu izleyici bileti, Budapeşte 2025 jetonunu üç hatıra paketi jetonuyla ile önceden etkinleştirecektir.\\n\\nBu biletin satışından elde edilen gelirin %50'si katılımcı organizasyonlara onları desteklemek için aktarılır.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Budapeşte 2025 Hatıra Paketi",
+  "description": "Bu, mühürlü bir StarLadder Budapeşte 2025 CS2 Major Şampiyonası hatıra paketidir.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "StarLadder Budapeşte 2025 Şampiyonu",
+  "description": "Bu şampiyonluk ödülü StarLadder Budapeşte 2025 CS2 Şampiyonası'nın şampiyonuna verilmiştir.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Olağandışı",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "StarLadder Budapeşte 2025 Finalisti",
+  "description": "Bu şampiyonluk ödülü StarLadder Budapeşte 2025 CS2 Şampiyonası'nın finalistine verilmiştir.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Olağandışı",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "StarLadder Budapeşte 2025 Yarı Finalisti",
+  "description": "Bu şampiyonluk ödülü StarLadder Budapeşte 2025 CS2 Şampiyonası'nın yarı finalistine verilmiştir.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Olağandışı",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "StarLadder Budapeşte 2025 Çeyrek Finalisti",
+  "description": "Bu şampiyonluk ödülü StarLadder Budapeşte 2025 CS2 Şampiyonası'nın çeyrek finalistine verilmiştir.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Olağandışı",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Hakiki Dust II Broşu",
   "description": "Bu, Seri 1 koleksiyon broşudur. Profilinde sergilenebilir.",

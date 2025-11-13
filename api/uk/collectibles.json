@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Глядацька перепустка «Будапешт 2025»",
+  "description": "Це запечатана глядацька перепустка великого турніру «StarLadder Будапешт 2025». Якщо її відкрити, ви отримаєте монету «Будапешт 2025», яка відстежує ваш поступ упродовж події, а також надає доступ до прогнозів, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Монета «Будапешт 2025»",
+  "description": "Це пам’ятна монета великого турніру «StarLadder Будапешт 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Срібна монета «Будапешт 2025»",
+  "description": "Це пам’ятна монета великого турніру «StarLadder Будапешт 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Золота монета «Будапешт 2025»",
+  "description": "Це пам’ятна монета великого турніру «StarLadder Будапешт 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Діамантова монета «Будапешт 2025»",
+  "description": "Це пам’ятна монета великого турніру «StarLadder Будапешт 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Глядацька перепустка «Будапешт 2025» + 3 сувенірні жетони",
+  "description": "Це запечатана глядацька перепустка великого турніру «StarLadder Будапешт 2025». Якщо її відкрити, ви отримаєте монету «Будапешт 2025», яка відстежує ваш поступ упродовж події, а також надає доступ до прогнозів, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Будапешт 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.\\n\\nЦя глядацька перепустка одразу активує монету «Будапешт 2025» та надає три сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасникам.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Сувенірний набір «Будапешт 2025»",
+  "description": "Це запечатаний сувенірний набір великого турніру з CS2 «StarLadder Будапешт 2025».",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Чемпіон «StarLadder StarLadder Будапешт 2025»",
+  "description": "Цю нагороду вручено переможцю великого турніру з CS2 «StarLadder Будапешт 2025».",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Фіналіст «StarLadder Будапешт 2025»",
+  "description": "Цю нагороду вручено фіналісту великого турніру з CS2 «StarLadder Будапешт 2025».",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Півфіналіст «StarLadder Будапешт 2025»",
+  "description": "Цю нагороду вручено півфіналісту великого турніру з CS2 «StarLadder Будапешт 2025».",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Чвертьфіналіст «StarLadder Будапешт 2025»",
+  "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS2 «StarLadder Будапешт 2025».",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Значок «Dust II» (з першої партії)",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",

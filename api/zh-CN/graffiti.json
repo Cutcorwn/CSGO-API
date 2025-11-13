@@ -28586,5 +28586,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | BLAST.tv | Austin 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/blst_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9621",
+  "name": "封装的涂鸦 | FURIA | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9622",
+  "name": "封装的涂鸦 | Vitality | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9623",
+  "name": "封装的涂鸦 | Falcons | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9624",
+  "name": "封装的涂鸦 | The MongolZ | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9625",
+  "name": "封装的涂鸦 | MOUZ | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9626",
+  "name": "封装的涂鸦 | Team Spirit | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9627",
+  "name": "封装的涂鸦 | G2 Esports | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9628",
+  "name": "封装的涂鸦 | paiN Gaming | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9629",
+  "name": "封装的涂鸦 | Aurora | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9630",
+  "name": "封装的涂鸦 | Natus Vincere | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9631",
+  "name": "封装的涂鸦 | Team Liquid | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9632",
+  "name": "封装的涂鸦 | 3DMAX | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 3DMAX | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/3dm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9633",
+  "name": "封装的涂鸦 | Astralis | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9634",
+  "name": "封装的涂鸦 | TYLOO | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9635",
+  "name": "封装的涂鸦 | MIBR | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9636",
+  "name": "封装的涂鸦 | Passion UA | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Passion UA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/psnu_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9637",
+  "name": "封装的涂鸦 | Legacy | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9638",
+  "name": "封装的涂鸦 | FaZe Clan | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/faze_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9639",
+  "name": "封装的涂鸦 | B8 | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9640",
+  "name": "封装的涂鸦 | GamerLegion | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9641",
+  "name": "封装的涂鸦 | Fnatic | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | fnatic | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fntc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9642",
+  "name": "封装的涂鸦 | Parivision | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9643",
+  "name": "封装的涂鸦 | Ninjas in Pyjamas | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Ninjas in Pyjamas | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nip_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9644",
+  "name": "封装的涂鸦 | Imperial Esports | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Imperial Esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/imp_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9645",
+  "name": "封装的涂鸦 | Flyquest | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9646",
+  "name": "封装的涂鸦 | Lynn Vision | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9647",
+  "name": "封装的涂鸦 | M80 | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9648",
+  "name": "封装的涂鸦 | Fluxo | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Fluxo | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/flux_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9649",
+  "name": "封装的涂鸦 | RED Canids | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | RED Canids | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/redc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9650",
+  "name": "封装的涂鸦 | The Huns | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Huns | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/huns_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9651",
+  "name": "封装的涂鸦 | NRG | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9652",
+  "name": "封装的涂鸦 | Rare Atom | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Rare Atom | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/ratm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9653",
+  "name": "封装的涂鸦 | StarLadder | 2025年布达佩斯锦标赛",
+  "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
  }
 ]

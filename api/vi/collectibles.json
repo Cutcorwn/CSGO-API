@@ -6616,7 +6616,7 @@
  },
  {
   "id": "collectible-5116",
-  "name": "Gói lưu niệm Austin 2025",
+  "name": "Gói lưu niệm | Austin 2025",
   "description": "Đây là gói lưu niệm giải Major CS2 BLAST.tv Austin 2025 chưa được mở.",
   "def_index": "5116",
   "rarity": {
@@ -7363,6 +7363,171 @@
   "genuine": false,
   "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
+ },
+ {
+  "id": "collectible-5209",
+  "name": "Vé xem Budapest 2025",
+  "description": "Đây là vé xem giải vô địch Major CS2 StarLadder Budapest 2025 chưa được mở. Sau khi mở, vé sẽ cho bạn huy chương Budapest 2025 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Huy chương Budapest 2025",
+  "description": "Đây là huy chương kỉ niệm giải Major CS2 StarLadder Budapest 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Huy chương bạc Budapest 2025",
+  "description": "Đây là huy chương kỉ niệm giải Major CS2 StarLadder Budapest 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Huy chương vàng Budapest 2025",
+  "description": "Đây là huy chương kỉ niệm giải Major CS2 StarLadder Budapest 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Huy chương kim cương Budapest 2025",
+  "description": "Đây là huy chương kỉ niệm giải Major CS2 StarLadder Budapest 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Vé xem Budapest 2025 + 3 token lưu niệm",
+  "description": "Đây là một vé xem giải vô địch Major CS2 StarLadder Budapest 2025 chưa được mở. Sau khi mở, vé sẽ cho bạn một huy chương Budapest 2025 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Budapest 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Budapest 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem này sẽ kích hoạt sẵn huy hiệu Budapest 2025 của bạn với 3 token lưu niệm.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tổ chức tham dự giải.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Gói lưu niệm | Budapest 2025",
+  "description": "Đây là gói lưu niệm giải Major CS2 StarLadder Budapest 2025 chưa được mở.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Nhà vô địch StarLadder Budapest 2025",
+  "description": "Cúp giải đấu này được trao tặng nhà vô địch giải Major CS2 StarLadder Budapest 2025.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Phi thường",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Lọt vào chung kết giải StarLadder Budapest 2025",
+  "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS2 StarLadder Budapest 2025.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Phi thường",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Lọt vào bán kết giải StarLadder Budapest 2025",
+  "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS2 StarLadder Budapest 2025.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Phi thường",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Lọt vào tứ kết giải StarLadder Budapest 2025",
+  "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS2 StarLadder Budapest 2025.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Phi thường",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
  },
  {
   "id": "collectible-6001",

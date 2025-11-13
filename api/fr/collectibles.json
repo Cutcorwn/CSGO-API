@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Passe du public de Budapest 2025",
+  "description": "Ce passe du public du tournoi majeur CS2 de Budapest 2025 (organisé par StarLadder) est scellé. Une fois descellé, ce passe vous donne un insigne de Budapest 2025 qui suit votre progression au cours de l'évènement, un accès complet au challenge Prono'Stick de Budapest 2025, des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et un nombre illimité de graffitis d'équipes utilisables tout au long de l'évènement.\\n\\nAméliorez votre insigne de Budapest 2025 en accomplissant des défis et recevez un jeton souvenir chaque fois que le niveau de votre insigne augmente.\\n\\nLa moitié des recettes des passes du public est directement reversée aux organisations participantes pour les soutenir.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Insigne de Budapest 2025",
+  "description": "Ceci est un insigne commémoratif du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder, qui suit votre progression au cours de l'évènement et vous donne un accès complet au challenge Prono'Stick de Budapest 2025, des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et des graffitis d'équipe illimités pendant la durée de l'évènement.\\n\\nVous pouvez améliorer votre insigne de Budapest 2025 en accomplissant des défis. À chaque fois que le niveau de votre insigne augmentera, vous recevrez un jeton souvenir.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Insigne en argent de Budapest 2025",
+  "description": "Ceci est un insigne commémoratif du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder, qui suit votre progression au cours de l'évènement et vous donne un accès complet au challenge Prono'Stick de Budapest 2025, des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et des graffitis d'équipe illimités pendant la durée de l'évènement.\\n\\nVous pouvez améliorer votre insigne de Budapest 2025 en accomplissant des défis. À chaque fois que le niveau de votre insigne augmentera, vous recevrez un jeton souvenir.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Insigne en or de Budapest 2025",
+  "description": "Ceci est un insigne commémoratif du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder, qui suit votre progression au cours de l'évènement et vous donne un accès complet au challenge Prono'Stick de Budapest 2025, des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et des graffitis d'équipe illimités pendant la durée de l'évènement.\\n\\nVous pouvez améliorer votre insigne de Budapest 2025 en accomplissant des défis. À chaque fois que le niveau de votre insigne augmentera, vous recevrez un jeton souvenir.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Insigne en diamant de Budapest 2025",
+  "description": "Ceci est un insigne commémoratif du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder, qui suit votre progression au cours de l'évènement et vous donne un accès complet au challenge Prono'Stick de Budapest 2025, des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et des graffitis d'équipe illimités pendant la durée de l'évènement.\\n\\nVous pouvez améliorer votre insigne de Budapest 2025 en accomplissant des défis. À chaque fois que le niveau de votre insigne augmentera, vous recevrez un jeton souvenir.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Passe du public de Budapest 2025 + 3 jetons souvenirs",
+  "description": "Ce passe du public du tournoi majeur CS2 de Budapest 2025 (organisé par StarLadder) est scellé. Une fois descellé, ce passe vous donne un insigne de Budapest 2025 qui suit votre progression au cours de l'évènement, un accès complet au challenge Prono'Stick de Budapest 2025,des badges sur le chat de la diffusion sur Steam.tv, des défis pour faire progresser votre insigne et un nombre illimité de graffitis d'équipes utilisables tout au long de l'évènement.\\n\\nAméliorez votre insigne de Budapest 2025 en accomplissant des défis et recevez un jeton souvenir chaque fois que le niveau de votre insigne augmente.\\n\\nCe passe du public vous permet de commencer avec 3 jetons souvenirs.\\n\\nLa moitié des recettes des passes du public est directement reversée aux organisations participantes pour les soutenir.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Paquet souvenir de Budapest 2025",
+  "description": "Il s'agit d'un paquet souvenir scellé du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Équipe championne de StarLadder Budapest 2025",
+  "description": "Ce trophée a été décerné à l'équipe championne du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinaire",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Finaliste de StarLadder Budapest 2025",
+  "description": "Ce trophée a été décerné à l'équipe finaliste du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinaire",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Demi-finaliste de StarLadder Budapest 2025",
+  "description": "Ce trophée a été décerné aux équipes demi-finalistes du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinaire",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Quart-de-finaliste de StarLadder Budapest 2025",
+  "description": "Ce trophée a été décerné aux équipes quart-de-finalistes du tournoi majeur CS2 de Budapest 2025 organisé par StarLadder.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinaire",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Pin's Dust II (Authentique)",
   "description": "Pin's à collectionner de la série 1. Il peut être affiché sur votre profil.",

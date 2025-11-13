@@ -6972,6 +6972,11 @@
     "id": "crate-5125",
     "name": "Pachet cu suvenir | Nuke | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Pachet cu suvenir | Nuke | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "contains": [
@@ -7229,6 +7234,11 @@
     "id": "crate-5120",
     "name": "Pachet cu suvenir | Inferno | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Pachet cu suvenir | Inferno | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "contains": [
@@ -11390,6 +11400,11 @@
     "id": "crate-5123",
     "name": "Pachet cu suvenir | Dust II | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Pachet cu suvenir | Dust II | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "contains": [
@@ -11643,6 +11658,11 @@
     "id": "crate-5121",
     "name": "Pachet cu suvenir | Mirage | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Pachet cu suvenir | Mirage | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "contains": [
@@ -12933,6 +12953,11 @@
     "id": "crate-5124",
     "name": "Pachet cu suvenir | Ancient | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Pachet cu suvenir | Ancient | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "contains": [
@@ -15879,7 +15904,13 @@
  {
   "id": "collection-set-overpass-2024",
   "name": "Colecția Overpass 2024",
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Pachet cu suvenir | Overpass | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "contains": [
    {
     "id": "skin-aec4b9b50be0",
@@ -17211,6 +17242,11 @@
     "id": "crate-5126",
     "name": "Pachet cu suvenir | Train | Austin 2025",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Pachet cu suvenir | Train | Budapest 2025",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "contains": [

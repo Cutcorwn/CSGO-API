@@ -28586,5 +28586,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | BLAST.tv | Austin 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/blst_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9621",
+  "name": "Grafíti selado | FURIA | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9622",
+  "name": "Grafíti selado | Vitality | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9623",
+  "name": "Grafíti selado | Falcons | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9624",
+  "name": "Grafíti selado | The Mongolz | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9625",
+  "name": "Grafíti selado | MOUZ | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9626",
+  "name": "Grafíti selado | Team Spirit | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9627",
+  "name": "Grafíti selado | G2 esports | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9628",
+  "name": "Grafíti selado | paiN Gaming | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9629",
+  "name": "Grafíti selado | Aurora | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9630",
+  "name": "Grafíti selado | Natus Vincere | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9631",
+  "name": "Grafíti selado | Team Liquid | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9632",
+  "name": "Grafíti selado | 3DMAX | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 3DMAX | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/3dm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9633",
+  "name": "Grafíti selado | Astralis | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9634",
+  "name": "Grafíti selado | TYLOO | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9635",
+  "name": "Grafíti selado | MIBR | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9636",
+  "name": "Grafíti selado | Passion UA | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Passion UA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/psnu_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9637",
+  "name": "Grafíti selado | Legacy | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9638",
+  "name": "Grafíti selado | FaZe Clan | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/faze_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9639",
+  "name": "Grafíti selado | B8 | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9640",
+  "name": "Grafíti selado | GamerLegion | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9641",
+  "name": "Grafíti selado | fnatic | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | fnatic | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fntc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9642",
+  "name": "Grafíti selado | PARIVISION | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9643",
+  "name": "Grafíti selado | Ninjas in Pyjamas | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Ninjas in Pyjamas | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nip_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9644",
+  "name": "Grafíti selado | Imperial Esports | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Imperial Esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/imp_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9645",
+  "name": "Grafíti selado | FlyQuest | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9646",
+  "name": "Grafíti selado | Lynn Vision | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9647",
+  "name": "Grafíti selado | M80 | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9648",
+  "name": "Grafíti selado | Fluxo | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Fluxo | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/flux_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9649",
+  "name": "Grafíti selado | RED Canids | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | RED Canids | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/redc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9650",
+  "name": "Grafíti selado | The Huns | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Huns | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/huns_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9651",
+  "name": "Grafíti selado | NRG | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9652",
+  "name": "Grafíti selado | Rare Atom | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Rare Atom | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/ratm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9653",
+  "name": "Grafíti selado | StarLadder | Budapeste 2025",
+  "description": "Uma caixa selada que contém um padrão de grafíti. Assim que esta caixa for aberta, poderás aplicar o grafíti <b>50</b> vezes em superfícies planas durante partidas em qualquer mapa.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
  }
 ]

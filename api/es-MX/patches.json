@@ -885,7 +885,7 @@
  },
  {
   "id": "patch-5085",
-  "name": "Parche | Vitality | Estocolmo 2021",
+  "name": "Parche | Team Vitality | Estocolmo 2021",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
   "def_index": "5085",
   "rarity": {
@@ -898,7 +898,7 @@
  },
  {
   "id": "patch-5086",
-  "name": "Parche | Vitality (dorada) | Estocolmo 2021",
+  "name": "Parche | Team Vitality (dorada) | Estocolmo 2021",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
   "def_index": "5086",
   "rarity": {
@@ -1249,7 +1249,7 @@
  },
  {
   "id": "patch-5113",
-  "name": "Parche | Tyloo | Estocolmo 2021",
+  "name": "Parche | TYLOO | Estocolmo 2021",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
   "def_index": "5113",
   "rarity": {
@@ -1262,7 +1262,7 @@
  },
  {
   "id": "patch-5114",
-  "name": "Parche | Tyloo (dorada) | Estocolmo 2021",
+  "name": "Parche | TYLOO (dorada) | Estocolmo 2021",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
   "def_index": "5114",
   "rarity": {

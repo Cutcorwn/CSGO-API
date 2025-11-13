@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Budapest 2025 Nézői belépő",
+  "description": "Ez egy lezárt StarLadder Budapest 2025 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Budapest 2025 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nBudapest 2025 Érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Budapest 2025 Érme",
+  "description": "Ez egy StarLadder Budapest 2025 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Budapest 2025 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Budapest 2025 Ezüst Érme",
+  "description": "Ez egy StarLadder Budapest 2025 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Budapest 2025 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Budapest 2025 Arany Érme",
+  "description": "Ez egy StarLadder Budapest 2025 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Budapest 2025 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Budapest 2025 Gyémánt Érme",
+  "description": "Ez egy StarLadder Budapest 2025 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Budapest 2025 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Budapest 2025 Nézői belépő + 3 emléktárgy-zseton",
+  "description": "Ez egy lezárt StarLadder Budapest 2025 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Budapest 2025 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Budapest 2025 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nBudapest 2025 Érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Budapest 2025 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Budapest 2025 Emlékcsomag",
+  "description": "Ez egy lezárt StarLadder Budapest 2025 CS2 Major Bajnokság Emléktárgy-csomag.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "A StarLadder Budapest 2025 bajnoka",
+  "description": "Ezt a bajnoksági trófeát a StarLadder Budapest 2025 CS2 Major bajnokság bajnoka kapta.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Rendkívüli",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "A StarLadder Budapest 2025 döntőse",
+  "description": "Ezt a bajnoksági trófeát a StarLadder Budapest 2025 CS2 Major bajnokság döntőse kapta.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Rendkívüli",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "A StarLadder Budapest 2025 elődöntőse",
+  "description": "Ezt a bajnoksági trófeát a StarLadder Budapest 2025 CS2 Major bajnokság elődöntőse kapta.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Rendkívüli",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "A StarLadder Budapest 2025 negyeddöntőse",
+  "description": "Ezt a bajnoksági trófeát a StarLadder Budapest 2025 CS2 Major bajnokság negyeddöntőse kapta.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Rendkívüli",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Dust II kitűző (Eredeti)",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",

@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Budapest 2025 視聴者パス",
+  "description": "これは未開封の StarLadder Budapest 2025 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Budapest 2025 コイン、 Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Budapest 2025 コイン",
+  "description": "これは StarLadder Budapest 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Budapest 2025 シルバーコイン",
+  "description": "これは StarLadder Budapest 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Budapest 2025 ゴールドコイン",
+  "description": "これは StarLadder Budapest 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Budapest 2025 ダイヤモンドコイン",
+  "description": "これは StarLadder Budapest 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Budapest 2025 視聴者パス + 記念トークン x 3",
+  "description": "これは未開封の StarLadder Budapest 2025 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Budapest 2025 コイン、Budapest 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Budapest 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Budapest 2025 コインと記念トークン 3 枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Budapest 2025 記念パッケージ",
+  "description": "これは未開封の StarLadder Budapest 2025 CS2 Major Championship 記念パッケージです。",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "StarLadder Budapest 2025 優勝",
+  "description": "このチャンピオンシップトロフィーは StarLadder Budapest 2025 CS2 Championshipの王者に贈呈されました。",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "StarLadder Budapest 2025 ファイナリスト",
+  "description": "このチャンピオンシップトロフィーは StarLadder Budapest 2025 CS2 Championshipのファイナリストに贈呈されました。",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "StarLadder Budapest 2025 セミファイナリスト",
+  "description": "このチャンピオンシップトロフィーは StarLadder Budapest 2025 CS2 Championshipのセミファイナリストに贈呈されました。",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "StarLadder Budapest 2025 準々決勝進出",
+  "description": "このチャンピオンシップトロフィーは StarLadder Budapest 2025 CS2 Major Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "ジェニュイン Dust II ピン",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
