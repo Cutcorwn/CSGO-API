@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Passe de Espectador de Budapeste 2025",
+  "description": "Este é um passe selado de espectador do Major de CS2 de Budapeste 2025 da StarLadder. Assim que o passe for aberto, irás ganhar a Moeda de Budapeste 2025, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.\\n\\n50% dos lucros das vendas destinam‑se às organizações participantes.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Moeda de Budapeste 2025",
+  "description": "Esta é uma moeda comemorativa do Major de CS2 de Budapeste 2025 da StarLadder, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Moeda de Prata de Budapeste 2025",
+  "description": "Esta é uma moeda comemorativa do Major de CS2 de Budapeste 2025 da StarLadder, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Moeda de Ouro de Budapeste 2025",
+  "description": "Esta é uma moeda comemorativa do Major de CS2 de Budapeste 2025 da StarLadder, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Moeda de Diamante de Budapeste 2025",
+  "description": "Esta é uma moeda comemorativa do Major de CS2 de Budapeste 2025 da StarLadder, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Passe de Espectador de Budapeste 2025 + 3 Fichas de Brinde",
+  "description": "Este é um passe selado de espectador do Major de CS2 de Budapeste 2025 da StarLadder. Assim que o passe for aberto, irás ganhar a Moeda de Budapeste 2025, que não só regista o teu progresso ao longo do evento, como também te dá acesso completo ao Desafio Pick'Em de Budapeste 2025, ícones das equipas ao lado do teu nome na Steam.tv, desafios exclusivos e usos ilimitados de grafítis de equipas durante o evento.\\n\\nSobe o nível da tua Moeda de Budapeste 2025 ao completares desafios da moeda. Podes obter uma ficha de brinde sempre que subires o nível da tua moeda.\\n\\nEste passe de espectador irá pré‑ativar a tua Moeda de Budapeste 2025 com três fichas de brinde.\\n\\n50% dos lucros das vendas destinam‑se às organizações participantes.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Brinde de Budapeste 2025",
+  "description": "Este é um brinde do Major de CS2 de Budapeste 2025 da StarLadder.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Campeão do StarLadder Major 2025 em Budapeste",
+  "description": "Este troféu foi entregue aos membros da equipa campeã do StarLadder Major 2025, realizado em Budapeste.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Finalista do StarLadder Major 2025 em Budapeste",
+  "description": "Este troféu foi entregue aos finalistas do StarLadder Major 2025, realizado em Budapeste.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Semifinalista do StarLadder Major 2025 em Budapeste",
+  "description": "Este troféu foi entregue aos semifinalistas do StarLadder Major 2025, realizado em Budapeste.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Participante nos Quartos de Final do StarLadder Major 2025 em Budapeste",
+  "description": "Este troféu foi entregue aos participantes dos quartos de final do StarLadder Major 2025, realizado em Budapeste.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Pin - Dust II Genuíno",
   "description": "Este é um pin colecionável da Série 1 que pode ser exibido no teu perfil.",

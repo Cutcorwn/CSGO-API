@@ -32,7 +32,7 @@
  {
   "id": "collectible-876",
   "name": "2013年 DreamHack 锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2013年 DreamHack 赛睿 CS:GO 锦标赛决赛选手。",
   "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
@@ -47,7 +47,7 @@
  {
   "id": "collectible-877",
   "name": "2013年 DreamHack 锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2013年 DreamHack 赛睿 CS:GO 锦标赛半决赛选手。",
   "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
@@ -62,7 +62,7 @@
  {
   "id": "collectible-878",
   "name": "2013年 DreamHack 锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2013年 DreamHack 赛睿 CS:GO 锦标赛四分之一决赛选手。 ",
   "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
@@ -92,7 +92,7 @@
  {
   "id": "collectible-880",
   "name": "2014年 EMS One 卡托维兹锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 EMS One 卡托维兹 CS:GO 锦标赛决赛选手。",
   "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
@@ -107,7 +107,7 @@
  {
   "id": "collectible-881",
   "name": "2014年 EMS One 卡托维兹锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 EMS One 卡托维兹 CS:GO 锦标赛半决赛选手。",
   "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
@@ -122,7 +122,7 @@
  {
   "id": "collectible-882",
   "name": "2014年 EMS One 卡托维兹锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 EMS One 卡托维兹 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
@@ -152,7 +152,7 @@
  {
   "id": "collectible-884",
   "name": "2014年 ESL One 科隆锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛决赛选手。",
+  "description": "这块锦标赛奖牌授予 2014年 ESL One 科隆 CS:GO 锦标赛决赛选手。",
   "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
@@ -167,7 +167,7 @@
  {
   "id": "collectible-885",
   "name": "2014年 ESL One 科隆锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛半决赛选手。",
+  "description": "这块锦标赛奖牌授予 2014年 ESL One 科隆 CS:GO 锦标赛半决赛选手。",
   "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
@@ -182,7 +182,7 @@
  {
   "id": "collectible-886",
   "name": "2014年 ESL One 科隆锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛四分之一决赛选手。",
+  "description": "这块锦标赛奖牌授予 2014年 ESL One 科隆 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
@@ -242,7 +242,7 @@
  {
   "id": "collectible-890",
   "name": "2014年 DreamHack 冬季锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2014年 DreamHack CS:GO 冬季锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2014年 DreamHack CS:GO 冬季锦标赛冠军。",
   "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
@@ -257,7 +257,7 @@
  {
   "id": "collectible-891",
   "name": "2014年 DreamHack 冬季锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO 冬季锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 DreamHack CS:GO 冬季锦标赛决赛选手。",
   "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
@@ -272,7 +272,7 @@
  {
   "id": "collectible-892",
   "name": "2014年 DreamHack 冬季锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO 冬季锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 DreamHack CS:GO 冬季锦标赛半决赛选手。",
   "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
@@ -287,7 +287,7 @@
  {
   "id": "collectible-893",
   "name": "2014年 DreamHack 冬季锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO冬季锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2014年 DreamHack CS:GO冬季锦标赛四分之一决赛选手。",
   "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
@@ -347,7 +347,7 @@
  {
   "id": "collectible-897",
   "name": "2015年 ESL One 卡托维兹锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2015年 ESL One 卡托维兹CS:GO锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 卡托维兹 CS:GO 锦标赛冠军。",
   "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
@@ -362,7 +362,7 @@
  {
   "id": "collectible-898",
   "name": "2015年 ESL One 卡托维兹锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 卡托维兹 CS:GO 锦标赛决赛选手。",
   "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
@@ -377,7 +377,7 @@
  {
   "id": "collectible-899",
   "name": "2015年 ESL One 卡托维兹锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 卡托维兹 CS:GO 锦标赛半决赛选手。",
   "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
@@ -392,7 +392,7 @@
  {
   "id": "collectible-900",
   "name": "2015年 ESL One 卡托维兹锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 卡托维兹 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
@@ -452,7 +452,7 @@
  {
   "id": "collectible-904",
   "name": "2015年 ESL One 科隆锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2015年 ESL One 科隆CS:GO锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 科隆 CS:GO 锦标赛冠军。",
   "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
@@ -467,7 +467,7 @@
  {
   "id": "collectible-905",
   "name": "2015年 ESL One 科隆锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 科隆 CS:GO 锦标赛决赛选手。",
   "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
@@ -482,7 +482,7 @@
  {
   "id": "collectible-906",
   "name": "2015年 ESL One 科隆锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 科隆 CS:GO 锦标赛半决赛选手。",
   "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
@@ -497,7 +497,7 @@
  {
   "id": "collectible-907",
   "name": "2015年 ESL One 科隆锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 ESL One 科隆 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
@@ -647,7 +647,7 @@
  {
   "id": "collectible-917",
   "name": "2015年 DreamHack 克卢日-纳波卡锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2015年 DreamHack 克卢日-纳波卡 CS:GO 锦标赛冠军。",
   "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
@@ -662,7 +662,7 @@
  {
   "id": "collectible-918",
   "name": "2015年 DreamHack 克卢日-纳波卡锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 DreamHack 克卢日-纳波卡 CS:GO 锦标赛决赛选手。",
   "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
@@ -677,7 +677,7 @@
  {
   "id": "collectible-919",
   "name": "2015年 DreamHack 克卢日-纳波卡锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 DreamHack 克卢日-纳波卡 CS:GO 锦标赛半决赛选手。",
   "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
@@ -692,7 +692,7 @@
  {
   "id": "collectible-920",
   "name": "2015年 DreamHack 克卢日-纳波卡锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2015年 DreamHack 克卢日-纳波卡 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
@@ -797,7 +797,7 @@
  {
   "id": "collectible-927",
   "name": "2016年 MLG 哥伦布锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2016年 MLG 哥伦布CS:GO锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2016年 MLG 哥伦布 CS:GO 锦标赛冠军。",
   "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
@@ -812,7 +812,7 @@
  {
   "id": "collectible-928",
   "name": "2016年 MLG 哥伦布锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 MLGCS:GO哥伦布锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 MLG哥伦布 CS:GO 锦标赛决赛选手。",
   "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
@@ -827,7 +827,7 @@
  {
   "id": "collectible-929",
   "name": "2016年 MLG 哥伦布锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 MLG 哥伦布CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 MLG 哥伦布 CS:GO 锦标赛半决赛选手。",
   "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
@@ -842,7 +842,7 @@
  {
   "id": "collectible-930",
   "name": "2016年 MLG 哥伦布锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 MLG 哥伦布CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 MLG 哥伦布 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
@@ -857,7 +857,7 @@
  {
   "id": "collectible-931",
   "name": "2016年 ESL One 科隆锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2016年 ESL One 科隆锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2016年 ESL One 科隆 CS:GO 锦标赛冠军。",
   "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
@@ -872,7 +872,7 @@
  {
   "id": "collectible-932",
   "name": "2016年 ESL One 科隆锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 ESL One 科隆 CS:GO 锦标赛决赛选手。",
   "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
@@ -887,7 +887,7 @@
  {
   "id": "collectible-933",
   "name": "2016年 ESL One 科隆锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 ESL One 科隆 CS:GO 锦标赛半决赛选手。",
   "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
@@ -902,7 +902,7 @@
  {
   "id": "collectible-934",
   "name": "2016年 ESL One 科隆锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2016年 ESL One 科隆 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
@@ -1022,7 +1022,7 @@
  {
   "id": "collectible-942",
   "name": "2017年 ELEAGUE 亚特兰大锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予2017年 ELEAGUE 亚特兰大CS:GO锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2017年 ELEAGUE 亚特兰大 CS:GO 锦标赛决赛选手。",
   "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
@@ -1037,7 +1037,7 @@
  {
   "id": "collectible-943",
   "name": "2017年 ELEAGUE 亚特兰大锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2017年 ELEAGUE 亚特兰大CS:GO锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2017年 ELEAGUE 亚特兰大 CS:GO 锦标赛半决赛选手。",
   "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
@@ -1052,7 +1052,7 @@
  {
   "id": "collectible-944",
   "name": "2017年 ELEAGUE 亚特兰大锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2017年 ELEAGUE 亚特兰大CS:GO锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2017年 ELEAGUE 亚特兰大 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
@@ -1112,7 +1112,7 @@
  {
   "id": "collectible-948",
   "name": "2017年 PGL 克拉科夫锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2017年 PGL 克拉科夫 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2017年 PGL 克拉科夫 CS:GO 锦标赛冠军。",
   "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
@@ -1127,7 +1127,7 @@
  {
   "id": "collectible-949",
   "name": "2017年 PGL 克拉科夫锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2017年 PGL 克拉科夫 CS:GO 锦标赛决赛选手。",
   "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
@@ -1142,7 +1142,7 @@
  {
   "id": "collectible-950",
   "name": "2017年 PGL 克拉科夫锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2017年 PGL 克拉科夫 CS:GO 锦标赛半决赛选手。",
   "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
@@ -1157,7 +1157,7 @@
  {
   "id": "collectible-951",
   "name": "2017年 PGL 克拉科夫锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2017年 PGL 克拉科夫 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
@@ -1217,7 +1217,7 @@
  {
   "id": "collectible-955",
   "name": "2018年 ELEAGUE 波士顿锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2018年 ELEAGUE 波士顿 CS:GO 锦标赛冠军。",
   "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
@@ -1232,7 +1232,7 @@
  {
   "id": "collectible-956",
   "name": "2018年 ELEAGUE 波士顿锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛决赛选手。",
+  "description": "这块锦标赛奖牌授予 2018年 ELEAGUE 波士顿 CS:GO 锦标赛决赛选手。",
   "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
@@ -1247,7 +1247,7 @@
  {
   "id": "collectible-957",
   "name": "2018年 ELEAGUE 波士顿锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛半决赛选手。",
+  "description": "这块锦标赛奖牌授予 2018年 ELEAGUE 波士顿 CS:GO 锦标赛半决赛选手。",
   "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
@@ -1262,7 +1262,7 @@
  {
   "id": "collectible-958",
   "name": "2018年 ELEAGUE 波士顿锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛四分之一决赛选手。",
+  "description": "这块锦标赛奖牌授予 2018年 ELEAGUE 波士顿 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
@@ -1322,7 +1322,7 @@
  {
   "id": "collectible-962",
   "name": "2018年 FACEIT 伦敦锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2018年 FACEIT 伦敦锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2018年 FACEIT 伦敦 CS:GO 锦标赛冠军。",
   "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
@@ -1337,7 +1337,7 @@
  {
   "id": "collectible-963",
   "name": "2018年 FACEIT 伦敦锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2018年 FACEIT 伦敦 CS:GO 锦标赛决赛选手。",
   "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
@@ -1352,7 +1352,7 @@
  {
   "id": "collectible-964",
   "name": "2018年 FACEIT 伦敦锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2018年 FACEIT 伦敦 CS:GO 锦标赛半决赛选手。",
   "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
@@ -1367,7 +1367,7 @@
  {
   "id": "collectible-965",
   "name": "2018年 FACEIT 伦敦锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2018年 FACEIT 伦敦 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
@@ -1532,7 +1532,7 @@
  {
   "id": "collectible-976",
   "name": "2019年 StarLadder 柏林锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2019 年 StarLadder 柏林 CS:GO 锦标赛决赛选手。",
   "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
@@ -1547,7 +1547,7 @@
  {
   "id": "collectible-977",
   "name": "2019年 StarLadder 柏林锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2019 年 StarLadder 柏林 CS:GO 锦标赛半决赛选手。",
   "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
@@ -1562,7 +1562,7 @@
  {
   "id": "collectible-978",
   "name": "2019年 StarLadder 柏林锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2019 年 StarLadder 柏林 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
@@ -1577,7 +1577,7 @@
  {
   "id": "collectible-979",
   "name": "2021年 PGL 斯德哥尔摩锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2021年 PGL 斯德哥尔摩 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2021年 PGL 斯德哥尔摩 CS:GO 锦标赛冠军。",
   "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
@@ -1591,8 +1591,8 @@
  },
  {
   "id": "collectible-980",
-  "name": "2021年 PGL 斯德哥尔摩锦标赛冠军赛选手",
-  "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛冠军赛的选手。",
+  "name": "2021年 PGL 斯德哥尔摩锦标赛决赛选手",
+  "description": "这块锦标赛奖牌授予 2021年 PGL 斯德哥尔摩 CS:GO 锦标赛决赛选手。",
   "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
@@ -1607,7 +1607,7 @@
  {
   "id": "collectible-981",
   "name": "2021年 PGL 斯德哥尔摩锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2021年 PGL 斯德哥尔摩 CS:GO 锦标赛半决赛选手。",
   "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
@@ -1622,7 +1622,7 @@
  {
   "id": "collectible-982",
   "name": "2021年 PGL 斯德哥尔摩锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2021年 PGL 斯德哥尔摩 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
@@ -1637,7 +1637,7 @@
  {
   "id": "collectible-983",
   "name": "2022年 PGL 安特卫普锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2022年 PGL 安特卫普 CS:GO 锦标赛冠军。",
   "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
@@ -1651,8 +1651,8 @@
  },
  {
   "id": "collectible-984",
-  "name": "2022年 PGL 安特卫普锦标赛冠军赛选手",
-  "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛冠军赛选手。",
+  "name": "2022年 PGL 安特卫普锦标赛决赛选手",
+  "description": "这块锦标赛奖牌授予 2022年 PGL 安特卫普 CS:GO 锦标赛决赛选手。",
   "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
@@ -1667,7 +1667,7 @@
  {
   "id": "collectible-985",
   "name": "2022年 PGL 安特卫普锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛半决赛选手。",
+  "description": "这块锦标赛奖牌授予 2022年 PGL 安特卫普 CS:GO 锦标赛半决赛选手。",
   "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
@@ -1682,7 +1682,7 @@
  {
   "id": "collectible-986",
   "name": "2022年 PGL 安特卫普锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛四分之一决赛选手。",
+  "description": "这块锦标赛奖牌授予 2022年 PGL 安特卫普 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
@@ -1712,7 +1712,7 @@
  {
   "id": "collectible-988",
   "name": "2022年 IEM 里约热内卢锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2022年 IEM 里约热内卢 CS:GO 锦标赛冠军。",
   "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
@@ -1727,7 +1727,7 @@
  {
   "id": "collectible-989",
   "name": "2022年 IEM 里约热内卢锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛冠军赛选手。",
+  "description": "这块锦标赛奖牌授予 2022年 IEM 里约热内卢 CS:GO 锦标赛决赛选手。",
   "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
@@ -1742,7 +1742,7 @@
  {
   "id": "collectible-990",
   "name": "2022年 IEM 里约热内卢锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛半决赛选手。",
+  "description": "这块锦标赛奖牌授予 2022年 IEM 里约热内卢 CS:GO 锦标赛半决赛选手。",
   "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
@@ -1757,7 +1757,7 @@
  {
   "id": "collectible-991",
   "name": "2022年 IEM 里约热内卢锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛四分之一决赛选手。",
+  "description": "这块锦标赛奖牌授予 2022年 IEM 里约热内卢 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
@@ -1772,7 +1772,7 @@
  {
   "id": "collectible-992",
   "name": "2023年 BLAST.tv 巴黎锦标赛冠军",
-  "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2023年 BLAST.tv 巴黎 CS:GO 锦标赛冠军。",
   "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
@@ -1786,8 +1786,8 @@
  },
  {
   "id": "collectible-993",
-  "name": "2023年 BLAST.tv 巴黎锦标赛冠军赛选手",
-  "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛冠军赛选手。",
+  "name": "2023年 BLAST.tv 巴黎锦标赛决赛选手",
+  "description": "这块锦标赛奖牌授予 2023年 BLAST.tv 巴黎 CS:GO 锦标赛决赛选手。",
   "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
@@ -1802,7 +1802,7 @@
  {
   "id": "collectible-994",
   "name": "2023年 BLAST.tv 巴黎锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛半决赛选手。",
+  "description": "这块锦标赛奖牌授予 2023年 BLAST.tv 巴黎 CS:GO 锦标赛半决赛选手。",
   "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
@@ -1817,7 +1817,7 @@
  {
   "id": "collectible-995",
   "name": "2023年 BLAST.tv 巴黎锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛四分之一决赛选手。",
+  "description": "这块锦标赛奖牌授予 2023年 BLAST.tv 巴黎 CS:GO 锦标赛四分之一决赛选手。",
   "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
@@ -5537,7 +5537,7 @@
  {
   "id": "collectible-4934",
   "name": "2024年 PGL 哥本哈根锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2024年 PGL 哥本哈根 CS 锦标赛决赛选手。",
   "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
@@ -5552,7 +5552,7 @@
  {
   "id": "collectible-4935",
   "name": "2024年 PGL 哥本哈根锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛半决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2024年 PGL 哥本哈根 CS 锦标赛半决赛选手。",
   "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
@@ -5567,7 +5567,7 @@
  {
   "id": "collectible-4936",
   "name": "2024年 PGL 哥本哈根锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛四分之一决赛的选手。",
+  "description": "这块锦标赛奖牌授予 2024年 PGL 哥本哈根 CS 锦标赛四分之一决赛选手。",
   "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
@@ -5852,7 +5852,7 @@
  {
   "id": "collectible-4974",
   "name": "2024年 完美世界 锦标赛冠军",
-  "description": "这块锦标赛奖牌授予 2024年 完美世界 CS锦标赛冠军。",
+  "description": "这块锦标赛奖牌授予 2024年 完美世界 上海 CS 锦标赛冠军。",
   "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
@@ -5866,8 +5866,8 @@
  },
  {
   "id": "collectible-4975",
-  "name": "2024年 完美世界 锦标赛决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 完美世界 上海 CS 锦标赛决赛的选手。",
+  "name": "2024年 完美世界 上海锦标赛决赛选手",
+  "description": "这块锦标赛奖牌授予 2024年 完美世界 上海 CS 锦标赛决赛选手。",
   "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
@@ -5881,8 +5881,8 @@
  },
  {
   "id": "collectible-4976",
-  "name": "2024年 完美世界 锦标赛半决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 完美世界CS锦标赛半决赛的选手。",
+  "name": "2024年 完美世界 上海锦标赛半决赛选手",
+  "description": "这块锦标赛奖牌授予 2024年 完美世界 上海 CS 锦标赛半决赛选手。",
   "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
@@ -5896,8 +5896,8 @@
  },
  {
   "id": "collectible-4977",
-  "name": "2024年 完美世界 锦标赛四分之一决赛选手",
-  "description": "这块锦标赛奖牌授予晋级到2024年 完美世界 上海 CS 锦标赛四分之一决赛的选手。",
+  "name": "2024年 完美世界 上海锦标赛四分之一决赛选手",
+  "description": "这块锦标赛奖牌授予 2024年 完美世界 上海 CS 锦标赛四分之一决赛选手。",
   "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
@@ -7363,6 +7363,171 @@
   "genuine": false,
   "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
+ },
+ {
+  "id": "collectible-5209",
+  "name": "2025年布达佩斯锦标赛观众通行证",
+  "description": "这是一张封装的 2025年 StarLadder 布达佩斯锦标赛观众通行证。通行证一旦使用，您将获得一枚在锦标赛期间为您追踪竞猜进度的2025年布达佩斯锦标赛硬币，参与2025年布达佩斯锦标赛竞猜挑战的所有功能，Steam.tv 聊天胸章，硬币任务挑战以及赛事期间无限次战队涂鸦。\\n\\n您可通过完成挑战来升级2025年布达佩斯锦标赛硬币。硬币每升级一次您都可获得一枚纪念币。\\n\\n其中，50%的收益将用于支持参加此次赛事的俱乐部。",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "布达佩斯 2025 硬币",
+  "description": "这是一枚2025年 StarLadder 布达佩斯 CS锦标赛纪念硬币。它将记录您在整个活动中的进展，同时提供2025年布达佩斯锦标赛的赛事竞猜机会、Steam.tv上的聊天胸章、硬币任务挑战以及赛事期间无限次数的战队涂鸦。\\n\\n通过完成硬币任务挑战升级您的上布达佩斯 2025 硬币。每次升级硬币时都会获得一枚纪念品代币。",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "布达佩斯 2025 银色硬币",
+  "description": "这是一枚2025年 StarLadder 布达佩斯 CS锦标赛纪念硬币。它将记录您在整个活动中的进展，同时提供2025年布达佩斯锦标赛的赛事竞猜机会、Steam.tv上的聊天胸章、硬币任务挑战以及赛事期间无限次数的战队涂鸦。\\n\\n通过完成硬币任务挑战升级您的上布达佩斯 2025 硬币。每次升级硬币时都会获得一枚纪念品代币。",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "布达佩斯 2025 金色硬币",
+  "description": "这是一枚2025年 StarLadder 布达佩斯 CS锦标赛纪念硬币。它将记录您在整个活动中的进展，同时提供2025年布达佩斯锦标赛的赛事竞猜机会、Steam.tv上的聊天胸章、硬币任务挑战以及赛事期间无限次数的战队涂鸦。\\n\\n通过完成硬币任务挑战升级您的上布达佩斯 2025 硬币。每次升级硬币时都会获得一枚纪念品代币。",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "布达佩斯 2025 钻石硬币",
+  "description": "这是一枚2025年 StarLadder 布达佩斯 CS锦标赛纪念硬币。它将记录您在整个活动中的进展，同时提供2025年布达佩斯锦标赛的赛事竞猜机会、Steam.tv上的聊天胸章、硬币任务挑战以及赛事期间无限次数的战队涂鸦。\\n\\n通过完成硬币任务挑战升级您的上布达佩斯 2025 硬币。每次升级硬币时都会获得一枚纪念品代币。",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "2025年布达佩斯锦标赛观众通行证+3枚纪念品代币",
+  "description": "这是一张封装的 2025年 StarLadder 布达佩斯锦标赛观众通行证。通行证一旦使用，您将获得一枚在锦标赛期间为您追踪竞猜进度的2025年布达佩斯锦标赛硬币，参与2025年布达佩斯锦标赛竞猜挑战的所有功能，Steam.tv 聊天胸章，硬币任务挑战以及赛事期间无限次战队涂鸦。\\n\\n您可通过完成挑战来升级2025年布达佩斯锦标赛硬币。硬币每升级一次您都可获得一枚纪念币。\\n\\n这张观众通行证会附送 3 枚2025年布达佩斯锦标赛纪念币。\\n\\n其中，50%的收益将用于支持参加此次赛事的俱乐部。",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "2025年布达佩斯锦标赛纪念包",
+  "description": "这是一个封装的2025年StarLadder布达佩斯CS锦标赛纪念包。",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "2025年 StarLadder 布达佩斯锦标赛冠军",
+  "description": "这块锦标赛奖牌授予 2025年 StarLadder 布达佩斯 CS 锦标赛冠军。",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "2025年 StarLadder 布达佩斯锦标赛决赛选手",
+  "description": "这块锦标赛奖牌授予 2025年 StarLadder 布达佩斯 CS 锦标赛决赛选手。",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "2025年 StarLadder 布达佩斯锦标赛半决赛选手",
+  "description": "这块锦标赛奖牌授予 2025年 StarLadder 布达佩斯 CS 锦标赛半决赛选手。",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "2025年 StarLadder 布达佩斯锦标赛四分之一决赛选手",
+  "description": "这块锦标赛奖牌授予 2025年 StarLadder 布达佩斯 CS 锦标赛四分之一决赛选手。",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
  },
  {
   "id": "collectible-6001",

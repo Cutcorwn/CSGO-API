@@ -28586,5 +28586,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | BLAST.tv | Austin 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/blst_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9621",
+  "name": "Mühürlü Grafiti | FURIA | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9622",
+  "name": "Mühürlü Grafiti | Vitality | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9623",
+  "name": "Mühürlü Grafiti | Falcons | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9624",
+  "name": "Mühürlü Grafiti | The Mongolz | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9625",
+  "name": "Mühürlü Grafiti | MOUZ | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9626",
+  "name": "Mühürlü Grafiti | Team Spirit | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9627",
+  "name": "Mühürlü Grafiti | G2 esports | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9628",
+  "name": "Mühürlü Grafiti | paiN Gaming | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9629",
+  "name": "Mühürlü Grafiti | Aurora | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9630",
+  "name": "Mühürlü Grafiti | Natus Vincere | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9631",
+  "name": "Mühürlü Grafiti | Team Liquid | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9632",
+  "name": "Mühürlü Grafiti | 3DMAX | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 3DMAX | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/3dm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9633",
+  "name": "Mühürlü Grafiti | Astralis | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9634",
+  "name": "Mühürlü Grafiti | TYLOO | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9635",
+  "name": "Mühürlü Grafiti | MIBR | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9636",
+  "name": "Mühürlü Grafiti | Passion UA | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Passion UA | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/psnu_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9637",
+  "name": "Mühürlü Grafiti | Legacy | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9638",
+  "name": "Mühürlü Grafiti | FaZe Clan | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/faze_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9639",
+  "name": "Mühürlü Grafiti | B8 | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9640",
+  "name": "Mühürlü Grafiti | GamerLegion | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9641",
+  "name": "Mühürlü Grafiti | fnatic | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | fnatic | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fntc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9642",
+  "name": "Mühürlü Grafiti | PARIVISION | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9643",
+  "name": "Mühürlü Grafiti | Ninjas in Pyjamas | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Ninjas in Pyjamas | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nip_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9644",
+  "name": "Mühürlü Grafiti | Imperial Esports | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Imperial Esports | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/imp_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9645",
+  "name": "Mühürlü Grafiti | FlyQuest | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9646",
+  "name": "Mühürlü Grafiti | Lynn Vision | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9647",
+  "name": "Mühürlü Grafiti | M80 | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9648",
+  "name": "Mühürlü Grafiti | Fluxo | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Fluxo | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/flux_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9649",
+  "name": "Mühürlü Grafiti | RED Canids | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | RED Canids | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/redc_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9650",
+  "name": "Mühürlü Grafiti | The Huns | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Huns | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/huns_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9651",
+  "name": "Mühürlü Grafiti | NRG | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9652",
+  "name": "Mühürlü Grafiti | Rare Atom | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Rare Atom | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/ratm_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-9653",
+  "name": "Mühürlü Grafiti | StarLadder | Budapeşte 2025",
+  "description": "Bu bir grafiti kalıbının mühürlü kasasıdır. Bu kasanın mührü bozulduğunda, içinden çıkan kalıp <b>50</b> defa kullanılabilir.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Yüksek Sınıf",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
  }
 ]

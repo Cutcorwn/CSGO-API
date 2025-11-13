@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Budapest 2025 – Seerpas",
+  "description": "Dette er et forseglet seerpas til StarLadder Budapest 2025 CS2 Major-mesterskabet. Når du åbner dette pas, modtager du Budapest 2025-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Budapest 2025 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Budapest 2025-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Mønt: Budapest 2025",
+  "description": "Dette er en mindemønt fra StarLadder Budapest 2025 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Budapest 2025 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Budapest 2025-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Sølvmønt: Budapest 2025",
+  "description": "Dette er en mindemønt fra StarLadder Budapest 2025 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Budapest 2025 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Budapest 2025-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Guldmønt: Budapest 2025",
+  "description": "Dette er en mindemønt fra StarLadder Budapest 2025 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Budapest 2025 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Budapest 2025-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Diamantmønt: Budapest 2025",
+  "description": "Dette er en mindemønt fra StarLadder Budapest 2025 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Budapest 2025 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Budapest 2025-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Budapest 2025-seerpas + 3 souvenirpoletter",
+  "description": "Dette er et forseglet seerpas til StarLadder Budapest 2025 CS2 Major-mesterskabet. Når du åbner dette pas, modtager du Budapest 2025-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Budapest 2025 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Budapest 2025-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Budapest 2025-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Budapest 2025-souvenirpakke",
+  "description": "Dette er en forseglet souvenirpakke til StarLadder Budapest 2025 CS2 Major-mesterskabet.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Vinder ved StarLadder Budapest 2025",
+  "description": "Dette turneringstrofæ blev tildelt vinderen ved StarLadder Budapest 2025 CS2-mesterskabet.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Ekstraordinær",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Finalist ved StarLadder Budapest 2025",
+  "description": "Dette turneringstrofæ blev tildelt finalisten ved StarLadder Budapest 2025 CS2-mesterskabet.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Ekstraordinær",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Semifinalist ved StarLadder Budapest 2025",
+  "description": "Dette turneringstrofæ blev tildelt semifinalisten ved StarLadder Budapest 2025 CS2-mesterskabet.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Ekstraordinær",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Kvartfinalist ved StarLadder Budapest 2025",
+  "description": "Dette turneringstrofæ blev tildelt kvartfinalisten ved StarLadder Budapest 2025 CS2-mesterskabet.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Ekstraordinær",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Dust II-knappenål (Ægte)",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",

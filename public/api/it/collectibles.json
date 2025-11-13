@@ -7365,6 +7365,171 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
  },
  {
+  "id": "collectible-5209",
+  "name": "Pass da spettatore di Budapest 2025",
+  "description": "Questo è un pass da spettatore sigillato per il campionato Major di CS2 StarLadder di Budapest 2025. Apri il pass per sbloccare il gettone di Budapest 2025, che registrerà i tuoi progressi durante l'evento, accedere alla sfida Pick'Em di Budapest 2025 e ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, a sfide esclusive e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir ad ogni miglioramento del tuo gettone.\\n\\nIl 50% del ricavato dalla vendita di questo pass viene devoluto alle organizzazioni partecipanti.",
+  "def_index": "5209",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_png.png"
+ },
+ {
+  "id": "collectible-5210",
+  "name": "Gettone di Budapest 2025",
+  "description": "Questo è un gettone commemorativo del campionato Major di CS2 StarLadder di Budapest 2025, che non solo registra i tuoi progressi durante l'evento, ma ti permette anche di partecipare alla sfida Pick'Em di Budapest 2025 e di accedere ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, alle sfide del Gettone e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl Gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir ad ogni miglioramento del tuo Gettone.",
+  "def_index": "5210",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_bronze_png.png"
+ },
+ {
+  "id": "collectible-5211",
+  "name": "Gettone d'argento di Budapest 2025",
+  "description": "Questo è un gettone commemorativo del campionato Major di CS2 StarLadder di Budapest 2025, che non solo registra i tuoi progressi durante l'evento, ma ti permette anche di partecipare alla sfida Pick'Em di Budapest 2025 e di accedere ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, alle sfide del Gettone e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl Gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir ad ogni miglioramento del tuo Gettone.",
+  "def_index": "5211",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png"
+ },
+ {
+  "id": "collectible-5212",
+  "name": "Gettone d'oro di Budapest 2025",
+  "description": "Questo è un gettone commemorativo del campionato Major di CS2 StarLadder di Budapest 2025, che non solo registra i tuoi progressi durante l'evento, ma ti permette anche di partecipare alla sfida Pick'Em di Budapest 2025 e di accedere ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, alle sfide del Gettone e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl Gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir ad ogni miglioramento del tuo Gettone.",
+  "def_index": "5212",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png"
+ },
+ {
+  "id": "collectible-5213",
+  "name": "Gettone di diamante di Budapest 2025",
+  "description": "Questo è un gettone commemorativo del campionato Major di CS2 StarLadder di Budapest 2025, che non solo registra i tuoi progressi durante l'evento, ma ti permette anche di partecipare alla sfida Pick'Em di Budapest 2025 e di accedere ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, alle sfide del Gettone e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl Gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir ad ogni miglioramento del tuo Gettone.",
+  "def_index": "5213",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_crystal_png.png"
+ },
+ {
+  "id": "collectible-5214",
+  "name": "Pass da spettatore di Budapest 2025 + 3 token souvenir",
+  "description": "Questo è un pass da spettatore sigillato per il campionato Major di CS2 StarLadder di Budapest 2025. Apri il pass per sbloccare il Gettone di Budapest 2025, che ti permetterà di registrare i tuoi progressi durante l'evento, accedere alla sfida Pick'Em di Budapest 2025 e ai pacchetti di souvenir, alle icone delle squadre nella chat di Steam.tv, a sfide esclusive e ai graffiti delle squadre per tutta la durata dell'evento.\\n\\nIl gettone di Budapest 2025 può essere migliorato completando delle sfide. Otterrai un token souvenir a ogni miglioramento del tuo gettone.\\n\\nQuesto pass da spettatore preattiverà il tuo gettone di Budapest 2025 con 3 token souvenir.\\n\\nIl 50% del ricavato dalla vendita di questo pass viene devoluto alle organizzazioni partecipanti.",
+  "def_index": "5214",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_pack_png.png"
+ },
+ {
+  "id": "collectible-5215",
+  "name": "Pacchetto di souvenir di Budapest 2025",
+  "description": "Questo è un pacchetto sigillato di souvenir del campionato Major di CS2 StarLadder di Budapest 2025.",
+  "def_index": "5215",
+  "rarity": {
+   "id": null,
+   "name": null,
+   "color": null
+  },
+  "type": "Pass",
+  "genuine": false,
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_pass_charge_png.png"
+ },
+ {
+  "id": "collectible-5226",
+  "name": "Campione dello StarLadder di Budapest 2025",
+  "description": "Questo trofeo è stato conferito ai vincitori del Major di CS2 StarLadder di Budapest 2025.",
+  "def_index": "5226",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Straordinario",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_champions_png.png"
+ },
+ {
+  "id": "collectible-5227",
+  "name": "Finalista allo StarLadder di Budapest 2025",
+  "description": "Questo trofeo è stato conferito ai finalisti del Major di CS2 StarLadder di Budapest 2025.",
+  "def_index": "5227",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Straordinario",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5228",
+  "name": "Semifinalisti allo StarLadder di Budapest 2025",
+  "description": "Questo trofeo è stato conferito ai semifinalisti del Major di CS2 StarLadder di Budapest 2025.",
+  "def_index": "5228",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Straordinario",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
+  "id": "collectible-5229",
+  "name": "Partecipanti ai quarti di finale dello StarLadder di Budapest 2025",
+  "description": "Questo trofeo è stato conferito ai partecipanti ai quarti di finale del Major di CS2 StarLadder di Budapest 2025.",
+  "def_index": "5229",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Straordinario",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/trophy_cs2_finalists_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Spilla di Dust II Autentico",
   "description": "Questa è una spilla da collezione della serie 1. Puoi sfoggiarla sul tuo profilo.",
