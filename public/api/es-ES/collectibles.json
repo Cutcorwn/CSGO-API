@@ -7471,8 +7471,8 @@
  },
  {
   "id": "collectible-5226",
-  "name": "Champion at StarLadder Budapest 2025",
-  "description": "This championship trophy was awarded to the Champion at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "name": "Campeón del StarLadder de Budapest 2025",
+  "description": "Este trofeo fue otorgado a los campeones del Major Championship de CS2 StarLadder de Budapest 2025.",
   "def_index": "5226",
   "rarity": {
    "id": "rarity_ancient",
@@ -7486,8 +7486,8 @@
  },
  {
   "id": "collectible-5227",
-  "name": "Finalist at StarLadder Budapest 2025",
-  "description": "This championship trophy was awarded to the Finalist at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "name": "Finalista del StarLadder de Budapest 2025",
+  "description": "Este trofeo fue otorgado a los finalistas del Major Championship de CS2 StarLadder de Budapest 2025.",
   "def_index": "5227",
   "rarity": {
    "id": "rarity_ancient",
@@ -7501,8 +7501,8 @@
  },
  {
   "id": "collectible-5228",
-  "name": "Semifinalist at StarLadder Budapest 2025",
-  "description": "This championship trophy was awarded to the Semifinalist at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "name": "Semifinalista del StarLadder de Budapest 2025",
+  "description": "Este trofeo fue otorgado a los semifinalistas del Major Championship de CS2 StarLadder de Budapest 2025.",
   "def_index": "5228",
   "rarity": {
    "id": "rarity_ancient",
@@ -7516,8 +7516,8 @@
  },
  {
   "id": "collectible-5229",
-  "name": "Quarterfinalist at StarLadder Budapest 2025",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the StarLadder Budapest 2025 CS2 Major Championship.",
+  "name": "Cuartofinalista del StarLadder de Budapest 2025",
+  "description": "Este trofeo fue otorgado a los cuartofinalistas del Major Championship de CS2 StarLadder de Budapest 2025.",
   "def_index": "5229",
   "rarity": {
    "id": "rarity_ancient",
