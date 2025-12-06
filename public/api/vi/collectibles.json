@@ -4607,7 +4607,7 @@
  {
   "id": "collectible-4758",
   "name": "Vé Premium chiến dịch Riptide",
-  "description": "Vé Premium chiến dịch Riptide cho huy chương kỷ niệm Riptide có thể nâng cấp, nhiệm vụ hàng tuần, và truy cập độc quyền tới các vật phẩm trong cửa hàng chiến dịch.",
+  "description": "Vé Premium chiến dịch Riptide cho huy chương kỷ niệm Riptide có thể nâng cấp, nhiệm vụ mỗi tuần, và truy cập độc quyền tới các vật phẩm trong cửa hàng chiến dịch.",
   "def_index": "4758",
   "rarity": {
    "id": "rarity_common",
