@@ -8671,8 +8671,8 @@
  },
  {
   "id": "highlight-bud2025_qf-navi-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere on the QF stage",
-  "description": "Natus Vincere enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere、準々決勝進出",
+  "description": "Natus Vincere が StarLadder Budapest Major 2025 の準々決勝に進出。FURIA 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8686,8 +8686,8 @@
  },
  {
   "id": "highlight-bud2025_qf-furia-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FURIA on the QF stage",
-  "description": "FURIA enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FURIA、準々決勝進出",
+  "description": "FURIA が StarLadder Budapest Major 2025 の準々決勝に進出。Natus Vincere 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8701,8 +8701,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful shuts Mid",
-  "description": "w0nderful finds two kills in Mid before adding two more on the A-site to close out the round against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、ミッドを制圧",
+  "description": "w0nderful がミッドで2キル。そのまま爆弾設置地点 A でも2キルして、FURIA 相手にラウンドを制す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8716,8 +8716,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib Underpass sweep",
-  "description": "Aleksib kills YEKINDAR in Underpass, then swiftly clears Short of FalleN and KSCERATO.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib、地下道を一掃",
+  "description": "Aleksib が地下道で YEKINDAR をキル。さらにショートで FalleN と KSCERATO を素早くクリア。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8731,8 +8731,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-mirage-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t Apartments play",
-  "description": "b1t, picking from B-apartments, catches KSCERATO and then finds two more kills from the site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t 、アパートでの攻防",
+  "description": "b1t、B のアパートからのピークで KSCERATO の姿を捉えると、そのまま設置地点内から2キルを重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8746,8 +8746,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-mirage-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t mid-air catch",
-  "description": "b1t catches FalleN mid-air on CT, then follows up with two more winning duels on the A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、ジャンプ中の敵を仕留める",
+  "description": "b1t が、CT 側でジャンプ中の FalleN を仕留めて、爆弾設置地点 Aで勝利の2キル。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8761,8 +8761,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-mirage-3",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t smoke breakthrough",
-  "description": "Through the smokes, b1t finds an opening on molodoy, defending the A-site against FURIA's players.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、スモーク越しのキル",
+  "description": "b1t が スモーク越しに molodoy をキルし、爆弾設置地点 A で FURIA を食い止める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8776,8 +8776,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM Connector burst",
-  "description": "iM, assisted by w0nderful, finds two opening kills in Connector and adds a third in CT spawn.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、コネクターで連続キル",
+  "description": "iM が w0nderful にアシストを受けながらコネクターで先制の2キルを奪い、CT 開始地点で3つ目のキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8791,8 +8791,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM AK massacre",
-  "description": "iM masterfully sprays down four opponents on Short with the AK-47.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、AK で大量キル",
+  "description": "iM が AK-47 を巧みにスプレー撃ちし、ショートで4人の相手を倒す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8806,8 +8806,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-double-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM sick-flick",
-  "description": "iM explodes with inhuman reactions, snapping a lightning-fast flick onto yuurih in Window before closing the round with a kill on molodoy.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、神業フリック",
+  "description": "iM が驚異的な反応速度を見せ、ウインドウで yuurih に対して高速フリックを決めると、最後は molodoy をキルしてラウンドを締めくくる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8821,8 +8821,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze B-aps stop",
-  "description": "makazze shuts down FURIA's B-apartments push from Short.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、B アパートで阻止",
+  "description": "makazze がショートからの FURIA の B アパートへのプッシュを抑える。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8836,8 +8836,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-clutch-1v2-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | yuurih A-site clutch",
-  "description": "yuurih wins a clutch against b1t and Aleksib on the A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | yuurih、爆弾設置地点 A でクラッチ",
+  "description": "yuurih が爆弾設置地点 A で b1t と Aleksib を相手にクラッチを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8851,8 +8851,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FURIA on Mirage",
-  "description": "On Mirage, w0nderful held his head high, delivering an outstanding performance against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での w0nderful vs FURIA",
+  "description": "Mirage にて、w0nderful が堂々としたプレイを見せ、FURIA を相手に見事なパフォーマンスを披露。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8866,8 +8866,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FURIA on Mirage",
-  "description": "Aleksib was the key facilitator for Natus Vincere on Mirage, racking up the most assists on the server.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での Aleksib vs FURIA",
+  "description": "Mirage にて、Aleksib が Natus Vincere の要として機能し、サーバー内最多のアシストを記録。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8881,8 +8881,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FURIA on Mirage",
-  "description": "b1t delivered a solid performance on Mirage, reassuring his teammates with critical multi-kills and making it clear that FURIA could not disrupt Natus Vincere's game plan.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での b1t vs FURIA",
+  "description": "Mirage にて、b1t が安定したパフォーマンスを見せ、要所でのマルチキルでチームを支える。FURIA のプッシュに臆することなく Natus Vincere のプレイスタイルを崩させなかったことを印象づける。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8896,8 +8896,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FURIA on Mirage",
-  "description": "iM was absolutely unstoppable on the first map on Mirage, relentlessly dismantling FURIA and driving Natus Vincere to a decisive map victory.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での iM vs FURIA",
+  "description": "Mirage で行われたファーストマップで、iM が圧倒的な存在感を放ち、FURIA を相手に Natus Vincere のマップ勝利に大いに貢献する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8911,8 +8911,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FURIA on Mirage",
-  "description": "makazze consistently took risks on Mirage, aggressively seeking every opportunity to secure the crucial opening kills for Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での makazze vs FURIA",
+  "description": "Mirage にて、makazze が一貫してリスクを取りながらプレイ。Natus Vincere のために重要な先制キルを狙って積極的に仕掛け続ける。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8926,8 +8926,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | YEKINDAR vs Natus Vincere on Mirage",
-  "description": "YEKINDAR stepped up with consistent fragging power on Mirage, securing multiple double kills that allowed FURIA to stay competitive against Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト |  Mirage での YEKINDAR vs Natus Vincere",
+  "description": "Mirage にて、YEKINDAR がフラッガーとして安定したプレイを見せ、複数回のダブルキルを決めると、FURIA が Natus Vincere を相手に競り合う展開をキープする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8941,8 +8941,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO vs Natus Vincere on Mirage",
-  "description": "KSCERATO constantly challenged Natus Vincere players on Mirage; however, it wasn't enough to take the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト |  Mirage での KSCERATO vs Natus Vincere",
+  "description": "Mirage にて、KSCERATO が Natus Vincere の選手たちに対して果敢に仕掛け続けたものの、マップを取るまでには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8956,8 +8956,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN vs Natus Vincere on Mirage",
-  "description": "FalleN fought hard on Mirage, leveraging his veteran experience in an attempt to secure a comeback, but his efforts were not enough to take the map from Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト |  Mirage での FalleN vs Natus Vincere",
+  "description": "Mirage にて、FalleN がベテランならではの経験を活かして粘りを見せ、逆転を狙って奮闘したものの、Natus Vincere からマップを奪うまでには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8971,8 +8971,8 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | molodoy vs Natus Vincere on Mirage",
-  "description": "molodoy took every chance presented on Mirage, working to turn the tide against Natus Vincere, and although he secured several key frags, it was not enough to save the map for FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での molodoy vs Natus Vincere",
+  "description": "Mirage にて、molodoy が訪れたチャンスを逃さず、Natus Vincere を相手にゲームの流れを引き戻すべく奮闘。いくつかフラグを獲得するも、FURIA のマップ獲得には至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8986,8 +8986,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | yuurih vs Natus Vincere on Mirage",
-  "description": "yuurih poured his heart and soul into the Mirage match, attempting to lead FURIA to a comeback, but Natus Vincere left zero room for error.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での yuurih vs Natus Vincere",
+  "description": "Mirage にて、yuurih が全身全霊を捧げてFURIA が逆転するよう奮闘するものの、Natus Vincere に隙がなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9001,8 +9001,8 @@
  },
  {
   "id": "highlight-bud2025_qf-faze-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe on the QF stage",
-  "description": "FaZe enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe、準々決勝進出",
+  "description": "FaZe が StarLadder Budapest Major 2025 の準々決勝に進出。MOUZ 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9016,8 +9016,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mouz-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | MOUZ on the QF stage",
-  "description": "MOUZ enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | MOUZ、準々決勝進出",
+  "description": "FaZe が StarLadder Budapest Major 2025 の準々決勝に進出。FaZe 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9031,8 +9031,8 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan through fire",
-  "description": "karrigan pushes through the molly onto Nuke's A-site, making a strong attempt at a quad kill against MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、炎を突き抜ける",
+  "description": "karrigan が、炎をかいくぐって Nuke の爆弾設置地点 A に突入し、MOUZ を相手にクアッドキルを狙って強気で仕掛ける。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9046,8 +9046,8 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan cuts rotation",
-  "description": "karrigan cuts off torzsi's rotation toward the A-site, then follows up with two more kills from Main to secure the round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、ローテーションを遮断",
+  "description": "karrigan が torzsi の爆弾設置地点 A 方向へのローテーションを遮断し、メインで2キルしてラウンドを制する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9061,8 +9061,8 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz smoke breaker",
-  "description": "Twistzz burns down Brollan, pushes through the smokes, and wins the third round for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | スモークブレイカー、Twistzz",
+  "description": "Twistzz が Brollan を倒すとスモークを突っ切ってプッシュし、FaZe に3ラウンド目の勝利をもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9076,8 +9076,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jcobbb-quadro-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb entry force",
-  "description": "jcobbb finds an entry kill from Main and follows up with three more as he advances onto the site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb、エントリーで突破",
+  "description": "jcobbb がメインでエントリーキルを奪い、そのままサイトへ前進しながらさらに3キルを重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9091,8 +9091,8 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen post-plant wall",
-  "description": "frozen secures two kills on the A-site and then holds firm in the post-plant, keeping a vigilant watch for the remaining opponents.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、ポストプラントで鉄壁",
+  "description": "frozen が爆弾設置地点 A で2キルを奪い、その後はポストプラントで堅実に構え、残る相手の動きを警戒し続ける。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9106,8 +9106,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky seals Nuke",
-  "description": "broky secures the map win with a proactive approach on Nuke against MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky が Nuke を締める",
+  "description": "broky が Nuke で積極的にアプローチし、MOUZ を相手にマップ勝利に貢献する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9121,8 +9121,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx instant refrag",
-  "description": "Spinx successfully refrags xertioN, then moves across the site to find two more kills, clinching the round for MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx、即座にリフラグ",
+  "description": "Spinx が xertioN をリフラグし、そのままサイト内に移動してさらに2キル。MOUZ にラウンド勝利をもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9136,8 +9136,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx plant pressure",
-  "description": "Spinx finds a kill on frozen and then defends the bomb against karrigan and broky.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx、設置後のプレッシャー",
+  "description": "Spinx が frozen をキルし、その後 karrigan と broky を相手に爆弾を守る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9151,8 +9151,8 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi opening picks",
-  "description": "torzsi opens the round with a kill on jcobbb, then repositions to find two more kills, leaving Brollan in a crucial one-on-one.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi、先制ピック",
+  "description": "torzsi が jcobbb をキルしてラウンドを開幕。その後ポジションを変えてさらに2キルし、Brollan との 1 v 1 に持ち込む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9166,8 +9166,8 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Brollan Ramp action",
-  "description": "Brollan rushes in from the side to secure a double kill on Ramp, then successfully defends the bomb against broky to make the score 4:9.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Brollan、スロープで躍動",
+  "description": "Brollan がサイドから一気に仕掛けてスロープでダブルキル。broky を相手に爆弾を守り切り、スコアを 4:9 とする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9181,8 +9181,8 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs MOUZ on Nuke",
-  "description": "karrigan led FaZe into the first map of the quarterfinal with one goal: to take what was theirs by design.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での karrigan vs MOUZ",
+  "description": "準々決勝のファーストマップで、karrigan はただひとつの目的を掲げて FaZe を牽引。その目的とは、プラン通りに勝利をつかむことだった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9196,8 +9196,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs MOUZ on Nuke",
-  "description": "Broky's actions put MOUZ under pressure from the very first round on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での broky vs MOUZ",
+  "description": "Nuke のファーストラウンドから Broky のプレイが MOUZ にプレッシャーをかけ続けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9211,8 +9211,8 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs MOUZ on Nuke",
-  "description": "Twistzz seized every opportunity, converting it into momentum for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Twistzz vs MOUZ",
+  "description": "Twistzz があらゆるチャンスを逃さず、FaZe の流れを作り出す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9226,8 +9226,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jcobbb-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs MOUZ on Nuke",
-  "description": "jcobbb held his ground, fighting until the last bullet against MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での jcobbb vs MOUZ",
+  "description": "jcobbb が持ち場を守り、MOUZ を相手に最後の一発まで戦い続ける。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9241,8 +9241,8 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs MOUZ on Nuke",
-  "description": "On Nuke, frozen took advantage of every mistake MOUZ made.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での frozen vs MOUZ",
+  "description": "Nuke にて、frozen が MOUZ のミスを見逃さずにうまく生かす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9256,8 +9256,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jimpphat-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Jimpphat vs FaZe on Nuke",
-  "description": "Despite Jimpphat's efforts, MOUZ couldn't secure the first map of the quarterfinal.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Jimpphat vs FaZe",
+  "description": "Jimpphat の奮闘もむなしく、MOUZ は準々決勝のファーストマップ獲得に至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9271,8 +9271,8 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Brollan vs FaZe on Nuke",
-  "description": "Brollan's aim was lethal, yet FaZe still managed to take control on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Brollan vs FaZe",
+  "description": "Brollan のエイムは鋭かったものの、それでも FaZe が Nuke の主導権を握る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9286,8 +9286,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx vs FaZe on Nuke",
-  "description": "Spinx fought hard in every round against FaZe, but in the end, MOUZ couldn't secure the win on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Spinx vs FaZe",
+  "description": "Spinx は各ラウンドで FaZe を相手に奮闘したものの、最終的に MOUZ は Nuke で勝利をつかめず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9301,8 +9301,8 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi vs FaZe on Nuke",
-  "description": "torzsi delivered much-needed frags; however, it wasn't enough to stop FaZe on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での torzsi vs FaZe",
+  "description": "torzsi が貴重なフラグを重ねたものの、Nuke で FaZe を止めるには至らなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9316,8 +9316,8 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | xertioN vs FaZe on Nuke",
-  "description": "xertioN went head-to-head with FaZe, but victory on Nuke slipped away from MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での xertioN vs FaZe",
+  "description": "xertioN が FaZe と接戦を繰り広げたものの、Nuke での勝利は MOUZ の手からこぼれ落ちた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9331,8 +9331,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spirit-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit on the QF stage",
-  "description": "Spirit enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit、準々決勝進出",
+  "description": "Spirit が StarLadder Budapest Major 2025 の準々決勝に進出。Falcons 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9346,8 +9346,8 @@
  },
  {
   "id": "highlight-bud2025_qf-falcons-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Falcons on the QF stage",
-  "description": "Falcons enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Falcons、準々決勝進出",
+  "description": "Falcons が StarLadder Budapest Major 2025 の準々決勝に進出。Spirit 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9361,8 +9361,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper strikes first",
-  "description": "chopper opens the score with a kill on TeSeS, then finishes the round with a double kill against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper、先制キル",
+  "description": "chopper が TeSeS をキルしてスコアを動かし、Falcons を相手にダブルキルを決めてラウンドを締めくくる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9376,8 +9376,8 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY defuse denial",
-  "description": "m0NESY kills TeSeS, plants the bomb, and denies the defuse to make the score 1:0.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY、解除を阻止",
+  "description": "m0NESY が TeSeS をキルして爆弾を設置し、解除を阻止してスコアを 1:0 とする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9391,8 +9391,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro takes over",
-  "description": "sh1ro secures a kill outside and takes control of the site, eliminating NiKo and kyxsan.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro、主導権を握る",
+  "description": "sh1ro が屋外でキルを奪って流れをつかむと、サイトを制圧して NiKo と kyxsan を排除する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9406,8 +9406,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro B-site carnage",
-  "description": "sh1ro nets a triple kill on Nuke's B-site from an unusual position against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro、爆弾設置地点 B で猛威を振るう",
+  "description": "sh1ro が Nuke の爆弾設置地点 B で意表を突くポジションから Falcons を相手にトリプルキル。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9421,8 +9421,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-quadro-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih almost aces",
-  "description": "From Rafters, zweih nearly pulled off an ace, but m0NESY shut him down.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih、惜しくもエースならず",
+  "description": "zweih は梁からエースに迫る活躍を見せるも、m0NESY に阻まれる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9436,8 +9436,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-ace-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih ace",
-  "description": "After catching perfect timing in the Hut, zweih steps up and secures five kills in the round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih、エース",
+  "description": "小屋で完璧なタイミングで捉えた zweih が躍進。このラウンドで5キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9451,8 +9451,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-quadro-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk opens everything",
-  "description": "After securing 2 opening kills, donk plants the bomb and successfully defends the site from Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk、試合の流れを切り開く",
+  "description": "donk は先制の2キルを決めて爆弾を設置すると、Falcons を相手にサイトを守りきる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9466,8 +9466,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R smoke assassin",
-  "description": "tN1R slips through the smoke, takes down NiKo, and clears the A-site of Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | スモークの暗殺者、tN1R",
+  "description": "tN1R がスモークを抜けて NiKo をキルし、Falcons を相手に爆弾設置地点 A をクリアする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9481,8 +9481,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R Ramp massacre",
-  "description": "tN1R shows impressive spray control, racking up three kills from Ramp on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、スロープで大量キル",
+  "description": "tN1R が Nuke のスロープで見事なスプレーコントロールを見せて3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9496,8 +9496,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke Ramp wipe",
-  "description": "kyousuke finds a triple kill while moving through Ramp, clearing every angle.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke、スロープ制圧",
+  "description": "kyousuke がスロープを進みながらトリプルキルを奪い、あらゆる角度をクリアする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9511,8 +9511,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper vs Falcons on Nuke",
-  "description": "In the quarterfinal, chopper delivered, ensuring Spirit closed out the rounds to beat Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での chopper vs Falcons",
+  "description": "準々決勝で chopper が期待に応える活躍を見せ、Spirit がラウンドを締めて Falcons を下す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9526,8 +9526,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk vs Falcons on Nuke",
-  "description": "donk repeatedly secured crucial multi-frags on the first map of the quarterfinal, quickly breaking the opponents' economy.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での donk vs Falcons",
+  "description": "準々決勝のファーストマップで donk が要所でマルチキルを重ね、相手のエコノミーを一気に苦しくした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9541,8 +9541,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih vs Falcons on Nuke",
-  "description": "On Nuke, zweih held his ground effectively, helping Spirit overpower Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での zweih vs Falcons",
+  "description": "zweih が Nuke で持ち場をしっかりと守り、Spirit が Falcons を押し切る展開に貢献する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9556,8 +9556,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro vs Falcons on Nuke",
-  "description": "The consistent presence of sh1ro on Nuke was essential, as he locked down key positions and secured vital kills for Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での sh1ro vs Falcons",
+  "description": "sh1ro が Nuke で安定した存在感を示す。鍵となるポジションを抑え、Spirit のために重要なキルを重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9571,8 +9571,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R vs Falcons on Nuke",
-  "description": "tN1R showed that he thrives under pressure, delivering fearless aggression to propel Spirit past Falcons on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での tN1R vs Falcons",
+  "description": "tN1R はプレッシャーのかかる場面でも力を発揮。恐れを知らない積極性を見せると、Nuke で Spirit を Falcons 戦勝利に導く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9586,8 +9586,8 @@
  },
  {
   "id": "highlight-bud2025_qf-niko-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | NiKo vs Spirit on Nuke",
-  "description": "Solid moments from NiKo on Nuke were not enough to stop Spirit's relentless pressure.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での NiKo vs Spirit",
+  "description": "NiKo は Nuke で堅実な場面を見せたものの、Spirit の執拗なプレッシャーを止めるには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9601,8 +9601,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyxsan-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyxsan vs Spirit on Nuke",
-  "description": "kyxsan put everything on the line against Spirit, making impactful frags on Nuke; however, it wasn't enough to secure the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での kyxsan vs Spirit",
+  "description": "kyxsan は Spirit を相手にすべてを懸けて戦い、Nuke でインパクトのあるフラグを重ねたものの、マップ獲得には至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9616,8 +9616,8 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY vs Spirit on Nuke",
-  "description": "In spite of spectacular duels from m0NESY on Nuke, his signature aim could not secure the win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での m0NESY vs Spirit",
+  "description": "m0NESY は Nuke で壮絶な撃ち合いを見せたものの、彼の代名詞と言えるエイムをもってしても勝利をつかむことはできず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9631,8 +9631,8 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | TeSeS vs Spirit on Nuke",
-  "description": "Nuke was full of bold actions from TeSeS; however, not every aggressive move paid off for Falcons in the end.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での TeSeS vs Spirit",
+  "description": "Nuke では TeSeS の大胆なプレーが随所に見られたが、最終的に、そうしたアグレッシブなムーブがすべて Falcons の勝利につながったわけではなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9646,8 +9646,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke vs Spirit on Nuke",
-  "description": "kyousuke delivered several high-impact kills on Nuke, though his individual efforts were not enough to beat Spirit on their map pick.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での kyousuke vs Spirit",
+  "description": "kyousuke は、Nuke で試合の流れを決定づけるキルを何度も決めたが、 自チームのマップピックにもかかわらず、1人の奮闘では Spirit を下すに至らなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9661,8 +9661,8 @@
  },
  {
   "id": "highlight-bud2025_qf-vitality-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality on the QF stage",
-  "description": "Vitality enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face The MongolZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality、準々決勝進出",
+  "description": "Vitality が StarLadder Budapest Major 2025 の準々決勝に進出。The MongolZ 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9676,8 +9676,8 @@
  },
  {
   "id": "highlight-bud2025_qf-the-mongolz-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | The MongolZ on the QF stage",
-  "description": "The MongolZ enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | The MongolZ、準々決勝進出",
+  "description": "The MongolZ が StarLadder Budapest Major 2025 の準々決勝に進出。Vitality 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9691,8 +9691,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii opening chaos",
-  "description": "An unexpected position from mezii allows him to secure a quad kill in the opening round on Mirage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | meziiによるカオスな序盤",
+  "description": "Mirage のオープニングラウンドで、mezii が意表を突くポジションからクアッドキルを決めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9706,8 +9706,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii Forest play",
-  "description": "Positioned in Forest, mezii fends off the Apartments push from The MongolZ, but ropz snatches the quad kill away from him.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii の森でのワンプレイ",
+  "description": "森にポジションを取った mezii は、The MongolZ のアパートのプッシュを食い止めるが、クアッドキルは ropz に奪われてしまう。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9721,8 +9721,8 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-triple-kill-on-mirage-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ mid brawl",
-  "description": "flameZ trades apEX in Mid and pushes through The MongolZ players on his way toward the A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ 、ミッドでの乱戦",
+  "description": "ミッドで flameZ は apEX とトレードし、そのまま The MongolZ の選手たちを突破しながら爆弾設置地点 A へと向かう。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9736,8 +9736,8 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-triple-kill-on-mirage-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ everywhere",
-  "description": "flameZ reacts instantly, finding three kills across three different positions near the A-site on Mirage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | あちらこちらに flameZ",
+  "description": "flameZ が瞬時に反応。Mirage の爆弾設置地点 A 周辺の3つの異なるポジションで3キルする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9751,8 +9751,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo P250 madness",
-  "description": "ZywOo successfully secures the bomb and delivers an astonishing triple kill with his P250 on Mirage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、P250 マッドネス",
+  "description": "ZywOo は Mirage で爆弾を守りきり、P250 で驚異的なトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9766,8 +9766,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo final blow",
-  "description": "ZywOo closes out the final round of Mirage in style with a quad kill against The MongolZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo の決定打",
+  "description": "ZywOo が The MongolZ を相手にクアッドキルを決め、Mirage の最終ラウンドを締めくくった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9781,8 +9781,8 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Techno4K triple punch",
-  "description": "Techno4K takes an aggressive forward position on the A-site and delivers a triple kill to push his team ahead of Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Techno4Kの三連撃",
+  "description": "Techno4K が爆弾設置地点 A で前に出るアグレッシブなポジションを取り、Vitality 相手にトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9796,8 +9796,8 @@
  },
  {
   "id": "highlight-bud2025_qf-910-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910 solid rotation",
-  "description": "After 910 picks off the lurking apEX in B-apps, he rotates and lands two more shots on the A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910 の堅実なローテート",
+  "description": "B アパートに潜んでいた apEX を 910 がピックオフすると、そのままローテートして爆弾設置地点 A でさらに2キル重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9811,8 +9811,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs The MongolZ on Mirage",
-  "description": "ZywOo delivered a stellar performance on Mirage against The MongolZ, imposing a fierce fight on their map pick.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での ZywOo vs The MongolZ",
+  "description": "ZywOo は Mirage で The MongolZ を相手に圧巻のパフォーマンスを見せ、相手のマップピックで激しい戦いを強いた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9826,8 +9826,8 @@
  },
  {
   "id": "highlight-bud2025_qf-apex-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs The MongolZ on Mirage",
-  "description": "apEX wouldn't let anyone slip through, relentlessly punishing every mistake made by the opponent on Mirage with swift frags.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での apEX vs The MongolZ",
+  "description": "apEX が Mirage で1人も通すことなく、相手のあらゆるミスを素早いキルで容赦なく咎めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9841,8 +9841,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs The MongolZ on Mirage",
-  "description": "mezii, with his USP-S, proved a resolute guardian, refusing to let any contenders onto the A-site on Mirage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での mezii vs The MongolZ",
+  "description": "Mirage の 爆弾設置地点 A で mezii は USP-S を手に確固たる守りを見せ、いかなる相手の侵入も許さなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9856,8 +9856,8 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs The MongolZ on Mirage",
-  "description": "Essential multi-kills from flameZ showed The MongolZ that Mirage wouldn't be a walk in the park.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での flameZ vs The MongolZ",
+  "description": "flameZ が要所でマルチキルを重ね、Mirage は決して楽な戦いではないと The MongolZ に知らしめた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9871,8 +9871,8 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs The MongolZ on Mirage",
-  "description": "ropz stood strong on the first map of the quarterfinal against The MongolZ, stepping up in every crucial moment.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での ropz vs The MongolZ",
+  "description": "ropz は The MongolZ との準々決勝のファーストマップで踏ん張り、大事な局面で度々存在感を見せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9886,8 +9886,8 @@
  },
  {
   "id": "highlight-bud2025_qf-blitz-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | bLitz vs Vitality on Mirage",
-  "description": "Frags from bLitz on Mirage were solid, yet they were not enough to secure a win on the opening map against Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での bLitz vs Vitality",
+  "description": "Mirage での bLitz のキルは堅実だったが、Vitality 相手にオープニングマップを勝ち取るには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9901,8 +9901,8 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Techno4K vs Vitality on Mirage",
-  "description": "Techno4K put up a respectable performance on Mirage against Vitality, delivering impactful moments throughout the quarterfinal opener.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での Techno4K vs Vitality",
+  "description": "Techno4K は Mirage で Vitality 相手に健闘し、準々決勝の開幕戦を通して印象的な場面をいくつも生み出した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9916,8 +9916,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho vs Vitality on Mirage",
-  "description": "Mzinho delivered an outstanding showing, fighting for every inch of the map, but Vitality were not messing around and went on to secure the win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での Mzinho vs Vitality",
+  "description": "Mzinho は際立ったパフォーマンスを見せ、どの局面でも粘りを見せるが、Vitality は一切手を緩めず、そのまま勝利をつかむ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9931,8 +9931,8 @@
  },
  {
   "id": "highlight-bud2025_qf-910-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910 vs Vitality on Mirage",
-  "description": "910 gave his absolute best in trying to wrest the map from Vitality's hands, but the effort fell just short.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での 910 vs Vitality",
+  "description": "910 は Vitality からマップを奪い取ろうとベストを尽くしたが、その奮闘もあと一歩及ばず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9946,8 +9946,8 @@
  },
  {
   "id": "highlight-bud2025_qf-controlez-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | controlez vs Vitality on Mirage",
-  "description": "controlez threw everything at Vitality on Mirage, but it was one of those days where the effort wasn't enough.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での controlez vs Vitality",
+  "description": "controlez は Mirage で Vitality を相手にすべてをぶつけるものの、この日はその努力が報われない日だった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9961,8 +9961,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful plant lockdown",
-  "description": "w0nderful kills yuurih and successfully defends the plant against FURIA, adding two more kills to his tally.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、プラント後のロックダウン",
+  "description": "w0nderful は yuurih をキルし、さらに2キルを追加して FURIA から爆弾を守り切った。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9976,8 +9976,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-double-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib smoke breaker",
-  "description": "Aleksib timely clears the smoke with a nade and secures two kills against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | スモークブレイカー、Aleksib",
+  "description": "Aleksib は絶妙なタイミングでスモークをグレネードでクリアし、FURIA を相手に2キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9991,8 +9991,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t pistol shutdown",
-  "description": "b1t holds strong on the A-site against a pistol push from FURIA, securing four kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t のピストルシャットダウン",
+  "description": "b1t は爆弾設置地点 A で FURIA のピストルプッシュを相手に踏ん張り、4キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10006,8 +10006,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM nearly 1v5",
-  "description": "iM finds four kills on the B-site and nearly pulls off a 1v5 clutch, but FalleN denies.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、1v5 寸前",
+  "description": "iM は、爆弾設置地点 B で4キルを奪い、1v5 クラッチ寸前まで持ち込むが、FalleN に阻まれる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10021,8 +10021,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM Short cleanup",
-  "description": "iM takes down FalleN and yuurih on Short before closing the round with a kill on molodoy.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、ショートをクリーンアップ",
+  "description": "iM はショートで FalleN と yuurih を倒し、molodoy をキルしてラウンドを締めくくった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10036,8 +10036,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | YEKINDAR Glock charge",
-  "description": "YEKINDAR uses his Glock-18 to its full potential, rushing through Long and securing the B-site while picking up three kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | YEKINDAR、Glock で突撃",
+  "description": "YEKINDAR は Glock-18 の性能を最大限に引き出し、ロングを進んで爆弾設置地点 B を制圧。3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10051,8 +10051,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO boost play",
-  "description": "KSCERATO, up on the boost, denies Natus Vincere's B-site entry with three kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO のブーストプレイ",
+  "description": "KSCERATO はブーストポジションから Natus Vincere の爆弾設置地点 B のエントリーを3キルで阻止した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10066,8 +10066,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-double-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN smoke play",
-  "description": "FalleN dives through the smoke on Banana for a double kill, securing overtimes for FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN、スモークプレイ",
+  "description": "FalleN はバナナのスモークを抜けるとダブルキルを決めて、FURIA をオーバータイムに導く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10081,8 +10081,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-triple-kill-on-inferno-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN Banana clutch",
-  "description": "FalleN finds two kills on Banana before clutching a 1v1 against iM.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN、バナナでクラッチ",
+  "description": "FalleN はバナナで2キルを奪うと、iM との 1v1 を制してクラッチを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10096,8 +10096,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-triple-kill-on-inferno-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN captain defuse",
-  "description": "FalleN takes down makazze and iM with a single spray, wins the captain's duel, and successfully defuses the bomb.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | IGL FalleN のディフューズ",
+  "description": "FalleN は1スプレーで makazze と iM を倒し、 IGL対決を制してそのまま爆弾を解除した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10111,8 +10111,8 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | molodoy overtime quadro",
-  "description": "molodoy lands a quadro kill on the B-site, leveling the score in overtime against Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | molodoy、オーバタイムのクアッドキル",
+  "description": "molodoy は爆弾設置地点 B でクアッドキルを決めると、Natus Vincere 相手にオーバータイムでスコアを振り出しに戻す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10126,8 +10126,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FURIA on Inferno",
-  "description": "Inferno was not the cleanest map in w0nderful's career, as he struggled to find consistent impact against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での w0nderful vs FURIA",
+  "description": "Inferno は w0nderful のキャリアの中でも安定感のあるマップとは言えず、FURIA を相手に継続して存在感を示すのに苦しんだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10141,8 +10141,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FURIA on Inferno",
-  "description": "Aleksib poured absolutely everything into his performance and leadership on Inferno, but despite his maximum effort, it was not enough to overcome FURIA's push.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Aleksib vs FURIA",
+  "description": "Aleksib は Inferno でプレーとリーダーシップをすべて注ぎ込んだが、全力を尽くしても FURIA のプッシュを止めるには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10156,8 +10156,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FURIA on Inferno",
-  "description": "b1t was relentless, fighting for every inch of territory on Inferno, but Natus Vincere ultimately could not contain FURIA's momentum as the Brazilian side seized the initiative.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での b1t vs FURIA",
+  "description": "b1t は Inferno で粘り強く戦い続けたが、Natus Vincere は FURIA の勢いを止められず、ブラジル勢が主導権を握った。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10171,8 +10171,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FURIA on Inferno",
-  "description": "iM raised his individual performance on Inferno, securing multiple crucial kills on the server, but FURIA's collective strength proved decisive as they secured the win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での iM vs FURIA",
+  "description": "iM は Inferno で個人のパフォーマンスを高めて重要なキルを重ねたが、FURIA の総合力が勝り、勝利には届かず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10186,8 +10186,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FURIA on Inferno",
-  "description": "makazze was one of the most impactful players on Inferno, consistently making bold moves throughout the map, but his efforts were ultimately unable to stop FURIA from claiming the map victory.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での makazze vs FURIA",
+  "description": "makazze は Inferno で一番インパクトを残した選手の1人として、マップ全体で大胆なプレイを見せ続けたが、FURIA のマップ勝利を阻むには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10201,8 +10201,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | YEKINDAR vs Natus Vincere on Inferno",
-  "description": "YEKINDAR stepped up when it mattered most on Inferno, executing key aggressive plays and delivering crucial frags for FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト |  Inferno での YEKINDAR vs Natus Vincere",
+  "description": "YEKINDAR は、Inferno の一番重要な局面で活躍し、要所でアグレッシブなプレイと重要なキルで FURIA を支える。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10216,8 +10216,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO vs Natus Vincere on Inferno",
-  "description": "KSCERATO showcased his full capability as a star rifler on Inferno, providing the vital firepower needed to help FURIA close out their map pick.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト |  Inferno での KSCERATO vs Natus Vincere",
+  "description": "KSCERATO は Inferno でエースライフラーとしての実力を存分に発揮し、FURIA が自らのマップピックを締めくくるために不可欠な火力となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10231,8 +10231,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN vs Natus Vincere on Inferno",
-  "description": "Alongside his steady leadership, FalleN delivered a stellar individual performance on Inferno, securing game-changing frags against Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での FalleN vs Natus Vincere",
+  "description": "FalleN は安定したリーダシップを発揮する一方で、Inferno では個人としても圧巻のパフォーマンスを見せ、Natus Vincere 相手にゲームの流れを変えるキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10246,8 +10246,8 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | molodoy vs Natus Vincere on Inferno",
-  "description": "molodoy faced continuous challenges on Inferno but showed great tenacity, constantly pushing forward to help FURIA secure the map victory against Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での molodoy vs Natus Vincere",
+  "description": "molodoy は Inferno で厳しい局面が続く中、粘り強さを見せる。前に出続けるプレイで Natus Vincere 相手に FURIA をマップ勝利へと導く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10261,8 +10261,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | yuurih vs Natus Vincere on Inferno",
-  "description": "yuurih fought tooth and nail, ensuring FURIA matched the opponent's intensity until the final round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での yuurih vs Natus Vincere",
+  "description": "yuurih が一歩も引かずに食らいついたことで、FURIA は最終ラウンドまで相手に劣らぬ強度で戦うことができた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10276,8 +10276,8 @@
  },
  {
   "id": "highlight-bud2025_qf-faze-victory",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe win in the QF",
-  "description": "FaZe secures a 2:0 victory over MOUZ in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe、準々決勝を制す",
+  "description": "FaZe は MOUZ を相手に、StarLadder Budapest Major 2025 の準々決勝において2:0で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10291,8 +10291,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-inferno-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky mid-air magic",
-  "description": "broky eliminates Spinx on Long with a mid-air shot, then follows up with two more kills to swing the round, leaving frozen alone in a clutch against xertioN.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、ジャンプマジック",
+  "description": "broky は ロングでジャンプ中の Spinx を仕留めると、さらに2キルを重ねてラウンドの流れを引き寄せ、frozen と xertioN とのクラッチを演出する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10306,8 +10306,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-inferno-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky Boiler cleanup",
-  "description": "broky catches Brollan in Mid, follows up with a kill in Boiler, and finishes the round with a USP-S kill to make the score 6:1.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、ボイラーのクリアリング",
+  "description": "broky はミッドで Brollan を捕らえると、ボイラーで1キルを奪い、最後は USP-S で仕留めてスコアを6:1に伸ばす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10321,8 +10321,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-inferno-3",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky post-plant fury",
-  "description": "In the post-plant, broky finds two swift kills on xertioN and Brollan, then shortly after eliminates torzsi to secure a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、プラント後の猛攻",
+  "description": "爆弾設置後、broky は xertioN と Brollan を素早くキルした直後に torzsi も倒し、トリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10336,8 +10336,8 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Banana snap",
-  "description": "frozen gets his first kill on Banana against Brollan, then rotates to A and clears the site to secure the round for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、バナナで瞬殺",
+  "description": "frozen はバナナで Brollan を相手に初キルを奪うと、A にローテートし、サイトを一掃すると、FaZe にラウンド勝利をもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10351,8 +10351,8 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-he-damage-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan nade finish",
-  "description": "With the help of frozen, karrigan successfully finishes Brollan with a nade on Banana.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、グレネードで決める",
+  "description": "karrigan は frozen のサポートを受けつつ、バナナでグレネードを使って Brollan を仕留める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10366,8 +10366,8 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi Tec-9 rampage",
-  "description": "With a Tec-9 in hand, torzsi secures a triple kill on the A-site of Inferno.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi、Tec-9 で大暴れ",
+  "description": "Tec-9 を手にした torzsi は、Inferno の爆弾設置地点 A でトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10381,8 +10381,8 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz dual chaos",
-  "description": "Twistzz gets a triple kill with the Dual Berettas in the opening pistol round on Inferno.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、Dual で大暴れ",
+  "description": "Inferno のオープニングのピストルラウンドで、Twistzz が Dual Berettas でトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10396,8 +10396,8 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | xertioN clutch win",
-  "description": "xertioN kills karrigan, takes down broky on the A-site, and then wins 1v1 against frozen in the post-plant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | xertioN、クラッチで勝利",
+  "description": "xertioN は、karrigan をキルして爆弾設置地点 A で broky を倒すと、爆弾設置後に frozen との 1v1 を制す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10411,8 +10411,8 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs MOUZ on Inferno",
-  "description": "broky was unstoppable on Inferno, dominating the map and delivering critical frags that shut down any attempt by MOUZ to mount a comeback.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での broky vs MOUZ",
+  "description": "broky は、Inferno で誰にも止められない活躍を見せ、マップの主導権を握りながら MOUZ の反撃を許さない決定的なキルを重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10426,8 +10426,8 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Brollan vs FaZe on Inferno",
-  "description": "Brollan kept fighting until the end, but MOUZ couldn't challenge FaZe this time.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Brollan vs FaZe",
+  "description": "Brollan は最後まで戦い続けたが、今回の MOUZ は FaZe に対抗しきれなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10441,8 +10441,8 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs MOUZ on Inferno",
-  "description": "frozen was instrumental in FaZe's victory on Inferno, reliably delivering high-impact kills against MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での frozen vs MOUZ",
+  "description": "frozen は、Inferno での FaZe の勝利に大きく貢献し、MOUZ を相手に安定して重要なキルを重ねる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10456,8 +10456,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jcobbb-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs MOUZ on Inferno",
-  "description": "jcobbb delivered an incredibly consistent performance on Inferno, securing key frags and winning pivotal rounds against MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での jcobbb vs MOUZ",
+  "description": "jcobbb は、Inferno で驚くほど安定したパフォーマンスを見せ、試合の鍵を握るキルを確実に重ねると、MOUZ 相手に重要なラウンドを勝ち取る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10471,8 +10471,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jimpphat-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Jimpphat vs FaZe on Inferno",
-  "description": "Jimpphat tried to reach his full potential, but FaZe didn't back down on Inferno.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Jimpphat vs FaZe",
+  "description": "Jimpphat は持てる力を発揮しようと奮闘したものの、Inferno では FaZe が一歩も引かなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10486,8 +10486,8 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs MOUZ on Inferno",
-  "description": "karrigan brilliantly exploited every tactical opportunity on Inferno, calling rotations that made the map uncomfortable for MOUZ and securing the series victory for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での karrigan vs MOUZ",
+  "description": "karrigan は、Inferno であらゆる戦略的チャンスを巧みに突き、的確なローテーションコールで MOUZ を苦しい展開に追い込むと、FaZe にシリーズ勝利をもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10501,8 +10501,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spinx vs FaZe on Inferno",
-  "description": "Despite Spinx's individual performance, MOUZ fell short against FaZe on Inferno.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Spinx vs FaZe",
+  "description": "Spinx が個人として存在感を示したものの、Inferno では MOUZ は FaZe を相手にあと一歩及ばず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10516,8 +10516,8 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | torzsi vs FaZe on Inferno",
-  "description": "torzsi put in a huge performance on the second map, but MOUZ couldn't force a decider.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での torzsi vs FaZe",
+  "description": "torzsi は第二マップで大活躍を見せたが、MOUZ は最終マップに持ち込めなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10531,8 +10531,8 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs MOUZ on Inferno",
-  "description": "Twistzz was highly effective in his duels on Inferno, finding headshots and securing crucial multi-kills that helped FaZe decisively defeat MOUZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Twistzz vs MOUZ",
+  "description": "Twistzz は Inferno での撃ち合いで高い精度を発揮し、ヘッドショットと重要なマルチキルを重ねると、FaZe が MOUZ に決定的な勝利を収める原動力となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10546,8 +10546,8 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | xertioN vs FaZe on Inferno",
-  "description": "xertioN consistently looked to win crucial duels and opening frags for MOUZ on Inferno, but FaZe proved too strong.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での xertioN vs FaZe",
+  "description": "xertioN は Inferno で MOUZ のための要所の撃ち合いやオープニングキルを狙い続けたが、FaZe はあまりにも強かった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10561,8 +10561,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spirit-victory",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit win in the QF",
-  "description": "Spirit secures a 2:0 victory over Falcons in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit、準々決勝を制す",
+  "description": "Spirit は Falcons を相手に、StarLadder Budapest Major 2025 の準々決勝において2:0で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10576,8 +10576,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper A-site havoc",
-  "description": "chopper makes his way into the A-site, finding a solid triple kill against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper、爆弾設置地点 A を荒らす",
+  "description": "chopper は 爆弾設置地点 A に入り込み、Falcons 相手に堅実なトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10591,8 +10591,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk quad eruption",
-  "description": "While entering the A-site on Dust II, donk secures a quad kill against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk、怒濤のクアッドキル",
+  "description": "donk は、Dust II の爆弾設置地点 A に入ると、Falcons 相手にクアッドキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10606,8 +10606,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke smoke punish",
-  "description": "kyousuke opens with a kill through the smoke and quickly follows it up with a double on the B-site against Spirit on Dust II.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke、スモーク越しのキル",
+  "description": "kyousuke はスモーク越しに先制キルを奪うと、Dust II の爆弾設置地点 B で Spirit 相手にダブルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10621,8 +10621,8 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY momentum swing",
-  "description": "m0NESY opens with kills on donk and tN1R, then switches to the AK-47 to bring the score to 3:2.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY の連続キル",
+  "description": "m0NESY は donk と tN1R を先制キルすると、AK-47 に持ち替えてスコアを 3:2 に持ち込む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10636,8 +10636,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro mid-air shutdown",
-  "description": "sh1ro catches TeSeS mid-air in Box and goes on to secure three more kills while defending the site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro、ジャンプ中の敵を仕留める",
+  "description": "sh1ro はロングドアでジャンプ中の TeSeS をキルすると、爆弾設置地点を守りながらさらに3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10651,8 +10651,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro multi-action swing",
-  "description": "sh1ro catches NiKo on his way to the B-site, nades m0NESY, and takes down kyxsan from Window, swinging the round in Spirit's favor.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro、試合の流れを変えるマルチプレイ",
+  "description": "sh1ro は、爆弾設置地点 B に向かう NiKo を捕らえて m0NESY にグレネードを当てると、窓から kyxsan を倒してラウンドの流れを Spirit 側に引き寄せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10666,8 +10666,8 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | TeSeS site purge",
-  "description": "TeSeS finds the opening kill on chopper and follows up by clearing three players from the A-site on Dust II.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | TeSeS、Aサイト制圧",
+  "description": "TeSeS は、 chopper に対してオープニングキルを決めると、そのまま Dust II の爆弾設置地点 A で3人をキルしてサイトを一掃。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10681,8 +10681,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R Gandalf spray",
-  "description": "From Gandalf, tN1R takes down kyousuke with a precise shot and sprays down two more opponents on Ramp.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R、A 側ロングのスプレー射撃",
+  "description": "tN1R は、A側ロングから kyousuke を正確な一撃で仕留めると、スロープでのスプレーでさらに2キルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10696,8 +10696,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-ace-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih flawless ace",
-  "description": "A flawless ace by zweih brought Spirit roaring back into overtime, delivering the momentum needed to ultimately defeat the opponent.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih、完璧なエース",
+  "description": "zweih が完璧なエースを決めて Spirit をオーバータイムに持ち込むと、その勢いがチームの勝利へとつながった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10711,8 +10711,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih B-site fortress",
-  "description": "zweih demonstrates strong B-site defense, securing a triple kill from Pool area against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Bサイトの要塞、zweih",
+  "description": "zweih はプールから爆弾設置地点 B を堅実に守り、Falcons を相手にトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10726,8 +10726,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper vs Falcons on Dust II",
-  "description": "When Spirit needed him most, chopper answered the call, making critical kills against Falcons.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での chopper vs Falcons",
+  "description": "chopper は、Spirit にとって最も重要な場面できちんと応えて、Falcons 相手に要所のキルを決めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10741,8 +10741,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk vs Falcons on Dust II",
-  "description": "donk didn't hold back in the quarterfinal against Falcons, unleashing his raw firepower.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での donk vs Falcons",
+  "description": "donk は Falcons との準々決勝で一切手加減することなく、持ち前の火力を発揮した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10756,8 +10756,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyousuke vs Spirit on Dust II",
-  "description": "kyousuke fought until the last bullet; nonetheless, Spirit showed strong resilience to close out the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での kyousuke vs Spirit",
+  "description": "kyousuke は最後の1発まで戦い抜いたが、それでも Spirit が粘りを見せマップを締めくくった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10771,8 +10771,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyxsan-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | kyxsan vs Spirit on Dust II",
-  "description": "kyxsan displayed sharp aim on Dust II, switching gears to find impactful frags and keep Falcons in the fight.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での kyxsan vs Spirit",
+  "description": "kyxsan は Dust II で鋭いエイムを見せ、ギアを上げてインパクトのあるキルを重ねて Falcons の戦いを支えた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10786,8 +10786,8 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | m0NESY vs Spirit on Dust II",
-  "description": "m0NESY pushed himself to the limit on Dust II, delivering a spectacular display of skill, but Spirit were on fire that night.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での m0NESY vs Spirit",
+  "description": "m0NESY は Dust II で限界まで自らを追い込んで圧巻のスキルを披露したが、この夜の Spirit の勢いを止めることはできず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10801,8 +10801,8 @@
  },
  {
   "id": "highlight-bud2025_qf-niko-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | NiKo vs Spirit on Dust II",
-  "description": "NiKo put on a dueling masterclass on Dust II, but his performance was not enough to propel Falcons into the next stage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での NiKo vs Spirit",
+  "description": "NiKo は Dust II で撃ち合いのお手本とも言えるパフォーマンスを見せるも、Falcons を次のステージへと導くには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10816,8 +10816,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro vs Falcons on Dust II",
-  "description": "The A-site was in steady hands when sh1ro held the AWP, backing up his desire to crush Falcons' pickems.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での sh1ro vs Falcons",
+  "description": "sh1ro が AWP を手にしたとき、爆弾設置地点 A は安定して守られており、Falcons の勝利予想を討ち砕こうとする情熱をプレイで見せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10831,8 +10831,8 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | TeSeS vs Spirit on Dust II",
-  "description": "Kills from TeSeS on Dust II gave Falcons hope; however, his performance failed to overcome the opponents' flawless synergy.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での TeSeS vs Spirit",
+  "description": "Dust II で TeSeS がキルを重ね、Falcons に希望をもたらしたが、相手の隙のない連携を崩すには至らず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10846,8 +10846,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R vs Falcons on Dust II",
-  "description": "tN1R delivered a solid performance on the second map of the quarterfinal, securing a critical triple kill for Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での tN1R vs Falcons",
+  "description": "tN1R は準々決勝の第2マップで堅実なパフォーマンスを見せ、Spirit にとって重要なトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10861,8 +10861,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih vs Falcons on Dust II",
-  "description": "zweih left the B-site on Dust II uncontested, as anyone who dared to break into it was met with a strong, decisive response.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での zweih vs Falcons",
+  "description": "zweih は Dust II の爆弾設置地点 B を完全に支配。そこに踏み込もうとする者は誰であれ、強烈かつ決定的な反応を受けることとなる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10876,8 +10876,8 @@
  },
  {
   "id": "highlight-bud2025_qf-vitality-victory",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality win in the QF",
-  "description": "Vitality secures a 2:0 victory over The MongolZ in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality、準々決勝を制す",
+  "description": "Vitality は The MongolZ を相手に、StarLadder Budapest Major 2025 の準々決勝において2:0で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10891,8 +10891,8 @@
  },
  {
   "id": "highlight-bud2025_qf-910-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910 MP9 mayhem",
-  "description": "910 turns his MP9 into a killing machine on the A-site, taking down three Vitality players in quick succession.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910、MP9 で大暴れ",
+  "description": "910 の MP9 が爆弾設置地点 A で猛威を振るい、3 人の Vitality 選手を次々に倒す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10906,8 +10906,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii B-site burst",
-  "description": "mezii makes two solid entries on the B-site on Dust II and eliminates controlez in the afterplant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、B サイトへの進撃",
+  "description": "mezii が Dust II 爆弾設置地点 B への侵入時に2キルを果たし、アフタープラントに controlez も仕留める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10921,8 +10921,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii mid takeover",
-  "description": "mezii dominates mid execute with his MP9, picking up three frags and giving Vitality a 10:5 lead over The MongolZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ミッドの支配者、mezii",
+  "description": "mezii が MP9 でミッドを支配。The MongolZ の選手を3人倒して Vitality のリードを 10-5 に広げる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10936,8 +10936,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-quadro-kill-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho Long control",
-  "description": "With no flash from Vitality reaching him, Mzinho secures a double kill on Long and then clears Short of the remaining opponents.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho、ロングを制圧",
+  "description": "Vitality からのフラッシュが届かず、Mzinho がロングでダブルキル。続けてショートで残りの敵も排除する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10951,8 +10951,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-quadro-kill-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho clears Short",
-  "description": "Mzinho picks up a frag on apEX at the A-site, clears Short of both ropz and mezii, and allows ZywOo to safely cross into the trap set on Default, bringing the score to 4:8 against Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho がショートを一掃",
+  "description": "Mzinho は A サイトで apEX をキル。さらに ropz と mezii もショートで片付け、ZywOo を CT 開始地点に敷いたトラップにおびき寄せる。Vitality から1本取り返してスコアは 4-8 に。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10966,8 +10966,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho mid surprise",
-  "description": "Mzinho clears Box against apEX and makes an unexpected push to Mid, picking up two more frags.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho、ミッドに奇襲",
+  "description": "Mzinho はボックスから apEX を排除すると、意表をついてミッドにプッシュ。さらに2キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10981,8 +10981,8 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz 1v3 clutch",
-  "description": "ropz opens with the first kill in Mid and takes out the remaining opponents one by one in a 1v3 clutch.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz 1v3 クラッチ",
+  "description": "ropz がミッドでのキルを皮切りに、残る敵を次々と倒して 1v3 クラッチを成功させる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10996,8 +10996,8 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz pistol precision",
-  "description": "ropz takes out Techno4K in the Upper Tunnel and follows up with two headshots, giving Vitality the second pistol round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ピストルエイム冴え渡る、ropz",
+  "description": "ropz がトンネル上部で Techno4K を倒し、続けて2発のヘッドショットを決め、Vitality が2本目のピストルラウンドをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11011,8 +11011,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo triple finish",
-  "description": "ZywOo opens the hunt with a kill on controlez, switches to the P250 to take down Techno4K after a close duel, and finishes the round with an AWP kill on 910.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、3キルフィニッシュ",
+  "description": "まず controlez をキルし、P250 に持ち替えて Techno4K とのデュエルを制した ZywOo。最後は AWP で 910 を倒してラウンドを締める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11026,8 +11026,8 @@
  },
  {
   "id": "highlight-bud2025_qf-910-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | 910 vs Vitality on Dust II",
-  "description": "On Dust II, 910 turned every opportunity into momentum, but despite the effort, it wasn't enough.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での 910 vs Vitality",
+  "description": "Dust II でチャンスを逃さず勢いに乗ろうとする 910 だが、奮戦むなしく一歩及ばず。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11041,8 +11041,8 @@
  },
  {
   "id": "highlight-bud2025_qf-apex-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs The MongolZ on Dust II",
-  "description": "The actions of apEX on Dust II spoke louder than words, as The MongolZ were effectively silenced by his unrelenting calls.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での apEX vs The MongolZ",
+  "description": "Dust II での apEX はアンチもダンマリのパフォーマンスを披露。的確かつ無慈悲なコールで The MongolZ を封殺した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11056,8 +11056,8 @@
  },
  {
   "id": "highlight-bud2025_qf-blitz-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | bLitz vs Vitality on Dust II",
-  "description": "bLitz clung to every opportunity to challenge Vitality, but The MongolZ ultimately fell short on the second map of the quarterfinal.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での bLitz vs Vitality",
+  "description": "準々決勝の第2マップ、bLitz はあらゆるチャンスをつかみ Vitality に立ち向かうが、The MongolZ は勝利を逃す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11071,8 +11071,8 @@
  },
  {
   "id": "highlight-bud2025_qf-controlez-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | controlez vs Vitality on Dust II",
-  "description": "controlez challenged Vitality with his unexpected moves; however, he couldn't turn the tide on Dust II.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での controlez vs Vitality",
+  "description": "Dust II、controlez は予想外のムーブで Vitality を攪乱するが、流れを変えることはできなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11086,8 +11086,8 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs The MongolZ on Dust II",
-  "description": "flameZ imposed a tough fight on The MongolZ on Dust II, exploiting map control whenever possible to gain the advantage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での flameZ vs The MongolZ",
+  "description": "Dust II、flameZ はマップコントロールを活かしてアドバンテージを築き、The MongolZ を苦しめる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11101,8 +11101,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs The MongolZ on Dust II",
-  "description": "No one could hide from mezii on Dust II. His game sense was on another level that night, allowing him to read the enemy's moves and take them down effortlessly.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での mezii vs The MongolZ",
+  "description": "Dust II、誰も mezii からは逃げられない。この日の彼は異次元のゲームセンスを発揮、敵の動きを確実に読んで楽々とキルを重ねていった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11116,8 +11116,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mzinho vs Vitality on Dust II",
-  "description": "Mzinho kept his cool under pressure on Dust II, ensuring his team remained competitive against Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での Mzinho vs Vitality",
+  "description": "プレッシャーのかかるなか、Mzinho は Dust II で冷静に立ち回り、Vitality 相手に望みをつなごうとする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11131,8 +11131,8 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs The MongolZ on Dust II",
-  "description": "ropz fought for every opportunity to close out his opponents on Dust II, demonstrating relentless precision.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ropz vs The MongolZ",
+  "description": "Dust II での ropz は無慈悲なまでの精度でチャンスを生み出し、相手チームを抑え込んだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11146,8 +11146,8 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Techno4K vs Vitality on Dust II",
-  "description": "Techno4K fought hard, but Dust II ultimately fell to Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での Techno4K vs Vitality",
+  "description": "善戦する Techno4K だが、最終的には Vitality が Dust II を制した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11161,8 +11161,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs The MongolZ on Dust II",
-  "description": "ZywOo proved he came to win, showcasing his superior skill and readiness for the next stage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ZywOo vs The MongolZ",
+  "description": "ZywOo は別格のスキルと次のステージに向けた準備のほどを示し、勝ちに来たことを証明した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11176,8 +11176,8 @@
  },
  {
   "id": "highlight-bud2025_qf-navi-victory",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere win in the QF",
-  "description": "Natus Vincere secures a 2:1 victory over FURIA in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere、準々決勝に勝利",
+  "description": "StarLadder Budapest Major 2025 準々決勝は、Natus Vincere が 2-1 で FURIA に勝利。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11191,8 +11191,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-quadro-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful smoke criminal",
-  "description": "w0nderful delivers a smoke criminal moment of his own, killing KSCERATO on Train before securing a post-plant double kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | スモーク・クリミナル、w0nderful",
+  "description": "w0nderful は Train にて KSCERATO 相手にスモーク・クリミナルを実演し、キルを重ねてアフタープラントをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11206,8 +11206,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-triple-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib post-plant triple",
-  "description": "Aleksib finds two swift kills on Train against FURIA before adding a third in the post-plant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib のアフタープラント・トリプル",
+  "description": "Aleksib は Train で FURIA から速やかに2キルを奪い、アフタープラントに3キル目を達成。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11221,8 +11221,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t B-site ambush",
-  "description": "b1t surprises yuurih and FalleN, falls back to the site, and brutally punishes molodoy on the B-site drop.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、B サイトでの待ち伏せ",
+  "description": "b1t は yuurih と FalleN を奇襲した後で 爆弾設置地点 B に戻り、molodoy のドロップを咎める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11236,8 +11236,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-train-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze flash cleanup",
-  "description": "makazze, set up by a flash from w0nderful, takes down yuurih, falls back to A-Main, and hunts down the remaining two opponents.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、フラッシュで一掃",
+  "description": "w0nderful のフラッシュによるアシストを受け、makazze は yuurih を倒すと Aメインに下がって残る2人を倒した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11251,8 +11251,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-train-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze Ivy disruption",
-  "description": "makazze shakes up the map by pushing Ivy, winning duels against molodoy and yuurih before slipping away to claim one more in Pop Dog.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、アイビーを撹乱",
+  "description": "makazze はアイビーをプッシュしてマップを揺るがすと、molodoy と yuurih との撃ち合いを制してそのままロングドッグに抜けて1キルを獲得。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11266,8 +11266,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-train-3",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze pistol precision",
-  "description": "makazze's crosshair was glued to FURIA's heads in the second pistol round on Train, earning him a triple kill on A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ピストルエイム冴え渡る、makazze",
+  "description": "Train の第2ピストルラウンドで、makazze はクロスヘアを FURIA の選手たちのヘッドに正確に合わせて、爆弾設置地点 A でトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11281,8 +11281,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-quadro-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze fury unleashed",
-  "description": "makazze went into full fury mode on Train, collecting four kills to push the score to 12:2 against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、大暴れ",
+  "description": "makazze は、Train で完全に勢いに乗り、4キルを奪って FURIA 相手にスコアを 12:2 とした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11296,8 +11296,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-triple-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO A play",
-  "description": "KSCERATO finds three kills near A-site, pausing Natus Vincere's attempt to cross.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO の A サイトでのええプレイ",
+  "description": "KSCERATO が爆弾設置地点 A 周辺で3キルし、Natus Vincere のクロスを食い止める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11311,8 +11311,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-triple-kill-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN late-half triple",
-  "description": "FalleN sparks hope for FURIA with a triple kill in the final round of the half on Train.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN、ハーフ最終ラウンドの3キル",
+  "description": "FalleN は、Train のハーフ最終ラウンドでトリプルキルを決めて、FURIA の流れをつないだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11326,8 +11326,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-vs-furia-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FURIA on Train",
-  "description": "w0nderful's AWP went singing on Train, hitting deadly note after note with pinpoint accuracy to secure the decider for Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での w0nderful vs FURIA",
+  "description": "w0nderful の AWP が冴え渡り、極めて正確なキルを重ねて、Natus Vincere を最終マップ勝利へと導く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11341,8 +11341,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FURIA on Train",
-  "description": "Aleksib's exceptional tactical leadership and late-round decision-making left no chance for a FURIA comeback on Train.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での Aleksib vs FURIA",
+  "description": "Train での Aleksib は、卓越した戦略的なリーダーシップと終盤の的確な判断により、FURIA に反撃の余地を与えなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11356,8 +11356,8 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FURIA on Train",
-  "description": "b1t was clinical on Train, demonstrating sharp aim and positioning as he capitalized on every opportunity to close out the map against FURIA.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での b1t vs FURIA",
+  "description": "b1t は Train で冷静なプレイを見せる。鋭いエイムと位置取りであらゆるチャンスを逃すことなく FURIA 相手にマップを締めくくる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11371,8 +11371,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FURIA on Train",
-  "description": "iM was fully locked in and ready for every duel on the decider map, underlining that Natus Vincere were fully prepared to advance to the semifinal stage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での iM vs FURIA",
+  "description": "最終マップに際し、iM はあらゆる撃ち合いに万全の態勢で挑む。そのパフォーマンスは Natus Vincere が準決勝進出に向けて準備万全であることを明確に示すものだった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11386,8 +11386,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FURIA on Train",
-  "description": "makazze showed his true self on Train, delivering a highly impactful performance that defined the map's tempo and led to FURIA's defeat.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での makazze vs FURIA",
+  "description": "makazze は Train において本来の実力を発揮し、マップ全体の流れを支配するほどのインパクトのあるパフォーマンスを見せた。それにより、FURIA は敗北へと追い込まれた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11401,8 +11401,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | YEKINDAR vs Natus Vincere on Train",
-  "description": "YEKINDAR was constantly under pressure on the decider map from Natus Vincere, forcing him into difficult duels throughout.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での YEKINDAR vs Natus Vincere",
+  "description": "YEKINDAR は最終マップで Natus Vincere から絶えず強いプレッシャーを受け続け、試合を通して激しい撃ち合いを強いられた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11416,8 +11416,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-vs-navi-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | KSCERATO vs Natus Vincere on Train",
-  "description": "KSCERATO pushed his individual skill and impact to the limit on Train, securing pivotal frags to keep the hopes of Brazilian fans alive despite Natus Vincere's dominance.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での KSCERATO vs Natus Vincere",
+  "description": "KSCERATO は Train において個人のスキルとインパクトを限界まで発揮。Natus Vincere が主導権を握る中、ブラジルのファンの希望をつないだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11431,8 +11431,8 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-vs-navi-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FalleN vs Natus Vincere on Train",
-  "description": "FalleN faced relentless pressure from Natus Vincere on Train, as they neutralized every attempt by FURIA to secure the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での FalleN vs Natus Vincere",
+  "description": "FalleN は Train で Natus Vincere から執拗なプレッシャーを受け続けた。FURIA がマップを取ろうとするあらゆる試みは封じられた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11446,8 +11446,8 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-vs-navi-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | molodoy vs Natus Vincere on Train",
-  "description": "molodoy seized every chance to claw back and cling to rounds for FURIA; however, the overwhelming pressure from Natus Vincere ultimately proved too much.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での molodoy vs Natus Vincere",
+  "description": "molodoy は FURIA のためにあらゆるチャンスを逃すことなく、ラウンドを獲得しようと奮闘。しかし、Natus Vincere からの圧倒的なプレッシャーがそれを上回った。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11461,8 +11461,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-vs-navi-on-train",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | yuurih vs Natus Vincere on Train",
-  "description": "yuurih gave everything on the decider map, providing maximum firepower in an attempt to stop Natus Vincere, but their performance proved stronger on the day.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Train での yuurih vs Natus Vincere",
+  "description": "yuurih は最終マップで全てを出し切り、Natus Vincere を止めるべく最大限の火力を発揮。しかし、この日は Natus Vincere のパフォーマンスが一枚上手だった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11476,8 +11476,8 @@
  },
  {
   "id": "highlight-bud2025_sf-navi-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere on the SF stage",
-  "description": "Natus Vincere enter the semifinal stage of the StarLadder Budapest Major 2025, set to face FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Natus Vincere、準決勝進出",
+  "description": "Natus Vincere が StarLadder Budapest Major 2025 の準決勝に進出。FaZe 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11491,8 +11491,8 @@
  },
  {
   "id": "highlight-bud2025_sf-faze-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe on the SF stage",
-  "description": "FaZe enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe、準決勝進出",
+  "description": "FaZe が StarLadder Budapest Major 2025 の準決勝に進出。Natus Vincere 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11506,8 +11506,8 @@
  },
  {
   "id": "highlight-bud2025_sf-aleksib-double-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib smoke read spray",
-  "description": "Aleksib reads FaZe's smoke push perfectly, cutting down two with a spray.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib、スモーク越しのスプレー",
+  "description": "Aleksib は FaZe のスモークからのプッシュを完全に読み、正確なスプレー射撃で2キルした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11521,8 +11521,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-double-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t B-site stand",
-  "description": "b1t holds his ground on the B-site, finding two kills against FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、B サイトを死守",
+  "description": "b1t が FaZe から2キルを奪い、爆弾設置地点 B を死守する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11536,8 +11536,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-triple-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM USP-S quad threat",
-  "description": "iM nearly pulls off a quad kill with the USP-S, but jcobbb shuts him down.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、USP-S で4キルならず",
+  "description": "iM が USP-S で4キルに迫るも、jcobbb に阻止される。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11551,8 +11551,8 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-quadro-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb Redroom sweep",
-  "description": "jcobbb pushes through Red Room, finding two kills with his Galil AR before finishing the last two with his pistol.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb のレッドルーム・スイープ",
+  "description": "レッドルームまでプッシュした jcobbb、Galil AR で2キルを奪い、残る2人もピストルで始末する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11566,8 +11566,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-double-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan smoke double",
-  "description": "karrigan steps through the smoke, outduels Aleksib, and immediately takes down b1t on Mid, before refrag from makazze.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan のスモーク・ダブル",
+  "description": "スモークを通り抜けた karrigan は Aleksib とのデュエルに勝利し、すぐさまミッドの b1t を倒すが、最後は makazze に反撃される。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11581,8 +11581,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-double-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze A-plant entry",
-  "description": "makazze catches broky off guard and follows up with a kill on jcobbb to secure the A-plant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、A へのエントリー",
+  "description": "broky の隙をついた makazze は、さらに jcobbb も倒して A 地点への爆弾設置を確実なものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11596,8 +11596,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-quadro-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze Mid wide swing",
-  "description": "makazze explodes onto Mid with a wide swing, killing four opponents.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、ミッドへのワイドスイング",
+  "description": "大胆なスイングでミッドに躍り出た makazze が4人の敵を倒す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11611,8 +11611,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-triple-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze Redroom transfer",
-  "description": "makazze shows off a sharp spray transfer for two kills before finishing broky in Red Room with a headshot.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze、レッドルームへのスプレー",
+  "description": "makazze が見事なスプレー射撃で2キルを奪い、最後はレッドルームの broky にヘッドショットを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11626,8 +11626,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-double-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful Mid to A punish",
-  "description": "w0nderful finds frozen on Mid, then shuts down karrigan's aggressive play on A.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、Mid から A にプッシュ",
+  "description": "w0nderful はミッドで frozen をキルし、爆弾設置地点 A で karrigan のアグレッシブなプレイを咎める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11641,8 +11641,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-triple-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful A-site triple",
-  "description": "w0nderful holds strong on the A-site, securing a triple kill against FaZe in a final round of the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、A で3キル",
+  "description": "w0nderful が爆弾設置地点 A を堅守。マップの最終ラウンドで FaZe から3キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11656,8 +11656,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FaZe on Ancient",
-  "description": "w0nderful did not take chances and demonstrated masterful AWPing against FaZe on Ancient.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での w0nderful vs FaZe",
+  "description": "Ancient での w0nderful はリスクを冒さず、FaZe 相手に AWP 使いの本領を発揮した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11671,8 +11671,8 @@
  },
  {
   "id": "highlight-bud2025_sf-aleksib-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FaZe on Ancient",
-  "description": "Aleksib read the opponents' movements and the situation on Ancient perfectly, leading to a win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での Aleksib vs FaZe",
+  "description": "Aleksib は相手の動きと戦況を読み切り、チームを Ancient での勝利に導いた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11686,8 +11686,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FaZe on Ancient",
-  "description": "b1t was a reliable part of the game plan for Natus Vincere on Ancient.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での b1t vs FaZe",
+  "description": "b1t は Ancient で安定した動きを見せ、Natus Vincere のゲームプラン完遂に貢献した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11701,8 +11701,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FaZe on Ancient",
-  "description": "iM played aggressively upfront, consistently finding frags on Ancient.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での iM vs FaZe",
+  "description": "iM は Ancient でアグレッシブにフロントを張り、着実にキルを重ねていった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11716,8 +11716,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FaZe on Ancient",
-  "description": "makazze delivered a remarkable performance on Ancient against FaZe, helping Natus Vincere secure the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での makazze vs FaZe",
+  "description": "makazze は Ancient で FaZe 相手に見事なパフォーマンスを発揮。Natus Vincere のマップ勝利に貢献した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11731,8 +11731,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Natus Vincere on Ancient",
-  "description": "karrigan attempted to shift the momentum on Ancient, but Natus Vincere held firm.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での karrigan vs Natus Vincere",
+  "description": "karrigan は Ancient の流れを変えようと奮闘するが、Natus Vincere の牙城は崩せなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11746,8 +11746,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Natus Vincere on Ancient",
-  "description": "broky found a few multi-frags on Ancient, but it wasn't enough to stop Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での broky vs Natus Vincere",
+  "description": "broky は Ancient で数回のマルチキルを達成するが、Natus Vincere の勢いは止められなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11761,8 +11761,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Natus Vincere on Ancient",
-  "description": "Twistzz tried to make an impact on Ancient, finding openings and trading where possible, but FaZe couldn't gain momentum.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での Twistzz vs Natus Vincere",
+  "description": "Twistzz は Ancient で何度もオープニングキルを決め、可能なときはトレードに持ち込んだが、FaZe は勢いに乗ることができなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11776,8 +11776,8 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Natus Vincere on Ancient",
-  "description": "jcobbb gave everything he had, looking to drag FaZe back into the game on Ancient.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での jcobbb vs Natus Vincere",
+  "description": "jcobbb は FaZe の勢いを取り戻すべく、Ancient で死力を尽くした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11791,8 +11791,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Natus Vincere on Ancient",
-  "description": "frozen looked for consistency on Ancient, contributing where he could, though Natus Vincere kept control of the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Ancient での frozen vs Natus Vincere",
+  "description": "frozen は Ancient で献身的に、安定したプレーを目指したが、Natus Vincere がマップの支配を明け渡すことはなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11806,8 +11806,8 @@
  },
  {
   "id": "highlight-bud2025_sf-spirit-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit on the SF stage",
-  "description": "Spirit enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Spirit、準決勝進出",
+  "description": "Spirit が StarLadder Budapest Major 2025 の準決勝に進出。Vitality 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11821,8 +11821,8 @@
  },
  {
   "id": "highlight-bud2025_sf-vitality-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality on the SF stage",
-  "description": "Vitality enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality、準決勝進出",
+  "description": "Vitality が StarLadder Budapest Major 2025 の準決勝に進出。Spirit 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11836,8 +11836,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-double-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX overtime closer",
-  "description": "apEX closes out overtime on Mirage with two final kills against Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、オーバータイムを締めくくる",
+  "description": "apEX は Mirage のオーバータイムで Spirit から2キルを奪い、マップをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11851,8 +11851,8 @@
  },
  {
   "id": "highlight-bud2025_sf-chopper-triple-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper calm 1v3",
-  "description": "In overtime, chopper steps up in a 1v3 clutch against Vitality, calmly taking down his opponents one by one to equalize the score.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper、冷静に 1v3",
+  "description": "オーバータイム中、chopper は Vitality 相手の 1v3 クラッチに臨み、1人ずつ冷静に倒してスコアをイーブンにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11866,8 +11866,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-triple-on-mirage-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk smoke burst",
-  "description": "donk bursts through the smoke, quickly finding three kills on A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk のスモーク突破",
+  "description": "donk が爆弾設置地点 A でスモークを突き抜け、あっという間に3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11881,8 +11881,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-triple-on-mirage-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk Mid takeover",
-  "description": "donk takes over Mid with a triple kill against Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk、ミッドを奪還",
+  "description": "donk が Vitality から3キルを奪ってミッドを奪還する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11896,8 +11896,8 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-triple-on-mirage-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii B-aps shutdown",
-  "description": "mezii shuts down chopper in B-apartments before securing two more kills around the B-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、アパートを封鎖",
+  "description": "mezii がアパートで chopper を倒し、引き続き爆弾設置地点 B 周辺で2キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11911,8 +11911,8 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-triple-on-mirage-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii perfect read",
-  "description": "mezii reads Spirit's B-site execute perfectly, using his game sense to secure three kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、完璧な読み",
+  "description": "抜群のゲームセンスで Spirit の B エクセキュートを読んだ mezii が、3キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11926,8 +11926,8 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-triple-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz round flip",
-  "description": "ropz perfectly predicts Spirit's positions, swinging the round in his team's favor making three kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、ラウンド逆転",
+  "description": "ropz は Spirit 選手の位置を的確に予測し、3キルを奪ってラウンドの流れを自チームに引き寄せる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11941,8 +11941,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-triple-on-mirage-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R Firebox gamble",
-  "description": "tN1R's risky Firebox play nets two kills, but ropz prevails in the final duel.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R、ファイヤーボックスでギャンブル",
+  "description": "tN1R はファイヤーボックスで賭けに出て2キルを奪うが、最後のデュエルでは ropz に軍配が上がる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11956,8 +11956,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-triple-on-mirage-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R finishing double",
-  "description": "tN1R wins the duel against ZywOo and follows it up with a double to close the round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R、2キルでフィニッシュ",
+  "description": "tN1R は ZywOo とのデュエルに勝利し、さらにキルを奪ってラウンドを制する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11971,8 +11971,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-quadro-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo Short play",
-  "description": "ZywOo opens with a kill on Mid, then takes over the round by shutting down enemies from all angles.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo のショート",
+  "description": "ミッドでオープニングキルを取った ZywOo が、あらゆるアングルから敵を倒してラウンドをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11986,8 +11986,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs Spirit on Mirage",
-  "description": "apEX kept his head cool under intense pressure, delivering the necessary individual impact and crucial calls against Spirit to secure the map victory for Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での apEX vs Spirit",
+  "description": "激しいプレッシャーに晒されながらも冷静さを失わなかった apEX。個人でもインパクトを残しつつ、ここぞというときのコールで Spirit を抑え、Vitality にマップ勝利をもたらした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12001,8 +12001,8 @@
  },
  {
   "id": "highlight-bud2025_sf-chopper-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper vs Vitality on Mirage",
-  "description": "chopper showed true resilience and a relentless fighting spirit on Mirage, but his efforts were ultimately not enough to secure the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での chopper vs Vitality",
+  "description": "chopper は Mirage で粘り強さと激しい闘志を示したが、それでもマップを奪うには至らなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12016,8 +12016,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk vs Vitality on Mirage",
-  "description": "donk did not hesitate and forced Vitality into mistakes; however, Spirit were unable to convert the opportunity into a map win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での donk vs Vitality",
+  "description": "donk は思い切りのよさで Vitality のミスを誘うが、Spirit はそのチャンスを活かしてマップを取ることができなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12031,8 +12031,8 @@
  },
  {
   "id": "highlight-bud2025_sf-flamez-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs Spirit on Mirage",
-  "description": "On Mirage, flameZ applied constant pressure, consistently forcing Spirit out of position and into critical mistakes.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での flameZ vs Spirit",
+  "description": "Mirage では flameZ が常にプレッシャーをかけ、Spirit 選手をポジションから追い出し、重大なミスを誘発させた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12046,8 +12046,8 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs Spirit on Mirage",
-  "description": "mezii was a consistent powerhouse for Vitality, demonstrating peak individual form and delivering crucial, high-impact frags throughout Mirage.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での mezii vs Spirit",
+  "description": "mezii は Mirage で最高のパフォーマンスを披露。大事な場面で何度もキルを奪い、Vitality の快進撃の原動力となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12061,8 +12061,8 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs Spirit on Mirage",
-  "description": "Mirage was full of action from ropz, whose precision and well-calculated moves allowed him to turn multiple unfavorable situations into winnable ones.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での ropz vs Spirit",
+  "description": "Mirage で躍動した ropz。計算された動きと高い精度で、不利な状況から何度も勝ち筋を見出した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12076,8 +12076,8 @@
  },
  {
   "id": "highlight-bud2025_sf-sh1ro-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro vs Vitality on Mirage",
-  "description": "sh1ro fought hard, securing vital kills, though Vitality were simply stronger this time around.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での sh1ro vs Vitality",
+  "description": "sh1ro は重要な局面でキルを取り、懸命に戦ったが、今回は Vitality の牙城を崩せなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12091,8 +12091,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R vs Vitality on Mirage",
-  "description": "tN1R was fully committed to the fight, but Mirage ultimately went to Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での tN1R vs Vitality",
+  "description": "全力で戦いに臨んだ tN1R だが、最終的に Mirage は Vitality の手に落ちた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12106,8 +12106,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zweih-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih vs Vitality on Mirage",
-  "description": "zweih made multiple proactive attempts to disrupt and change the pace on Mirage; despite his best efforts, Vitality secured the map win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での zweih vs Vitality",
+  "description": "zweih は試合の流れを変えるべく、何回も積極的に相手をかき乱そうとしたが、力及ばず Vitality が Mirage の勝者となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12121,8 +12121,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs Spirit on Mirage",
-  "description": "ZywOo didn't hold back on Mirage against Spirit, unleashing his signature form and delivering a strong performance.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Mirage での ZywOo vs Spirit",
+  "description": "ZywOo は Mirage で彼の代名詞ともいえる武器を手に盤石のパフォーマンスを発揮。Spirit を容赦なくねじ伏せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12136,8 +12136,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful long-range triple",
-  "description": "w0nderful takes a long-range fight against multiple opponents on Nuke, securing a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、遠距離3キル",
+  "description": "Nuke で遠距離からの交戦を選んだ w0nderful、見事に3キルを積み上げる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12151,8 +12151,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t Outside to B stop",
-  "description": "b1t finds an opening kill on Outside and, after rotating to B, stops FaZe from advancing onto the site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、屋外から B 防衛へ",
+  "description": "b1t は屋外でオープニングキルを獲得、その後 B にローテーションして FaZe のサイト進入を阻止する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12166,8 +12166,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-quadro-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM pistol quad",
-  "description": "iM delivers a quad kill in the opening pistol round against FaZe with his Dual Berettas.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、ピストルで4キル",
+  "description": "FaZe 戦のオープニングラウンド、iM が Dual Beretta で4キルを達成する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12181,8 +12181,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-quadro-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM rotation payoff",
-  "description": "iM's rotations pay off as he finds four kills across the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM、効果的なローテーション",
+  "description": "iM のローテーションが奏功し、マップ各所で合計4キルを獲得。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12196,8 +12196,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan Main entry triple",
-  "description": "karrigan greets makazze with a bullet in Main, then follows up with two more kills on the site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、メインで3キル",
+  "description": "karrigan がメインで makazze に挨拶がわりの銃弾を叩きこみ、サイト内でさらに2人を倒す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12211,8 +12211,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky A-site equalizer",
-  "description": "broky makes his way onto the A-site, securing a triple kill to equal the score on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | A サイトのイコライザー、broky",
+  "description": "爆弾設置地点 A に突入した broky が3キルを決めて Nuke のスコアをイーブンに戻す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12226,8 +12226,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-quadro-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz Ramp bomb hold",
-  "description": "Twistzz opens up Ramp, clears the way to the site, and holds off three players on the bomb.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、スロープからの爆弾防衛",
+  "description": "Twistzz がスロープをこじ開けて爆弾設置地点までの露払いをし、3人の選手から爆弾を守り抜く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12241,8 +12241,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-triple-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Ramp triple",
-  "description": "frozen holds off Natus Vincere from Ramp, securing a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、スロープで3キル",
+  "description": "frozen がスロープで Natus Vincere を食い止め、3キルを獲得。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12256,8 +12256,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-triple-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen backstab cleanup",
-  "description": "frozen takes down w0nderful from behind before cleaning up the site against the final two players.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、バックスタブからのクリーンアップ",
+  "description": "frozen は死角から w0nderful を葬り、続けてサイト内に残る2人も排除する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12271,8 +12271,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FaZe on Nuke",
-  "description": "w0nderful led Natus Vincere on Nuke with consistent impact, keeping his team competitive throughout the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での w0nderful vs FaZe",
+  "description": "Nuke での w0nderful は安定したパフォーマンスで Natus Vincere を率い、マップを通じて接戦を演出した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12286,8 +12286,8 @@
  },
  {
   "id": "highlight-bud2025_sf-aleksib-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FaZe on Nuke",
-  "description": "Aleksib contributed smart reads and timely frags on Nuke, helping Natus Vincere stay in the fight until the end.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Aleksib vs FaZe",
+  "description": "Nuke での Aleksib は鋭い読みとタイムリーなキルでチームに貢献。Natus Vincere は最後まで接戦を繰り広げた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12301,8 +12301,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FaZe on Nuke",
-  "description": "b1t was fighting hard on Nuke, to keep Natus Vincere in fight against FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での b1t vs FaZe",
+  "description": "b1t は Nuke で懸命に戦い、Natus Vincere は FaZe に最後まで食らいついた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12316,8 +12316,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FaZe on Nuke",
-  "description": "iM provided steady firepower on Nuke, finding key kills during Natus Vincere's early momentum.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での iM vs FaZe",
+  "description": "Nuke での iM は安定した火力でインパクトの高いキルを取り、序盤から Natus Vincere を勢いづかせた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12331,8 +12331,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FaZe on Nuke",
-  "description": "makazze looked for impact on Nuke with aggressive plays, but FaZe's defense limited his effectiveness.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での makazze vs FaZe",
+  "description": "Nuke での makazze はアグレッシブな立ち回りで爪痕を残そうとしたが、FaZe の守りは堅く、大きな戦果は挙げられなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12346,8 +12346,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-vs-navi-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Natus Vincere on Nuke",
-  "description": "karrigan guided FaZe through a strong comeback on Nuke, supporting the team with key moments.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での karrigan vs Natus Vincere",
+  "description": "karrigan は重要な局面でチームを支え、FaZe は Nuke で見事な逆転を果たした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12361,8 +12361,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-vs-navi-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Natus Vincere on Nuke",
-  "description": "broky had flashes of impact on Nuke, contributing in crucial rounds during FaZe's push.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での broky vs Natus Vincere",
+  "description": "Nuke で幾度も輝きを見せた broky、重要なラウンドで活躍して FaZe の攻勢を支えた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12376,8 +12376,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-vs-navi-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Natus Vincere on Nuke",
-  "description": "Twistzz consistently found kills on Nuke, helping FaZe recover and take control of the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Twistzz vs Natus Vincere",
+  "description": "Nuke での Twistzz は継続的にキルを奪い、FaZe のマップコントロールと逆転に寄与した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12391,8 +12391,8 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-vs-navi-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Natus Vincere on Nuke",
-  "description": "jcobbb picked up some solid frags, but ultimately struggled to find his footing on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での jcobbb vs Natus Vincere",
+  "description": "Nuke での jcobbb 手堅くキルを奪うものの、最後まで活躍のきっかけをつかみきれなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12406,8 +12406,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-vs-navi-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Natus Vincere on Nuke",
-  "description": "frozen dominated on Nuke, delivering a standout performance that powered FaZe to the map win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での frozen vs Natus Vincere",
+  "description": "Nuke での frozen は突出したパフォーマンスを披露し、FaZe のマップ勝利の原動力となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12421,8 +12421,8 @@
  },
  {
   "id": "highlight-bud2025_sf-vitality-victory",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality wins in the SF",
-  "description": "Vitality secures a 2:0 victory over Spirit in the semifinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality、準決勝を制す",
+  "description": "Vitality は Spirit を相手に、StarLadder Budapest Major 2025 の準決勝において2:0で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12436,8 +12436,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-quadro-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk door-to-AWP rampage",
-  "description": "donk sprays down ZywOo through the door, continues his smoky run by taking down apEX, then switches to the AWP to land two more shots.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk、ドア・トゥ・AWP",
+  "description": "donk はドアでスモーク越しのスプレーで ZywOo を倒し、続けて apEX もキル。そこから AWP に持ち替え、さらに2人を仕留める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12451,8 +12451,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zweih-triple-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih tunnels opener",
-  "description": "zweih opens on ZywOo in Tunnels and adds a double on the cross to B-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih、トンネルでのオープニングキル",
+  "description": "トンネルで ZywOo を沈めた zweih、爆弾設置地点 B に向かう途中でさらに2キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12466,8 +12466,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R doors to B plant",
-  "description": "tN1R picks off mezii from the doors, then swiftly takes down ropz to secure the B-site plant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R、ドアから B への設置",
+  "description": "tN1R はドア越しに mezii を倒し、続けて速やかに ropz も片付けて B への爆弾設置を成功させる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12481,8 +12481,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-triple-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo pistol round burst",
-  "description": "ZywOo opens Dust II with three USP-S kills against Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、ピストルラウンドで連続キル",
+  "description": "Dust II のオープニングラウンド、ZywOo は USP-S で Spirit から3キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12496,8 +12496,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-triple-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo smoke stumble",
-  "description": "ZywOo stumbles upon three opponents in the smoke on Short and secures the round for Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、煙の中からコンニチハ",
+  "description": "ZywOo はショートのスモーク内で3人の敵に遭遇。これを片づけて Vitality にラウンドをもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12511,8 +12511,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX early double",
-  "description": "apEX makes his mark early on Dust II, securing a double kill in the second round with his FAMAS.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、序盤の2キル",
+  "description": "Dust II の第2ラウンド、apEX は FAMAS で2キルを奪って早々にインパクトを残す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12526,8 +12526,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-triple-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX A-site lockdown",
-  "description": "apEX locks down the A-site from Goose with a triple kill, making life much harder for Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、A を完全封鎖",
+  "description": "apEX はグースから3キルを決めて爆弾設置地点 A を完全封鎖、Spirit を突き放す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12541,8 +12541,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-triple-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX Long dance",
-  "description": "apEX finds a triple kill on Long while weaving through the smokes and molotovs against Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、ロングで縦横無尽",
+  "description": "Dust II のロング、apEX は煙と炎の間を自在に動き回って Spirit から3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12556,8 +12556,8 @@
  },
  {
   "id": "highlight-bud2025_sf-flamez-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ map closer",
-  "description": "flameZ's double kill on A seals the map victory for Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ、マップクローザー",
+  "description": "flameZ が爆弾設置地点 A でダブルキルを決め、Vitality がマップをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12571,8 +12571,8 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-triple-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz smoke pick",
-  "description": "ropz finds chopper through the smoke on Mid, but the bomb goes toward A, and in a bold attempt to further damage Vitality's economy, both Spirit players lose their lives.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、スモーク越し",
+  "description": "ropz はミッドでスモーク越しに chopper を仕留めるが、爆弾は A に設置される。Spirit の2選手は Vitality のエコノミーを圧迫しようと大胆にプレッシャーをかけるものの、結局返り討ちにあってしまう。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12586,8 +12586,8 @@
  },
  {
   "id": "highlight-bud2025_sf-chopper-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | chopper vs Vitality on Dust II",
-  "description": "On Dust II, chopper repeatedly tried to impose a fight on Vitality, but their superior form proved too much for Spirit.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での chopper vs Vitality",
+  "description": " chopper は Dust II で繰り返し Vitality にファイトを挑んだが、Spirit はコンディションに勝る相手を崩しきれなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12601,8 +12601,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | donk vs Vitality on Dust II",
-  "description": "donk put in a decent performance on Dust II; however, Vitality were simply unstoppable.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での donk vs Vitality",
+  "description": "Dust II で上々の動きを見せた donk だが、Vitality の勢いを止めることはできなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12616,8 +12616,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zweih-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | zweih vs Vitality on Dust II",
-  "description": "zweih fought tirelessly, constantly looking to gain advantages for his team, but despite the strong individual effort, it wasn't enough for Spirit to secure a win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での zweih vs Vitality",
+  "description": "zweih はチームにアドバンテージをもたらそうと献身的に戦ったが、その努力は実を結ばず、Spirit は勝利をつかめなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12631,8 +12631,8 @@
  },
  {
   "id": "highlight-bud2025_sf-sh1ro-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | sh1ro vs Vitality on Dust II",
-  "description": "sh1ro couldn't find his tempo on Dust II, and Vitality capitalized on his quiet performance to secure the map win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での sh1ro vs Vitality",
+  "description": "Dust II での sh1ro は最後までテンポをつかめず、Vitality は彼の低調なパフォーマンスをついてマップをものにした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12646,8 +12646,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | tN1R vs Vitality on Dust II",
-  "description": "tN1R was constantly on the lookout for potential openings and tactical flaws to disrupt Vitality's plans, but their strategy remained too solid, leading them to victory.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での tN1R vs Vitality",
+  "description": "tN1R は Vitality の戦術ミスや作戦の欠陥を探し続けたが、彼らのプランはあまりに盤石で、勝利をもぎ取られてしまった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12661,8 +12661,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs Spirit on Dust II",
-  "description": "ZywOo completely dominated on Dust II, leaving Spirit with no real chance to equalize the score in the series.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ZywOo vs Spirit",
+  "description": "ZywOo は Dust II を完全に支配し、Spirit はついにスコアを並べる機会を得られなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12676,8 +12676,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs Spirit on Dust II",
-  "description": "apEX demonstrated exceptional game sense, consistently reading the opponent's strategy while also delivering a strong individual performance.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での apEX vs Spirit",
+  "description": "apEX は卓越したゲームセンスを見せつけ、常に相手の戦略を読み、個人としてもソリッドな成績を残した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12691,8 +12691,8 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs Spirit on Dust II",
-  "description": "Dust II was full of opening kills from mezii, whose early success gave Vitality the edge they needed to secure the map win.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での mezii vs Spirit",
+  "description": "Dust II で次々にオープニングキルを決めた mezii。彼の序盤の好パフォーマンスは、マップ勝利につながるアドバンテージを Vitality にもたらした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12706,8 +12706,8 @@
  },
  {
   "id": "highlight-bud2025_sf-flamez-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs Spirit on Dust II",
-  "description": "flameZ went big with multi-frags on Dust II, ensuring Vitality closed out the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での flameZ vs Spirit",
+  "description": "Dust II での flameZ は、インパクトの大きいマルチキルで Vitality のマップ勝利を確定させた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12721,8 +12721,8 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs Spirit on Dust II",
-  "description": "By securing a win against Spirit, ropz continued his impressive streak, reaching every single CS2 Major grand final.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ropz vs Spirit",
+  "description": "Spirit 戦で勝利をつかんだことで、ropz は CS2 メジャーのグランドファイナル連続進出記録をさらに伸ばすこととなった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12736,8 +12736,8 @@
  },
  {
   "id": "highlight-bud2025_sf-faze-win",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe win in the SF",
-  "description": "FaZe secures a 2:1 victory over Natus Vincere in the semifinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe、準決勝を制す",
+  "description": "FaZe は Natus Vincere を相手に、StarLadder Budapest Major 2025 の準決勝において2:1で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12751,8 +12751,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful post-plant hold",
-  "description": "w0nderful removes Twistzz from under Balcony before stopping two players in the post-plant on A-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful、アフタープラントのディフェンス",
+  "description": "w0nderful は Twistzz をバルコニー下から排除。その後 A への爆弾設置後に2人の選手を阻止する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12766,8 +12766,8 @@
  },
  {
   "id": "highlight-bud2025_sf-aleksib-double-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib CT lockdown",
-  "description": "Aleksib holds firm from CT, picking up two kills while covering every angle on B.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib、CTからのロックダウン",
+  "description": "Aleksib はCT開始地点からあらゆるアングルをカバーしつつ2キルを獲得、爆弾設置地点 B を守り抜く。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12781,8 +12781,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-quadro-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t Triple timing quad",
-  "description": "b1t finds perfect timing from Triple and turns it into a quad kill against FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、トリプルからのクアッド",
+  "description": "b1t はトリプルから完璧なタイミングでキルを重ね、FaZe からクアッドキルをもぎ取る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12796,8 +12796,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-defuse-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t last-second defuse",
-  "description": "b1t takes down broky and successfully defuses the bomb with just 0.049 seconds left.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t、間一髪の解除",
+  "description": "broky を倒した b1t が、残り0.049秒で爆弾の解除に成功する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12811,8 +12811,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-double-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan pistol headshots",
-  "description": "karrigan lands two headshots in the opening pistol round against Natus Vincere on Inferno.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、ピストルヘッドショット",
+  "description": "Inferno のオープニングラウンド、karrigan は Natus Vincere 相手に2発のヘッドショットを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12826,8 +12826,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-double-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky Triple surprise",
-  "description": "broky hides behind Triple, then pops up when no one expects him to secure the round for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、トリプル・サプライズ",
+  "description": "トリプルに身を隠した broky が、予想だにしなかったタイミングで飛び出して FaZe にラウンドをもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12841,8 +12841,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-double-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz Banana to CT swing",
-  "description": "Twistzz stops b1t on Banana and finishes the round by swinging into CT.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、バナナからCTへ",
+  "description": "Twistzz はバナナで b1t を食い止め、CT開始地点にスイングしてラウンドを締めくくる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12856,8 +12856,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-quadro-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz Deagle quad",
-  "description": "Twistzz goes huge with a Deagle quad kill, locking in the 12th round for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、Deagle 4キル",
+  "description": "Twistzz の Deagle がうなりを上げ、4キルを獲得して FaZe に12ラウンド目をもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12871,8 +12871,8 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb A-site spraydown",
-  "description": "jcobbb shuts down Natus Vincere's A-site push with a three-kill spray.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb、A でのスプレー",
+  "description": "jcobbb がスプレー射撃で3キルを取り、Natus Vincere の A プッシュを阻止する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12886,8 +12886,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Banana opener",
-  "description": "frozen finds an opening kill on Banana before securing two more from the B-site.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、バナナでのオープニングキル",
+  "description": "frozen はバナナでのオープニングキルに続き、爆弾設置地点 B でさらに2キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12901,8 +12901,8 @@
  },
  {
   "id": "highlight-bud2025_sf-w0nderful-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | w0nderful vs FaZe on Inferno",
-  "description": "On Inferno, w0nderful struggled to find consistent impact, as FaZe repeatedly challenged his AWP control and limited his influence.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での w0nderful vs FaZe",
+  "description": "Inferno での w0nderful は安定してインパクトを残せず苦戦を強いられた。FaZe から執拗に AWP を狙われ、影響力を抑え込まれたのが原因だ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12916,8 +12916,8 @@
  },
  {
   "id": "highlight-bud2025_sf-aleksib-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Aleksib vs FaZe on Inferno",
-  "description": "Aleksib poured everything into his calling and fragging on Inferno; however, Natus Vincere couldn't maintain control in the crucial rounds.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Aleksib vs FaZe",
+  "description": "Inferno での Aleksib は、コールにも個人のキルにも全力を尽くしたが、Natus Vincere は重要なラウンドを抑えることができなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12931,8 +12931,8 @@
  },
  {
   "id": "highlight-bud2025_sf-b1t-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | b1t vs FaZe on Inferno",
-  "description": "b1t fought hard on Inferno, contesting space and winning key duels, but the momentum gradually slipped away from Natus Vincere.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での b1t vs FaZe",
+  "description": "Inferno での b1t は、ポジション争いでもデュエルでも懸命に戦った。にもかかわらず、Natus Vincere は徐々に勢いを失ってしまった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12946,8 +12946,8 @@
  },
  {
   "id": "highlight-bud2025_sf-im-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | iM vs FaZe on Inferno",
-  "description": "iM raised his individual level on Inferno, delivering important kills, yet the collective effort was not enough to turn the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での iM vs FaZe",
+  "description": "iM は Inferno で一段階上の個人パフォーマンスを見せ、インパクトの大きいキルを獲得したが、努力を重ねてもマップを確保するには至らなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12961,8 +12961,8 @@
  },
  {
   "id": "highlight-bud2025_sf-makazze-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | makazze vs FaZe on Inferno",
-  "description": "makazze played proactively on Inferno, constantly looking to create openings, but FaZe's structure remained too solid to break.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での makazze vs FaZe",
+  "description": "Inferno での makazze は積極的にプレイし、常に突破口を生み出すべく動いていたが、FaZe の壁はあまりに分厚かった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12976,8 +12976,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Natus Vincere on Inferno",
-  "description": "karrigan exploited tactical openings on Inferno, calling rotations that consistently kept Natus Vincere uncomfortable.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での karrigan vs Natus Vincere",
+  "description": "Inferno での karrigan は戦術的な隙を見逃さず、Natus Vincere が対応しづらいローテーションをコールし続けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12991,8 +12991,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Natus Vincere on Inferno",
-  "description": "broky had a major impact on Inferno, delivering crucial AWP kills that shut down Natus Vincere's comeback attempts.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での broky vs Natus Vincere",
+  "description": "Inferno での broky は、ここぞという時の AWP キルで Natus Vincere のカムバックを阻止し、試合に多大な影響を与えた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13006,8 +13006,8 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Natus Vincere on Inferno",
-  "description": "Twistzz was sharp in his duels on Inferno, finding key headshots and multi-frags in pivotal moments.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Twistzz vs Natus Vincere",
+  "description": "Inferno での Twistzz は冴え渡っており、次々にヘッドショットやマルチキルを決めて試合の流れを確かなものにした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13021,8 +13021,8 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Natus Vincere on Inferno",
-  "description": "jcobbb applied steady pressure on Inferno, making solid frags as FaZe tightened their grip on the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での jcobbb vs Natus Vincere",
+  "description": "Inferno での jcobbb は相手にプレッシャーをかけ続け、手堅くキルを重ねて FaZe のマップ勝利を引き寄せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13036,8 +13036,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Natus Vincere on Inferno",
-  "description": "frozen made the difference on Inferno, delivering high-impact rounds that allowed FaZe to control the pace and close out the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での frozen vs Natus Vincere",
+  "description": "Inferno では frozen が重要なラウンドで躍動。これによりFaZe は試合のペースをコントロールし、マップを締めくくることができた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13051,8 +13051,8 @@
  },
  {
   "id": "highlight-bud2025_gf-vitality-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality on the GF stage",
-  "description": "Vitality enter the grandfinal stage of the StarLadder Budapest Major 2025, set to face FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality、グランドファイナルに登場",
+  "description": "Vitality が StarLadder Budapest Major 2025 のグランドファイナルのステージに入場。FaZe 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13066,8 +13066,8 @@
  },
  {
   "id": "highlight-bud2025_gf-faze-entrance",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe on the GF stage",
-  "description": "FaZe enter the grandfinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | FaZe、グランドファイナルに登場",
+  "description": "FaZe が StarLadder Budapest Major 2025 のグランドファイナルのステージに入場。Vitality 戦に臨む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13081,8 +13081,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-double-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX smoke gap",
-  "description": "apEX catches Twistzz through a smoke gap before swiftly taking down jcobbb.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、スモークギャップ",
+  "description": "apEX が HE でスモークが消えた瞬間に Twistzz を倒し、続けて jcobbb もキルする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13096,8 +13096,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ Squeaky triple",
-  "description": "flameZ holds Squeaky through heavy utility and secures a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ、ドアで3キル",
+  "description": "軋むドアに次々とユーティリティが投げ込まれるなか、flameZ がトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13111,8 +13111,8 @@
  },
  {
   "id": "highlight-bud2025_gf-jcobbb-triple-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb USP-S triple",
-  "description": "jcobbb silences three players from multiple angles with his USP-S on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb、USP-Sで3キル",
+  "description": "Nuke、jcobbb が様々なアングルから USP-S でキルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13126,8 +13126,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-triple-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan rotation triple",
-  "description": "karrigan's rotations pay off as he secures a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、ローテーションからの3キル",
+  "description": "ローテーションが見事にハマり、karrigan がトリプルキルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13141,8 +13141,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-triple-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan Lobby MP9",
-  "description": "karrigan makes the most of his MP9, making a triple kill from Lobby.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan、ロビーでのMP9",
+  "description": "karrigan が MP9 を最大限に活用し、ロビーでトリプルキルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13156,8 +13156,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-clutch-1v3-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii post-plant",
-  "description": "mezii defends the bomb against three players, bringing the score to 6:12.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii のアフタープラント",
+  "description": "mezii が3人の敵から爆弾を守り抜き、スコアを6:11に持ち込む。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13171,8 +13171,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-double-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz Heaven double",
-  "description": "ropz strikes from Heaven with two fast kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、ヘブンで2キル",
+  "description": "ropz がヘブンから素早く2キルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13186,8 +13186,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-quadro-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz Secret quad",
-  "description": "Twistzz's MP9 shines from Secret as he secures a quad kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、シークレットで4キル",
+  "description": "Twistzz の MP9 が火を吹き、シークレットから4キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13201,8 +13201,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-triple-on-nuke-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz pistol triple",
-  "description": "Twistzz secures the first pistol round by picking up a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、ピストルで3キル",
+  "description": "Twistzz がピストルでトリプルキルを決め、最初のピストルラウンドを奪取する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13216,8 +13216,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-triple-on-nuke-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz Garage triple",
-  "description": "Twistzz catches ropz in Garage before adding apEX and mezii for a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、ガレージから3キル",
+  "description": "Twistzz がガレージで ropz をキャッチし、さらに apEX と mezii も倒してトリプルキルを達成する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13231,8 +13231,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs FaZe on Nuke",
-  "description": "apEX looked to set the tone early with proactive play, but his efforts on Nuke were not enough to swing the map in Vitality's favor.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での apEX vs FaZe",
+  "description": "Nuke での apEX は序盤から積極的なプレイで波に乗ろうとするが、Vitality がマップの流れをつかむには至らなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13246,8 +13246,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-vs-vitality-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Vitality on Nuke",
-  "description": "broky stepped up when FaZe needed him, delivering key rounds that helped push his team ahead.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での broky vs Vitality",
+  "description": "broky はここぞという時に活躍して FaZe を支え、重要なラウンドを抑えてチームのリードを広げた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13261,8 +13261,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs FaZe on Nuke",
-  "description": "flameZ looked to force openings on Nuke, but FaZe pushed back strongly.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での flameZ vs FaZe",
+  "description": "flameZ は Nuke で強引にチャンスメークを試みるが、FaZe は堂々とこれを押し返した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13276,8 +13276,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-vs-vitality-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Vitality on Nuke",
-  "description": "frozen towered over the server on Nuke, showing a defining performance that drove FaZe to victory.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での frozen vs Vitality",
+  "description": "Nuke での frozen は、サーバーの覇者と呼ぶにふさわしいパフォーマンスで FaZe のマップ勝利を引き寄せた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13291,8 +13291,8 @@
  },
  {
   "id": "highlight-bud2025_gf-jcobbb-vs-vitality-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Vitality on Nuke",
-  "description": "jcobbb made a few crucial kills, to keep the team's momentum on Nuke.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での jcobbb vs Vitality",
+  "description": "Nuke での jcobbb は何度か価値の高いキルを決め、チームの勢いを維持した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13306,8 +13306,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-vs-vitality-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Vitality on Nuke",
-  "description": "karrigan guided FaZe through Nuke with calm leadership, keeping the team focused and in control as the rounds went on.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での karrigan vs Vitality",
+  "description": "Nuke での karrigan は落ち着いて FaZe をけん引、ラウンドが進んでもチームは集中と統制を失わなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13321,8 +13321,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs FaZe on Nuke",
-  "description": "mezii filled his role with steady play on Nuke, stepping up in moments but unable to fully change the flow of the game.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での mezii vs FaZe",
+  "description": "Nuke での mezii は安定したプレイで役割を果たし、時として前面に出て活躍したが、マップの流れを完全に変えることはできなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13336,8 +13336,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs FaZe on Nuke",
-  "description": "ropz battled to the very end on Nuke, picking up multi-frags along the way.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での ropz vs FaZe",
+  "description": "Nuke での ropz は何度もマルチキルを奪い、最後まであきらめずに戦った。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13351,8 +13351,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-vs-vitality-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Vitality on Nuke",
-  "description": "Twistzz regularly won his duels on Nuke, providing steady firepower throughout the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での Twistzz vs Vitality",
+  "description": "Nuke での Twistzz は幾度となくデュエルに勝利し、マップを通じて安定した火力をもたらした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13366,8 +13366,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs FaZe on Nuke",
-  "description": "ZywOo was the backbone for Vitality on Nuke, repeatedly finding key kills that kept his team alive in the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Nuke での ZywOo vs FaZe",
+  "description": "Nuke での ZywOo は、Vitality の屋台骨として大事な場面でキルを取り、チームの闘志を燃やし続けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13381,8 +13381,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-quadro-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo Long pistol wall",
-  "description": "ZywOo halts FaZe's push toward Long on Dust II, finding four kills with the USP-S.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、ピストルでロングを支配",
+  "description": "Dust II、ZywOo はロングで FaZe のプッシュを阻止。USP-S で4キルを奪った。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13396,8 +13396,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-clutch-1v2-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii CT clutch",
-  "description": "mezii finds broky on CT before clutching a 1v1 against jcobbb to claim the 8th round for Vitality.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、CTクラッチ",
+  "description": "mezii はCT開始地点の broky をキャッチ。続けて jcobbb との 1v1 を制して Vitality に8つ目のラウンドをもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13411,8 +13411,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-quadro-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ post-plant sweep",
-  "description": "flameZ removes karrigan and broky early before closing the first round with two more kills in the post-plant.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ、アフタープラントのスイープ",
+  "description": "flameZ は karrigan と broky を早々に排除し、爆弾設置後さらに2キルして第1ラウンドをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13426,8 +13426,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz Tunnel trap",
-  "description": "ropz stops frozen coming out of Tunnel before catching karrigan off guard.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、トンネルトラップ",
+  "description": "ropz はトンネルから出てすぐに frozen をキル。さらに背後から karrigan を仕留める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13441,8 +13441,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-triple-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky duel to triple",
-  "description": "broky wins the AWP duel against ZywOo, then catches ropz in Lower Tunnel and takes down apEX on Mid.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、デュエルから3キル",
+  "description": "ZywOo との AWP デュエルに勝利した brokyは、さらにトンネル下部で ropz、ミッドで apEX を撃破する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13456,8 +13456,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky Doors closer",
-  "description": "broky removes ropz in Doors and then takes down mezii to secure the first round for FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、ミッドドアから",
+  "description": "broky がミッドドアで ropz を倒し、さらに mezii もキルして FaZe にようやく1ラウンドをもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13471,8 +13471,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-triple-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky Scout showcase",
-  "description": "broky, Scout in hand, takes down ropz on Long, finishes mezii with a nade, and completes the triple by eliminating apEX.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、Scout で魅せる",
+  "description": "Scout を手にした broky がロングで ropz を撃ち抜き、グレネードで mezii にとどめを刺した後、apEX も倒してトリプルキルを達成。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13486,8 +13486,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-double-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz smoke timing",
-  "description": "Twistzz times his out of the smoke move perfectly to secure two kills on B.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、絶妙なタイミング",
+  "description": "爆弾設置地点 B、Twistzz は完璧なタイミングでスモークを抜けて2キルを取る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13501,8 +13501,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-triple-on-dust2-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Upper Tunnel sweep",
-  "description": "frozen cleans up Upper Tunnel with a triple kill, supported by Twistzz.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、トンネル上部のスイープ",
+  "description": "frozen が Twistzz のアシストを得つつ、トンネル上部でトリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13516,8 +13516,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-triple-on-dust2-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen B-site burst",
-  "description": "frozen pushes out of Tunnel and picks up a triple kill on B in the last round of Dust II.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、意地の B プッシュ",
+  "description": "Dust II の最終ラウンド、トンネルを抜けた frozen は B でトリプルキルを奪い、意地を見せる。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13531,8 +13531,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs FaZe on Dust II",
-  "description": "ZywOo set the standard early on Dust II, striking decisively as Vitality seized control from the opening rounds.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ZywOo vs FaZe",
+  "description": "Dust II での ZywOo は序盤からハイレベルなプレイを連発。キルを重ねて Vitality のリードを確実なものにした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13546,8 +13546,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs FaZe on Dust II",
-  "description": "apEX orchestrated Vitality's approach with confidence, ensuring FaZe were never allowed to build momentum.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での apEX vs FaZe",
+  "description": "apEX は自信をもって Vitality を指揮し、勢いに乗ろうともがく FaZe を制し続けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13561,8 +13561,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs FaZe on Dust II",
-  "description": "mezii played a key role in establishing the lead, winning early fights that tilted the map in Vitality's favor.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での mezii vs FaZe",
+  "description": "mezii は序盤のファイトで活躍し、Vitality がマップの流れをつかみ、リードするうえで大いに貢献した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13576,8 +13576,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs FaZe on Dust II",
-  "description": "flameZ brought sharp firepower throughout Dust II, reinforcing Vitality's dominance round after round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での flameZ vs FaZe",
+  "description": "Dust II での flameZ は、どのラウンドでもキレのある攻撃で Vitality の優勢を支えた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13591,8 +13591,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs FaZe on Dust II",
-  "description": "ropz contributed steadily, helping Vitality maintain pressure and deny FaZe any breathing room.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での ropz vs FaZe",
+  "description": "ropz の安定した立ち回りにより、Vitality は FaZe に猛プレッシャーをかけ続けることができた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13606,8 +13606,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Vitality on Dust II",
-  "description": "karrigan found himself chasing solutions on Dust II, as FaZe slipped further behind with each round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での karrigan vs Vitality",
+  "description": "karrigan は Dust II で懸命に打開策を探したが、ラウンド差は無情にも広がる一方であった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13621,8 +13621,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Vitality on Dust II",
-  "description": "broky attempted to stabilize FaZe's side, but Vitality's tempo kept him from gaining traction.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での broky vs Vitality",
+  "description": "broky は FaZe を安定させようと試みるも、Vitality のテンポに押し流される結果となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13636,8 +13636,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Vitality on Dust II",
-  "description": "Twistzz had a few favorable engagements, as FaZe remained pinned back for most of the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での Twistzz vs Vitality",
+  "description": "Twistzz が戦闘を有利に運べた回数はわずかしかなく、FaZe はほとんどのラウンドで動きを封じられていた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13651,8 +13651,8 @@
  },
  {
   "id": "highlight-bud2025_gf-jcobbb-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Vitality on Dust II",
-  "description": "jcobbb had little impact on Dust II, unable to influence key rounds as the map slipped away.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での jcobbb vs Vitality",
+  "description": "Dust II での jcobbb はインパクトに欠け、重要なラウンドでも活躍できずマップを落とすことになった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13666,8 +13666,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Vitality on Dust II",
-  "description": "frozen continued to fight for FaZe, but Vitality's firm grip on the map proved unbreakable.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Dust II での frozen vs Vitality",
+  "description": "FaZe のために戦い続けた frozen だが、Vitality の掌握からマップを奪うことはできなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13681,8 +13681,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo Construction spray",
-  "description": "ZywOo picks up the opening kill in Construction before spraying down two more opponents to win the round.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo、遺跡でのスプレー",
+  "description": "ZywOo が遺跡内でオープニングキルを決め、その後スプレー射撃でさらに2人倒してラウンドをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13696,8 +13696,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii Boost timing",
-  "description": "mezii hits the timing on Boost, takes down frozen and broky, then finishes the round by killing Twistzz.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、ブースト位置から",
+  "description": "mezii が遺跡のブースト位置からタイミングを計って frozen と broky をキル、さらに Twistzz を倒してラウンドに勝利する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13711,8 +13711,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-triple-on-inferno-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz crossfire triple",
-  "description": "ropz finds himself caught in the crossfire from FaZe, but still manages to secure a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、クロスファイア・トリプル",
+  "description": "ropz は FaZe からの十字砲火に晒されながらも、トリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13726,8 +13726,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-triple-on-inferno-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz Pit triple",
-  "description": "ropz finds a triple kill from Pit to make it 1:3 against FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、ピットで3キル",
+  "description": "ropz がピットからトリプルキルを奪い、FaZe 相手に 1:3 とする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13741,8 +13741,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-quadro-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky A-site opener",
-  "description": "broky clears the A-site with three kills and seals the round with a kill on flameZ.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、A オープナー",
+  "description": "broky が3キルを取って爆弾設置地点 A をこじ開け、最後は flameZ を倒してラウンドをものにする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13756,8 +13756,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-triple-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky lineup save",
-  "description": "broky catches apEX and ZywOo lined up and protects his teammate during the defuse against ropz.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky、撃ち抜いてセーブ",
+  "description": "broky は重なった状態の apEX と ZywOo を撃ち抜き、爆弾解除にあたるチームメイトを ropz から守る。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13771,8 +13771,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-triple-on-inferno-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Banana nade",
-  "description": "frozen lands a perfect nade on Banana, makes two smoke spam kills, and finishes the round killing apEX.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen のバナナネード",
+  "description": "frozen がバナナで完璧なグレネードを投げ、スモーク越しのスパムで2キルを獲得、さらに apEX を倒してラウンドに勝利する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13786,8 +13786,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-triple-on-inferno-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen Banana rush",
-  "description": "frozen charges through Banana, takes down ZywOo, then tucks into the corner for two more kills.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen のバナナラッシュ",
+  "description": "バナナに突入した frozen が ZywOo を倒し、コーナーに潜んでさらに2キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13801,8 +13801,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs FaZe on Inferno",
-  "description": "ZywOo's presence was felt all over Inferno, as his precise kills and calm control repeatedly tipped close rounds in Vitality's favor.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での ZywOo vs FaZe",
+  "description": "Inferno のあらゆる場所で存在感を示した ZywOo。正確なキルと冷静沈着なコントロールで、接戦を何度となく Vitality 有利に持ち込んだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13816,8 +13816,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs FaZe on Inferno",
-  "description": "apEX steered Vitality through Inferno with assured decision-making, keeping FaZe under constant strain.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での apEX vs FaZe",
+  "description": "Inferno での apEX は確かな判断で Vitality を率い、FaZe を苦しめ続けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13831,8 +13831,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs FaZe on Inferno",
-  "description": "mezii thrived in the chaos of Inferno, winning key duels and anchoring rounds that helped Vitality maintain control of the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での mezii vs FaZe",
+  "description": "混沌とした Inferno で輝いた mezii。重要なデュエルで撃ち勝ち、アンカーとして Vitality のマップコントロール維持に貢献した。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13846,8 +13846,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs FaZe on Inferno",
-  "description": "flameZ injected energy into Vitality's play, forcing engagements that prevented FaZe from finding comfort.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での flameZ vs FaZe",
+  "description": "flameZ は Vitality のプレイに活力を注ぎ込み、FaZe に交戦を迫ることで心の余裕を与えなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13861,8 +13861,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs FaZe on Inferno",
-  "description": "ropz quietly reinforced Vitality's setup, making smart movements that strengthened their overall hold.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での ropz vs FaZe",
+  "description": "ropz は静かに Vitality のセットアップを補強し、クレバーな立ち回りでチームの守備力を引き上げた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13876,8 +13876,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-vs-vitality-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Vitality on Inferno",
-  "description": "karrigan searched for cracks in Vitality's game plan, but his attempts were quickly shut down.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での karrigan vs Vitality",
+  "description": "Vitality のゲームプランのほころびを探す karrigan だったが、その試みはことごとく潰されてしまった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13891,8 +13891,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-vs-vitality-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Vitality on Inferno",
-  "description": "broky looked to influence rounds where possible, yet Vitality consistently curtailed his impact.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での broky vs Vitality",
+  "description": "broky は可能な限り爪痕を残そうとしたが、Vitality は一貫してその影響力を抑え込んだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13906,8 +13906,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-vs-vitality-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Vitality on Inferno",
-  "description": "Twistzz showed moments of promise, though FaZe struggled to build anything lasting around them.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での Twistzz vs Vitality",
+  "description": "Twistzz が希望を抱かせるプレイを披露することはあったが、FaZe はそれを確かな結果に結び付けられなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13921,8 +13921,8 @@
  },
  {
   "id": "highlight-bud2025_gf-jcobbb-vs-vitality-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Vitality on Inferno",
-  "description": "jcobbb worked hard to get involved, but Vitality's coordination left him few clear chances.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での jcobbb vs Vitality",
+  "description": "ラウンドに絡もうと努力する jcobbb だったが、Vitality の連携によってほとんどチャンスを得られなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13936,8 +13936,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-vs-vitality-on-inferno",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Vitality on Inferno",
-  "description": "frozen delivered key frags to keep FaZe alive, but Vitality's steadiness ultimately decided the map.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Inferno での frozen vs Vitality",
+  "description": "frozen は FaZe の希望をつなぐキルをもたらしたが、Vitality が抜群の安定感でマップを手中に収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13951,8 +13951,8 @@
  },
  {
   "id": "highlight-bud2025_gf-vitality-win",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Vitality win in the GF",
-  "description": "Vitality secures a 3:1 victory over FaZe in the grandfinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | グランドファイナル、勝者は Vitality",
+  "description": "Vitality は FaZe を相手に、StarLadder Budapest Major 2025 のグランドファイナルにおいて3:1で勝利を収めた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13966,8 +13966,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo all angles",
-  "description": "ZywOo stays ready for every angle with the AWP and comes away with a triple kill.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo に死角なし",
+  "description": "ZywOo はあらゆるアングルを AWP でカバーし、トリプルキルを決める。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13981,8 +13981,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-double-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo smoke Deagle",
-  "description": "ZywOo steps through the smoke on A to take down Twistzz and broky with the Deagle.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo のスモーク Deagle",
+  "description": "爆弾設置地点 A でスモークを突き抜けた ZywOo が、Deagle で Twistzz と broky を倒す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -13996,8 +13996,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii Connector triple",
-  "description": "mezii picks up a triple kill in Connector against eco round from FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii、コネクターで3キル",
+  "description": "mezii はコネクターでエコラウンドの FaZe から3キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14011,8 +14011,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ Short to B",
-  "description": "flameZ opens on Short with kills on broky and Twistzz before clearing one more on B.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ、ショートから B へ",
+  "description": "broky と Twistzz をキルしてショートをこじ開けた flameZ が、爆弾設置地点 B でさらに1キルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14026,8 +14026,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-quadro-on-overpass-1",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz pistol quadro",
-  "description": "ropz delivers a quadro kill in the first pistol round on Overpass.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、ピストルで4キル",
+  "description": "Overpass 1本目のピストルラウンドで、ropz がクアッドキルを達成する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14041,8 +14041,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-quadro-on-overpass-2",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz Bank post-plant",
-  "description": "ropz finds an opening on Long and catches three CTs in the post-plant from Bank.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、アフタープラントのロビーから",
+  "description": "ロングで1人目を倒した ropz は、アフタープラントにロビーから3人のCTをキルする。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14056,8 +14056,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz A-site AWP",
-  "description": "ropz grabs the AWP and finds three kills around the A-site on Overpass.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz、A での AWP",
+  "description": "Overpass で AWP を拾った ropz は、爆弾設置地点 A の周辺で3キルを獲得する。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14071,8 +14071,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX B-site triple",
-  "description": "apEX pushes onto the B-site and picks up a triple kill against FaZe.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX、B で3キル",
+  "description": "爆弾設置地点 B にプッシュした apEX が、FaZe からトリプルキルを奪う。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14086,8 +14086,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-triple-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen A triple",
-  "description": "frozen delivers a triple kill to keep FaZe alive in the Grand Final, but apEX shuts the door.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen、A で3キル",
+  "description": "FaZe は frozen のトリプルキルで望みをつなぐが、最後は apEX に倒され優勝を逃す。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14101,8 +14101,8 @@
  },
  {
   "id": "highlight-bud2025_gf-zywoo-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ZywOo vs FaZe on Overpass",
-  "description": "ZywOo dictated the flow on Overpass, calmly guiding Vitality as they closed in on the championship.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での ZywOo vs FaZe",
+  "description": "ZywOo は Overpass の流れを支配し、チャンピオンシップを目前にした Vitality を冷静にリードした。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14116,8 +14116,8 @@
  },
  {
   "id": "highlight-bud2025_gf-apex-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | apEX vs FaZe on Overpass",
-  "description": "apEX's leadership came to the forefront, as his reads and timing left FaZe with little chance to recover.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass  での apEX vs FaZe",
+  "description": "apEX はリーダーシップを遺憾なく発揮し、見事な読みとタイミングで FaZe に挽回のチャンスを与えなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14131,8 +14131,8 @@
  },
  {
   "id": "highlight-bud2025_gf-mezii-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | mezii vs FaZe on Overpass",
-  "description": "mezii continued his strong showing, turning openings into rounds that pushed Vitality closer to the finish line.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での mezii vs FaZe",
+  "description": "このマップでも質の高いパフォーマンスを見せた mezii は、オープニングキルをラウンド奪取につなげ、Vitality をゴールへと近づけた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14146,8 +14146,8 @@
  },
  {
   "id": "highlight-bud2025_gf-flamez-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | flameZ vs FaZe on Overpass",
-  "description": "flameZ kept FaZe under pressure, forcing uncomfortable fights and limiting their options.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での flameZ vs FaZe",
+  "description": "flameZ は FaZe にプレッシャーをかけ続け、相手の選択肢を制限して不利な戦いを押し付けた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14161,8 +14161,8 @@
  },
  {
   "id": "highlight-bud2025_gf-ropz-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | ropz vs FaZe on Overpass",
-  "description": "ropz remained composed throughout Overpass, reinforcing Vitality's structure and denying FaZe any foothold.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での ropz vs FaZe",
+  "description": "Overpass での ropz 終始落ち着いたプレイで Vitality の戦術を支え、FaZe に足場を固めさせなかった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14176,8 +14176,8 @@
  },
  {
   "id": "highlight-bud2025_gf-karrigan-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | karrigan vs Vitality on Overpass",
-  "description": "karrigan struggled to wrestle control back, as FaZe's plans unraveled under Vitality's early dominance.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での karrigan vs Vitality",
+  "description": "karrigan は流れを引き戻そうと尽力したが、速やかに優位を確立した Vitality を前に FaZe の作戦は音を立てて崩れ落ちた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14191,8 +14191,8 @@
  },
  {
   "id": "highlight-bud2025_gf-broky-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | broky vs Vitality on Overpass",
-  "description": "broky searched for a way back into the map, but Vitality's relentless approach shut down his efforts.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での broky vs Vitality",
+  "description": "broky はどうにかして一矢報いようと模索するが、Vitality の猛攻がその努力を阻んだ。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14206,8 +14206,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz vs Vitality on Overpass",
-  "description": "Twistzz was constantly tested, with Vitality restricting the space he needed to influence rounds.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での Twistzz vs Vitality",
+  "description": "Twistzz はインパクトを与えようにも自由に動けず、Vitality によって常に苦しめられた 。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14221,8 +14221,8 @@
  },
  {
   "id": "highlight-bud2025_gf-jcobbb-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | jcobbb vs Vitality on Overpass",
-  "description": "jcobbb faced an uphill battle, as Vitality's coordination smothered FaZe's attempts to respond.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での jcobbb vs Vitality",
+  "description": "Vitality は高度な連携で FaZe に対応する余地を与えず、jcobbb は不利な戦いを強いられた。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14236,8 +14236,8 @@
  },
  {
   "id": "highlight-bud2025_gf-frozen-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | frozen vs Vitality on Overpass",
-  "description": "frozen fought until the final moments, but Vitality's authority on Overpass sealed both the map and the series.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Overpass での frozen vs Vitality",
+  "description": "frozen は最後の瞬間まで戦い抜いたが、Overpass を極めた Vitality がマップ、そしてシリーズの勝者となった。",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14251,8 +14251,8 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-clutch-1v1-on-overpass",
-  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz breaks the streak",
-  "description": "Down 0:11, Twistzz clutches against ZywOo to finally get FaZe on the board.",
+  "name": "Souvenir Charm | Budapest 2025 ハイライト | Twistzz、0から1へ",
+  "description": "0:11と圧倒的な不利を背負いつつも、Twistzz が ZywOo 相手のクラッチを制して FaZe にラウンドをもたらす。",
   "def_index": null,
   "highlight": true,
   "rarity": {
