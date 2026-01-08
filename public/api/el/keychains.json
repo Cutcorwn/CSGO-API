@@ -8671,7 +8671,7 @@
  },
  {
   "id": "highlight-bud2025_qf-navi-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Natus Vincere on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Natus Vincere στη σκηνή των Προημιτελικών",
   "description": "Natus Vincere enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face FURIA.",
   "def_index": null,
   "highlight": true,
@@ -8686,7 +8686,7 @@
  },
  {
   "id": "highlight-bud2025_qf-furia-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FURIA on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι FURIA στη σκηνή των Προημιτελικών",
   "description": "FURIA enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -8701,7 +8701,7 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | w0nderful shuts Mid",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ο w0nderful ασφαλίζει τη Μέση",
   "description": "w0nderful finds two kills in Mid before adding two more on the A-site to close out the round against FURIA.",
   "def_index": null,
   "highlight": true,
@@ -8716,8 +8716,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib Underpass sweep",
-  "description": "Aleksib kills YEKINDAR in Underpass, then swiftly clears Short of FalleN and KSCERATO.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib: Ξεκαθάρισμα στο Υπόγειο Πέρασμα",
+  "description": "Ο Aleksib σκοτώνει τον YEKINDAR στο Υπόγειο Πέρασμα και έπειτα καθαρίζει γρήγορα τον Σύντομο Διάδρομο από τους FalleN και KSCERATO.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8731,7 +8731,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-mirage-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t Apartments play",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t: Ρεσιτάλ στα Διαμερίσματα",
   "description": "b1t, picking from B-apartments, catches KSCERATO and then finds two more kills from the site.",
   "def_index": null,
   "highlight": true,
@@ -8746,7 +8746,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-mirage-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t mid-air catch",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Εξολόθρευση στον αέρα από τον b1t",
   "description": "b1t catches FalleN mid-air on CT, then follows up with two more winning duels on the A-site.",
   "def_index": null,
   "highlight": true,
@@ -8777,7 +8777,7 @@
  {
   "id": "highlight-bud2025_qf-im-triple-kill-on-mirage",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM Connector burst",
-  "description": "iM, assisted by w0nderful, finds two opening kills in Connector and adds a third in CT spawn.",
+  "description": "Ο iM, με τη βοήθεια του w0nderful, κατορθώνει δύο πρώτους σκοτωμούς στη Διασύνδεση και προσθέτει έναν τρίτο στην περιοχή αναβίωσης των ΑΤ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8791,7 +8791,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM AK massacre",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Σφαγή με AK από τον iM",
   "description": "iM masterfully sprays down four opponents on Short with the AK-47.",
   "def_index": null,
   "highlight": true,
@@ -8806,7 +8806,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-double-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM sick-flick",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM: Αστραπιαίος σκοτωμός",
   "description": "iM explodes with inhuman reactions, snapping a lightning-fast flick onto yuurih in Window before closing the round with a kill on molodoy.",
   "def_index": null,
   "highlight": true,
@@ -8821,8 +8821,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze B-aps stop",
-  "description": "makazze shuts down FURIA's B-apartments push from Short.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Στοπ από τον makazze στα Διαμερίσματα Β",
+  "description": "Ο makazze από τον Σύντομο Διάδρομο σταματά την έφοδο των FURIA στα Διαμερίσματα Β.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8836,7 +8836,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-clutch-1v2-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | yuurih A-site clutch",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Κλατσάρισμα από τον yuurih στην περιοχή βόμβας Α",
   "description": "yuurih wins a clutch against b1t and Aleksib on the A-site.",
   "def_index": null,
   "highlight": true,
@@ -8851,7 +8851,7 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | w0nderful vs FURIA on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | w0nderful εναντίον FURIA στη Mirage",
   "description": "On Mirage, w0nderful held his head high, delivering an outstanding performance against FURIA.",
   "def_index": null,
   "highlight": true,
@@ -8866,7 +8866,7 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib vs FURIA on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib εναντίον FURIA στη Mirage",
   "description": "Aleksib was the key facilitator for Natus Vincere on Mirage, racking up the most assists on the server.",
   "def_index": null,
   "highlight": true,
@@ -8881,7 +8881,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t vs FURIA on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t εναντίον FURIA στη Mirage",
   "description": "b1t delivered a solid performance on Mirage, reassuring his teammates with critical multi-kills and making it clear that FURIA could not disrupt Natus Vincere's game plan.",
   "def_index": null,
   "highlight": true,
@@ -8896,8 +8896,8 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM vs FURIA on Mirage",
-  "description": "iM was absolutely unstoppable on the first map on Mirage, relentlessly dismantling FURIA and driving Natus Vincere to a decisive map victory.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM εναντίον FURIA στη Mirage",
+  "description": "Ο iM ήταν απολύτως ασταμάτητος στον πρώτο χάρτη στη Mirage, διαλύοντας αδυσώπητα τους FURIA και οδηγώντας τους Natus Vincere σε μια αποφασιστική νίκη χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8911,7 +8911,7 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze vs FURIA on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze εναντίον FURIA στη Mirage",
   "description": "makazze consistently took risks on Mirage, aggressively seeking every opportunity to secure the crucial opening kills for Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -8926,7 +8926,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR vs Natus Vincere on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR εναντίον Natus Vincere στη Mirage",
   "description": "YEKINDAR stepped up with consistent fragging power on Mirage, securing multiple double kills that allowed FURIA to stay competitive against Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -8941,7 +8941,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO vs Natus Vincere on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO εναντίον Natus Vincere στη Mirage",
   "description": "KSCERATO constantly challenged Natus Vincere players on Mirage; however, it wasn't enough to take the map.",
   "def_index": null,
   "highlight": true,
@@ -8956,7 +8956,7 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN vs Natus Vincere on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN εναντίον Natus Vincere στη Mirage",
   "description": "FalleN fought hard on Mirage, leveraging his veteran experience in an attempt to secure a comeback, but his efforts were not enough to take the map from Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -8971,8 +8971,8 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy vs Natus Vincere on Mirage",
-  "description": "molodoy took every chance presented on Mirage, working to turn the tide against Natus Vincere, and although he secured several key frags, it was not enough to save the map for FURIA.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy εναντίον Natus Vincere στη Mirage",
+  "description": "Ο molodoy εκμεταλλεύτηκε κάθε ευκαιρία που παρουσιάστηκε στη Mirage, προσπαθώντας να αντιστρέψει τη ροή του αγώνα εναντία στους Natus Vincere και, αν και κατάφερε αρκετούς κρίσιμους σκοτωμούς, δεν ήταν αρκετό για να εξασφαλίσει τον χάρτη για τους FURIA.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -8986,8 +8986,8 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-vs-navi-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | yuurih vs Natus Vincere on Mirage",
-  "description": "yuurih poured his heart and soul into the Mirage match, attempting to lead FURIA to a comeback, but Natus Vincere left zero room for error.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | yuurih εναντίον Natus Vincere στη Mirage",
+  "description": "Ο yuurih έδωσε καρδιά και ψυχή σε αυτόν τον αγώνα στη Mirage, προσπαθώντας να οδηγήσει τους FURIA σε ανατροπή, αλλά οι Natus Vincere δεν άφησαν περιθώρια λάθους.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9001,7 +9001,7 @@
  },
  {
   "id": "highlight-bud2025_qf-faze-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FaZe on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι FaZe στη σκηνή των Προημιτελικών",
   "description": "FaZe enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -9016,7 +9016,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mouz-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | MOUZ on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι MOUZ στη σκηνή των Προημιτελικών",
   "description": "MOUZ enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face FaZe.",
   "def_index": null,
   "highlight": true,
@@ -9031,7 +9031,7 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan through fire",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan: Μέσα από τη φωτιά",
   "description": "karrigan pushes through the molly onto Nuke's A-site, making a strong attempt at a quad kill against MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -9091,7 +9091,7 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen post-plant wall",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen: Τοίχος μετά την τοποθέτηση",
   "description": "frozen secures two kills on the A-site and then holds firm in the post-plant, keeping a vigilant watch for the remaining opponents.",
   "def_index": null,
   "highlight": true,
@@ -9106,7 +9106,7 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky seals Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ο broky σφραγίζει τη Nuke",
   "description": "broky secures the map win with a proactive approach on Nuke against MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -9121,7 +9121,7 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-triple-kill-on-nuke-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx instant refrag",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Άμεση εκδίκηση από τον Spinx",
   "description": "Spinx successfully refrags xertioN, then moves across the site to find two more kills, clinching the round for MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -9136,7 +9136,7 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx plant pressure",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Πίεση από τον Spinx στην τοποθέτηση",
   "description": "Spinx finds a kill on frozen and then defends the bomb against karrigan and broky.",
   "def_index": null,
   "highlight": true,
@@ -9151,7 +9151,7 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi opening picks",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Πρώτοι σκοτωμοί από τον torzsi",
   "description": "torzsi opens the round with a kill on jcobbb, then repositions to find two more kills, leaving Brollan in a crucial one-on-one.",
   "def_index": null,
   "highlight": true,
@@ -9166,7 +9166,7 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan Ramp action",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan: Δράση στη Ράμπα",
   "description": "Brollan rushes in from the side to secure a double kill on Ramp, then successfully defends the bomb against broky to make the score 4:9.",
   "def_index": null,
   "highlight": true,
@@ -9181,7 +9181,7 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan vs MOUZ on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan εναντίον MOUZ στη Nuke",
   "description": "karrigan led FaZe into the first map of the quarterfinal with one goal: to take what was theirs by design.",
   "def_index": null,
   "highlight": true,
@@ -9196,7 +9196,7 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky vs MOUZ on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky εναντίον MOUZ στη Nuke",
   "description": "Broky's actions put MOUZ under pressure from the very first round on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9211,7 +9211,7 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz vs MOUZ on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz εναντίον MOUZ στη Nuke",
   "description": "Twistzz seized every opportunity, converting it into momentum for FaZe.",
   "def_index": null,
   "highlight": true,
@@ -9226,8 +9226,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jcobbb-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb vs MOUZ on Nuke",
-  "description": "jcobbb held his ground, fighting until the last bullet against MOUZ.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb εναντίον MOUZ στη Nuke",
+  "description": "Ο jcobbb δεν υποχώρησε και πολέμησε μέχρι την τελευταία του σφαίρα ενάντια στους MOUZ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9241,8 +9241,8 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-vs-mouz-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen vs MOUZ on Nuke",
-  "description": "On Nuke, frozen took advantage of every mistake MOUZ made.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen εναντίον MOUZ στη Nuke",
+  "description": "Στη Nuke, ο frozen εκμεταλλεύτηκε κάθε λάθος που έκαναν οι MOUZ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9256,8 +9256,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jimpphat-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Jimpphat vs FaZe on Nuke",
-  "description": "Despite Jimpphat's efforts, MOUZ couldn't secure the first map of the quarterfinal.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Jimpphat εναντίον FaZe στη Nuke",
+  "description": "Παρά τις προσπάθειες του Jimpphat, οι MOUZ δεν κατάφεραν να εξασφαλίσουν τον πρώτο χάρτη του προημιτελικού.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9271,7 +9271,7 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan vs FaZe on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan εναντίον FaZe στη Nuke",
   "description": "Brollan's aim was lethal, yet FaZe still managed to take control on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9286,7 +9286,7 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx vs FaZe on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx εναντίον FaZe στη Nuke",
   "description": "Spinx fought hard in every round against FaZe, but in the end, MOUZ couldn't secure the win on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9301,7 +9301,7 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi vs FaZe on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi εναντίον FaZe στη Nuke",
   "description": "torzsi delivered much-needed frags; however, it wasn't enough to stop FaZe on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9316,7 +9316,7 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN vs FaZe on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN εναντίον FaZe στη Nuke",
   "description": "xertioN went head-to-head with FaZe, but victory on Nuke slipped away from MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -9331,7 +9331,7 @@
  },
  {
   "id": "highlight-bud2025_qf-spirit-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spirit on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Spirit στη σκηνή των Προημιτελικών",
   "description": "Spirit enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Falcons.",
   "def_index": null,
   "highlight": true,
@@ -9346,7 +9346,7 @@
  },
  {
   "id": "highlight-bud2025_qf-falcons-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Falcons on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Falcons στη σκηνή των Προημιτελικών",
   "description": "Falcons enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Spirit.",
   "def_index": null,
   "highlight": true,
@@ -9361,7 +9361,7 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-triple-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper strikes first",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ο chopper χτυπά πρώτος",
   "description": "chopper opens the score with a kill on TeSeS, then finishes the round with a double kill against Falcons.",
   "def_index": null,
   "highlight": true,
@@ -9392,7 +9392,7 @@
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-nuke-1",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro takes over",
-  "description": "sh1ro secures a kill outside and takes control of the site, eliminating NiKo and kyxsan.",
+  "description": "Ο sh1ro εξασφαλίζει έναν σκοτωμό έξω και παίρνει τον έλεγχο της περιοχής, σβήνοντας από τον χάρτη τους NiKo και kyxsan.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9406,8 +9406,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro B-site carnage",
-  "description": "sh1ro nets a triple kill on Nuke's B-site from an unusual position against Falcons.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro: Μακέλεμα στη B",
+  "description": "Ο sh1ro κατορθώνει τριπλό σκοτωμό στην περιοχή βόμβας Β στη Nuke από μια ασυνήθιστη θέση έναντι των Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9421,8 +9421,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-quadro-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih almost aces",
-  "description": "From Rafters, zweih nearly pulled off an ace, but m0NESY shut him down.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih: Παρ' ολίγον άσος",
+  "description": "Από τις Δοκούς, ο Zweih φτάνει μια ανάσα από τον άσο, αλλά ο m0NESY του κόβει τη φόρα.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9436,8 +9436,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-ace-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih ace",
-  "description": "After catching perfect timing in the Hut, zweih steps up and secures five kills in the round.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih: Άσος",
+  "description": "Αφού κατορθώνει τον τέλειο συγχρονισμό στην Καλύβα, ο zweih αναλαμβάνει δράση και εξασφαλίζει πέντε σκοτωμούς στον γύρο.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9451,8 +9451,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-quadro-kill-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk opens everything",
-  "description": "After securing 2 opening kills, donk plants the bomb and successfully defends the site from Falcons.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk: Άνοιγμα δρόμου",
+  "description": "Αφού εξασφαλίζει 2 πρώτους σκοτωμούς, ο donk τοποθετεί τη βόμβα και υπερασπίζεται με επιτυχία την περιοχή από τους Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9467,7 +9467,7 @@
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-nuke-1",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R smoke assassin",
-  "description": "tN1R slips through the smoke, takes down NiKo, and clears the A-site of Falcons.",
+  "description": "Ο tN1R γλιστρά μέσα από τον καπνό, εξουδετερώνει τον NiKo και καθαρίζει την περιοχή βόμβας Α από τους Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9481,7 +9481,7 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-nuke-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R Ramp massacre",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R: Σφαγή στη ράμπα",
   "description": "tN1R shows impressive spray control, racking up three kills from Ramp on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9497,7 +9497,7 @@
  {
   "id": "highlight-bud2025_qf-kyousuke-triple-kill-on-nuke",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke Ramp wipe",
-  "description": "kyousuke finds a triple kill while moving through Ramp, clearing every angle.",
+  "description": "Ο kyousuke κατορθώνει τριπλό σκοτωμό καθώς περνά μέσα από τη Ράμπα, καθαρίζοντας κάθε γωνία.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9511,7 +9511,7 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper vs Falcons on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper εναντίον Falcons στη Nuke",
   "description": "In the quarterfinal, chopper delivered, ensuring Spirit closed out the rounds to beat Falcons.",
   "def_index": null,
   "highlight": true,
@@ -9526,8 +9526,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk vs Falcons on Nuke",
-  "description": "donk repeatedly secured crucial multi-frags on the first map of the quarterfinal, quickly breaking the opponents' economy.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk εναντίον Falcons στη Nuke",
+  "description": "Ο donk εξασφαλίζει επανειλημμένα πολλούς και κρίσιμους σκοτωμούς στον πρώτο χάρτη του προημιτελικού, διαλύοντας γρήγορα την οικονομία των αντιπάλων.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9541,7 +9541,7 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih vs Falcons on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih εναντίον Falcons στη Nuke",
   "description": "On Nuke, zweih held his ground effectively, helping Spirit overpower Falcons.",
   "def_index": null,
   "highlight": true,
@@ -9556,8 +9556,8 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro vs Falcons on Nuke",
-  "description": "The consistent presence of sh1ro on Nuke was essential, as he locked down key positions and secured vital kills for Spirit.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro εναντίον Falcons στη Nuke",
+  "description": "Η συνεπής παρουσία του sh1ro στη Nuke ήταν καθοριστικής σημασίας, καθώς εξασφάλισε σημαντικές θέσεις και κατόρθωσε κρίσιμους σκοτωμούς για τους Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9571,7 +9571,7 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-vs-falcons-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R vs Falcons on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R εναντίον Falcons στη Nuke",
   "description": "tN1R showed that he thrives under pressure, delivering fearless aggression to propel Spirit past Falcons on Nuke.",
   "def_index": null,
   "highlight": true,
@@ -9586,8 +9586,8 @@
  },
  {
   "id": "highlight-bud2025_qf-niko-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | NiKo vs Spirit on Nuke",
-  "description": "Solid moments from NiKo on Nuke were not enough to stop Spirit's relentless pressure.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | NiKo εναντίον Spirit στη Nuke",
+  "description": "Οι δυνατές στιγμές από τον NiKo στη Nuke δεν ήταν αρκετές για να σταματήσουν την αδυσώπητη πίεση των Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9601,8 +9601,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyxsan-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyxsan vs Spirit on Nuke",
-  "description": "kyxsan put everything on the line against Spirit, making impactful frags on Nuke; however, it wasn't enough to secure the map.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyxsan εναντίον Spirit στη Nuke",
+  "description": "Ο kyxsan τα έδωσε όλα ενάντια στους Spirit, κατορθώνοντας σημαντικούς σκοτωμούς στη Nuke, αλλά δεν ήταν αρκετοί για να εξασφαλίσουν τον χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9616,8 +9616,8 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | m0NESY vs Spirit on Nuke",
-  "description": "In spite of spectacular duels from m0NESY on Nuke, his signature aim could not secure the win.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | m0NESY εναντίον Spirit στη Nuke",
+  "description": "Παρά τις θεαματικές μονομαχίες από τον m0NESY στη Nuke, το χαρακτηριστικό του σημάδι δεν μπόρεσε να εξασφαλίσει τη νίκη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9631,7 +9631,7 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | TeSeS vs Spirit on Nuke",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | TeSeS εναντίον Spirit στη Nuke",
   "description": "Nuke was full of bold actions from TeSeS; however, not every aggressive move paid off for Falcons in the end.",
   "def_index": null,
   "highlight": true,
@@ -9646,8 +9646,8 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-vs-spirit-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke vs Spirit on Nuke",
-  "description": "kyousuke delivered several high-impact kills on Nuke, though his individual efforts were not enough to beat Spirit on their map pick.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke εναντίον Spirit στη Nuke",
+  "description": "Ο kyousuke κατόρθωσε αρκετούς σκοτωμούς υψηλού αντίκτυπου στη Nuke, αν και οι ατομικές του προσπάθειες δεν ήταν αρκετές για να κερδίσουν τους Spirit στον χάρτη που επέλεξε η ομάδα του.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9661,7 +9661,7 @@
  },
  {
   "id": "highlight-bud2025_qf-vitality-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Vitality on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Vitality στη σκηνή των Προημιτελικών",
   "description": "Vitality enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face The MongolZ.",
   "def_index": null,
   "highlight": true,
@@ -9676,7 +9676,7 @@
  },
  {
   "id": "highlight-bud2025_qf-the-mongolz-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | The MongolZ on the QF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι The MongolZ στη σκηνή των Προημιτελικών",
   "description": "The MongolZ enter the quarterfinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
   "def_index": null,
   "highlight": true,
@@ -9691,8 +9691,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii opening chaos",
-  "description": "An unexpected position from mezii allows him to secure a quad kill in the opening round on Mirage.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Εναρκτήριο χάος από τον mezii",
+  "description": "Μια απροσδόκητη θέση από τον mezii του επιτρέπει να εξασφαλίσει έναν τετραπλό σκοτωμό στον πρώτο γύρο στη Mirage.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9706,8 +9706,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii Forest play",
-  "description": "Positioned in Forest, mezii fends off the Apartments push from The MongolZ, but ropz snatches the quad kill away from him.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ρεσιτάλ του mezii στο Δάσος",
+  "description": "Ο mezii, που βρίσκεται στο Δάσος, αποκρούει την έφοδο των The MongolZ από τα Διαμερίσματα, αλλά ο ropz του στερεί τον τετραπλό σκοτωμό.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9721,7 +9721,7 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-triple-kill-on-mirage-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ mid brawl",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Μάχη στη Μέση από τον flameZ",
   "description": "flameZ trades apEX in Mid and pushes through The MongolZ players on his way toward the A-site.",
   "def_index": null,
   "highlight": true,
@@ -9736,7 +9736,7 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-triple-kill-on-mirage-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ everywhere",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ: Πανταχού παρών",
   "description": "flameZ reacts instantly, finding three kills across three different positions near the A-site on Mirage.",
   "def_index": null,
   "highlight": true,
@@ -9751,7 +9751,7 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo P250 madness",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Τρέλα με P250 από τον ZywOo",
   "description": "ZywOo successfully secures the bomb and delivers an astonishing triple kill with his P250 on Mirage.",
   "def_index": null,
   "highlight": true,
@@ -9766,7 +9766,7 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-quadro-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo final blow",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Τελικό χτύπημα από τον ZywOo",
   "description": "ZywOo closes out the final round of Mirage in style with a quad kill against The MongolZ.",
   "def_index": null,
   "highlight": true,
@@ -9781,7 +9781,7 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-triple-kill-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Techno4K triple punch",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Τριπλό χτύπημα από τον Techno4K",
   "description": "Techno4K takes an aggressive forward position on the A-site and delivers a triple kill to push his team ahead of Vitality.",
   "def_index": null,
   "highlight": true,
@@ -9797,7 +9797,7 @@
  {
   "id": "highlight-bud2025_qf-910-triple-kill-on-mirage",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 solid rotation",
-  "description": "After 910 picks off the lurking apEX in B-apps, he rotates and lands two more shots on the A-site.",
+  "description": "Αφού ο 910 εξοντώσει τον apEX που παραμονεύει στα Διαμερίσματα Β, ελίσσεται στην περιοχή βόμβας Α και κατορθώνει δύο ακόμα σκοτωμούς.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9811,8 +9811,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo vs The MongolZ on Mirage",
-  "description": "ZywOo delivered a stellar performance on Mirage against The MongolZ, imposing a fierce fight on their map pick.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo εναντίον The MongolZ στη Mirage",
+  "description": "Ο ZywOo είχε εξαιρετικές επιδόσεις στη Mirage ενάντια στους The MongolZ, επιβάλλοντας έναν σκληρό αγώνα στον χάρτη που επέλεξε η ομάδα του.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9826,7 +9826,7 @@
  },
  {
   "id": "highlight-bud2025_qf-apex-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX vs The MongolZ on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX εναντίον The MongolZ στη Mirage",
   "description": "apEX wouldn't let anyone slip through, relentlessly punishing every mistake made by the opponent on Mirage with swift frags.",
   "def_index": null,
   "highlight": true,
@@ -9841,7 +9841,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii vs The MongolZ on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii εναντίον The MongolZ στη Mirage",
   "description": "mezii, with his USP-S, proved a resolute guardian, refusing to let any contenders onto the A-site on Mirage.",
   "def_index": null,
   "highlight": true,
@@ -9856,8 +9856,8 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ vs The MongolZ on Mirage",
-  "description": "Essential multi-kills from flameZ showed The MongolZ that Mirage wouldn't be a walk in the park.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ εναντίον The MongolZ στη Mirage",
+  "description": "Καθοριστικοί πολλαπλοί σκοτωμοί από τον flameZ έδειξαν στους The MongolZ ότι η Mirage δεν θα ήταν παιχνιδάκι.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -9871,7 +9871,7 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-vs-the-mongolz-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz vs The MongolZ on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz εναντίον The MongolZ στη Mirage",
   "description": "ropz stood strong on the first map of the quarterfinal against The MongolZ, stepping up in every crucial moment.",
   "def_index": null,
   "highlight": true,
@@ -9886,7 +9886,7 @@
  },
  {
   "id": "highlight-bud2025_qf-blitz-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | bLitz vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | bLitz εναντίον Vitality στη Mirage",
   "description": "Frags from bLitz on Mirage were solid, yet they were not enough to secure a win on the opening map against Vitality.",
   "def_index": null,
   "highlight": true,
@@ -9901,7 +9901,7 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Techno4K vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Techno4K εναντίον Vitality στη Mirage",
   "description": "Techno4K put up a respectable performance on Mirage against Vitality, delivering impactful moments throughout the quarterfinal opener.",
   "def_index": null,
   "highlight": true,
@@ -9916,7 +9916,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho εναντίον Vitality στη Mirage",
   "description": "Mzinho delivered an outstanding showing, fighting for every inch of the map, but Vitality were not messing around and went on to secure the win.",
   "def_index": null,
   "highlight": true,
@@ -9931,7 +9931,7 @@
  },
  {
   "id": "highlight-bud2025_qf-910-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 εναντίον Vitality στη Mirage",
   "description": "910 gave his absolute best in trying to wrest the map from Vitality's hands, but the effort fell just short.",
   "def_index": null,
   "highlight": true,
@@ -9946,7 +9946,7 @@
  },
  {
   "id": "highlight-bud2025_qf-controlez-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | controlez vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | controlez εναντίον Vitality στη Mirage",
   "description": "controlez threw everything at Vitality on Mirage, but it was one of those days where the effort wasn't enough.",
   "def_index": null,
   "highlight": true,
@@ -9991,7 +9991,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t pistol shutdown",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Φρένο στα πιστόλια από τον b1t",
   "description": "b1t holds strong on the A-site against a pistol push from FURIA, securing four kills.",
   "def_index": null,
   "highlight": true,
@@ -10006,7 +10006,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM nearly 1v5",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM: Παραλίγο 1v5",
   "description": "iM finds four kills on the B-site and nearly pulls off a 1v5 clutch, but FalleN denies.",
   "def_index": null,
   "highlight": true,
@@ -10021,7 +10021,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM Short cleanup",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM: Ξεκαθάρισμα στον Σύντομο Διάδρομο",
   "description": "iM takes down FalleN and yuurih on Short before closing the round with a kill on molodoy.",
   "def_index": null,
   "highlight": true,
@@ -10036,7 +10036,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR Glock charge",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR: Έφοδος με Glock",
   "description": "YEKINDAR uses his Glock-18 to its full potential, rushing through Long and securing the B-site while picking up three kills.",
   "def_index": null,
   "highlight": true,
@@ -10051,7 +10051,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO boost play",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ώθηση από KSCERATO",
   "description": "KSCERATO, up on the boost, denies Natus Vincere's B-site entry with three kills.",
   "def_index": null,
   "highlight": true,
@@ -10067,7 +10067,7 @@
  {
   "id": "highlight-bud2025_qf-fallen-double-kill-on-inferno",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN smoke play",
-  "description": "FalleN dives through the smoke on Banana for a double kill, securing overtimes for FURIA.",
+  "description": "Ο FalleN βουτά μέσα στον καπνό στην Μπανάνα για έναν διπλό σκοτωμό, εξασφαλίζοντας την παράταση για τους FURIA.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10096,7 +10096,7 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-triple-kill-on-inferno-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN captain defuse",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN: Αρχηγικός αφοπλισμός",
   "description": "FalleN takes down makazze and iM with a single spray, wins the captain's duel, and successfully defuses the bomb.",
   "def_index": null,
   "highlight": true,
@@ -10111,7 +10111,7 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-quadro-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy overtime quadro",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy: Τετραπλός σκοτωμός στην παράταση",
   "description": "molodoy lands a quadro kill on the B-site, leveling the score in overtime against Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -10141,7 +10141,7 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib vs FURIA on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib εναντίον FURIA στην Inferno",
   "description": "Aleksib poured absolutely everything into his performance and leadership on Inferno, but despite his maximum effort, it was not enough to overcome FURIA's push.",
   "def_index": null,
   "highlight": true,
@@ -10156,7 +10156,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t vs FURIA on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t εναντίον FURIA στην Inferno",
   "description": "b1t was relentless, fighting for every inch of territory on Inferno, but Natus Vincere ultimately could not contain FURIA's momentum as the Brazilian side seized the initiative.",
   "def_index": null,
   "highlight": true,
@@ -10171,7 +10171,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM vs FURIA on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM εναντίον FURIA στην Inferno",
   "description": "iM raised his individual performance on Inferno, securing multiple crucial kills on the server, but FURIA's collective strength proved decisive as they secured the win.",
   "def_index": null,
   "highlight": true,
@@ -10186,7 +10186,7 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze vs FURIA on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze εναντίον FURIA στην Inferno",
   "description": "makazze was one of the most impactful players on Inferno, consistently making bold moves throughout the map, but his efforts were ultimately unable to stop FURIA from claiming the map victory.",
   "def_index": null,
   "highlight": true,
@@ -10201,7 +10201,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR vs Natus Vincere on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR εναντίον Natus Vincere στην Inferno",
   "description": "YEKINDAR stepped up when it mattered most on Inferno, executing key aggressive plays and delivering crucial frags for FURIA.",
   "def_index": null,
   "highlight": true,
@@ -10216,7 +10216,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO vs Natus Vincere on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO εναντίον Natus Vincere στην Inferno",
   "description": "KSCERATO showcased his full capability as a star rifler on Inferno, providing the vital firepower needed to help FURIA close out their map pick.",
   "def_index": null,
   "highlight": true,
@@ -10231,7 +10231,7 @@
  },
  {
   "id": "highlight-bud2025_qf-fallen-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN vs Natus Vincere on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN εναντίον Natus Vincere στην Inferno",
   "description": "Alongside his steady leadership, FalleN delivered a stellar individual performance on Inferno, securing game-changing frags against Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -10246,7 +10246,7 @@
  },
  {
   "id": "highlight-bud2025_qf-molodoy-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy vs Natus Vincere on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | molodoy εναντίον Natus Vincere στην Inferno",
   "description": "molodoy faced continuous challenges on Inferno but showed great tenacity, constantly pushing forward to help FURIA secure the map victory against Natus Vincere.",
   "def_index": null,
   "highlight": true,
@@ -10261,7 +10261,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yuurih-vs-navi-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | yuurih vs Natus Vincere on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | yuurih εναντίον Natus Vincere στην Inferno",
   "description": "yuurih fought tooth and nail, ensuring FURIA matched the opponent's intensity until the final round.",
   "def_index": null,
   "highlight": true,
@@ -10276,7 +10276,7 @@
  },
  {
   "id": "highlight-bud2025_qf-faze-victory",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FaZe win in the QF",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Νίκη FaZe στους Προημιτελικούς",
   "description": "FaZe secures a 2:0 victory over MOUZ in the quarterfinal of the StarLadder Budapest Major 2025.",
   "def_index": null,
   "highlight": true,
@@ -10291,7 +10291,7 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-inferno-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky mid-air magic",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky: Μαγεία στον αέρα",
   "description": "broky eliminates Spinx on Long with a mid-air shot, then follows up with two more kills to swing the round, leaving frozen alone in a clutch against xertioN.",
   "def_index": null,
   "highlight": true,
@@ -10306,7 +10306,7 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-triple-kill-on-inferno-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky Boiler cleanup",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ξεκαθάρισμα στο λεβητοστάσιο από τον broky",
   "description": "broky catches Brollan in Mid, follows up with a kill in Boiler, and finishes the round with a USP-S kill to make the score 6:1.",
   "def_index": null,
   "highlight": true,
@@ -10336,7 +10336,7 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen Banana snap",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen: Ξεπέταγμα στην Μπανάνα",
   "description": "frozen gets his first kill on Banana against Brollan, then rotates to A and clears the site to secure the round for FaZe.",
   "def_index": null,
   "highlight": true,
@@ -10352,7 +10352,7 @@
  {
   "id": "highlight-bud2025_qf-karrigan-he-damage-on-inferno",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan nade finish",
-  "description": "With the help of frozen, karrigan successfully finishes Brollan with a nade on Banana.",
+  "description": "Με τη βοήθεια του frozen, ο karrigan αποτελειώνει επιτυχώς τον Brollan με μια χειροβομβίδα στην Μπανάνα.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10366,8 +10366,8 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi Tec-9 rampage",
-  "description": "With a Tec-9 in hand, torzsi secures a triple kill on the A-site of Inferno.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi: Μακελειό με Tec-9",
+  "description": "Με το Tec-9 ανά χείρας, ο torzsi εξασφαλίζει έναν τριπλό σκοτωμό στην περιοχή βόμβας Α της Inferno.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10381,7 +10381,7 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz dual chaos",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz: Διπλό χάος",
   "description": "Twistzz gets a triple kill with the Dual Berettas in the opening pistol round on Inferno.",
   "def_index": null,
   "highlight": true,
@@ -10396,7 +10396,7 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-triple-kill-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN clutch win",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN: Κλατσαριστή νίκη",
   "description": "xertioN kills karrigan, takes down broky on the A-site, and then wins 1v1 against frozen in the post-plant.",
   "def_index": null,
   "highlight": true,
@@ -10411,7 +10411,7 @@
  },
  {
   "id": "highlight-bud2025_qf-broky-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky vs MOUZ on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky εναντίον MOUZ στην Inferno",
   "description": "broky was unstoppable on Inferno, dominating the map and delivering critical frags that shut down any attempt by MOUZ to mount a comeback.",
   "def_index": null,
   "highlight": true,
@@ -10426,7 +10426,7 @@
  },
  {
   "id": "highlight-bud2025_qf-brollan-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan vs FaZe on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Brollan εναντίον FaZe στην Inferno",
   "description": "Brollan kept fighting until the end, but MOUZ couldn't challenge FaZe this time.",
   "def_index": null,
   "highlight": true,
@@ -10441,7 +10441,7 @@
  },
  {
   "id": "highlight-bud2025_qf-frozen-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen vs MOUZ on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen εναντίον MOUZ στην Inferno",
   "description": "frozen was instrumental in FaZe's victory on Inferno, reliably delivering high-impact kills against MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -10456,7 +10456,7 @@
  },
  {
   "id": "highlight-bud2025_qf-jcobbb-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb vs MOUZ on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb εναντίον MOUZ στην Inferno",
   "description": "jcobbb delivered an incredibly consistent performance on Inferno, securing key frags and winning pivotal rounds against MOUZ.",
   "def_index": null,
   "highlight": true,
@@ -10471,8 +10471,8 @@
  },
  {
   "id": "highlight-bud2025_qf-jimpphat-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Jimpphat vs FaZe on Inferno",
-  "description": "Jimpphat tried to reach his full potential, but FaZe didn't back down on Inferno.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Jimpphat εναντίον FaZe στην Inferno",
+  "description": "Ο Jimpphat προσπάθησε να αξιοποιήσει πλήρως τις δυνατότητές του, αλλά οι FaZe δεν έκαναν βήμα πίσω στην Inferno.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10486,7 +10486,7 @@
  },
  {
   "id": "highlight-bud2025_qf-karrigan-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan vs MOUZ on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan εναντίον MOUZ στην Inferno",
   "description": "karrigan brilliantly exploited every tactical opportunity on Inferno, calling rotations that made the map uncomfortable for MOUZ and securing the series victory for FaZe.",
   "def_index": null,
   "highlight": true,
@@ -10501,8 +10501,8 @@
  },
  {
   "id": "highlight-bud2025_qf-spinx-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx vs FaZe on Inferno",
-  "description": "Despite Spinx's individual performance, MOUZ fell short against FaZe on Inferno.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spinx εναντίον FaZe στην Inferno",
+  "description": "Παρά τις ατομικές επιδόσεις του Spinx, οι MOUZ δεν κατάφεραν να συναγωνιστούν τους FaZe στην Inferno.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10516,7 +10516,7 @@
  },
  {
   "id": "highlight-bud2025_qf-torzsi-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi vs FaZe on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | torzsi εναντίον FaZe στην Inferno",
   "description": "torzsi put in a huge performance on the second map, but MOUZ couldn't force a decider.",
   "def_index": null,
   "highlight": true,
@@ -10531,8 +10531,8 @@
  },
  {
   "id": "highlight-bud2025_qf-twistzz-vs-mouz-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz vs MOUZ on Inferno",
-  "description": "Twistzz was highly effective in his duels on Inferno, finding headshots and securing crucial multi-kills that helped FaZe decisively defeat MOUZ.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz εναντίον MOUZ στην Inferno",
+  "description": "Ο Twistzz ήταν ιδιαίτερα αποτελεσματικός στις μονομαχίες του στην Inferno, κατορθώνοντας κεφαλίδια και εξασφαλίζοντας κρίσιμους πολλαπλούς σκοτωμούς που βοήθησαν τους FaZe να κατατροπώσουν αποφασιστικά τους MOUZ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10546,7 +10546,7 @@
  },
  {
   "id": "highlight-bud2025_qf-xertion-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN vs FaZe on Inferno",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | xertioN εναντίον FaZe στην Inferno",
   "description": "xertioN consistently looked to win crucial duels and opening frags for MOUZ on Inferno, but FaZe proved too strong.",
   "def_index": null,
   "highlight": true,
@@ -10561,7 +10561,7 @@
  },
  {
   "id": "highlight-bud2025_qf-spirit-victory",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spirit win in the QF",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Νίκη Spirit στους Προημιτελικούς",
   "description": "Spirit secures a 2:0 victory over Falcons in the quarterfinal of the StarLadder Budapest Major 2025.",
   "def_index": null,
   "highlight": true,
@@ -10576,8 +10576,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper A-site havoc",
-  "description": "chopper makes his way into the A-site, finding a solid triple kill against Falcons.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper: Γυαλιά καρφιά στην περιοχή βόμβας Α",
+  "description": "Ο chopper φτάνει στην περιοχή βόμβας Α και κατορθώνει έναν τριπλό σκοτωμό ενάντια στους Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10591,8 +10591,8 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk quad eruption",
-  "description": "While entering the A-site on Dust II, donk secures a quad kill against Falcons.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk: Τετραπλή έκρηξη",
+  "description": "Καθώς εισέρχεται στην περιοχή βόμβας Α στη Dust II, ο donk εξασφαλίζει έναν τετραπλό σκοτωμό ενάντια στους Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10607,7 +10607,7 @@
  {
   "id": "highlight-bud2025_qf-kyousuke-triple-kill-on-dust2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke smoke punish",
-  "description": "kyousuke opens with a kill through the smoke and quickly follows it up with a double on the B-site against Spirit on Dust II.",
+  "description": "Ο kyousuke ξεκινά με έναν σκοτωμό μέσα από τον καπνό και συνεχίζει γρήγορα με έναν διπλό σκοτωμό στην περιοχή βόμβας Β ενάντια στους Spirit στη Dust II.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10636,7 +10636,7 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro mid-air shutdown",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Εναέριο φρένο από τον sh1ro",
   "description": "sh1ro catches TeSeS mid-air in Box and goes on to secure three more kills while defending the site.",
   "def_index": null,
   "highlight": true,
@@ -10651,7 +10651,7 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro multi-action swing",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Πολύπλευρη ανατροπή από τον sh1ro",
   "description": "sh1ro catches NiKo on his way to the B-site, nades m0NESY, and takes down kyxsan from Window, swinging the round in Spirit's favor.",
   "def_index": null,
   "highlight": true,
@@ -10666,7 +10666,7 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | TeSeS site purge",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ξεκαθάρισμα περιοχής από τον TeSeS",
   "description": "TeSeS finds the opening kill on chopper and follows up by clearing three players from the A-site on Dust II.",
   "def_index": null,
   "highlight": true,
@@ -10681,7 +10681,7 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R Gandalf spray",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R: Γάζωμα από το σημείο Γκάνταλφ",
   "description": "From Gandalf, tN1R takes down kyousuke with a precise shot and sprays down two more opponents on Ramp.",
   "def_index": null,
   "highlight": true,
@@ -10726,8 +10726,8 @@
  },
  {
   "id": "highlight-bud2025_qf-chopper-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper vs Falcons on Dust II",
-  "description": "When Spirit needed him most, chopper answered the call, making critical kills against Falcons.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper εναντίον Falcons στη Dust II",
+  "description": "Όταν οι Spirit τον χρειάστηκαν περισσότερο, ο chopper ήταν εκεί και κατόρθωσε κρίσιμους σκοτωμούς ενάντια στους Falcons.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10741,7 +10741,7 @@
  },
  {
   "id": "highlight-bud2025_qf-donk-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk vs Falcons on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk εναντίον Falcons στη Dust II",
   "description": "donk didn't hold back in the quarterfinal against Falcons, unleashing his raw firepower.",
   "def_index": null,
   "highlight": true,
@@ -10756,7 +10756,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kyousuke-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke vs Spirit on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyousuke εναντίον Spirit στη Dust II",
   "description": "kyousuke fought until the last bullet; nonetheless, Spirit showed strong resilience to close out the map.",
   "def_index": null,
   "highlight": true,
@@ -10771,7 +10771,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kyxsan-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyxsan vs Spirit on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | kyxsan εναντίον Spirit στη Dust II",
   "description": "kyxsan displayed sharp aim on Dust II, switching gears to find impactful frags and keep Falcons in the fight.",
   "def_index": null,
   "highlight": true,
@@ -10786,7 +10786,7 @@
  },
  {
   "id": "highlight-bud2025_qf-m0nesy-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | m0NESY vs Spirit on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | m0NESY εναντίον Spirit στη Dust II",
   "description": "m0NESY pushed himself to the limit on Dust II, delivering a spectacular display of skill, but Spirit were on fire that night.",
   "def_index": null,
   "highlight": true,
@@ -10801,8 +10801,8 @@
  },
  {
   "id": "highlight-bud2025_qf-niko-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | NiKo vs Spirit on Dust II",
-  "description": "NiKo put on a dueling masterclass on Dust II, but his performance was not enough to propel Falcons into the next stage.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | NiKo εναντίον Spirit στη Dust II",
+  "description": "Ο NiKo έδωσε ρεσιτάλ μονομαχίας στη Dust II, αλλά οι επιδόσεις του δεν ήταν αρκετές για να ωθήσουν τους Falcons στο επόμενο στάδιο.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10816,7 +10816,7 @@
  },
  {
   "id": "highlight-bud2025_qf-sh1ro-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro vs Falcons on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro εναντίον Falcons στη Dust II",
   "description": "The A-site was in steady hands when sh1ro held the AWP, backing up his desire to crush Falcons' pickems.",
   "def_index": null,
   "highlight": true,
@@ -10831,8 +10831,8 @@
  },
  {
   "id": "highlight-bud2025_qf-teses-vs-spirit-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | TeSeS vs Spirit on Dust II",
-  "description": "Kills from TeSeS on Dust II gave Falcons hope; however, his performance failed to overcome the opponents' flawless synergy.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | TeSeS εναντίον Spirit στη Dust II",
+  "description": "Οι σκοτωμοί από τον TeSeS στη Dust II έδωσαν ελπίδα στους Falcons. Ωστόσο, οι επιδόσεις του δεν κατάφεραν να υπερνικήσουν την αψεγάδιαστη συνεργασία των αντιπάλων.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10846,8 +10846,8 @@
  },
  {
   "id": "highlight-bud2025_qf-tn1r-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R vs Falcons on Dust II",
-  "description": "tN1R delivered a solid performance on the second map of the quarterfinal, securing a critical triple kill for Spirit.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R εναντίον Falcons στη Dust II",
+  "description": "Ο tN1R είχε καλές επιδόσεις στον δεύτερο χάρτη του προημιτελικού, εξασφαλίζοντας έναν κρίσιμο τριπλό σκοτωμό για τους Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10861,7 +10861,7 @@
  },
  {
   "id": "highlight-bud2025_qf-zweih-vs-falcons-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih vs Falcons on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih εναντίον Falcons στη Dust II",
   "description": "zweih left the B-site on Dust II uncontested, as anyone who dared to break into it was met with a strong, decisive response.",
   "def_index": null,
   "highlight": true,
@@ -10876,7 +10876,7 @@
  },
  {
   "id": "highlight-bud2025_qf-vitality-victory",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Vitality win in the QF",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Νίκη Vitality στους Προημιτελικούς",
   "description": "Vitality secures a 2:0 victory over The MongolZ in the quarterfinal of the StarLadder Budapest Major 2025.",
   "def_index": null,
   "highlight": true,
@@ -10891,8 +10891,8 @@
  },
  {
   "id": "highlight-bud2025_qf-910-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 MP9 mayhem",
-  "description": "910 turns his MP9 into a killing machine on the A-site, taking down three Vitality players in quick succession.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910: Χαμός με MP9",
+  "description": "Ο 910 μετατρέπει το MP9 σε φονική μηχανή στην περιοχή βόμβας Α, εξοντώνοντας γρήγορα τρεις παίκτες των Vitality διαδοχικά.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10907,7 +10907,7 @@
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-dust2-1",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii B-site burst",
-  "description": "mezii makes two solid entries on the B-site on Dust II and eliminates controlez in the afterplant.",
+  "description": "Ο mezii κατορθώνει δύο καλούς σκοτωμούς εισόδου στην περιοχή βόμβας Β στη Dust II και εξοντώνει τον controlez μετά την τοποθέτηση της βόμβας.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10921,8 +10921,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-triple-kill-on-dust2-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii mid takeover",
-  "description": "mezii dominates mid execute with his MP9, picking up three frags and giving Vitality a 10:5 lead over The MongolZ.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii: Κατάληψη Μέσης",
+  "description": "Ο mezii κυριαρχεί στη Μέση με το MP9 του, κατορθώνοντας τρεις σκοτωμούς και δίνοντας στους Vitality προβάδισμα 10:5 ενάντια στους The MongolZ.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10936,7 +10936,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-quadro-kill-on-dust2-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho Long control",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho: Έλεγχος στον Μακρύ Διάδρομο",
   "description": "With no flash from Vitality reaching him, Mzinho secures a double kill on Long and then clears Short of the remaining opponents.",
   "def_index": null,
   "highlight": true,
@@ -10966,8 +10966,8 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho mid surprise",
-  "description": "Mzinho clears Box against apEX and makes an unexpected push to Mid, picking up two more frags.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho: Έκπληξη στη Μέση",
+  "description": "Ο Mzinho καθαρίζει το Κουτί από τον apEX και εφορμά απροσδόκητα στη Μέση, κατορθώνοντας δύο ακόμα σκοτωμούς.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -10981,7 +10981,7 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-quadro-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz 1v3 clutch",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz: Κλατσάρισμα 1v3",
   "description": "ropz opens with the first kill in Mid and takes out the remaining opponents one by one in a 1v3 clutch.",
   "def_index": null,
   "highlight": true,
@@ -10996,7 +10996,7 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-triple-kill-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz pistol precision",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz: Ακρίβεια με το πιστόλι",
   "description": "ropz takes out Techno4K in the Upper Tunnel and follows up with two headshots, giving Vitality the second pistol round.",
   "def_index": null,
   "highlight": true,
@@ -11026,7 +11026,7 @@
  },
  {
   "id": "highlight-bud2025_qf-910-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 vs Vitality on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | 910 εναντίον Vitality στη Dust II",
   "description": "On Dust II, 910 turned every opportunity into momentum, but despite the effort, it wasn't enough.",
   "def_index": null,
   "highlight": true,
@@ -11041,7 +11041,7 @@
  },
  {
   "id": "highlight-bud2025_qf-apex-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX vs The MongolZ on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX εναντίον The MongolZ στη Dust II",
   "description": "The actions of apEX on Dust II spoke louder than words, as The MongolZ were effectively silenced by his unrelenting calls.",
   "def_index": null,
   "highlight": true,
@@ -11056,7 +11056,7 @@
  },
  {
   "id": "highlight-bud2025_qf-blitz-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | bLitz vs Vitality on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | bLitz εναντίον Vitality στη Dust II",
   "description": "bLitz clung to every opportunity to challenge Vitality, but The MongolZ ultimately fell short on the second map of the quarterfinal.",
   "def_index": null,
   "highlight": true,
@@ -11071,7 +11071,7 @@
  },
  {
   "id": "highlight-bud2025_qf-controlez-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | controlez vs Vitality on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | controlez εναντίον Vitality στη Dust II",
   "description": "controlez challenged Vitality with his unexpected moves; however, he couldn't turn the tide on Dust II.",
   "def_index": null,
   "highlight": true,
@@ -11086,7 +11086,7 @@
  },
  {
   "id": "highlight-bud2025_qf-flamez-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ vs The MongolZ on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ εναντίον The MongolZ στη Dust II",
   "description": "flameZ imposed a tough fight on The MongolZ on Dust II, exploiting map control whenever possible to gain the advantage.",
   "def_index": null,
   "highlight": true,
@@ -11101,7 +11101,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mezii-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii vs The MongolZ on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii εναντίον The MongolZ στη Dust II",
   "description": "No one could hide from mezii on Dust II. His game sense was on another level that night, allowing him to read the enemy's moves and take them down effortlessly.",
   "def_index": null,
   "highlight": true,
@@ -11116,7 +11116,7 @@
  },
  {
   "id": "highlight-bud2025_qf-mzinho-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho vs Vitality on Dust II",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Mzinho εναντίον Vitality στη Dust II",
   "description": "Mzinho kept his cool under pressure on Dust II, ensuring his team remained competitive against Vitality.",
   "def_index": null,
   "highlight": true,
@@ -11131,8 +11131,8 @@
  },
  {
   "id": "highlight-bud2025_qf-ropz-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz vs The MongolZ on Dust II",
-  "description": "ropz fought for every opportunity to close out his opponents on Dust II, demonstrating relentless precision.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz εναντίον The MongolZ στη Dust II",
+  "description": "Ο ropz αγωνίστηκε για κάθε ευκαιρία να κατατροπώσει τους αντιπάλους του στη Dust II, επιδεικνύοντας αμείλικτη ακρίβεια.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11146,8 +11146,8 @@
  },
  {
   "id": "highlight-bud2025_qf-techno4k-vs-vitality-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Techno4K vs Vitality on Dust II",
-  "description": "Techno4K fought hard, but Dust II ultimately fell to Vitality.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Techno4K εναντίον Vitality στη Dust II",
+  "description": "Ο Techno4K αγωνίστηκε σκληρά, αλλά η Dust II πέρασε στους Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11161,8 +11161,8 @@
  },
  {
   "id": "highlight-bud2025_qf-zywoo-vs-the-mongolz-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo vs The MongolZ on Dust II",
-  "description": "ZywOo proved he came to win, showcasing his superior skill and readiness for the next stage.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo εναντίον The MongolZ στη Dust II",
+  "description": "Ο ZywOo απέδειξε ότι ήρθε για να κερδίσει, επιδεικνύοντας τις ανώτερες ικανότητές του και την ετοιμότητά του για την επόμενη φάση.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11176,7 +11176,7 @@
  },
  {
   "id": "highlight-bud2025_qf-navi-victory",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Natus Vincere win in the QF",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Νίκη Natus Vincere στους Προημιτελικούς",
   "description": "Natus Vincere secures a 2:1 victory over FURIA in the quarterfinal of the StarLadder Budapest Major 2025.",
   "def_index": null,
   "highlight": true,
@@ -11206,8 +11206,8 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-triple-kill-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib post-plant triple",
-  "description": "Aleksib finds two swift kills on Train against FURIA before adding a third in the post-plant.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib: Τριπλός σκοτωμός μετά την τοποθέτηση",
+  "description": "Ο Aleksib κατορθώνει δύο γρήγορους σκοτωμούς στην Train ενάντια στους FURIA πριν προσθέσει έναν τρίτο μετά την τοποθέτηση της βόμβας.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11221,7 +11221,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-triple-kill-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t B-site ambush",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t: Ενέδρα στη Β",
   "description": "b1t surprises yuurih and FalleN, falls back to the site, and brutally punishes molodoy on the B-site drop.",
   "def_index": null,
   "highlight": true,
@@ -11236,8 +11236,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-train-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze flash cleanup",
-  "description": "makazze, set up by a flash from w0nderful, takes down yuurih, falls back to A-Main, and hunts down the remaining two opponents.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze: Ξεκαθάρισμα κρότου λάμψης",
+  "description": "Ο makazze, που τον βοηθά ο w0nderful με μια χειροβομβίδα κρότου λάμψης, εξοντώνει τον yuurih, υποχωρεί στον Κύριο Διάδρομο Α και κυνηγά τους υπόλοιπους δύο αντιπάλους.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11266,7 +11266,7 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-triple-kill-on-train-3",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze pistol precision",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze: Ακρίβεια με το πιστόλι",
   "description": "makazze's crosshair was glued to FURIA's heads in the second pistol round on Train, earning him a triple kill on A-site.",
   "def_index": null,
   "highlight": true,
@@ -11281,7 +11281,7 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-quadro-kill-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze fury unleashed",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze: Έκρηξη οργής",
   "description": "makazze went into full fury mode on Train, collecting four kills to push the score to 12:2 against FURIA.",
   "def_index": null,
   "highlight": true,
@@ -11296,7 +11296,7 @@
  },
  {
   "id": "highlight-bud2025_qf-kscerato-triple-kill-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | KSCERATO A play",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Ρεσιτάλ του KSCERATO στην περιοχή βόμβας Α",
   "description": "KSCERATO finds three kills near A-site, pausing Natus Vincere's attempt to cross.",
   "def_index": null,
   "highlight": true,
@@ -11312,7 +11312,7 @@
  {
   "id": "highlight-bud2025_qf-fallen-triple-kill-on-train",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | FalleN late-half triple",
-  "description": "FalleN sparks hope for FURIA with a triple kill in the final round of the half on Train.",
+  "description": "Ο FalleN αναζωπυρώνει την ελπίδα για τους FURIA με έναν τριπλό σκοτωμό στον τελικό γύρο του ημιχρόνου στην Train.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11326,8 +11326,8 @@
  },
  {
   "id": "highlight-bud2025_qf-w0nderful-vs-furia-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | w0nderful vs FURIA on Train",
-  "description": "w0nderful's AWP went singing on Train, hitting deadly note after note with pinpoint accuracy to secure the decider for Natus Vincere.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | w0nderful εναντίον FURIA στην Train",
+  "description": "Το AWP του w0nderful κελαηδούσε στην Train, πετυχαίνοντας με απόλυτη ακρίβεια τη μία νότα μετά την άλλη, για να εξασφαλίσει τον καθοριστικό αγώνα για τους Natus Vincere.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11341,7 +11341,7 @@
  },
  {
   "id": "highlight-bud2025_qf-aleksib-vs-furia-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib vs FURIA on Train",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Aleksib εναντίον FURIA στην Train",
   "description": "Aleksib's exceptional tactical leadership and late-round decision-making left no chance for a FURIA comeback on Train.",
   "def_index": null,
   "highlight": true,
@@ -11356,7 +11356,7 @@
  },
  {
   "id": "highlight-bud2025_qf-b1t-vs-furia-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t vs FURIA on Train",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | b1t εναντίον FURIA στην Train",
   "description": "b1t was clinical on Train, demonstrating sharp aim and positioning as he capitalized on every opportunity to close out the map against FURIA.",
   "def_index": null,
   "highlight": true,
@@ -11371,7 +11371,7 @@
  },
  {
   "id": "highlight-bud2025_qf-im-vs-furia-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM vs FURIA on Train",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM εναντίον FURIA στην Train",
   "description": "iM was fully locked in and ready for every duel on the decider map, underlining that Natus Vincere were fully prepared to advance to the semifinal stage.",
   "def_index": null,
   "highlight": true,
@@ -11386,8 +11386,8 @@
  },
  {
   "id": "highlight-bud2025_qf-makazze-vs-furia-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze vs FURIA on Train",
-  "description": "makazze showed his true self on Train, delivering a highly impactful performance that defined the map's tempo and led to FURIA's defeat.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | makazze εναντίον FURIA στην Train",
+  "description": "Ο makazze έδειξε τον αληθινό του εαυτό στην Train, με επιδόσεις υψηλού αντίκτυπου που καθόρισαν τον ρυθμό του χάρτη και οδήγησαν στην ήττα των FURIA.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11401,7 +11401,7 @@
  },
  {
   "id": "highlight-bud2025_qf-yekindar-vs-navi-on-train",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR vs Natus Vincere on Train",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | YEKINDAR εναντίον Natus Vincere στην Train",
   "description": "YEKINDAR was constantly under pressure on the decider map from Natus Vincere, forcing him into difficult duels throughout.",
   "def_index": null,
   "highlight": true,
@@ -11776,7 +11776,7 @@
  },
  {
   "id": "highlight-bud2025_sf-jcobbb-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb vs Natus Vincere on Ancient",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | jcobbb εναντίον Natus Vincere στην Ancient",
   "description": "jcobbb gave everything he had, looking to drag FaZe back into the game on Ancient.",
   "def_index": null,
   "highlight": true,
@@ -11791,8 +11791,8 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-vs-navi-on-ancient",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen vs Natus Vincere on Ancient",
-  "description": "frozen looked for consistency on Ancient, contributing where he could, though Natus Vincere kept control of the map.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen εναντίον Natus Vincere στην Ancient",
+  "description": "Ο frozen προσπαθούσε να έχει σταθερές επιδόσεις στην Ancient και να συνεισφέρει όπου μπορεί, ωστόσο οι Natus Vincere κράτησαν τον έλεγχο του χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11806,7 +11806,7 @@
  },
  {
   "id": "highlight-bud2025_sf-spirit-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Spirit on the SF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Spirit στη σκηνή των Ημιτελικών",
   "description": "Spirit enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
   "def_index": null,
   "highlight": true,
@@ -11821,7 +11821,7 @@
  },
  {
   "id": "highlight-bud2025_sf-vitality-entrance",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Vitality on the SF stage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Οι Vitality στη σκηνή των Ημιτελικών",
   "description": "Vitality enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Spirit.",
   "def_index": null,
   "highlight": true,
@@ -11836,8 +11836,8 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-double-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX overtime closer",
-  "description": "apEX closes out overtime on Mirage with two final kills against Spirit.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX: Κλείσιμο παράτασης",
+  "description": "Ο apEX κλείνει την παράταση στη Mirage με δύο τελικούς σκοτωμούς ενάντια στους Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11882,7 +11882,7 @@
  {
   "id": "highlight-bud2025_sf-donk-triple-on-mirage-2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk Mid takeover",
-  "description": "donk takes over Mid with a triple kill against Vitality.",
+  "description": "Ο donk καταλαμβάνει τη Μέση με έναν τριπλό σκοτωμό ενάντια στους Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11896,8 +11896,8 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-triple-on-mirage-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii B-aps shutdown",
-  "description": "mezii shuts down chopper in B-apartments before securing two more kills around the B-site.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii: Φρένο στα Διαμερίσματα Β",
+  "description": "Ο mezii σταματά τον chopper στα Διαμερίσματα Β πριν εξασφαλίσει δύο ακόμα σκοτωμούς γύρω από την περιοχή βόμβας Β.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11926,8 +11926,8 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-triple-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz round flip",
-  "description": "ropz perfectly predicts Spirit's positions, swinging the round in his team's favor making three kills.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz: Ανατροπή γύρου",
+  "description": "Ο ropz προβλέπει τέλεια τις θέσεις των Spirit, ανατρέποντας τον γύρο προς όφελος της ομάδας του με τρεις σκοτωμούς.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11941,7 +11941,7 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-triple-on-mirage-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R Firebox gamble",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R: Ρίσκο στα κουτιά",
   "description": "tN1R's risky Firebox play nets two kills, but ropz prevails in the final duel.",
   "def_index": null,
   "highlight": true,
@@ -11957,7 +11957,7 @@
  {
   "id": "highlight-bud2025_sf-tn1r-triple-on-mirage-2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R finishing double",
-  "description": "tN1R wins the duel against ZywOo and follows it up with a double to close the round.",
+  "description": "Ο tN1R κερδίζει τη μονομαχία ενάντια στον ZywOo και συνεχίζει με έναν διπλό σκοτωμό για να κλείσει τον γύρο.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11972,7 +11972,7 @@
  {
   "id": "highlight-bud2025_sf-zywoo-quadro-on-mirage",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo Short play",
-  "description": "ZywOo opens with a kill on Mid, then takes over the round by shutting down enemies from all angles.",
+  "description": "Ο ZywOo ξεκινά με έναν σκοτωμό στη Μέση και κερδίζει έπειτα τον γύρο σταματώντας εχθρούς από όλες τις πλευρές.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -11986,7 +11986,7 @@
  },
  {
   "id": "highlight-bud2025_sf-apex-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX vs Spirit on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX εναντίον Spirit στη Mirage",
   "description": "apEX kept his head cool under intense pressure, delivering the necessary individual impact and crucial calls against Spirit to secure the map victory for Vitality.",
   "def_index": null,
   "highlight": true,
@@ -12001,8 +12001,8 @@
  },
  {
   "id": "highlight-bud2025_sf-chopper-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper vs Vitality on Mirage",
-  "description": "chopper showed true resilience and a relentless fighting spirit on Mirage, but his efforts were ultimately not enough to secure the map.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | chopper εναντίον Vitality στη Mirage",
+  "description": "Ο chopper έδειξε πραγματική αντοχή και αδυσώπητο αγωνιστικό πνεύμα στη Mirage, αλλά οι προσπάθειές του δεν ήταν τελικά αρκετές για να εξασφαλίσει τον χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12016,8 +12016,8 @@
  },
  {
   "id": "highlight-bud2025_sf-donk-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk vs Vitality on Mirage",
-  "description": "donk did not hesitate and forced Vitality into mistakes; however, Spirit were unable to convert the opportunity into a map win.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk εναντίον Vitality στη Mirage",
+  "description": "Ο donk δεν δίστασε και ανάγκασε τους Vitality να κάνουν λάθη. Ωστόσο, οι Spirit δεν μπόρεσαν να μετατρέψουν αυτήν την ευκαιρία σε νίκη χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12031,7 +12031,7 @@
  },
  {
   "id": "highlight-bud2025_sf-flamez-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ vs Spirit on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ εναντίον Spirit στη Mirage",
   "description": "On Mirage, flameZ applied constant pressure, consistently forcing Spirit out of position and into critical mistakes.",
   "def_index": null,
   "highlight": true,
@@ -12046,7 +12046,7 @@
  },
  {
   "id": "highlight-bud2025_sf-mezii-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii vs Spirit on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | mezii εναντίον Spirit στη Mirage",
   "description": "mezii was a consistent powerhouse for Vitality, demonstrating peak individual form and delivering crucial, high-impact frags throughout Mirage.",
   "def_index": null,
   "highlight": true,
@@ -12061,7 +12061,7 @@
  },
  {
   "id": "highlight-bud2025_sf-ropz-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz vs Spirit on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ropz εναντίον Spirit στη Mirage",
   "description": "Mirage was full of action from ropz, whose precision and well-calculated moves allowed him to turn multiple unfavorable situations into winnable ones.",
   "def_index": null,
   "highlight": true,
@@ -12076,7 +12076,7 @@
  },
  {
   "id": "highlight-bud2025_sf-sh1ro-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | sh1ro εναντίον Vitality στη Mirage",
   "description": "sh1ro fought hard, securing vital kills, though Vitality were simply stronger this time around.",
   "def_index": null,
   "highlight": true,
@@ -12091,8 +12091,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R vs Vitality on Mirage",
-  "description": "tN1R was fully committed to the fight, but Mirage ultimately went to Vitality.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R εναντίον Vitality στη Mirage",
+  "description": "Ο tN1R ήταν πλήρως αφοσιωμένος στη μάχη, αλλά η Mirage πέρασε τελικά στους Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12106,7 +12106,7 @@
  },
  {
   "id": "highlight-bud2025_sf-zweih-vs-vitality-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih vs Vitality on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih εναντίον Vitality στη Mirage",
   "description": "zweih made multiple proactive attempts to disrupt and change the pace on Mirage; despite his best efforts, Vitality secured the map win.",
   "def_index": null,
   "highlight": true,
@@ -12121,7 +12121,7 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-vs-spirit-on-mirage",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo vs Spirit on Mirage",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo εναντίον Spirit στη Mirage",
   "description": "ZywOo didn't hold back on Mirage against Spirit, unleashing his signature form and delivering a strong performance.",
   "def_index": null,
   "highlight": true,
@@ -12166,7 +12166,7 @@
  },
  {
   "id": "highlight-bud2025_sf-im-quadro-on-nuke-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM pistol quad",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | iM: Τετραπλό πιστολίδι",
   "description": "iM delivers a quad kill in the opening pistol round against FaZe with his Dual Berettas.",
   "def_index": null,
   "highlight": true,
@@ -12196,8 +12196,8 @@
  },
  {
   "id": "highlight-bud2025_sf-karrigan-triple-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan Main entry triple",
-  "description": "karrigan greets makazze with a bullet in Main, then follows up with two more kills on the site.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | karrigan: Τριπλός σκοτωμός εισόδου στον Κύριο Διάδρομο",
+  "description": "Ο karrigan καλωσορίζει τον makazze με μια σφαίρα στον Κύριο Διάδρομο και συνεχίζει με δύο ακόμα σκοτωμούς στην περιοχή βόμβας.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12211,8 +12211,8 @@
  },
  {
   "id": "highlight-bud2025_sf-broky-triple-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky A-site equalizer",
-  "description": "broky makes his way onto the A-site, securing a triple kill to equal the score on Nuke.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | broky: Ισοφάριση στην περιοχή βόμβας Α",
+  "description": "Ο broky φτάνει στην περιοχή βόμβας Α και εξασφαλίζει έναν τριπλό σκοτωμό, ισοφαρίζοντας το σκορ στη Nuke.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12226,7 +12226,7 @@
  },
  {
   "id": "highlight-bud2025_sf-twistzz-quadro-on-nuke",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz Ramp bomb hold",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz: Υπεράσπιση βόμβας στη Ράμπα",
   "description": "Twistzz opens up Ramp, clears the way to the site, and holds off three players on the bomb.",
   "def_index": null,
   "highlight": true,
@@ -12241,7 +12241,7 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-triple-on-nuke-1",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen Ramp triple",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen: Τριπλός σκοτωμός στη Ράμπα",
   "description": "frozen holds off Natus Vincere from Ramp, securing a triple kill.",
   "def_index": null,
   "highlight": true,
@@ -12256,7 +12256,7 @@
  },
  {
   "id": "highlight-bud2025_sf-frozen-triple-on-nuke-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen backstab cleanup",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | frozen: Πισώπλατο ξεκαθάρισμα",
   "description": "frozen takes down w0nderful from behind before cleaning up the site against the final two players.",
   "def_index": null,
   "highlight": true,
@@ -12437,7 +12437,7 @@
  {
   "id": "highlight-bud2025_sf-donk-quadro-on-dust2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | donk door-to-AWP rampage",
-  "description": "donk sprays down ZywOo through the door, continues his smoky run by taking down apEX, then switches to the AWP to land two more shots.",
+  "description": "Ο donk γαζώνει τον ZyWoo μέσα από την πόρτα, συνεχίζει ακάθεκτος μέσα από τους καπνούς καθαρίζοντας τον ApEx και, στη συνέχεια, τραβά το AWP πετυχαίνοντας δύο ακόμα βολές.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12452,7 +12452,7 @@
  {
   "id": "highlight-bud2025_sf-zweih-triple-on-dust2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | zweih tunnels opener",
-  "description": "zweih opens on ZywOo in Tunnels and adds a double on the cross to B-site.",
+  "description": "Ο zweih ξεκινά με καθάρισμα του ZywOo στα Τούνελ και κατορθώνει 2 ακόμα σκοτωμούς στη διασταύρωση προς την περιοχή βόμβας Β.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12466,8 +12466,8 @@
  },
  {
   "id": "highlight-bud2025_sf-tn1r-double-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R doors to B plant",
-  "description": "tN1R picks off mezii from the doors, then swiftly takes down ropz to secure the B-site plant.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | tN1R: Από τις πόρτες στην περιοχή Β",
+  "description": "Ο tN1R εξοντώνει τον mezii από τις πόρτες και, στη συνέχεια, βγάζει με ευκολία τον ropz από τη μέση, εξασφαλίζοντας την τοποθέτηση της βόμβας στην περιοχή Β.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12482,7 +12482,7 @@
  {
   "id": "highlight-bud2025_sf-zywoo-triple-on-dust2-1",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo pistol round burst",
-  "description": "ZywOo opens Dust II with three USP-S kills against Spirit.",
+  "description": "Ο ZywOo ανοίγει τον γύρο στην Dust II, κατορθώνοντας τριπλό σκοτωμό με το USP-S ενάντια στους Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12496,8 +12496,8 @@
  },
  {
   "id": "highlight-bud2025_sf-zywoo-triple-on-dust2-2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo smoke stumble",
-  "description": "ZywOo stumbles upon three opponents in the smoke on Short and secures the round for Vitality.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | ZywOo: Συνάντηση στον καπνό",
+  "description": "Ο ZyWoo πέφτει πάνω σε τρεις αντιπάλους μέσα στον καπνό στον Σύντομο Διάδρομο και εξασφαλίζει τον γύρο για τους Vitality.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12512,7 +12512,7 @@
  {
   "id": "highlight-bud2025_sf-apex-double-on-dust2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX early double",
-  "description": "apEX makes his mark early on Dust II, securing a double kill in the second round with his FAMAS.",
+  "description": "Ο ApEx αφήνει από νωρίς το στίγμα του στη Dust II, κατορθώνοντας διπλό σκοτωμό με το FAMAS του στον δεύτερο γύρο.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12542,7 +12542,7 @@
  {
   "id": "highlight-bud2025_sf-apex-triple-on-dust2-2",
   "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | apEX Long dance",
-  "description": "apEX finds a triple kill on Long while weaving through the smokes and molotovs against Spirit.",
+  "description": "Ο ApEx κατορθώνει τριπλό σκοτωμό στον Μακρύ Διάδρομο, περνώντας μέσα από τους καπνούς και τις μολότοφ ενάντια στους Spirit.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -12556,8 +12556,8 @@
  },
  {
   "id": "highlight-bud2025_sf-flamez-double-on-dust2",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ map closer",
-  "description": "flameZ's double kill on A seals the map victory for Vitality.",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | flameZ: Ο κατακτητής του χάρτη",
+  "description": "Ο διπλός σκοτωμός από τον flameZ στην περιοχή βόμβας A χαρίζει στους Vitality τη νίκη επί του χάρτη.",
   "def_index": null,
   "highlight": true,
   "rarity": {
@@ -14206,7 +14206,7 @@
  },
  {
   "id": "highlight-bud2025_gf-twistzz-vs-vitality-on-overpass",
-  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz vs Vitality on Overpass",
+  "name": "Souvenir Charm | Καλύτερη Στιγμή – Βουδαπέστη 2025 | Twistzz εναντίον Vitality στην Overpass",
   "description": "Twistzz was constantly tested, with Vitality restricting the space he needed to influence rounds.",
   "def_index": null,
   "highlight": true,
