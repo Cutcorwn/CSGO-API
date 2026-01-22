@@ -11608,7 +11608,7 @@
  {
   "id": "bud2025_gf-ropz-triple-on-inferno-2",
   "name": "Souvenir Charm | Budapest 2025 Kiemelt Pillanat | ropz Mélyedés tripla",
-  "description": "ropz talál egy hármas ölést a Mélyedésből, 1:3-as álláshoz a FaZe ellen.",
+  "description": "ropz talál egy hármas ölést a Mélyedésből, 1:3-ra alakítva az állást a FaZe ellen.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "Vitality",
@@ -11944,7 +11944,7 @@
  {
   "id": "bud2025_gf-frozen-triple-on-overpass",
   "name": "Souvenir Charm | Budapest 2025 Kiemelt Pillanat | frozen „A” tripla",
-  "description": "frozen szállít egy hármas ölést a FaZe életben tartására a döntőben, de az apEX becsukja az ajtót.",
+  "description": "frozen szállít egy hármas ölést a FaZe életben tartására a döntőben, de apEX becsukja az ajtót.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "Vitality",
