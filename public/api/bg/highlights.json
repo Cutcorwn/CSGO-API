@@ -548,7 +548,7 @@
  {
   "id": "aus2025_magixx3konafterplantvsmouzondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Все още не се е свършило",
-  "description": "magixx улавя тройно убийство, за да подсигури повторното превземане на Dust2.",
+  "description": "magixx прави тройно убийство, за да подсигури повторното превземане на Dust2.",
   "tournament_event": "Austin 2025",
   "team0": "Team Spirit",
   "team1": "MOUZ",
@@ -1010,7 +1010,7 @@
  {
   "id": "aus2025_xertionfast3koutsidevsspiritonnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | xertioN | Икономичният убиец на Nuke",
-  "description": "xertioN взема бързо тройно убийство в покрайнините при икономичния рунд срещу Spirit.",
+  "description": "xertioN прави бързо тройно убийство в покрайнините при икономичния рунд срещу Spirit.",
   "tournament_event": "Austin 2025",
   "team0": "Team Spirit",
   "team1": "MOUZ",
@@ -2144,7 +2144,7 @@
  {
   "id": "aus2025_aleksib2kbholdvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Aleksib | Двойно убийство",
-  "description": "Два бързи изстрела в главата с USP от Aleksib окончателно преустановяват рунда за NAVI.",
+  "description": "Два бързи изстрела в главата с USP от Aleksib окончателно преустановяват рунда за Natus Vincere.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2172,7 +2172,7 @@
  {
   "id": "aus2025_b1tdoubleentryvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | b1t | Двойно постъпление",
-  "description": "Две бързи встъпителни убийства на зоната за бомба „B“ от b1t отварят достъпа до нея за NAVI.",
+  "description": "Две бързи встъпителни убийства на зоната за бомба „B“ от b1t отварят достъпа до нея за Natus Vincere.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2256,7 +2256,7 @@
  {
   "id": "aus2025_imquadkillvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | iM | Четворно убийство",
-  "description": "Разпръсканата стрелба на iM му подсигурява четворно убийство и поднася победата в рунда за NAVI.",
+  "description": "Разпръсканата стрелба на iM му подсигурява четворно убийство и поднася победата в рунда за Natus Vincere.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2312,7 +2312,7 @@
  {
   "id": "aus2025_mezii4kclutchvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Четворно убийство и критична схватка",
-  "description": "Икономичният рунд на NAVI бива отхвърлен от mezii, тъй като той печели критична схватка при един срещу трима и си подсигурява четворно убийство в рунда.",
+  "description": "Икономичният рунд на Natus Vincere бива отхвърлен от mezii, тъй като той печели критична схватка при един срещу трима и си подсигурява четворно убийство в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2340,7 +2340,7 @@
  {
   "id": "aus2025_ropzbholdvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Оцелял в зоната за бомба „B“",
-  "description": "ropz manages to buy time for his team on the B-site while also securing a triple kill on the defense.",
+  "description": "ropz съумява да спечели време за своя отбор на зоната за бомба „B“, като същевременно с това подсигурява тройно убийство, докато отбранява.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2354,7 +2354,7 @@
  {
   "id": "aus2025_ropzdoublesprayvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Двойно разпръскване",
-  "description": "ropz holds the Palace push, securing a two-man spraydown.",
+  "description": "ropz удържа напъна на „Дворец“, подсигурявайки си убийство на двама души с пренасочване на разпръскването.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2368,7 +2368,7 @@
  {
   "id": "aus2025_wonderful2kdeagvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | w0nderful | Двойно с Deagle",
-  "description": "w0nderful's double kill with his Deagle gives NAVI a chance in the eco round.",
+  "description": "Двойното убийство на w0nderful с неговия Deagle дава шанс на Natus Vincere в икономичния рунд.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2396,7 +2396,7 @@
  {
   "id": "aus2025_wonderful2kandcluchvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | w0nderful | Богът на критичните схватки",
-  "description": "w0nderful wins the one-versus-one clutch against mezii, netting two kills with the AWP in the round.",
+  "description": "w0nderful печели критичната схватка един срещу един срещу mezii, а това му носи две убийства с AWP в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2438,7 +2438,7 @@
  {
   "id": "aus2025_zywooraremissesandaflickvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Рядко пропуска, но смогва да осъществи перване",
-  "description": "Rare misses from ZywOo's AWP, but he still manages to land a flick while fully flashed.",
+  "description": "Редки пропуски от AWP на ZywOo, но той все пак успява да нанесе перване, докато е напълно заслепен.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2452,7 +2452,7 @@
  {
   "id": "aus2025_zywoo2kvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ZywOo | Двойно убийство на Mirage",
-  "description": "Two frags by ZywOo from the A-site help Vitality secure the round.",
+  "description": "Два фрага на ZywOo от зоната за бомба „A“ помагат на Vitality да подсигурят рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2466,7 +2466,7 @@
  {
   "id": "aus2025_zywoodeniestheaceclutchvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Отхвърлено",
-  "description": "An entry and a wallbang from ZywOo deny Aleksib the ace clutch.",
+  "description": "Встъпително убийство и стрелба през стена от ZywOo лишават Aleksib от асовото овладяване на критичната схватка.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2480,7 +2480,7 @@
  {
   "id": "aus2025_zywoo4kakvsnavionmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Може и с винтовка",
-  "description": "Clean AK-47 frags from ZywOo earn him a quad kill and secure the round for Vitality.",
+  "description": "Чистите фрагове с АК-47 от ZywOo му печелят четворно убийство и подсигуряват рунда за Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2522,7 +2522,7 @@
  {
   "id": "aus2025_apex2kinclutchvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Критична схватка с MP9",
-  "description": "apEX comes in clutch in the two-versus-two, picking up both kills with the MP9 to secure the round.",
+  "description": "apEX влиза в критична схватка двама срещу двама, правейки и двете убийства с MP9, за да си подсигури рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2578,7 +2578,7 @@
  {
   "id": "aus2025_flamez2kinnervsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | flameZ | Двойно убийство на Nuke",
-  "description": "The A-site is locked down as flameZ picks up two frags with the MP9.",
+  "description": "Периметърът на зоната за бомба „A“ е отцепен, докато flameZ прави два чисти фрага с MP9.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2606,7 +2606,7 @@
  {
   "id": "aus2025_mezii3kpistolvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mezii | Тройно убийство с пистолет",
-  "description": "mezii keeps the attack alive by securing three kills in the pistol round.",
+  "description": "mezii поддържа атаката жива, като подсигурява три убийства в рунда с пистолети.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2620,7 +2620,7 @@
  {
   "id": "aus2025_mezii3kvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mezii | Тройно постъпление",
-  "description": "The A-site is left wide open as mezii picks up three entry frags.",
+  "description": "Зоната за бомба „A“ беше оставена леснодостъпна, докато mezii прави три встъпителни фрага.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2634,7 +2634,7 @@
  {
   "id": "aus2025_meziitkvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mezii | Отборен убиец",
-  "description": "While shooting at an enemy, mezii accidentally kills his teammate ZywOo.",
+  "description": "Докато стреля по враг, mezii случайно убива съотборника си ZywOo.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2662,7 +2662,7 @@
  {
   "id": "aus2025_mezi2kinnervsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Не е достатъчно",
-  "description": "mezii takes two, but it's not enough as Vitality gets overrun by the A-split.",
+  "description": "mezii ликвидира двама, но това не е достатъчно, тъй като Vitality биват преодолени от това, че целия отбор отива в зоната за бомба „A“.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2690,7 +2690,7 @@
  {
   "id": "aus2025_ropz2kvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ropz | Двойно убийство на Nuke",
-  "description": "ropz seals the round by finding two frags on the lower B-site.",
+  "description": "ropz запечатва рунда, като осъществява два фрага в долната част на зоната за бомба „B“.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2760,7 +2760,7 @@
  {
   "id": "aus2025_zywoo2kvsecovsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Няма да се докопате до моя АК47",
-  "description": "Two NAVI players rushing ZywOo get taken down, giving him a double kill.",
+  "description": "Двама играчи на Natus Vincere, щурмуващи ZywOo, биват повалени, давайки му двойно убийство.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2774,7 +2774,7 @@
  {
   "id": "aus2025_zywooknifekillvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Наръгването в гръб",
-  "description": "Failing to clear his angles gives ZywOo the opportunity to knife w0nderful.",
+  "description": "Неуспехът на w0nderful да провери дали ъглите му са чисти дава благоприятната възможност на ZywOo да го намушка.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2844,7 +2844,7 @@
  {
   "id": "aus2025_zywoo3krampvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Закриване на „Рампа“",
-  "description": "Ramp is shut down as ZywOo takes down three on the hold.",
+  "description": "Рампата е окончателно преустановена, след като ZywOo поваля трима, докато удържа позицията.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2885,7 +2885,7 @@
  },
  {
   "id": "aus2025_9103ktowinmapvsfazeonmirage",
-  "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | 910 | Тройно убийство с/у FaZe",
+  "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | 910 | Тройно убийство с/у FaZe Clan",
   "description": "910 rushes mid, picks up two kills and an AWP, then secures a third to dismantle FaZe's default.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
@@ -2900,7 +2900,7 @@
  {
   "id": "aus2025_blitzalmostkillsallvsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Почти 500 щети",
-  "description": "bLitz kills four and nearly finishes off the fifth.",
+  "description": "bLitz убива четирима и почти довършва пети.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -2970,7 +2970,7 @@
  {
   "id": "aus2025_eligecatchingsmokevsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Хваща димка",
-  "description": "EliGE catches a smoke, pushes through it, and fails to find a target.",
+  "description": "EliGE улавя димка, стремително напира през нея и не успява да намери цел.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -2998,7 +2998,7 @@
  {
   "id": "aus2025_karrigandefensevsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Отбраняване за „Свръзка“",
-  "description": "karrigan gets two kills in Connector on Mirage.",
+  "description": "karrigan прави две убийства в „Свръзка“ на Mirage.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3026,7 +3026,7 @@
  {
   "id": "aus2025_karrigan2headshotsvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | karrigan | Двойни изстрели в главата",
-  "description": "Two headshots from karrigan win FaZe the afterplant.",
+  "description": "Два изстрела в главата от karrigan печелят за FaZe Clan във времето след залагането.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3054,7 +3054,7 @@
  {
   "id": "aus2025_mzinhodoubleentryvsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mzinho | Двойно постъпление в зоната за бомба „B“",
-  "description": "A double entry on the B attack gives The MongolZ an open B bombsite.",
+  "description": "Двойно встъпително убийство при атаката на зоната за бомба „B“ дава на The MongolZ открито поле за изява там.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3068,7 +3068,7 @@
  {
   "id": "aus2025_mzinho2kadefensevsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mzinho | Двойно убийство на Mirage",
-  "description": "mzinho holds down the A-site, grabbing a fast double kill.",
+  "description": "mzinho удържа позиция на зоната за бомба „A“, грабвайки бързо двойно убийство.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3082,7 +3082,7 @@
  {
   "id": "aus2025_rain2kvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Чистата двойна отбрана",
-  "description": "Two quick kills from rain on A keep FaZe in the round.",
+  "description": "Две бързи убийства от rain на зоната за бомба „A“ поддържат FaZe Clan в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3152,7 +3152,7 @@
  {
   "id": "aus2025_s1mple3kawpvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Трикратното AWP",
-  "description": "s1mple gets a triple kill with the AWP to secure the round for FaZe.",
+  "description": "s1mple прави тройно убийство с AWP, за да подсигури рунда за FaZe Clan.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3194,7 +3194,7 @@
  {
   "id": "aus2025_s1mplefailvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Не изваждайте нож в престрелка",
-  "description": "The knife comes out to finish off 910 after s1mple misses two AWP shots.",
+  "description": "Ножът се изважда, за да довърши 910, след като s1mple пропуска два изстрела с AWP.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3208,7 +3208,7 @@
  {
   "id": "aus2025_senzudoubleentryvsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Senzu | Двойно постъпление",
-  "description": "Senzu kills two opponents to open up the B-site on Mirage.",
+  "description": "Senzu убива двама опоненти, за да открие полето за изява в зоната за бомба „B“ на Mirage.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3222,7 +3222,7 @@
  {
   "id": "aus2025_senzu2kdefensevsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Двойно от бранителя",
-  "description": "Two headshots from Senzu stop the B rush from FaZe.",
+  "description": "Два изстрела в главата от Senzu спират щурма на FaZe Clan в зоната за бомба „B“.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3362,7 +3362,7 @@
  {
   "id": "aus2025_frozen2khsvsmongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | frozen | Двойни изстрели в главата",
-  "description": "Two AK headshots from frozen secure the round for FaZe in the afterplant.",
+  "description": "Два AK-47 изстрела в главата от frozen подсигуряват рунда за FaZe Clan във времето след залагането.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3376,7 +3376,7 @@
  {
   "id": "aus2025_karrigan2kvsmongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | karrigan | Двойно убийство",
-  "description": "karrigan pulls off a double kill while completely blind.",
+  "description": "karrigan постига двойно убийство, докато е напълно сляп.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3586,7 +3586,7 @@
  {
   "id": "aus2025_techno3kvsfazeonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Techno4K | Тройно убийство",
-  "description": "Techno4K secures the round with a triple kill.",
+  "description": "Techno4K подсигурява рунда с тройно убийство.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3614,7 +3614,7 @@
  {
   "id": "aus2025_techno4ktriplevsfazeonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Techno4K | Крепост",
-  "description": "Techno4K secures the round for The MongolZ with a triple kill.",
+  "description": "Techno4K подсигурява рунда за The MongolZ с тройно убийство.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3628,7 +3628,7 @@
  {
   "id": "aus2025_9102kdeagvspainonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | 910 | Двойно с Deagle",
-  "description": "Two Deagle headshots from 910 give The MongolZ a real chance in the anti-eco.",
+  "description": "Два изстрела в главите от 910 дават на The MongolZ реален шанс в анти икономичния рунд.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3656,7 +3656,7 @@
  {
   "id": "aus2025_9102kawpvspainonmiragee",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | 910 | Двойно убийство с AWP",
-  "description": "Two AWP kills from 910 open up mid for The MongolZ.",
+  "description": "Две убийства с AWP от 910 помагат на Spirit да си подсигурят повторното превземане.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3684,7 +3684,7 @@
  {
   "id": "aus2025_blitz3kvspainonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | bLitz | Тройно убийство с/у paiN",
-  "description": "bLitz locks down the B-site with a triple kill.",
+  "description": "bLitz отцепва периметъра на зоната за бомба „B“ с тройно убийство.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3698,7 +3698,7 @@
  {
   "id": "aus2025_blitz2khsvspainonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Пъргави двойни изстрели в главата",
-  "description": "A swift double headshot from bLitz clears out mid.",
+  "description": "Два мимолетни изстрела в главата от bLitz разчистват в центъра на картата.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3712,7 +3712,7 @@
  {
   "id": "aus2025_dav1deus2kecovsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | dav1deus | Двойно убийство на Mirage",
-  "description": "dav1deuS picks up a double kill in the anti-eco to secure the round for paiN.",
+  "description": "dav1deuS постига двойно убийство в анти икономичния рунд, за да го подсигури за paiN.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3978,7 +3978,7 @@
  {
   "id": "aus2025_techno4k2kvspainonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Techno4K | Двойно убийство в зоната за бомба „A“",
-  "description": "Techno4k grabs a double kill as The MongolZ hit the A-site in perfect sync.",
+  "description": "Techno4k грабва двойно убийство, докато The MongolZ удрят зоната за бомба „A“ в перфектен синхрон.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -4202,7 +4202,7 @@
  {
   "id": "aus2025_meziitickettakedownvsmouzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Билетно поваляне",
-  "description": "mezii pulls off a brutal Deagle headshot through ticket.",
+  "description": "mezii постига брутален изстрел в главата с Deagle през будката за билети.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4229,8 +4229,8 @@
  },
  {
   "id": "aus2025_ropzglockcarnagevsmouzonmirage",
-  "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Касапница с Glock-18",
-  "description": "ropz secures a double kill on Glocks using his rifle.",
+  "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Касапница на Glock-18",
+  "description": "ropz подсигурява двойно убийство, използвайки своята винтовка срещу противници с Glock-18.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4244,7 +4244,7 @@
  {
   "id": "aus2025_ropzmassacrevsmouzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Масово клане",
-  "description": "ropz shoots four Vitality players as they try to rush the B-site.",
+  "description": "ropz застрелва четирима играчи на Vitality, докато те се опитват да щурмуват зоната за бомба „B“.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4258,7 +4258,7 @@
  {
   "id": "aus2025_ropzcoverfirevsmouzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Прикриваща стрелба",
-  "description": "ropz gets two kills because he holds a good angle and stays hidden.",
+  "description": "ropz прави две убийства, защото държи добър ъгъл и остава скрит.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4650,7 +4650,7 @@
  {
   "id": "aus2025_ropz2kvsmouzontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Отварящ",
-  "description": "ropz gets two frags to secure the victory for Vitality.",
+  "description": "ropz прави два фрага, за да подсигури победата за Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4678,7 +4678,7 @@
  {
   "id": "aus2025_spinx3kvsvitalityontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Spinx | Тройно убийство на Train",
-  "description": "A triple kill from Spinx secures the round for MOUZ.",
+  "description": "Тройно убийство от Spinx подсигурява рунда за MOUZ.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4888,7 +4888,7 @@
  {
   "id": "aus2025_apex3kvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | apEX | Тройно убийство",
-  "description": "A triple kill from apEX secures the round for Vitality.",
+  "description": "Тройно убийство от apEX подсигурява рунда за Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5238,7 +5238,7 @@
  {
   "id": "aus2025_apex2kbvsmongolzondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | apEX | Помощта е тук",
-  "description": "apEX helps hold the B-site with two kills, securing the round for Vitality.",
+  "description": "apEX помага за задържането на зоната за бомба „B“ с две убийства, подсигурявайки рунда за Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5280,7 +5280,7 @@
  {
   "id": "aus2025_flamez2kecovsmongolzondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Икономичен убиец",
-  "description": "flameZ picks up a double kill with the MP9 in the anti-eco.",
+  "description": "flameZ прави двойно убийство с MP9 в анти икономичния рунд.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5294,7 +5294,7 @@
  {
   "id": "aus2025_flamez2kvsmongolzondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | flameZ | Двойно убийство на Dust II",
-  "description": "flameZ stops the short push with a double kill from the MP9.",
+  "description": "flameZ спира краткото настъпление с двойно убийство от MP9.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5546,7 +5546,7 @@
  {
   "id": "aus2025_zywoo2kecovsmongolzondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ZywOo | Икономичният убиец",
-  "description": "ZywOo picks up a double kill in the anti-eco.",
+  "description": "ZywOo прави двойно убийство в анти икономичния рунд.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5742,7 +5742,7 @@
  {
   "id": "aus2025_mzinhoflashingdoesntmattervsthemongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Отворени очи",
-  "description": "mzinho dodges the flashbang and gets the kill.",
+  "description": "mzinho се измъква от заслепяваща граната и постига убийството.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -6274,7 +6274,7 @@
  {
   "id": "aus2025_torzsitaggingvsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Таг с графити",
-  "description": "torzsi makes a MOUZ 2025 Austin tag on the wall.",
+  "description": "torzsi поставя „MOUZ 2025 Austin“ графити на стената.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -7086,7 +7086,7 @@
  {
   "id": "bud2025_qf-b1t-vs-furia-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FURIA на Mirage",
-  "description": "b1t delivered a solid performance on Mirage, reassuring his teammates with critical multi-kills and making it clear that FURIA could not disrupt Natus Vincere's game plan.",
+  "description": "b1t поднесе солидно представяне на Mirage, вдъхвайки увереност на съотборниците си с критични масови убийства и давайки ясно да се разбере, че FURIA не може да подрине игралния план на Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -7128,7 +7128,7 @@
  {
   "id": "bud2025_qf-yekindar-vs-navi-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | YEKINDAR с/у Natus Vincere на Mirage",
-  "description": "YEKINDAR stepped up with consistent fragging power on Mirage, securing multiple double kills that allowed FURIA to stay competitive against Natus Vincere.",
+  "description": "YEKINDAR поема инициативата с последователна мощ за фрагове на Mirage, подсигурявайки множество двойни убийства, които позволиха на FURIA да останат конкурентоспособни срещу Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -7156,7 +7156,7 @@
  {
   "id": "bud2025_qf-fallen-vs-navi-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FalleN с/у Natus Vincere на Mirage",
-  "description": "FalleN fought hard on Mirage, leveraging his veteran experience in an attempt to secure a comeback, but his efforts were not enough to take the map from Natus Vincere.",
+  "description": "FalleN се сражава усилено на Mirage, възползвайки се от преимуществото на своите ветерански познания в опит да подсигури обрат в мача, но усилията му не са достатъчни, за да вземе картата от Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -7170,7 +7170,7 @@
  {
   "id": "bud2025_qf-molodoy-vs-navi-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | molodoy с/у Natus Vincere на Mirage",
-  "description": "molodoy took every chance presented on Mirage, working to turn the tide against Natus Vincere, and although he secured several key frags, it was not enough to save the map for FURIA.",
+  "description": "molodoy се възползва от всеки шанс, предоставен му на Mirage, полагайки усилия да обърне хода на мача срещу Natus Vincere, и въпреки че подсигури няколко ключови фрага, това не е достатъчно, за да спаси картата за FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -7197,8 +7197,8 @@
  },
  {
   "id": "bud2025_qf-faze-entrance",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe на квалификационната сцена",
-  "description": "FaZe влизат на сцената за четвъртфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу MOUZ.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe Clan на квалификационната сцена",
+  "description": "FaZe Clan влизат на сцената за четвъртфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу MOUZ.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7212,7 +7212,7 @@
  {
   "id": "bud2025_qf-mouz-entrance",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | MOUZ на квалификационната сцена",
-  "description": "MOUZ влизат на сцената за четвъртфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу FaZe.",
+  "description": "MOUZ влизат на сцената за четвъртфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7254,7 +7254,7 @@
  {
   "id": "bud2025_qf-twistzz-triple-kill-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz | Димно пречупване",
-  "description": "Twistzz изгаря Brollan, стремително напира през дима и печели третия рунд за FaZe.",
+  "description": "Twistzz изгаря Brollan, стремително напира през дима и печели третия рунд за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7366,7 +7366,7 @@
  {
   "id": "bud2025_qf-karrigan-vs-mouz-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan с/у MOUZ на Nuke",
-  "description": "karrigan поведе FaZe в първата карта на четвъртфинала с едничка цел… Да вземат онова, което им принадлежеше по право.",
+  "description": "karrigan поведе FaZe Clan в първата карта на четвъртфинала с едничка цел… Да вземат онова, което им принадлежеше по право.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7394,7 +7394,7 @@
  {
   "id": "bud2025_qf-twistzz-vs-mouz-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz с/у MOUZ на Nuke",
-  "description": "Twistzz сграбчва всички благоприятни възможности, превръщайки ги в набираща стремителност за FaZe.",
+  "description": "Twistzz сграбчва всички благоприятни възможности, превръщайки ги в набираща стремителност за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7435,7 +7435,7 @@
  },
  {
   "id": "bud2025_qf-jimpphat-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Jimpphat с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Jimpphat с/у FaZe Clan на Nuke",
   "description": "Въпреки усилията на Jimpphat, MOUZ не успяват да си подсигурят първата карта от четвъртфинала.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -7449,8 +7449,8 @@
  },
  {
   "id": "bud2025_qf-brollan-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Brollan с/у FaZe на Nuke",
-  "description": "Прицелването на Brollan беше смъртоносно, но FaZe все пак успяха да поемат контрол над Nuke.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Brollan с/у FaZe Clan на Nuke",
+  "description": "Прицелването на Brollan беше смъртоносно, но FaZe Clan все пак успяха да поемат контрол над Nuke.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7463,8 +7463,8 @@
  },
  {
   "id": "bud2025_qf-spinx-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spinx с/у FaZe на Nuke",
-  "description": "Spinx се сражава здраво във всеки рунд срещу FaZe, но накрая MOUZ не успяха да подсигурят победата на Nuke.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spinx с/у FaZe Clan на Nuke",
+  "description": "Spinx се сражава здраво във всеки рунд срещу FaZe Clan, но накрая MOUZ не успяха да подсигурят победата на Nuke.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7477,8 +7477,8 @@
  },
  {
   "id": "bud2025_qf-torzsi-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | torzsi с/у FaZe на Nuke",
-  "description": "torzsi поднася много нужни фрагове, но те не са достатъчни, за да спрат FaZe на Nuke.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | torzsi с/у FaZe Clan на Nuke",
+  "description": "torzsi поднася много нужни фрагове, но те не са достатъчни, за да спрат FaZe Clan на Nuke.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7491,8 +7491,8 @@
  },
  {
   "id": "bud2025_qf-xertion-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | xertioN с/у FaZe на Nuke",
-  "description": "xertioN се изправя директно срещу FaZe, но победата срещу Nuke се изплъзна на MOUZ.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | xertioN с/у FaZe Clan на Nuke",
+  "description": "xertioN се изправя директно срещу FaZe Clan, но победата срещу Nuke се изплъзна на MOUZ.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -7926,7 +7926,7 @@
  {
   "id": "bud2025_qf-techno4k-triple-kill-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Techno4K | Тройно цапардосване",
-  "description": "Techno4K takes an aggressive forward position on the A-site and delivers a triple kill to push his team ahead of Vitality.",
+  "description": "Techno4K заема агресивна предна позиция на зоната за бомба „A“ и поднася тройно убийство, за да изтласка своя отбор по-напред от Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -7968,7 +7968,7 @@
  {
   "id": "bud2025_qf-apex-vs-the-mongolz-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у The MongolZ на Mirage",
-  "description": "apEX wouldn't let anyone slip through, relentlessly punishing every mistake made by the opponent on Mirage with swift frags.",
+  "description": "apEX не позволяваха на никого да се изплъзне, безпощадно наказвайки всяка грешка, допусната от опонентите на Mirage, с мимолетни фрагове.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8038,7 +8038,7 @@
  {
   "id": "bud2025_qf-techno4k-vs-vitality-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Techno4K с/у Vitality на Mirage",
-  "description": "Techno4K put up a respectable performance on Mirage against Vitality, delivering impactful moments throughout the quarterfinal opener.",
+  "description": "Techno4K показаха заслужаващо уважение представяне на Mirage срещу Vitality, поднасяйки въздействащи моменти през целия встъпителен четвъртфинален мач.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8052,7 +8052,7 @@
  {
   "id": "bud2025_qf-mzinho-vs-vitality-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Mzinho с/у Vitality на Mirage",
-  "description": "Mzinho delivered an outstanding showing, fighting for every inch of the map, but Vitality were not messing around and went on to secure the win.",
+  "description": "Mzinho поднесоха изключително представяне, сражавайки се за всеки сантиметър от картата, но Vitality не играеха на шикалки и си подсигуриха победата.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8164,7 +8164,7 @@
  {
   "id": "bud2025_qf-yekindar-triple-kill-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | YEKINDAR | Щурм с пистолет",
-  "description": "YEKINDAR uses his Glock-18 to its full potential, rushing through Long and securing the B-site while picking up three kills.",
+  "description": "YEKINDAR използва пълния потенциал на своя Glock-18, щурмувайки през дългата част на картата и подсигурявайки зоната за бомба „B“, като с това същевременно улавя три убийства.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8262,7 +8262,7 @@
  {
   "id": "bud2025_qf-aleksib-vs-furia-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FURIA на Inferno",
-  "description": "Aleksib poured absolutely everything into his performance and leadership on Inferno, but despite his maximum effort, it was not enough to overcome FURIA's push.",
+  "description": "Aleksib вложи абсолютно всичко в представянето и водачеството си на Inferno, но въпреки максималните положени усилия, това не беше достатъчно, за да преодолее напъна на FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8276,7 +8276,7 @@
  {
   "id": "bud2025_qf-b1t-vs-furia-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FURIA на Inferno",
-  "description": "b1t was relentless, fighting for every inch of territory on Inferno, but Natus Vincere ultimately could not contain FURIA's momentum as the Brazilian side seized the initiative.",
+  "description": "b1t беше безмилостен, сражавайки се за всеки сантиметър територия на Инферно, но в крайна сметка Natus Vincere не съумява да удържи инерцията на FURIA, тъй като бразилската страна завзе инициативата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8290,7 +8290,7 @@
  {
   "id": "bud2025_qf-im-vs-furia-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FURIA на Inferno",
-  "description": "iM raised his individual performance on Inferno, securing multiple crucial kills on the server, but FURIA's collective strength proved decisive as they secured the win.",
+  "description": "iM повиши индивидуалното си представяне на Inferno, подсигурявайки множество решаващи убийства на сървъра, но колективната сила на FURIA се оказа решаваща, тъй като те си осигуриха победата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8304,7 +8304,7 @@
  {
   "id": "bud2025_qf-makazze-vs-furia-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FURIA на Inferno",
-  "description": "makazze was one of the most impactful players on Inferno, consistently making bold moves throughout the map, but his efforts were ultimately unable to stop FURIA from claiming the map victory.",
+  "description": "makazze беше един от най-въздействащите играчи на Inferno, като последователно правеше смели ходове из цялата карта, но в крайна сметка усилията му не успяха да спрат FURIA от това да заявят победата на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8318,7 +8318,7 @@
  {
   "id": "bud2025_qf-yekindar-vs-navi-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | YEKINDAR с/у Natus Vincere на Inferno",
-  "description": "YEKINDAR stepped up when it mattered most on Inferno, executing key aggressive plays and delivering crucial frags for FURIA.",
+  "description": "YEKINDAR поема инициативата, когато е най-много от значение на Inferno, изпълнявайки ключови агресивни проигравания и поднасяйки решаващи фрагове за FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8332,7 +8332,7 @@
  {
   "id": "bud2025_qf-kscerato-vs-navi-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | KSCERATO с/у Natus Vincere на Inferno",
-  "description": "KSCERATO showcased his full capability as a star rifler on Inferno, providing the vital firepower needed to help FURIA close out their map pick.",
+  "description": "KSCERATO демонстрира пълния си капацитет като звезден стрелец с винтовки на Inferno, предоставяйки жизненоважната огнева мощ, нужна на FURIA, за да приключи подбраната от тях карта.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8346,7 +8346,7 @@
  {
   "id": "bud2025_qf-fallen-vs-navi-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FalleN с/у Natus Vincere на Inferno",
-  "description": "Alongside his steady leadership, FalleN delivered a stellar individual performance on Inferno, securing game-changing frags against Natus Vincere.",
+  "description": "Редом с постоянството си във водачеството, FalleN достави превъзходно индивидуално представяне на Inferno, подсигурявайки променящи играта фрагове срещу Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8360,7 +8360,7 @@
  {
   "id": "bud2025_qf-molodoy-vs-navi-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | molodoy с/у Natus Vincere на Inferno",
-  "description": "molodoy faced continuous challenges on Inferno but showed great tenacity, constantly pushing forward to help FURIA secure the map victory against Natus Vincere.",
+  "description": "molodoy се изправя пред продължителни предизвикателства на Inferno, но показва голяма упоритост, постоянно напирайки стремително напред, за да помогне на FURIA да подсигурят победата на картата срещу Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -8387,8 +8387,8 @@
  },
  {
   "id": "bud2025_qf-faze-victory",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe побеждават в четвъртфиналите",
-  "description": "FaZe си подсигуряват победа с 2 — 0 над MOUZ на четвъртфинала на значителния шампионат StarLadder Budapest 2025.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe Clan побеждават в четвъртфиналите",
+  "description": "FaZe Clan си подсигуряват победа с 2 — 0 над MOUZ на четвъртфинала на значителния шампионат StarLadder Budapest 2025.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8402,7 +8402,7 @@
  {
   "id": "bud2025_qf-broky-triple-kill-on-inferno-1",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky | Магия във въздуха",
-  "description": "broky eliminates Spinx on Long with a mid-air shot, then follows up with two more kills to swing the round, leaving frozen alone in a clutch against xertioN.",
+  "description": "broky елиминира Spinx в дългата част на картата с изстрел, докато е във въздуха, а след това продължава с още две убийства, за да обърне ситуацията в рунда, оставяйки frozen сам в критична хватка срещу xertioN.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8416,7 +8416,7 @@
  {
   "id": "bud2025_qf-broky-triple-kill-on-inferno-2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky | Разчистване в котелното",
-  "description": "broky catches Brollan in Mid, follows up with a kill in Boiler, and finishes the round with a USP-S kill to make the score 6:1.",
+  "description": "broky хваща Brollan в средата на картата, последва това с убийство в котелното и завършва рунда с убийство с USP-S, за да направи резултата 6 — 1.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8430,7 +8430,7 @@
  {
   "id": "bud2025_qf-broky-triple-kill-on-inferno-3",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky | Ярост след залагане на бомбата",
-  "description": "In the post-plant, broky finds two swift kills on xertioN and Brollan, then shortly after eliminates torzsi to secure a triple kill.",
+  "description": "Във времето след залагането на бомбата, broky прави две бързи убийства на xertioN и Brollan, а малко след това елиминира torzsi, за да си подсигури тройно убийство.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8444,7 +8444,7 @@
  {
   "id": "bud2025_qf-frozen-triple-kill-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen | Прекършване на „Банан“",
-  "description": "frozen gets his first kill on Banana against Brollan, then rotates to A and clears the site to secure the round for FaZe.",
+  "description": "frozen прави първото си убийство на „Банан“ срещу Brollan, след това прави ротация до зоната за бомба „A“ и я разчиства, за да подсигури рунда за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8500,7 +8500,7 @@
  {
   "id": "bud2025_qf-xertion-triple-kill-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | xertioN | Победа в критична схватка",
-  "description": "xertioN kills karrigan, takes down broky on the A-site, and then wins 1v1 against frozen in the post-plant.",
+  "description": "xertioN убива karrigan, побеждава broky на зоната за бомба „A“, а след това печели схватка един срещу един с frozen във времето след залагането на бомбата.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8514,7 +8514,7 @@
  {
   "id": "bud2025_qf-broky-vs-mouz-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky с/у MOUZ на Inferno",
-  "description": "broky was unstoppable on Inferno, dominating the map and delivering critical frags that shut down any attempt by MOUZ to mount a comeback.",
+  "description": "broky беше неудържим на Inferno, доминирайки на картата и поднасяйки критични фрагове, които окончателно преустановяваха всеки опит на MOUZ да се завърнат.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8527,8 +8527,8 @@
  },
  {
   "id": "bud2025_qf-brollan-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Brollan с/у FaZe на Inferno",
-  "description": "Brollan продължи да се сражава до края, но този път MOUZ не можаха да се противопоставят на FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Brollan с/у FaZe Clan на Inferno",
+  "description": "Brollan продължи да се сражава до края, но този път MOUZ не можаха да се противопоставят на FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8542,7 +8542,7 @@
  {
   "id": "bud2025_qf-frozen-vs-mouz-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen с/у MOUZ на Inferno",
-  "description": "frozen was instrumental in FaZe's victory on Inferno, reliably delivering high-impact kills against MOUZ.",
+  "description": "frozen беше от решаващо значение за победата на FaZe Clan в Inferno, като надеждно подонасяше значително въздействащи убийства убийства срещу MOUZ.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8556,7 +8556,7 @@
  {
   "id": "bud2025_qf-jcobbb-vs-mouz-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb с/у MOUZ на Inferno",
-  "description": "jcobbb delivered an incredibly consistent performance on Inferno, securing key frags and winning pivotal rounds against MOUZ.",
+  "description": "jcobbb поднесе невероятно последователно представяне на Inferno, подсигурявайки повратни фрагове и спечелвайки повратни рундове срещу MOUZ.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8569,8 +8569,8 @@
  },
  {
   "id": "bud2025_qf-jimpphat-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Jimpphat с/у FaZe на Inferno",
-  "description": "Jimpphat се опита да достигне пълния си потенциал, но FaZe не отстъпиха на Inferno.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Jimpphat с/у FaZe Clan на Inferno",
+  "description": "Jimpphat се опита да достигне пълния си потенциал, но FaZe Clan не отстъпиха на Inferno.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8584,7 +8584,7 @@
  {
   "id": "bud2025_qf-karrigan-vs-mouz-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan с/у MOUZ на Inferno",
-  "description": "karrigan brilliantly exploited every tactical opportunity on Inferno, calling rotations that made the map uncomfortable for MOUZ and securing the series victory for FaZe.",
+  "description": "karrigan брилянтно експлоатира всяка тактическа благоприятна възможност на Inferno, призовавайки ротации, които направиха картата неудобна за MOUZ и подсигуриха победата в серията за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8597,8 +8597,8 @@
  },
  {
   "id": "bud2025_qf-spinx-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spinx с/у FaZe на Inferno",
-  "description": "Въпреки индивидуалното представяне на Spinx, MOUZ не направиха достатъчно, за да се справят с FaZe на Inferno.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spinx с/у FaZe Clan на Inferno",
+  "description": "Въпреки индивидуалното представяне на Spinx, MOUZ не направиха достатъчно, за да се справят с FaZe Clan на Inferno.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8611,7 +8611,7 @@
  },
  {
   "id": "bud2025_qf-torzsi-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | torzsi с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | torzsi с/у FaZe Clan на Inferno",
   "description": "torzsi показва страхотно представяне на втората карта, но MOUZ не успяха да доведат до решаващ резултат.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -8626,7 +8626,7 @@
  {
   "id": "bud2025_qf-twistzz-vs-mouz-on-inferno",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz с/у MOUZ на Inferno",
-  "description": "Twistzz was highly effective in his duels on Inferno, finding headshots and securing crucial multi-kills that helped FaZe decisively defeat MOUZ.",
+  "description": "Twistzz беше много ефективен в дуелите си на Inferno, осъществявайки изстрели в главите и осигурявайки множество решаващи убийства, които помогнаха на FaZe Clan решително да победят MOUZ.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8639,8 +8639,8 @@
  },
  {
   "id": "bud2025_qf-xertion-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | xertioN с/у FaZe на Inferno",
-  "description": "xertioN consistently looked to win crucial duels and opening frags for MOUZ on Inferno, but FaZe proved too strong.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | xertioN с/у FaZe Clan на Inferno",
+  "description": "xertioN последователно се опитваше да спечели решаващи дуели и встъпителни фрагове за MOUZ на Inferno, но FaZe Clan се оказаха твърде силни.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
   "team1": "MOUZ",
@@ -8696,7 +8696,7 @@
  {
   "id": "bud2025_qf-kyousuke-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | kyousuke | Наказване през дима",
-  "description": "kyousuke opens with a kill through the smoke and quickly follows it up with a double on the B-site against Spirit on Dust II.",
+  "description": "kyousuke встъпва с убийство през дима и бързо го последва с двойно такова в зоната за бомба „B“ срещу Spirit на Dust II.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8724,7 +8724,7 @@
  {
   "id": "bud2025_qf-sh1ro-quadro-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | sh1ro | Закриване във въздуха",
-  "description": "sh1ro catches TeSeS mid-air in Box and goes on to secure three more kills while defending the site.",
+  "description": "sh1ro хваща TeSeS във въздуха до вратите на „Дълга“ и продължава, за да подсигури още три убийства, докато отбранява зоната за бомбата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8738,7 +8738,7 @@
  {
   "id": "bud2025_qf-sh1ro-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | sh1ro | Многофункционално накланяне",
-  "description": "sh1ro catches NiKo on his way to the B-site, nades m0NESY, and takes down kyxsan from Window, swinging the round in Spirit's favor.",
+  "description": "sh1ro хваща NiKo по пътя към зоната за бомба „B“, хвърля граната по m0NESY и поваля kyxsan от прозорците, накланяйки рунда в полза на Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8752,7 +8752,7 @@
  {
   "id": "bud2025_qf-teses-quadro-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | TeSeS | Прочистване на зоната за бомбата",
-  "description": "TeSeS finds the opening kill on chopper and follows up by clearing three players from the A-site on Dust II.",
+  "description": "TeSeS осъществява встъпителното убийство на chopper и го последва, като очиства трима играчи от зоната за бомба „A“ на Dust II.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8766,7 +8766,7 @@
  {
   "id": "bud2025_qf-tn1r-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R | Разпръскване на „Гандалф“",
-  "description": "From Gandalf, tN1R takes down kyousuke with a precise shot and sprays down two more opponents on Ramp.",
+  "description": "От „Гандалф“, tN1R поваля kyousuke с прецизен изстрел и поваля още двама опоненти с пренасочване на разпръскването на рампата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8780,7 +8780,7 @@
  {
   "id": "bud2025_qf-zweih-ace-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | zweih | Безупречен ас",
-  "description": "A flawless ace by zweih brought Spirit roaring back into overtime, delivering the momentum needed to ultimately defeat the opponent.",
+  "description": "Безупречен ас от zweih върна Spirit с рев в извънредното време, поднасяйки нужната инерцията за окончателен разгром над опонента.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8794,7 +8794,7 @@
  {
   "id": "bud2025_qf-zweih-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | zweih | Крепост на зоната за бомба „B“",
-  "description": "zweih demonstrates strong B-site defense, securing a triple kill from Pool area against Falcons.",
+  "description": "zweih демонстрира силна отбрана в зоната за бомба „B“, подсигурявайки тройно убийство от площта на вира срещу Falcons.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8808,7 +8808,7 @@
  {
   "id": "bud2025_qf-chopper-vs-falcons-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | chopper с/у Falcons на Dust II",
-  "description": "When Spirit needed him most, chopper answered the call, making critical kills against Falcons.",
+  "description": "Когато Spirit се нуждаят най-много от него, chopper откликва на призива, правейки критични убийства срещу Falcons.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8836,7 +8836,7 @@
  {
   "id": "bud2025_qf-kyousuke-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | kyousuke с/у Spirit на Dust II",
-  "description": "kyousuke fought until the last bullet; nonetheless, Spirit showed strong resilience to close out the map.",
+  "description": "kyousuke се сражава до последния куршум, но въпреки това, Spirit показаха силна издръжливост, за да приключат картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8850,7 +8850,7 @@
  {
   "id": "bud2025_qf-kyxsan-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | kyxsan с/у Spirit на Dust II",
-  "description": "kyxsan displayed sharp aim on Dust II, switching gears to find impactful frags and keep Falcons in the fight.",
+  "description": "kyxsan демонстрира точно прицелване на Dust II, превключвайки предавките, за да осъществява мощни фрагове и да задържи Falcons в сражението.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8864,7 +8864,7 @@
  {
   "id": "bud2025_qf-m0nesy-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | m0NESY с/у Spirit на Dust II",
-  "description": "m0NESY pushed himself to the limit on Dust II, delivering a spectacular display of skill, but Spirit were on fire that night.",
+  "description": "m0NESY се впряга до краен предел на Dust II, поднасяйки зрелищна демонстрация на умение, но Spirit бяха в разгара си през тази вечер.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8878,7 +8878,7 @@
  {
   "id": "bud2025_qf-niko-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | NiKo с/у Spirit на Dust II",
-  "description": "NiKo put on a dueling masterclass on Dust II, but his performance was not enough to propel Falcons into the next stage.",
+  "description": "NiKo проведе майсторски клас по дуели на Dust II, но представянето му не беше достатъчно, за да изтласка Falcons в следващия етап.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8892,7 +8892,7 @@
  {
   "id": "bud2025_qf-sh1ro-vs-falcons-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | sh1ro с/у Falcons на Dust II",
-  "description": "The A-site was in steady hands when sh1ro held the AWP, backing up his desire to crush Falcons' pickems.",
+  "description": "Зоната за бомба „A“ беше в стабилни ръце, когато sh1ro държеше AWP, подкрепяйки желанието си да смаже мечтите на всички, подбрали Falcons в предизвикателството „Pick'Em“.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8906,7 +8906,7 @@
  {
   "id": "bud2025_qf-teses-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | TeSeS с/у Spirit на Dust II",
-  "description": "Kills from TeSeS on Dust II gave Falcons hope; however, his performance failed to overcome the opponents' flawless synergy.",
+  "description": "Убийствата на TeSeS на Dust II дадоха надежда на Falcons, обаче представянето му не успя да преодолее безупречните единодействия на опонентите.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8920,7 +8920,7 @@
  {
   "id": "bud2025_qf-tn1r-vs-falcons-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R с/у Falcons на Dust II",
-  "description": "tN1R delivered a solid performance on the second map of the quarterfinal, securing a critical triple kill for Spirit.",
+  "description": "tN1R достави солидно представяне на втората карта от четвъртфинала, подсигурявайки критично тройно убийство за Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8934,7 +8934,7 @@
  {
   "id": "bud2025_qf-zweih-vs-falcons-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | zweih с/у Falcons на Dust II",
-  "description": "zweih left the B-site on Dust II uncontested, as anyone who dared to break into it was met with a strong, decisive response.",
+  "description": "zweih напусна зоната за бомба „B“ на Dust II безпрепятствено, тъй като всеки, който се беше осмелил да нахлуе в него, беше посрещнат със силен и решителен отклик.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Falcons",
@@ -8948,7 +8948,7 @@
  {
   "id": "bud2025_qf-vitality-victory",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Vitality побеждават в четвъртфиналите",
-  "description": "Vitality secures a 2:0 victory over The MongolZ in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "description": "Vitality си подсигуряват победа с 2 — 0 над The MongolZ на четвъртфинала на значителния шампионат StarLadder Budapest 2025.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8962,7 +8962,7 @@
  {
   "id": "bud2025_qf-910-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | 910 | Поразии с MP9",
-  "description": "910 turns his MP9 into a killing machine on the A-site, taking down three Vitality players in quick succession.",
+  "description": "910 превръща своя MP9 в машина за убиване на зоната за бомба „A“, поваляйки трима играчи на Vitality в бърза последователност.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8976,7 +8976,7 @@
  {
   "id": "bud2025_qf-mezii-triple-kill-on-dust2-1",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii | Порив на зоната за бомба „B“",
-  "description": "mezii makes two solid entries on the B-site on Dust II and eliminates controlez in the afterplant.",
+  "description": "mezii прави две солидни встъпителни убийства в зоната за бомба „B“ на Dust II и елиминира controlez във времето след залагането.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -8990,7 +8990,7 @@
  {
   "id": "bud2025_qf-mezii-triple-kill-on-dust2-2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii | Превземане в средата на картата",
-  "description": "mezii dominates mid execute with his MP9, picking up three frags and giving Vitality a 10:5 lead over The MongolZ.",
+  "description": "mezii доминира в средата на картата със своя MP9, като прави три фрага и дава на Vitality преднина от 10 — 5 над The ​​MongolZ.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9004,7 +9004,7 @@
  {
   "id": "bud2025_qf-mzinho-quadro-kill-on-dust2-1",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Mzinho | Контрол над „Дълга“",
-  "description": "With no flash from Vitality reaching him, Mzinho secures a double kill on Long and then clears Short of the remaining opponents.",
+  "description": "Без никоя заслепяваща граната от Vitality да го достигне, Mzinho подсигурява двойно убийство на „Дълга“, а след това разчиства „Къса“ от останалите опоненти.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9018,7 +9018,7 @@
  {
   "id": "bud2025_qf-mzinho-quadro-kill-on-dust2-2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Mzinho | Разчиства „Къса“",
-  "description": "Mzinho picks up a frag on apEX at the A-site, clears Short of both ropz and mezii, and allows ZywOo to safely cross into the trap set on Default, bringing the score to 4:8 against Vitality.",
+  "description": "Mzinho прави фраг на apEX в зоната за бомба „A“, разчиства „Къса“ от ropz и mezii, а после позволява на ZywOo безопасно да премине в поставения му капан, с което резултатът става 4 — 8 срещу Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9032,7 +9032,7 @@
  {
   "id": "bud2025_qf-mzinho-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Mzinho | Изненада в средата на картата",
-  "description": "Mzinho clears Box against apEX and makes an unexpected push to Mid, picking up two more frags.",
+  "description": "Mzinho разчиства дългите врати срещу apEX и прави неочакван тласък към средата на картата, правейки още два фрагa.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9046,7 +9046,7 @@
  {
   "id": "bud2025_qf-ropz-quadro-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz | Критична схватка 1 с/у 3",
-  "description": "ropz opens with the first kill in Mid and takes out the remaining opponents one by one in a 1v3 clutch.",
+  "description": "ropz започва с встъпително убийство в средата на картата и отстранява останалите опоненти един подир друг в критична схватка 1 срещу 3.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9060,7 +9060,7 @@
  {
   "id": "bud2025_qf-ropz-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz | Прецизност с пистолети",
-  "description": "ropz takes out Techno4K in the Upper Tunnel and follows up with two headshots, giving Vitality the second pistol round.",
+  "description": "ropz отстранява Techno4K в „Горен тунел“ и последва с два изстрела в главите, давайки на Vitality втория пистолетен рунд.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9074,7 +9074,7 @@
  {
   "id": "bud2025_qf-zywoo-triple-kill-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo | Троен финал",
-  "description": "ZywOo opens the hunt with a kill on controlez, switches to the P250 to take down Techno4K after a close duel, and finishes the round with an AWP kill on 910.",
+  "description": "ZywOo открива лова с убийство на controlez, превключва към P250, за да повали Techno4K след оспорван дуел, и финишира рунда, убивайки 910 с AWP.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9088,7 +9088,7 @@
  {
   "id": "bud2025_qf-910-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | 910 с/у Vitality на Dust II",
-  "description": "On Dust II, 910 turned every opportunity into momentum, but despite the effort, it wasn't enough.",
+  "description": "На Dust II, 910 превръщаше всяка благоприятна възможност в инерция, но въпреки усилията, това не беше достатъчно.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9102,7 +9102,7 @@
  {
   "id": "bud2025_qf-apex-vs-the-mongolz-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у The MongolZ на Dust II",
-  "description": "The actions of apEX on Dust II spoke louder than words, as The MongolZ were effectively silenced by his unrelenting calls.",
+  "description": "Действията на apEX на Dust II говореха по-силно от думите, тъй като The MongolZ бяха ефективно заглушени от неговите непреклонни призиви.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9116,7 +9116,7 @@
  {
   "id": "bud2025_qf-blitz-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | bLitz с/у Vitality на Dust II",
-  "description": "bLitz clung to every opportunity to challenge Vitality, but The MongolZ ultimately fell short on the second map of the quarterfinal.",
+  "description": "bLitz се вкопчваше към всяка благоприятна възможност да предизвика Vitality, но в крайна сметка The MongolZ не направиха достатъчно на втората карта от четвъртфинала.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9130,7 +9130,7 @@
  {
   "id": "bud2025_qf-controlez-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | controlez с/у Vitality на Dust II",
-  "description": "controlez challenged Vitality with his unexpected moves; however, he couldn't turn the tide on Dust II.",
+  "description": "controlez предизвика Vitality с неочакваните си ходове, но въпреки това, не успя да обърне хода на рунда на Dust II.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9144,7 +9144,7 @@
  {
   "id": "bud2025_qf-flamez-vs-the-mongolz-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у The MongolZ на Dust II",
-  "description": "flameZ imposed a tough fight on The MongolZ on Dust II, exploiting map control whenever possible to gain the advantage.",
+  "description": "flameZ наложи тежко сражение за The MongolZ на Dust II, експлоатирайки контрола над картата всеки път, когато беше възможно, за да придобие преимущество.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9158,7 +9158,7 @@
  {
   "id": "bud2025_qf-mezii-vs-the-mongolz-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у The MongolZ на Dust II",
-  "description": "No one could hide from mezii on Dust II. His game sense was on another level that night, allowing him to read the enemy's moves and take them down effortlessly.",
+  "description": "Никой не можеше да се скрие от mezii на Dust II. Игралният му усет беше на друго ниво онази нощ, позволявайки му да тълкува вражеските ходове и да ги поваля с лекота.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9172,7 +9172,7 @@
  {
   "id": "bud2025_qf-mzinho-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Mzinho с/у Vitality на Dust II",
-  "description": "Mzinho kept his cool under pressure on Dust II, ensuring his team remained competitive against Vitality.",
+  "description": "Mzinho запази самообладание под напрежение на Dust II, като по този начин подсигури на отбора си съревнователност срещу Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9186,7 +9186,7 @@
  {
   "id": "bud2025_qf-ropz-vs-the-mongolz-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у The MongolZ наDust II",
-  "description": "ropz fought for every opportunity to close out his opponents on Dust II, demonstrating relentless precision.",
+  "description": "ropz се сражаваше за всяка благоприятна възможност да елиминира опонентите си на Dust II, демонстрирайки безмилостна прецизност.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9200,7 +9200,7 @@
  {
   "id": "bud2025_qf-techno4k-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Techno4K с/у Vitality на Dust II",
-  "description": "Techno4K fought hard, but Dust II ultimately fell to Vitality.",
+  "description": "Techno4K се сражава усилено, но в крайна сметка Dust II пада на Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9214,7 +9214,7 @@
  {
   "id": "bud2025_qf-zywoo-vs-the-mongolz-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у The MongolZ на Dust II",
-  "description": "ZywOo proved he came to win, showcasing his superior skill and readiness for the next stage.",
+  "description": "ZywOo доказа, че е дошъл да спечели, демонстрирайки превъзходните си умения и готовност за следващия етап.",
   "tournament_event": "Budapest 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -9228,7 +9228,7 @@
  {
   "id": "bud2025_qf-navi-victory",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Natus Vincere побеждават в четвъртфиналите",
-  "description": "Natus Vincere secures a 2:1 victory over FURIA in the quarterfinal of the StarLadder Budapest Major 2025.",
+  "description": "Natus Vincere си подсигуряват победа с 2 — 1 над FURIA на четвъртфинала на значителния шампионат StarLadder Budapest 2025.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9241,8 +9241,8 @@
  },
  {
   "id": "bud2025_qf-w0nderful-quadro-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful smoke criminal",
-  "description": "w0nderful delivers a smoke criminal moment of his own, killing KSCERATO on Train before securing a post-plant double kill.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful | Димен престъпник",
+  "description": "wonderful поднася свой собствен престъпен момент с димка, убивайки KSCERATO на Train, преди да подсигури двойно убийство във времето след залагане на бомбата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9255,8 +9255,8 @@
  },
  {
   "id": "bud2025_qf-aleksib-triple-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib post-plant triple",
-  "description": "Aleksib finds two swift kills on Train against FURIA before adding a third in the post-plant.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib | Тройно във времето след залагане",
+  "description": "Aleksib осъществява две бързи убийства на Train срещу FURIA, преди да добави трето във времето след залагане на бомбата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9269,8 +9269,8 @@
  },
  {
   "id": "bud2025_qf-b1t-triple-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t B-site ambush",
-  "description": "b1t surprises yuurih and FalleN, falls back to the site, and brutally punishes molodoy on the B-site drop.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t | Засада на зоната за бомба „B“",
+  "description": "b1t изненадва yuurih и FalleN, отстъпвайки обратно към базата и брутално наказва molodoy на зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9283,8 +9283,8 @@
  },
  {
   "id": "bud2025_qf-makazze-triple-kill-on-train-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze flash cleanup",
-  "description": "makazze, set up by a flash from w0nderful, takes down yuurih, falls back to A-Main, and hunts down the remaining two opponents.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Разчистване със заслепяваща граната",
+  "description": "makazze, подготвен от заслепяващата граната на w0nderful, поваля yuurih, отстъпва обратно към главния път до зоната за бомба „A“ и преследва останалите двама опоненти.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9297,8 +9297,8 @@
  },
  {
   "id": "bud2025_qf-makazze-triple-kill-on-train-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze Ivy disruption",
-  "description": "makazze shakes up the map by pushing Ivy, winning duels against molodoy and yuurih before slipping away to claim one more in Pop Dog.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Смущение на „Бръшлян“",
+  "description": "makazze разтърсва картата, като напира към „Бръшлян“, печелейки дуели срещу molodoy и yuurih, преди да се изплъзне, за да заяви още един до надписа „Pop Dog“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9311,8 +9311,8 @@
  },
  {
   "id": "bud2025_qf-makazze-triple-kill-on-train-3",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze pistol precision",
-  "description": "makazze's crosshair was glued to FURIA's heads in the second pistol round on Train, earning him a triple kill on A-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Прецизност с пистолети",
+  "description": "Мерникът на makazze беше залепен за главите на FURIA във втория пистолетен рунд на Train, с което си заслужи тройно убийство на зоната за бомба „A“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9325,8 +9325,8 @@
  },
  {
   "id": "bud2025_qf-makazze-quadro-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze fury unleashed",
-  "description": "makazze went into full fury mode on Train, collecting four kills to push the score to 12:2 against FURIA.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Отприщена ярост",
+  "description": "makazze влезе в режим на пълна ярост наTrain, събирайки четири убийства, за да изтласка резултата до 12 — 2 срещу FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9339,8 +9339,8 @@
  },
  {
   "id": "bud2025_qf-kscerato-triple-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | KSCERATO A play",
-  "description": "KSCERATO finds three kills near A-site, pausing Natus Vincere's attempt to cross.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | KSCERATO | Проиграване в зоната за бомба „A“",
+  "description": "KSCERATO осъществява три убийства близо до зоната за бомба „A“, спирайки опита за преминаване от Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9353,8 +9353,8 @@
  },
  {
   "id": "bud2025_qf-fallen-triple-kill-on-train",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FalleN late-half triple",
-  "description": "FalleN sparks hope for FURIA with a triple kill in the final round of the half on Train.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FalleN | Тройно в късния период",
+  "description": "FalleN дава искрица надежда за FURIA с тройно убийство във финалния рунд на полувремето на Train.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9368,7 +9368,7 @@
  {
   "id": "bud2025_qf-w0nderful-vs-furia-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FURIA на Train",
-  "description": "w0nderful's AWP went singing on Train, hitting deadly note after note with pinpoint accuracy to secure the decider for Natus Vincere.",
+  "description": "AWP на w0nderful запя в Train, удряйки една подир друга смъртоносна нота с изключителна точност, за да подсигури решаващия резултат за Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9382,7 +9382,7 @@
  {
   "id": "bud2025_qf-aleksib-vs-furia-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FURIA на Train",
-  "description": "Aleksib's exceptional tactical leadership and late-round decision-making left no chance for a FURIA comeback on Train.",
+  "description": "Изключителното тактическо водачество на Aleksib и вземането на решения в края на рунда не оставиха на FURIA шанс за завръщане в Train.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9396,7 +9396,7 @@
  {
   "id": "bud2025_qf-b1t-vs-furia-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FURIA на Train",
-  "description": "b1t was clinical on Train, demonstrating sharp aim and positioning as he capitalized on every opportunity to close out the map against FURIA.",
+  "description": "b1t беше клинично хладнокръвен на Train, демонстрирайки точно прицелване и позициониране, извличайки изгода от всяка благоприятна възможност да приключи картата срещу FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9410,7 +9410,7 @@
  {
   "id": "bud2025_qf-im-vs-furia-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FURIA на Train",
-  "description": "iM was fully locked in and ready for every duel on the decider map, underlining that Natus Vincere were fully prepared to advance to the semifinal stage.",
+  "description": "iM беше напълно подготвен за всеки дуел на решаващата карта, това наблягаше на факта, че Natus Vincere бяха напълно подготвени да напреднат към полуфиналния етап.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9424,7 +9424,7 @@
  {
   "id": "bud2025_qf-makazze-vs-furia-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FURIA на Train",
-  "description": "makazze showed his true self on Train, delivering a highly impactful performance that defined the map's tempo and led to FURIA's defeat.",
+  "description": "makazze показа истинското си аз на Train, доставяйки изключително въздействащо представяне, което определи темпото на картата и доведе до разгрома на FURIA.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9438,7 +9438,7 @@
  {
   "id": "bud2025_qf-yekindar-vs-navi-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | YEKINDAR с/у Natus Vincere на Train",
-  "description": "YEKINDAR was constantly under pressure on the decider map from Natus Vincere, forcing him into difficult duels throughout.",
+  "description": "YEKINDAR беше под постоянен натиск от Natus Vincere на решаващата карта, принуждавайки го да участва в трудни дуели през цялото време.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9452,7 +9452,7 @@
  {
   "id": "bud2025_qf-kscerato-vs-navi-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | KSCERATO с/у Natus Vincere на Train",
-  "description": "KSCERATO pushed his individual skill and impact to the limit on Train, securing pivotal frags to keep the hopes of Brazilian fans alive despite Natus Vincere's dominance.",
+  "description": "KSCERATO впрегна индивидуалните си умения и своето въздействие до краен предел на Train, подсигурявайки повратни фрагове, за да запази надеждите на бразилските почитатели живи въпреки доминацията на Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9466,7 +9466,7 @@
  {
   "id": "bud2025_qf-fallen-vs-navi-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FalleN с/у Natus Vincere на Train",
-  "description": "FalleN faced relentless pressure from Natus Vincere on Train, as they neutralized every attempt by FURIA to secure the map.",
+  "description": "FalleN се изправи през безмилостен натиск от Natus Vincere на Train, докато те неутрализираха всеки опит от страна на FURIA да подсигурят картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9480,7 +9480,7 @@
  {
   "id": "bud2025_qf-molodoy-vs-navi-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | molodoy с/у Natus Vincere на Train",
-  "description": "molodoy seized every chance to claw back and cling to rounds for FURIA; however, the overwhelming pressure from Natus Vincere ultimately proved too much.",
+  "description": "molodoy се възползва от всеки шанс да издрапа обратно и да се вкопчи в рундовете за FURIA, обаче съкрушителният натиск от Natus Vincere в крайна сметка се оказа прекалено много.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9494,7 +9494,7 @@
  {
   "id": "bud2025_qf-yuurih-vs-navi-on-train",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | yuurih с/у Natus Vincere на Train",
-  "description": "yuurih gave everything on the decider map, providing maximum firepower in an attempt to stop Natus Vincere, but their performance proved stronger on the day.",
+  "description": "yuurih даде всичко от себе си на решаващата карта, предоставяйки максимална огнева мощ в опит да спре Natus Vincere, но в този ден тяхното представяне се оказа по-силно.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FURIA",
@@ -9507,8 +9507,8 @@
  },
  {
   "id": "bud2025_sf-navi-entrance",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Natus Vincere on the SF stage",
-  "description": "Natus Vincere enter the semifinal stage of the StarLadder Budapest Major 2025, set to face FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Natus Vincere на полуфиналната сцена",
+  "description": "Natus Vincere влизат на сцената за полуфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9521,8 +9521,8 @@
  },
  {
   "id": "bud2025_sf-faze-entrance",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe on the SF stage",
-  "description": "FaZe enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Natus Vincere.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe Clan на полуфиналната сцена",
+  "description": "FaZe Clan влизат на сцената за полуфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9535,8 +9535,8 @@
  },
  {
   "id": "bud2025_sf-aleksib-double-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib smoke read spray",
-  "description": "Aleksib reads FaZe's smoke push perfectly, cutting down two with a spray.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib | Димно разчитане и разпръскване",
+  "description": "Aleksib перфектно разчита напъна с димна граната на FaZe Clan, покосявайки двама от отбора с пренасочване на разпръскването.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9549,8 +9549,8 @@
  },
  {
   "id": "bud2025_sf-b1t-double-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t B-site stand",
-  "description": "b1t holds his ground on the B-site, finding two kills against FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t | Отстояване на зоната за бомба „B“",
+  "description": "b1t отстоява своята позицията на зоната за бомба „B“, осъществявайки две убийства срещу FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9563,8 +9563,8 @@
  },
  {
   "id": "bud2025_sf-im-triple-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM USP-S quad threat",
-  "description": "iM nearly pulls off a quad kill with the USP-S, but jcobbb shuts him down.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM | Четворна заплаха с USP-S",
+  "description": "iM почти постига четворно убийство с USP-S, но jcobbb окончателно преустановява опита му.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9577,8 +9577,8 @@
  },
  {
   "id": "bud2025_sf-jcobbb-quadro-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb Redroom sweep",
-  "description": "jcobbb pushes through Red Room, finding two kills with his Galil AR before finishing the last two with his pistol.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb | Помитане в червената стая",
+  "description": "jcobbb стремително напира през червената стая в „Къща“, осъществявайки две убийства с Galil AR, преди да довърши последните двама с пистолета си.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9591,8 +9591,8 @@
  },
  {
   "id": "bud2025_sf-karrigan-double-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan smoke double",
-  "description": "karrigan steps through the smoke, outduels Aleksib, and immediately takes down b1t on Mid, before refrag from makazze.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan | Двойно в дима",
+  "description": "karrigan прекрачва през дима, надвива Aleksib в дуела и незабавно поваля b1t в средата на картата преди контрафраг от makazze.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9605,8 +9605,8 @@
  },
  {
   "id": "bud2025_sf-makazze-double-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze A-plant entry",
-  "description": "makazze catches broky off guard and follows up with a kill on jcobbb to secure the A-plant.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Встъпително при залагане на бомбата на „A“",
+  "description": "makazze хваща broky неподготвен и последва с убийство на jcobbb, за да подсигури залагането на зоната за бомба „A“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9619,8 +9619,8 @@
  },
  {
   "id": "bud2025_sf-makazze-quadro-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze Mid wide swing",
-  "description": "makazze explodes onto Mid with a wide swing, killing four opponents.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Голям замах в средата на картата",
+  "description": "makazze изригва в средата на картата с голям замах, убивайки четирима опоненти.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9633,8 +9633,8 @@
  },
  {
   "id": "bud2025_sf-makazze-triple-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze Redroom transfer",
-  "description": "makazze shows off a sharp spray transfer for two kills before finishing broky in Red Room with a headshot.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze | Пренасочване в червената стая",
+  "description": "makazze демонстрира рязко пренасочване на разпръскването за две убийства, преди да довърши broky в червената стая с изстрел в главата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9647,8 +9647,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-double-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful Mid to A punish",
-  "description": "w0nderful finds frozen on Mid, then shuts down karrigan's aggressive play on A.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful | Наказание от средата към зона „A“",
+  "description": "wonderful намира frozen в средата на картата, след което окончателно преустановява агресивното проиграване на Karrigan от зоната за бомба „A“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9661,8 +9661,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-triple-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful A-site triple",
-  "description": "w0nderful holds strong on the A-site, securing a triple kill against FaZe in a final round of the map.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful | Тройно на зоната за бомба „A“",
+  "description": "w0nderful здраво отстоява позиция на зоната за бомба „A“, подсигурявайки тройно убийство срещу FaZe Clan във финалния рунд на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9675,8 +9675,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe на Ancient",
-  "description": "w0nderful did not take chances and demonstrated masterful AWPing against FaZe on Ancient.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe Clan на Ancient",
+  "description": "w0nderful не поема никакви рискове и демонстрира майсторско боравене с AWP срещу FaZe Clan на Ancient.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9689,8 +9689,8 @@
  },
  {
   "id": "bud2025_sf-aleksib-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe на Ancient",
-  "description": "Aleksib read the opponents' movements and the situation on Ancient perfectly, leading to a win.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe Clan на Ancient",
+  "description": "Aleksib перфектно разчиташе придвижванията на опонентите, както и ситуацията на Ancient, което доведе до победа.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9703,8 +9703,8 @@
  },
  {
   "id": "bud2025_sf-b1t-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe на Ancient",
-  "description": "b1t was a reliable part of the game plan for Natus Vincere on Ancient.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe Clan на Ancient",
+  "description": "b1t беше надеждна част от игралния план за Natus Vincere на Ancient.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9717,8 +9717,8 @@
  },
  {
   "id": "bud2025_sf-im-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe на Ancient",
-  "description": "iM played aggressively upfront, consistently finding frags on Ancient.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe Clan на Ancient",
+  "description": "iM играеше открито агресивно, като постоянно осъществяваше фрагове на Ancient.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9731,8 +9731,8 @@
  },
  {
   "id": "bud2025_sf-makazze-vs-faze-on-ancient",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe на Ancient",
-  "description": "makazze delivered a remarkable performance on Ancient against FaZe, helping Natus Vincere secure the map.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe Clan на Ancient",
+  "description": "makazze поднесе забележително представяне на Ancient срещу FaZe Clan, помагайки на Natus Vincere да подсигурят картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9746,7 +9746,7 @@
  {
   "id": "bud2025_sf-karrigan-vs-navi-on-ancient",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan с/у Natus Vincere на Ancient",
-  "description": "karrigan attempted to shift the momentum on Ancient, but Natus Vincere held firm.",
+  "description": "karrigan се опита да промени инерцията на Ancient, но Natus Vincere твърдо отстояха позиции.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9760,7 +9760,7 @@
  {
   "id": "bud2025_sf-broky-vs-navi-on-ancient",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky с/у Natus Vincere на Ancient",
-  "description": "broky found a few multi-frags on Ancient, but it wasn't enough to stop Natus Vincere.",
+  "description": "broky осъществи няколко множествени фрага на Ancient, но това не беше достатъчно, за да спре Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9774,7 +9774,7 @@
  {
   "id": "bud2025_sf-twistzz-vs-navi-on-ancient",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz с/у Natus Vincere на Ancient",
-  "description": "Twistzz tried to make an impact on Ancient, finding openings and trading where possible, but FaZe couldn't gain momentum.",
+  "description": "Twistzz се опита да постигне резултат на Ancient, намирайки възможности и разменяйки фрагове, където е възможно, но FaZe Clan не успяха да наберат инерция.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9788,7 +9788,7 @@
  {
   "id": "bud2025_sf-jcobbb-vs-navi-on-ancient",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb с/у Natus Vincere на Ancient",
-  "description": "jcobbb gave everything he had, looking to drag FaZe back into the game on Ancient.",
+  "description": "jcobbb даде всичко от себе си, търсейки начин да завлече FaZe Clan обратно в играта на Ancient.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9802,7 +9802,7 @@
  {
   "id": "bud2025_sf-frozen-vs-navi-on-ancient",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen с/у Natus Vincere на Ancient",
-  "description": "frozen looked for consistency on Ancient, contributing where he could, though Natus Vincere kept control of the map.",
+  "description": "frozen търсеше постоянство на Ancient, допринасяйки там, където можеше, въпреки че Natus Vincere запазиха контрола над картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -9815,8 +9815,8 @@
  },
  {
   "id": "bud2025_sf-spirit-entrance",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spirit on the SF stage",
-  "description": "Spirit enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Vitality.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Spirit на полуфиналната сцена",
+  "description": "Spirit влизат на сцената за полуфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9829,8 +9829,8 @@
  },
  {
   "id": "bud2025_sf-vitality-entrance",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Vitality on the SF stage",
-  "description": "Vitality enter the semifinal stage of the StarLadder Budapest Major 2025, set to face Spirit.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Vitality на полуфиналната сцена",
+  "description": "Vitality влизат на сцената за полуфиналите на значителният шампионат Starladder Budapest 2025, където ще се изправят срещу Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9843,8 +9843,8 @@
  },
  {
   "id": "bud2025_sf-apex-double-on-mirage",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX overtime closer",
-  "description": "apEX closes out overtime on Mirage with two final kills against Spirit.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX | Приключване в извънредното време",
+  "description": "apEX приключва извънредното време на Mirage с две финални убийства срещу Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9857,8 +9857,8 @@
  },
  {
   "id": "bud2025_sf-chopper-triple-on-mirage",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | chopper calm 1v3",
-  "description": "In overtime, chopper steps up in a 1v3 clutch against Vitality, calmly taking down his opponents one by one to equalize the score.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | chopper | Спокойно 1 с/у 3",
+  "description": "В извънредното време chopper поема инициативата в критична схватка 1 с/у 3 срещу Vitality, поваляйки спокойно опонентите си един подир друг, за да изравни резултата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9871,8 +9871,8 @@
  },
  {
   "id": "bud2025_sf-donk-triple-on-mirage-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk smoke burst",
-  "description": "donk bursts through the smoke, quickly finding three kills on A-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk | Порив през дима",
+  "description": "donk нахлува внезапно през дима, осъществявайки три бързи убийства на зоната за бомба „A“.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9885,8 +9885,8 @@
  },
  {
   "id": "bud2025_sf-donk-triple-on-mirage-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk Mid takeover",
-  "description": "donk takes over Mid with a triple kill against Vitality.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk | Превземане на средата на картата",
+  "description": "donk превзема средата на картата с тройно убийство срещу Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9899,8 +9899,8 @@
  },
  {
   "id": "bud2025_sf-mezii-triple-on-mirage-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii B-aps shutdown",
-  "description": "mezii shuts down chopper in B-apartments before securing two more kills around the B-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii | Окончателно преустановяване в апартаментите",
+  "description": "mezii окончателно преустановява chopper до апартаментите, преди да подсигури още две убийства около зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9913,8 +9913,8 @@
  },
  {
   "id": "bud2025_sf-mezii-triple-on-mirage-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii perfect read",
-  "description": "mezii reads Spirit's B-site execute perfectly, using his game sense to secure three kills.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii | Перфектно разчитане",
+  "description": "mezii перфектно разчита изпълнението на Spirit в зоната за бомба „B“, използвайки игралния си усет, за да подсигури три убийства.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9927,8 +9927,8 @@
  },
  {
   "id": "bud2025_sf-ropz-triple-on-mirage",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz round flip",
-  "description": "ropz perfectly predicts Spirit's positions, swinging the round in his team's favor making three kills.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz | Преобръщане на рунда",
+  "description": "ropz перфектно предсказва позициите на Spirit, обръщайки хода на рунда в полза на своя отбор, правейки три убийства.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9941,8 +9941,8 @@
  },
  {
   "id": "bud2025_sf-tn1r-triple-on-mirage-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R Firebox gamble",
-  "description": "tN1R's risky Firebox play nets two kills, but ropz prevails in the final duel.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R | Поемане на риск при сандъците със снаряди",
+  "description": "Рискованото проиграване на tN1R при сандъците със снаряди му носи две убийства, но ropz надделява в последния дуел.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9955,8 +9955,8 @@
  },
  {
   "id": "bud2025_sf-tn1r-triple-on-mirage-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R finishing double",
-  "description": "tN1R wins the duel against ZywOo and follows it up with a double to close the round.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R | Довършително двойно",
+  "description": "tN1R печели дуела срещу ZywOo, а след го последва с двойно убийство, за да приключи рунда.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -9969,8 +9969,8 @@
  },
  {
   "id": "bud2025_sf-zywoo-quadro-on-mirage",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo Short play",
-  "description": "ZywOo opens with a kill on Mid, then takes over the round by shutting down enemies from all angles.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo | Кратко проиграване",
+  "description": "ZywOo встъпва с убийство в средата на картата, след това поема контрола над рунда, като окончателно преустановява врагове от всички ъгли.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10012,7 +10012,7 @@
  {
   "id": "bud2025_sf-donk-vs-vitality-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk с/у Vitality на Mirage",
-  "description": "donk did not hesitate and forced Vitality into mistakes; however, Spirit were unable to convert the opportunity into a map win.",
+  "description": "donk не се поколеба и принуди Vitality да допуснат грешки. Въпреки това Spirit не успяха да превърнат благоприятната възможността в победа на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10026,7 +10026,7 @@
  {
   "id": "bud2025_sf-flamez-vs-spirit-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у Spirit на Mirage",
-  "description": "On Mirage, flameZ applied constant pressure, consistently forcing Spirit out of position and into critical mistakes.",
+  "description": "На Mirage, flameZ прилагаше постоянен натиск, последователно принуждавайки Spirit да излизат от позиция и да допускат критични грешки.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10068,7 +10068,7 @@
  {
   "id": "bud2025_sf-sh1ro-vs-vitality-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | sh1ro с/у Vitality на Mirage",
-  "description": "sh1ro fought hard, securing vital kills, though Vitality were simply stronger this time around.",
+  "description": "sh1ro се сражава усилено, подсигурявайки жизненоважни убийства, въпреки че този път Vitality просто бяха по-силни.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10082,7 +10082,7 @@
  {
   "id": "bud2025_sf-tn1r-vs-vitality-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R с/у Vitality на Mirage",
-  "description": "tN1R was fully committed to the fight, but Mirage ultimately went to Vitality.",
+  "description": "tN1R беше напълно отдаден на сражението, но в крайна сметка Mirage принадлежеше на Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10110,7 +10110,7 @@
  {
   "id": "bud2025_sf-zywoo-vs-spirit-on-mirage",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у Spirit на Mirage",
-  "description": "ZywOo didn't hold back on Mirage against Spirit, unleashing his signature form and delivering a strong performance.",
+  "description": "ZywOo не се сдържаше на Mirage срещу Spirit, отприщвайки своята емблематична форма и доставяйки силно представяне.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10123,8 +10123,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-triple-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful long-range triple",
-  "description": "w0nderful takes a long-range fight against multiple opponents on Nuke, securing a triple kill.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful | Далекобойно тройно",
+  "description": "w0nderful води далекобойно сражение срещу множество опоненти на Nuke, подсигурявайки тройно убийство.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10137,8 +10137,8 @@
  },
  {
   "id": "bud2025_sf-b1t-triple-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t Outside to B stop",
-  "description": "b1t finds an opening kill on Outside and, after rotating to B, stops FaZe from advancing onto the site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t | „Отвън“ към спиране в зоната за бомба „B“",
+  "description": "b1t осъществява встъпително убийство в „Отвън“, а след ротация към зоната за бомба „B“, спира FaZe Clan от това да напредне към зоната.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10151,8 +10151,8 @@
  },
  {
   "id": "bud2025_sf-im-quadro-on-nuke-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM pistol quad",
-  "description": "iM delivers a quad kill in the opening pistol round against FaZe with his Dual Berettas.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM | Четворно с пистолет",
+  "description": "iM нанася четворно убийство във встъпителния рунд с пистолет срещу FaZe Clan с неговите два Beretta.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10165,8 +10165,8 @@
  },
  {
   "id": "bud2025_sf-im-quadro-on-nuke-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM rotation payoff",
-  "description": "iM's rotations pay off as he finds four kills across the map.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM | Отплащаща се ротация",
+  "description": "Ротациите на iM се отплащат, докато той осъществява четири убийства из цялата карта.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10179,8 +10179,8 @@
  },
  {
   "id": "bud2025_sf-karrigan-triple-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan Main entry triple",
-  "description": "karrigan greets makazze with a bullet in Main, then follows up with two more kills on the site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan | Встъпително тройно на „Мини“",
+  "description": "karrigan поздравява makazze с куршум в „Мини“ и последва това с още две убийства на зоната за бомбата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10193,8 +10193,8 @@
  },
  {
   "id": "bud2025_sf-broky-triple-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky A-site equalizer",
-  "description": "broky makes his way onto the A-site, securing a triple kill to equal the score on Nuke.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky | Изравнител в зоната за бомба „A“",
+  "description": "broky си проправя път към зоната за бомба „A“, подсигурявайки тройно убийство, за да изравни резултата на Nuke.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10207,8 +10207,8 @@
  },
  {
   "id": "bud2025_sf-twistzz-quadro-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz Ramp bomb hold",
-  "description": "Twistzz opens up Ramp, clears the way to the site, and holds off three players on the bomb.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz | Удържане на бомбата на „Рампа“",
+  "description": "Twistzz разкрива „Рампа“, разчиства пътя към зоната за бомбата и удържа трима играчи.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10221,8 +10221,8 @@
  },
  {
   "id": "bud2025_sf-frozen-triple-on-nuke-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen Ramp triple",
-  "description": "frozen holds off Natus Vincere from Ramp, securing a triple kill.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen | Тройно на „Рампа“",
+  "description": "frozen удържа Natus Vincere от „Рампа“, подсигурявайки тройно убийство.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10235,8 +10235,8 @@
  },
  {
   "id": "bud2025_sf-frozen-triple-on-nuke-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen backstab cleanup",
-  "description": "frozen takes down w0nderful from behind before cleaning up the site against the final two players.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen | Разчистване с намушване в гръб",
+  "description": "frozen поваля wonderful в гръб, преди да разчисти зоната за бомбата срещу последните двама играчи.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10249,8 +10249,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe на Nuke",
-  "description": "w0nderful led Natus Vincere on Nuke with consistent impact, keeping his team competitive throughout the map.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe Clan на Nuke",
+  "description": "w0nderful поведе Natus Vincere на Nuke с последователно въздействие, поддържайки отбора си съревнователен из цялата карта.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10263,8 +10263,8 @@
  },
  {
   "id": "bud2025_sf-aleksib-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe на Nuke",
-  "description": "Aleksib contributed smart reads and timely frags on Nuke, helping Natus Vincere stay in the fight until the end.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe Clan на Nuke",
+  "description": "Aleksib допринесе с умно разчитане и навременни фрагове на Nuke, помагайки на Natus Vincere да останат в сражението до самия края.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10277,8 +10277,8 @@
  },
  {
   "id": "bud2025_sf-b1t-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe на Nuke",
-  "description": "b1t was fighting hard on Nuke, to keep Natus Vincere in fight against FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe Clan на Nuke",
+  "description": "b1t се сражава здраво срещу Nuke, за да запази Natus Vincere в битка срещу FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10291,8 +10291,8 @@
  },
  {
   "id": "bud2025_sf-im-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe на Nuke",
-  "description": "iM provided steady firepower on Nuke, finding key kills during Natus Vincere's early momentum.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe Clan на Nuke",
+  "description": "iM предостави стабилна огнева мощ на Nuke, осъществявайки ключови убийства по време на ранната инерция на Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10305,8 +10305,8 @@
  },
  {
   "id": "bud2025_sf-makazze-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe на Nuke",
-  "description": "makazze looked for impact on Nuke with aggressive plays, but FaZe's defense limited his effectiveness.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe Clan на Nuke",
+  "description": "makazze търсеше как да окаже въздействие на Nuke с агресивни проигравания, но отбраната на FaZe Clan ограничаваше ефективността му.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10320,7 +10320,7 @@
  {
   "id": "bud2025_sf-karrigan-vs-navi-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan с/у Natus Vincere на Nuke",
-  "description": "karrigan guided FaZe through a strong comeback on Nuke, supporting the team with key moments.",
+  "description": "karrigan напътства FaZe Clan през силно завръщане на Nuke, подкрепяйки отбора в ключови моменти.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10334,7 +10334,7 @@
  {
   "id": "bud2025_sf-broky-vs-navi-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky с/у Natus Vincere на Nuke",
-  "description": "broky had flashes of impact on Nuke, contributing in crucial rounds during FaZe's push.",
+  "description": "broky имаше проблясъци от въздействие на Nuke, допринасяйки в решителни рундове по време на напъна от FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10348,7 +10348,7 @@
  {
   "id": "bud2025_sf-twistzz-vs-navi-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz с/у Natus Vincere на Nuke",
-  "description": "Twistzz consistently found kills on Nuke, helping FaZe recover and take control of the map.",
+  "description": "Twistzz последователно осъществяваше убийства на Nuke, помагайки на FaZe Clan да се възстановят и да поемат контрола над картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10362,7 +10362,7 @@
  {
   "id": "bud2025_sf-jcobbb-vs-navi-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb с/у Natus Vincere на Nuke",
-  "description": "jcobbb picked up some solid frags, but ultimately struggled to find his footing on Nuke.",
+  "description": "jcobbb прави няколко солидни фрага, но в крайна сметка не смогва да намери опора на Nuke.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10376,7 +10376,7 @@
  {
   "id": "bud2025_sf-frozen-vs-navi-on-nuke",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen с/у Natus Vincere на Nuke",
-  "description": "frozen dominated on Nuke, delivering a standout performance that powered FaZe to the map win.",
+  "description": "frozen доминираха на Nuke, доставяйки забележително представяне, което подсили FaZe Clan така, че да спечелят картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10389,8 +10389,8 @@
  },
  {
   "id": "bud2025_sf-vitality-victory",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Vitality wins in the SF",
-  "description": "Vitality secures a 2:0 victory over Spirit in the semifinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Vitality побеждават в полуфиналите",
+  "description": "Vitality си подсигуряват победа с 2 — 0 над Spirit на полуфинала на значителния шампионат StarLadder Budapest 2025.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10403,7 +10403,7 @@
  },
  {
   "id": "bud2025_sf-donk-quadro-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk door-to-AWP rampage",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk | Развилняване от врата до AWP",
   "description": "donk sprays down ZywOo through the door, continues his smoky run by taking down apEX, then switches to the AWP to land two more shots.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
@@ -10417,8 +10417,8 @@
  },
  {
   "id": "bud2025_sf-zweih-triple-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | zweih tunnels opener",
-  "description": "zweih opens on ZywOo in Tunnels and adds a double on the cross to B-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | zweih | Встъпване в тунелите",
+  "description": "zweih прави встъпително убийство на ZywOo в „Тунели“ и добавя двойно убийство на кръстопътя към зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10431,8 +10431,8 @@
  },
  {
   "id": "bud2025_sf-tn1r-double-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R doors to B plant",
-  "description": "tN1R picks off mezii from the doors, then swiftly takes down ropz to secure the B-site plant.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | tN1R | От врати към залагане в зоната за бомба „B“",
+  "description": "tN1R ликвидира mezii от вратите, а след това бързо поваля ropz, за да подсигури залагането в зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10445,8 +10445,8 @@
  },
  {
   "id": "bud2025_sf-zywoo-triple-on-dust2-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo pistol round burst",
-  "description": "ZywOo opens Dust II with three USP-S kills against Spirit.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo | Порив в пистолетния рунд",
+  "description": "ZywOo встъпва на Dust II с три убийства от USP-S срещу Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10459,8 +10459,8 @@
  },
  {
   "id": "bud2025_sf-zywoo-triple-on-dust2-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo smoke stumble",
-  "description": "ZywOo stumbles upon three opponents in the smoke on Short and secures the round for Vitality.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo | Натъкване в дима",
+  "description": "ZywOo се натъква на трима опоненти в дима на „Къса“ и подсигурява рунда за Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10473,8 +10473,8 @@
  },
  {
   "id": "bud2025_sf-apex-double-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX early double",
-  "description": "apEX makes his mark early on Dust II, securing a double kill in the second round with his FAMAS.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX | Ранно двойно",
+  "description": "apEX оставя следата си на Dust II отрано, подсигурявайки двойно убийство във втория рунд със своя FAMAS.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10487,8 +10487,8 @@
  },
  {
   "id": "bud2025_sf-apex-triple-on-dust2-1",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX A-site lockdown",
-  "description": "apEX locks down the A-site from Goose with a triple kill, making life much harder for Spirit.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX | Блокиране на зоната за бомба „A“",
+  "description": "apEX блокира зоната за бомба „A“ от страната на „Патица“ с тройно убийство, което доста затруднява живота на Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10501,8 +10501,8 @@
  },
  {
   "id": "bud2025_sf-apex-triple-on-dust2-2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX Long dance",
-  "description": "apEX finds a triple kill on Long while weaving through the smokes and molotovs against Spirit.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX | Дълъг танц",
+  "description": "apEX осъществява тройно убийство на „Дълга“, докато лъкатуши през димките и молотовите срещу Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10515,8 +10515,8 @@
  },
  {
   "id": "bud2025_sf-flamez-double-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ map closer",
-  "description": "flameZ's double kill on A seals the map victory for Vitality.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ | Приключване на картата",
+  "description": "Двойното убийство от flameZ в зоната за бомба „A“ окончателно решава победата на картата за Vitality.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10529,8 +10529,8 @@
  },
  {
   "id": "bud2025_sf-ropz-triple-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz smoke pick",
-  "description": "ropz finds chopper through the smoke on Mid, but the bomb goes toward A, and in a bold attempt to further damage Vitality's economy, both Spirit players lose their lives.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz | Димно ликвидиране",
+  "description": "ropz намира chopper през дима в средата на картата, но бомбата отива към зона „A“ и в дързък опит да нанесе по-нататъшни щети на икономиката на Vitality, двамата играчи на Spirit губят животите си.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10544,7 +10544,7 @@
  {
   "id": "bud2025_sf-chopper-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | chopper с/у Vitality на Dust II",
-  "description": "On Dust II, chopper repeatedly tried to impose a fight on Vitality, but their superior form proved too much for Spirit.",
+  "description": "На Dust II, chopper многократно се опитва да наложи сражение на Vitality, но превъзходната им форма се оказа прекалено много за Spirit.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10558,7 +10558,7 @@
  {
   "id": "bud2025_sf-donk-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | donk с/у Vitality на Dust II",
-  "description": "donk put in a decent performance on Dust II; however, Vitality were simply unstoppable.",
+  "description": "donk се представиха прилично на Dust II, но въпреки това Vitality просто бяха неудържими.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10586,7 +10586,7 @@
  {
   "id": "bud2025_sf-sh1ro-vs-vitality-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | sh1ro с/у Vitality на Dust II",
-  "description": "sh1ro couldn't find his tempo on Dust II, and Vitality capitalized on his quiet performance to secure the map win.",
+  "description": "sh1ro не успя да намери своето темпо на Dust II, а Vitality извлякоха изгода от стихналото му представяне, за да си подсигурят победата на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10614,7 +10614,7 @@
  {
   "id": "bud2025_sf-zywoo-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у Spirit на Dust II",
-  "description": "ZywOo completely dominated on Dust II, leaving Spirit with no real chance to equalize the score in the series.",
+  "description": "ZywOo напълно доминираше на Dust II, оставяйки Spirit без никакъв реален шанс да изравнят резултата в серията.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10642,7 +10642,7 @@
  {
   "id": "bud2025_sf-mezii-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у Spirit на Dust II",
-  "description": "Dust II was full of opening kills from mezii, whose early success gave Vitality the edge they needed to secure the map win.",
+  "description": "Dust II беше пълна с встъпителни убийства от mezii, чийто ранен успех даде на Vitality предимството, което им беше нужно, за да подсигурят победата на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10656,7 +10656,7 @@
  {
   "id": "bud2025_sf-flamez-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у Spirit на Dust II",
-  "description": "flameZ went big with multi-frags on Dust II, ensuring Vitality closed out the map.",
+  "description": "flameZ се раздава здраво с множество фрагове на Dust II, подсигурявайки това, че Vitality ще приключат картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10670,7 +10670,7 @@
  {
   "id": "bud2025_sf-ropz-vs-spirit-on-dust2",
   "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у Spirit на Dust II",
-  "description": "By securing a win against Spirit, ropz continued his impressive streak, reaching every single CS2 Major grand final.",
+  "description": "Като подсигурява победа срещу Spirit, ropz продължи своята впечатляваща серия, достигайки до гранд финала на всеки един значителен CS2 шампионат.",
   "tournament_event": "Budapest 2025",
   "team0": "Team Spirit",
   "team1": "Vitality",
@@ -10683,8 +10683,8 @@
  },
  {
   "id": "bud2025_sf-faze-win",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe win in the SF",
-  "description": "FaZe secures a 2:1 victory over Natus Vincere in the semifinal of the StarLadder Budapest Major 2025.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | FaZe Clan побеждават в полуфиналите",
+  "description": "FaZe Clan си подсигуряват победа с 2 — 1 над Natus Vincere на полуфинала на значителния шампионат StarLadder Budapest 2025.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10697,8 +10697,8 @@
  },
  {
   "id": "bud2025_sf-w0nderful-triple-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful post-plant hold",
-  "description": "w0nderful removes Twistzz from under Balcony before stopping two players in the post-plant on A-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful | Удържане след залагане на бомбата",
+  "description": "w0nderful премахва Twistzz изпод „Балкон“, преди да спре двама играчи след залагането на зоната за бомба „A“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10711,8 +10711,8 @@
  },
  {
   "id": "bud2025_sf-aleksib-double-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib CT lockdown",
-  "description": "Aleksib holds firm from CT, picking up two kills while covering every angle on B.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib | Блокиране на КТ",
+  "description": "Aleksib се отстоява непоколебимо от КТ, като взема две убийства, покривайки всеки ъгъл на зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10725,8 +10725,8 @@
  },
  {
   "id": "bud2025_sf-b1t-quadro-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t Triple timing quad",
-  "description": "b1t finds perfect timing from Triple and turns it into a quad kill against FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t | Четворно овреме на „Тройка“",
+  "description": "b1t уцелва перфектното време от „Тройка“ и превръща благоприятната възможност в четворно убийство срещу FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10739,8 +10739,8 @@
  },
  {
   "id": "bud2025_sf-b1t-defuse-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t last-second defuse",
-  "description": "b1t takes down broky and successfully defuses the bomb with just 0.049 seconds left.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t | Обезвреждане в последната секунда",
+  "description": "b1t поваля broky и успешно обезврежда бомбата с оставащи само 0,049 секунди.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10753,8 +10753,8 @@
  },
  {
   "id": "bud2025_sf-karrigan-double-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan pistol headshots",
-  "description": "karrigan lands two headshots in the opening pistol round against Natus Vincere on Inferno.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | karrigan | Изстрели в главата с пистолет",
+  "description": "karrigan нанася два изстрела в главата във встъпителния рунд с пистолет срещу Natus Vincere на Inferno.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10767,8 +10767,8 @@
  },
  {
   "id": "bud2025_sf-broky-double-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky Triple surprise",
-  "description": "broky hides behind Triple, then pops up when no one expects him to secure the round for FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | broky | Тройна изненада",
+  "description": "broky се крие зад „Тройка“, след това изскача, когато никой не го очаква, за да подсигури рунда за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10781,8 +10781,8 @@
  },
  {
   "id": "bud2025_sf-twistzz-double-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz Banana to CT swing",
-  "description": "Twistzz stops b1t on Banana and finishes the round by swinging into CT.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz | Замах от „Банан“ към КТ",
+  "description": "Twistzz спира b1t на „Банан“ и завършва рунда, като замахва към КТ.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10795,8 +10795,8 @@
  },
  {
   "id": "bud2025_sf-twistzz-quadro-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz Deagle quad",
-  "description": "Twistzz goes huge with a Deagle quad kill, locking in the 12th round for FaZe.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Twistzz | Четворно с Deagle",
+  "description": "Twistzz бележи огромен подвиг с четворно убийство от Deagle, заключвайки 12 рунд за FaZe Clan.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10809,8 +10809,8 @@
  },
  {
   "id": "bud2025_sf-jcobbb-triple-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb A-site spraydown",
-  "description": "jcobbb shuts down Natus Vincere's A-site push with a three-kill spray.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | jcobbb | Разпръскване на зоната за бомба „A“",
+  "description": "jcobbb окончателно преустановява напъна на Natus Vincere към зоната за бомба „A“ с тройно убийство чрез пренасочване на разпръскването.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10823,8 +10823,8 @@
  },
  {
   "id": "bud2025_sf-frozen-triple-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen Banana opener",
-  "description": "frozen finds an opening kill on Banana before securing two more from the B-site.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | frozen | Встъпително на „Банан“",
+  "description": "frozen осъществява встъпително убийство в „Банан“, преди да подсигури още две от зоната за бомба „B“.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10837,7 +10837,7 @@
  },
  {
   "id": "bud2025_sf-w0nderful-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | w0nderful с/у FaZe Clan на Inferno",
   "description": "On Inferno, w0nderful struggled to find consistent impact, as FaZe repeatedly challenged his AWP control and limited his influence.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
@@ -10851,7 +10851,7 @@
  },
  {
   "id": "bud2025_sf-aleksib-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | Aleksib с/у FaZe Clan на Inferno",
   "description": "Aleksib poured everything into his calling and fragging on Inferno; however, Natus Vincere couldn't maintain control in the crucial rounds.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
@@ -10865,8 +10865,8 @@
  },
  {
   "id": "bud2025_sf-b1t-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe на Inferno",
-  "description": "b1t fought hard on Inferno, contesting space and winning key duels, but the momentum gradually slipped away from Natus Vincere.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | b1t с/у FaZe Clan на Inferno",
+  "description": "b1t се сражаваха здраво на Inferno, оспорвайки пространството и печелейки ключови дуели, но инерцията постепенно се изплъзваше от Natus Vincere.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10879,8 +10879,8 @@
  },
  {
   "id": "bud2025_sf-im-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe на Inferno",
-  "description": "iM raised his individual level on Inferno, delivering important kills, yet the collective effort was not enough to turn the map.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | iM с/у FaZe Clan на Inferno",
+  "description": "iM повиши индивидуалното си ниво в Inferno, доставяйки важни убийства, но все пак колективните усилия не бяха достатъчни, за да обърнат везните на картата.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -10893,8 +10893,8 @@
  },
  {
   "id": "bud2025_sf-makazze-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe на Inferno",
-  "description": "makazze played proactively on Inferno, constantly looking to create openings, but FaZe's structure remained too solid to break.",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | makazze с/у FaZe Clan на Inferno",
+  "description": "makazze игра проактивно на Inferno, постоянно търсейки възможности за създаване на пролуки, но структурата на FaZe Clan остана прекалено солидна, за да бъде пречупена.",
   "tournament_event": "Budapest 2025",
   "team0": "Natus Vincere",
   "team1": "FaZe Clan",
@@ -11145,7 +11145,7 @@
  },
  {
   "id": "bud2025_gf-apex-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe Clan на Nuke",
   "description": "apEX looked to set the tone early with proactive play, but his efforts on Nuke were not enough to swing the map in Vitality's favor.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11173,7 +11173,7 @@
  },
  {
   "id": "bud2025_gf-flamez-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe Clan на Nuke",
   "description": "flameZ looked to force openings on Nuke, but FaZe pushed back strongly.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11229,7 +11229,7 @@
  },
  {
   "id": "bud2025_gf-mezii-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe Clan на Nuke",
   "description": "mezii filled his role with steady play on Nuke, stepping up in moments but unable to fully change the flow of the game.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11243,7 +11243,7 @@
  },
  {
   "id": "bud2025_gf-ropz-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe Clan на Nuke",
   "description": "ropz battled to the very end on Nuke, picking up multi-frags along the way.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11271,7 +11271,7 @@
  },
  {
   "id": "bud2025_gf-zywoo-vs-faze-on-nuke",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe на Nuke",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe Clan на Nuke",
   "description": "ZywOo was the backbone for Vitality on Nuke, repeatedly finding key kills that kept his team alive in the map.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11425,7 +11425,7 @@
  },
  {
   "id": "bud2025_gf-zywoo-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe на Dust II",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe Clan на Dust II",
   "description": "ZywOo set the standard early on Dust II, striking decisively as Vitality seized control from the opening rounds.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11439,7 +11439,7 @@
  },
  {
   "id": "bud2025_gf-apex-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe на Dust II",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe Clan на Dust II",
   "description": "apEX orchestrated Vitality's approach with confidence, ensuring FaZe were never allowed to build momentum.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11453,7 +11453,7 @@
  },
  {
   "id": "bud2025_gf-mezii-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe на Dust II",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe Clan на Dust II",
   "description": "mezii played a key role in establishing the lead, winning early fights that tilted the map in Vitality's favor.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11467,7 +11467,7 @@
  },
  {
   "id": "bud2025_gf-flamez-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe на Dust II",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe Clan на Dust II",
   "description": "flameZ brought sharp firepower throughout Dust II, reinforcing Vitality's dominance round after round.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11481,7 +11481,7 @@
  },
  {
   "id": "bud2025_gf-ropz-vs-faze-on-dust2",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe на Dust II",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe Clan на Dust II",
   "description": "ropz contributed steadily, helping Vitality maintain pressure and deny FaZe any breathing room.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11677,7 +11677,7 @@
  },
  {
   "id": "bud2025_gf-zywoo-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe Clan на Inferno",
   "description": "ZywOo's presence was felt all over Inferno, as his precise kills and calm control repeatedly tipped close rounds in Vitality's favor.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11691,7 +11691,7 @@
  },
  {
   "id": "bud2025_gf-apex-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe Clan на Inferno",
   "description": "apEX steered Vitality through Inferno with assured decision-making, keeping FaZe under constant strain.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11705,7 +11705,7 @@
  },
  {
   "id": "bud2025_gf-mezii-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe Clan на Inferno",
   "description": "mezii thrived in the chaos of Inferno, winning key duels and anchoring rounds that helped Vitality maintain control of the map.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11719,7 +11719,7 @@
  },
  {
   "id": "bud2025_gf-flamez-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe Clan на Inferno",
   "description": "flameZ injected energy into Vitality's play, forcing engagements that prevented FaZe from finding comfort.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11733,7 +11733,7 @@
  },
  {
   "id": "bud2025_gf-ropz-vs-faze-on-inferno",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe на Inferno",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe Clan на Inferno",
   "description": "ropz quietly reinforced Vitality's setup, making smart movements that strengthened their overall hold.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11957,7 +11957,7 @@
  },
  {
   "id": "bud2025_gf-zywoo-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe на Overpass",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ZywOo с/у FaZe Clan на Overpass",
   "description": "ZywOo dictated the flow on Overpass, calmly guiding Vitality as they closed in on the championship.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11971,7 +11971,7 @@
  },
  {
   "id": "bud2025_gf-apex-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe на Overpass",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | apEX с/у FaZe Clan на Overpass",
   "description": "apEX's leadership came to the forefront, as his reads and timing left FaZe with little chance to recover.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11985,7 +11985,7 @@
  },
  {
   "id": "bud2025_gf-mezii-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe на Overpass",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | mezii с/у FaZe Clan на Overpass",
   "description": "mezii continued his strong showing, turning openings into rounds that pushed Vitality closer to the finish line.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -11999,7 +11999,7 @@
  },
  {
   "id": "bud2025_gf-flamez-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe на Overpass",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | flameZ с/у FaZe Clan на Overpass",
   "description": "flameZ kept FaZe under pressure, forcing uncomfortable fights and limiting their options.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
@@ -12013,7 +12013,7 @@
  },
  {
   "id": "bud2025_gf-ropz-vs-faze-on-overpass",
-  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe на Overpass",
+  "name": "Souvenir Charm | Отличен най-добър момент StarLadder Budapest 2025 | ropz с/у FaZe Clan на Overpass",
   "description": "ropz remained composed throughout Overpass, reinforcing Vitality's structure and denying FaZe any foothold.",
   "tournament_event": "Budapest 2025",
   "team0": "FaZe Clan",
