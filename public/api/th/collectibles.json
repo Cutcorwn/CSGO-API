@@ -8162,7 +8162,7 @@
  {
   "id": "collectible-5276",
   "name": "Warden Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Warden'",
+  "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Warden ของ CS2",
   "def_index": "5276",
   "rarity": {
    "id": "rarity_ancient",
@@ -8177,7 +8177,7 @@
  {
   "id": "collectible-5277",
   "name": "Stronghold Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Stronghold'",
+  "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Stronghold ของ CS2",
   "def_index": "5277",
   "rarity": {
    "id": "rarity_ancient",
@@ -8192,7 +8192,7 @@
  {
   "id": "collectible-5278",
   "name": "Alpine Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Alpine'",
+  "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Alpine ของ CS2",
   "def_index": "5278",
   "rarity": {
    "id": "rarity_ancient",
@@ -8207,7 +8207,7 @@
  {
   "id": "collectible-5279",
   "name": "Poseidon Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Poseidon'",
+  "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Poseidon ของ CS2",
   "def_index": "5279",
   "rarity": {
    "id": "rarity_ancient",
@@ -8222,7 +8222,7 @@
  {
   "id": "collectible-5280",
   "name": "Sanctum Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Sanctum'",
+  "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Sanctum ของ CS2",
   "def_index": "5280",
   "rarity": {
    "id": "rarity_ancient",
