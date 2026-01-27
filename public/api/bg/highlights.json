@@ -2144,7 +2144,7 @@
  {
   "id": "aus2025_aleksib2kbholdvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Aleksib | Двойно убийство",
-  "description": "Два бързи изстрела в главата с USP от Aleksib окончателно преустановяват рунда за Natus Vincere.",
+  "description": "Два бързи изстрела в главата с USP-S от Aleksib окончателно преустановяват рунда за Natus Vincere.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2648,7 +2648,7 @@
  {
   "id": "aus2025_meziiladderkillvsnavionuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | На стълбата??",
-  "description": "A crazy shot on the ladder from mezii keeps them in the round, but he's denied in the clutch.",
+  "description": "Щур изстрел от mezii, докато се движи по стълба ги задържа в рунда, но успехът му в критичната схватка бива отхвърлен.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2718,7 +2718,7 @@
  {
   "id": "aus2025_wonderful2kawpvsvitalityonnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | w0nderful | Двойно убийство с AWP",
-  "description": "Patience from w0nderful nets him a double kill with the AWP and secures the round for NAVI.",
+  "description": "Търпението от w0nderful му носи двойно убийство с AWP и подсигурява рунда за Natus Vincere.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2830,7 +2830,7 @@
  {
   "id": "aus2025_zywoo2kdualiesvsnavionnuke",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ZywOo | Каубоят",
-  "description": "The retake from Vitality is secured as ZywOo lands two quick headshots with the Dual Berettas.",
+  "description": "Повторното превземане от Vitality е подсигурено, докато ZywOo нанася два бързи изстрела в главата с двата Beretta пистолета.",
   "tournament_event": "Austin 2025",
   "team0": "Natus Vincere",
   "team1": "Vitality",
@@ -2942,7 +2942,7 @@
  {
   "id": "aus2025_blitzfast2kvsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Пъргаво двойно",
-  "description": "bLitz brings the round back for The MongolZ as he grabs a quick double kill in the retake.",
+  "description": "bLitz връща рунда обратно в ръцете на The MongolZ, като прави бързо двойно убийство при повторното превземане.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -2956,7 +2956,7 @@
  {
   "id": "aus2025_blitztrytoknifevsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Нож?",
-  "description": "bLitz gets overconfident as he tries to knife karrigan for the final kill to win the map.",
+  "description": "bLitz става прекалено самонадеян, докато се опитва да намушка karrigan за финалното убийство, така че да спечели картата.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3124,7 +3124,7 @@
  {
   "id": "aus2025_s1mpleawarenessvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Осведоменост",
-  "description": "bLitz catches great timing in mid, but s1mple is aware and takes him down with the AWP.",
+  "description": "bLitz страхотно улавя правилния момент в средата на атаката, но s1mple е наясно и го поваля с AWP.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3236,7 +3236,7 @@
  {
   "id": "aus2025_techno4k2konbvsfazeonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Techno4K | Двойно убийство в зоната за бомба „B“",
-  "description": "A double kill on the B hold from Techno4K gives The MongolZ a chance in the afterplant.",
+  "description": "Двойно убийство при удържането на зоната за бомба „B“ от Techno4K дава шанс на MongolZ във времето след залагането.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3264,7 +3264,7 @@
  {
   "id": "aus2025_9103kawpwingamevsfazeanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Закриване с AWP",
-  "description": "Victory for The MongolZ is secured as 910 picks up three AWP kills on the A-site defense.",
+  "description": "Победата за The MongolZ е подсигурена, докато 910 постига три убийства с AWP при отбраната на зоната за бомба „A“.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3334,7 +3334,7 @@
  {
   "id": "aus2025_elige3kdancingvsmongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Танцова легенда",
-  "description": "EliGE picks up a triple kill and dances around with mzinho to buy time in the afterplant.",
+  "description": "EliGE прави тройно убийство и танцува насам-натам с mzinho, за да спечели време след залагането.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3418,7 +3418,7 @@
  {
   "id": "aus2025_karrigan2kentryvsmongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | karrigan | Встъпителен убиец",
-  "description": "The Tec-9 from karrigan opens up the B bombsite for FaZe.",
+  "description": "Tec-9 от karrigan открива полето за изява в зоната за бомба „B“ за FaZe.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3432,7 +3432,7 @@
  {
   "id": "aus2025_mzinho2kafterplantvsfazeonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mzinho | Двойно убийство на Anubis",
-  "description": "Two kills from mzinho secure the afterplant on A for The MongolZ.",
+  "description": "Две убийства от mzinho подсигуряват времето след залагането на зоната за бомба „A“ за The MongolZ.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3488,7 +3488,7 @@
  {
   "id": "aus2025_rain3kvsmongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | rain | Тройно убийство",
-  "description": "rain secures the two-versus-two clutch with a triple kill in the round.",
+  "description": "rain подсигурява критичната схватка двама срещу двама с тройно убийство в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3572,7 +3572,7 @@
  {
   "id": "aus2025_senzuswift2kvsfazeonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Мимолетно двойно убийство",
-  "description": "Two swift kills from Senzu on the A-site defense give The MongolZ a real chance in the round.",
+  "description": "Две мимолетни убийства от Senzu при отбраната на зоната за бомба „A“ дават на The MongolZ истински шанс в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "FaZe Clan",
   "team1": "The MongolZ",
@@ -3642,7 +3642,7 @@
  {
   "id": "aus2025_9101kvspainonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Едно убийство е достатъчно",
-  "description": "A single kill from 910's MAC-10 is enough to force the save from paiN and secure the round.",
+  "description": "Едно убийство с MAC-10 на 910 е достатъчно, за да принуди спасяването от paiN и да подсигури рунда.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -3950,7 +3950,7 @@
  {
   "id": "aus2025_snow3kpistolvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Трикратните два Beretta",
-  "description": "A triple kill with the Dual Berettas from snow secures the first pistol round for paiN.",
+  "description": "Тройно убийство с двойните Beretta от snow подсигурява първия пистолетен рунд за paiN.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -4468,7 +4468,7 @@
  {
   "id": "aus2025_apex1v2afterplantvsmouzontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Изненадващо проиграване",
-  "description": "apEX makes the perfect play to set himself up for the double kill and win the round.",
+  "description": "apEX прави перфектното проиграване, за да се установи за двойно убийство и да спечели рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4510,7 +4510,7 @@
  {
   "id": "aus2025_flamez2kvsmouzontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | flameZ | Двойно убийство на Train",
-  "description": "flameZ does his job, securing a double kill on the A hold.",
+  "description": "flameZ си върши работата, подсигурявайки двойно убийство при удържането на зоната за бомба „A“.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4692,7 +4692,7 @@
  {
   "id": "aus2025_spinxswift2khsvsvitalityontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Двойно дрънване на Train",
-  "description": "Two swift headshots from Spinx shut down Vitality's outside hold.",
+  "description": "Два мимолетни изстрела в главата от Spinx окончателно преустановяват захвата на Vitality отвън.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4734,7 +4734,7 @@
  {
   "id": "aus2025_xertion2kecovsvitalityontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | xertioN | Икономичният убиец на Train",
-  "description": "xertioN grabs a double kill, shutting down Vitality in the anti-eco.",
+  "description": "xertioN грабва двойно убийство, окончателно преустановявайки Vitality в анти икономичния режим.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4748,7 +4748,7 @@
  {
   "id": "aus2025_zywoo2kvsecovsmouzontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ZywOo | Двойно убийство",
-  "description": "ZywOo cleans up two frags during the B attack in the anti-eco.",
+  "description": "ZyWoo разчиства два фрага по време на атаката над зоната за бомба „B“ в анти икономичния рунд.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4804,7 +4804,7 @@
  {
   "id": "aus2025_zywoo2khsvsmouzontrain",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | ZywOo | Двойни изстрели в главата",
-  "description": "The Ivy retake from MOUZ gets destroyed as ZywOo lands two swift headshots with the AK.",
+  "description": "Повторното превземане на „Бръшлян“ от MOUZ бива унищожено, докато ZywOo нанася два бързи изстрела в главите с AK-47.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -4986,7 +4986,7 @@
  {
   "id": "aus2025_flamezclutchdeniedvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | flameZ | Отхвърлена критична схватка",
-  "description": "The clutch is denied for flameZ as he secures a double kill but is traded in the end.",
+  "description": "Критичната схватка е отказана за flameZ, докато той подсигурява двойно убийство, но в крайна сметка е разменен.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5000,7 +5000,7 @@
  {
   "id": "aus2025_flamez3kvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | flameZ | Тройно убийство с/у MongolZ",
-  "description": "A triple kill from flameZ helps secure the round for Vitality.",
+  "description": "Тройно убийство от flameZ помага рундът да се подсигури за Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5042,7 +5042,7 @@
  {
   "id": "aus2025_meziiclutchdeniedvsmongolzonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | mezii | Отхвърлена критична схватка",
-  "description": "mezii loses the one-versus-one duel against Techno4K in the afterplant.",
+  "description": "mezii губи дуела един срещу един срещу Techno4K във времето след залагането.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5098,7 +5098,7 @@
  {
   "id": "aus2025_senzuecofraggervsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Senzu | Икономичният убиец на платформата",
-  "description": "Three frags for Senzu against the pistols from Vitality.",
+  "description": "Три фрага за Senzu срещу пистолетите от Vitality.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5154,7 +5154,7 @@
  {
   "id": "aus2025_techno4k2kwinmapvsvitalityonmirage",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Techno4K | По-близо",
-  "description": "Techno4K grabs the last two kills to secure the map win for The MongolZ.",
+  "description": "Techno4K грабва последните две убийства, за да подсигури победата на картата за The MongolZ.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5532,7 +5532,7 @@
  {
   "id": "aus2025_techno3kandclutchvsvitalityondust2",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Тройно убийство при критична схватка",
-  "description": "Techno4K picks up a triple kill and the round as he wins the one-versus-one against ropz.",
+  "description": "Techno4K прави тройно убийство и печели рунда, след като побеждава ropz в двубой един срещу един.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -5574,7 +5574,7 @@
  {
   "id": "aus2025_910openandclosevspainonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Отваряне и затваряне",
-  "description": "910 opens and closes the round with two crucial kills for The MongolZ.",
+  "description": "910 встъпва и приключва рунда с две решаващи убийства за The MongolZ.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -5588,7 +5588,7 @@
  {
   "id": "aus2025_910jumpspotdodgevspainonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Подскачащо засичане с избягване",
-  "description": "910 misses his shot with the AWP while a CT is jump-spotting.",
+  "description": "910 пропуска изстрела си с AWP, докато даден КТ скача за оглед.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -5686,7 +5686,7 @@
  {
   "id": "aus2025_dgt2kvsthemongolzonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Крал на USP",
-  "description": "dgt kills two opponents on Anubis with a USP, helping secure the round.",
+  "description": "dgt убива двама опоненти на Anubis с USP-S, помагайки за подсигуряването на рунда.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -5728,7 +5728,7 @@
  {
   "id": "aus2025_mzinhopreaimvspainonanubis",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Предварително прицелване",
-  "description": "mzinho does a slick strafe and pre-aims the CT to lock down the round.",
+  "description": "mzinho прави ловко придвижване встрани и предварително се прицелва към позиция на КТ, така че окончателно да преустанови рунда.",
   "tournament_event": "Austin 2025",
   "team0": "paiN Gaming",
   "team1": "The MongolZ",
@@ -6190,7 +6190,7 @@
  {
   "id": "aus2025_torzsideadlydefensevsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Смъртоносна отбрана",
-  "description": "torzsi sends two players to the grave with his USP and shuts down the A site.",
+  "description": "torzsi изпраща двама играчи в гроба със своя USP и окончателно преустановява зоната за бомба „A“.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6204,7 +6204,7 @@
  {
   "id": "aus2025_torzsifamasimpactvsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Специалист с FAMAS",
-  "description": "torzsi gets two kills with his FAMAS and helps MOUZ win the round.",
+  "description": "torzsi прави две убийства със своя FAMAS и помага на MOUZ да спечелят рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6260,7 +6260,7 @@
  {
   "id": "aus2025_torzsihitormissvsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Попадение или пропуск",
-  "description": "torzsi misses two shots but still gets two kills in the round.",
+  "description": "torzsi пропуска два изстрела, но все пак прави две убийства в рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6302,7 +6302,7 @@
  {
   "id": "aus2025_xertionpistolpunishervsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Пистолетен наказател",
-  "description": "xertioN shoots two pistol players with his rifle and helps his team win the round.",
+  "description": "xertioN застрелва двама играчи с пистолети чрез своята винтовка и помага на отбора си да спечели рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6316,7 +6316,7 @@
  {
   "id": "aus2025_zywooroundcloservsmouzoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Приключване на рунда",
-  "description": "ZywOo shoots two opponents and closes the round by winning his one-versus-one duel.",
+  "description": "ZywOo стреля по двама опоненти и приключва рунда, печелейки дуела си един срещу един.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6372,7 +6372,7 @@
  {
   "id": "aus2025_zywooonemagvsmouzoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Един пълнител",
-  "description": "ZywOo takes down four players from the opposing team using only one magazine.",
+  "description": "ZywOo поваля четирима играчи от противниковия отбор, използвайки само един пълнител.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "MOUZ",
@@ -6386,7 +6386,7 @@
  {
   "id": "aus2025_910misfirevsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Засечка",
-  "description": "910 misses shot after shot with his AWP and fails to take down any opponents.",
+  "description": "910 пропуска един подир друг изстрели с AWP и не успява да повали никакви опоненти.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -6414,7 +6414,7 @@
  {
   "id": "aus2025_910strugglevsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Съпротива",
-  "description": "910 keeps shooting but still fails to kill his opponent.",
+  "description": "910 продължава да стреля, но все пак не успява да убие опонента си.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -6554,7 +6554,7 @@
  {
   "id": "aus2025_blitzboomvsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Бум",
-  "description": "bLitz lands a great running shot on his opponents, but it's not enough to win the round.",
+  "description": "bLitz нанася страхотни изстрели в движение върху опонентите си, но това не е достатъчно, за да спечели рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -6568,7 +6568,7 @@
  {
   "id": "aus2025_blitzbackstabbervsvitalityoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Наръгване в гръб",
-  "description": "bLitz surprises the opponent by shooting two of them in the back, closing out the round.",
+  "description": "bLitz изненадва опонентите, като застрелва двама от тях в гръб, приключвайки рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -6638,7 +6638,7 @@
  {
   "id": "aus2025_flamezroundherevsthemongolzoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Герой на рунда",
-  "description": "flameZ shoots three opponents with his AK-47 and helps his team win the round.",
+  "description": "flameZ застрелва трима опоненти със своя АК-47 и помага на отбора си да спечели рунда.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
@@ -6652,7 +6652,7 @@
  {
   "id": "aus2025_meziidominationvsthemongolzoninferno",
   "name": "Souvenir Charm | Отличен най-добър момент BLAST.tv Austin 2025 | Доминация",
-  "description": "mezii defends the B bombsite, takes down three opponents, and wins the round for his team.",
+  "description": "mezii отбранява зоната за бомба „B“, поваля трима опоненти и печели рунда за своя отбор.",
   "tournament_event": "Austin 2025",
   "team0": "Vitality",
   "team1": "The MongolZ",
