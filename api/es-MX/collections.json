@@ -16277,7 +16277,7 @@
  },
  {
   "id": "collection-set-timed-drops-achroma",
-  "name": "The Achroma Collection",
+  "name": "Colección Acromática",
   "crates": [],
   "contains": [
    {
@@ -16304,7 +16304,7 @@
    },
    {
     "id": "skin-6e77ad6f522c",
-    "name": "Berettas dobles | Silver Pour",
+    "name": "Berettas dobles | Derrame de plata",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16337,7 +16337,7 @@
    },
    {
     "id": "skin-81cd69f7a061",
-    "name": "M249 | Sleet",
+    "name": "M249 | Granizo",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16348,7 +16348,7 @@
    },
    {
     "id": "skin-1f71b62e4990",
-    "name": "P250 | Sleet",
+    "name": "P250 | Granizo",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16359,7 +16359,7 @@
    },
    {
     "id": "skin-18a19585ed8f",
-    "name": "Nova | Currents",
+    "name": "Nova | Corrientes",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16370,7 +16370,7 @@
    },
    {
     "id": "skin-d269db65b6ea",
-    "name": "MAC-10 | Snow Splash",
+    "name": "MAC-10 | Salpicadura de nieve",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16381,7 +16381,7 @@
    },
    {
     "id": "skin-2787809612be",
-    "name": "MP5-SD | Snow Splash",
+    "name": "MP5-SD | Salpicadura de nieve",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16403,7 +16403,7 @@
    },
    {
     "id": "skin-9449a702cb3c",
-    "name": "M4A4 | Aeolian Dark",
+    "name": "M4A4 | Oscuridad eólica",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16414,7 +16414,7 @@
    },
    {
     "id": "skin-f41134aec544",
-    "name": "Revólver R8 | Dark Chamber",
+    "name": "Revólver R8 | Cámara oscura",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16425,7 +16425,7 @@
    },
    {
     "id": "skin-784a6c99447c",
-    "name": "AUG | Creep",
+    "name": "AUG | Ramificación",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16436,7 +16436,7 @@
    },
    {
     "id": "skin-59aaabe308c8",
-    "name": "P90 | Aeolian Light",
+    "name": "P90 | Luz eólica",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16447,7 +16447,7 @@
    },
    {
     "id": "skin-442d3266f2ac",
-    "name": "Desert Eagle | The Daily Deagle",
+    "name": "Desert Eagle | La Deagle diaria",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16458,7 +16458,7 @@
    },
    {
     "id": "skin-a5639c9731c1",
-    "name": "P2000 | Grip Tape",
+    "name": "P2000 | Cinta de agarre",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16469,7 +16469,7 @@
    },
    {
     "id": "skin-a92d1a70ebc1",
-    "name": "AK-47 | Breakthrough",
+    "name": "AK-47 | Avance",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "de tipo restringido",
@@ -16480,7 +16480,7 @@
    },
    {
     "id": "skin-9eb900056828",
-    "name": "Glock-18 | Trace Lock",
+    "name": "Glock-18 | Bloqueo de trazos",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "de tipo restringido",
@@ -16821,12 +16821,12 @@
  },
  {
   "id": "collection-set-timed-drops-exuberant",
-  "name": "The Harlequin Collection",
+  "name": "Colección Arlequín",
   "crates": [],
   "contains": [
    {
     "id": "skin-9a7b0a3e260f",
-    "name": "SG 553 | Safari Print",
+    "name": "SG 553 | Patrón de safari",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16837,7 +16837,7 @@
    },
    {
     "id": "skin-f9f850e1e389",
-    "name": "FAMAS | Byproduct",
+    "name": "FAMAS | Subproducto",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16848,7 +16848,7 @@
    },
    {
     "id": "skin-8ac8f9231892",
-    "name": "PP-Bizon | Thermal Currents",
+    "name": "PP-Bizon | Corrientes térmicas",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16859,7 +16859,7 @@
    },
    {
     "id": "skin-0b2ec5b2c5ef",
-    "name": "Recortada | Crimson Batik",
+    "name": "Recortada | Batik carmesí",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16870,7 +16870,7 @@
    },
    {
     "id": "skin-56333a38bf41",
-    "name": "CZ75-Auto | Honey Paisley",
+    "name": "CZ75-Auto | Cachemira de miel",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16881,7 +16881,7 @@
    },
    {
     "id": "skin-2f4f4e0aaa4e",
-    "name": "Revólver R8 | Mauve Aside",
+    "name": "Revólver R8 | Malvas a los lados",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16892,7 +16892,7 @@
    },
    {
     "id": "skin-07db077aad75",
-    "name": "MP9 | Bee-Tron",
+    "name": "MP9 | Abejorro",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "de grado de consumidor",
@@ -16903,7 +16903,7 @@
    },
    {
     "id": "skin-33edc6632c92",
-    "name": "MP7 | Coral Paisley",
+    "name": "MP7 | Cachemira coral",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16914,7 +16914,7 @@
    },
    {
     "id": "skin-105633b3f165",
-    "name": "MP5-SD | Picnic",
+    "name": "MP5-SD | Pícnic",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16925,7 +16925,7 @@
    },
    {
     "id": "skin-25af68e7c19c",
-    "name": "Tec-9 | Banana Leaf",
+    "name": "Tec-9 | Hoja de banano",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16947,7 +16947,7 @@
    },
    {
     "id": "skin-2efacc35df16",
-    "name": "SSG 08 | Calligrafaux",
+    "name": "SSG 08 | Caligrafalsa",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "de grado industrial",
@@ -16958,7 +16958,7 @@
    },
    {
     "id": "skin-49296f9e5232",
-    "name": "Galil AR | Sky Mandala",
+    "name": "Galil AR | Mandala celestial",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16969,7 +16969,7 @@
    },
    {
     "id": "skin-37ac474a54e4",
-    "name": "UMP-45 | Warm Blooded",
+    "name": "UMP-45 | Sangre caliente",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16980,7 +16980,7 @@
    },
    {
     "id": "skin-0843472a9098",
-    "name": "Zeus x27 | Earth Mandala",
+    "name": "Zeus x27 | Mandala terrestre",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16991,7 +16991,7 @@
    },
    {
     "id": "skin-6f23920b8406",
-    "name": "Five-SeveN | Fraise Crane",
+    "name": "Five-SeveN | Grulla de fresa",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -17002,7 +17002,7 @@
    },
    {
     "id": "skin-d384f428d432",
-    "name": "AWP | Exothermic",
+    "name": "AWP | Exotérmico",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "de tipo restringido",
@@ -17013,7 +17013,7 @@
    },
    {
     "id": "skin-a060f0657eb4",
-    "name": "USP-S | Sleeping Potion",
+    "name": "USP-S | Poción para dormir",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "de tipo restringido",
@@ -17024,7 +17024,7 @@
    },
    {
     "id": "skin-bc5a36f177b0",
-    "name": "M4A1-S | Party Animal",
+    "name": "M4A1-S | Parrandero",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "de tipo clasificado",
@@ -17914,7 +17914,7 @@
    },
    {
     "id": "skin-9197715f9f3f",
-    "name": "AK-47 | Aphrodite",
+    "name": "AK-47 | Afrodita",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "de aspecto encubierto",
