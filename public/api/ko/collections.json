@@ -16480,7 +16480,7 @@
    },
    {
     "id": "skin-9eb900056828",
-    "name": "글록 18 | Trace Lock",
+    "name": "글록 18 | 조준 완료",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -16491,7 +16491,7 @@
    },
    {
     "id": "skin-76f19247a21d",
-    "name": "AWP | The End",
+    "name": "AWP | 끝",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "기밀",
@@ -16826,7 +16826,7 @@
   "contains": [
    {
     "id": "skin-9a7b0a3e260f",
-    "name": "SG 553 | Safari Print",
+    "name": "SG 553 | 사파리 무늬",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16837,7 +16837,7 @@
    },
    {
     "id": "skin-f9f850e1e389",
-    "name": "파마스 | Byproduct",
+    "name": "파마스 | 폭발 부산물",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16848,7 +16848,7 @@
    },
    {
     "id": "skin-8ac8f9231892",
-    "name": "PP 비존 | Thermal Currents",
+    "name": "PP 비존 | 온난 기류",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16859,7 +16859,7 @@
    },
    {
     "id": "skin-0b2ec5b2c5ef",
-    "name": "소드오프 | Crimson Batik",
+    "name": "소드오프 | 핏빛 바틱",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16870,7 +16870,7 @@
    },
    {
     "id": "skin-56333a38bf41",
-    "name": "CZ75 기관권총 | Honey Paisley",
+    "name": "CZ75 기관권총 | 허니 페이즐리",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16881,7 +16881,7 @@
    },
    {
     "id": "skin-2f4f4e0aaa4e",
-    "name": "R8 리볼버 | Mauve Aside",
+    "name": "R8 리볼버 | 모브 어사이드",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16892,7 +16892,7 @@
    },
    {
     "id": "skin-07db077aad75",
-    "name": "MP9 | Bee-Tron",
+    "name": "MP9 | 비트론",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "기본",
@@ -16903,7 +16903,7 @@
    },
    {
     "id": "skin-33edc6632c92",
-    "name": "MP7 | Coral Paisley",
+    "name": "MP7 | 코랄 페이즐리",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "고급",
@@ -16914,7 +16914,7 @@
    },
    {
     "id": "skin-105633b3f165",
-    "name": "MP5-SD | Picnic",
+    "name": "MP5-SD | 피크닉",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "고급",
@@ -16936,7 +16936,7 @@
    },
    {
     "id": "skin-674317d93e09",
-    "name": "XM1014 | XoooM",
+    "name": "XM1014 | 줌",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "고급",
@@ -16947,7 +16947,7 @@
    },
    {
     "id": "skin-2efacc35df16",
-    "name": "SSG 08 | Calligrafaux",
+    "name": "SSG 08 | 캘리그라포",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "고급",
@@ -16958,7 +16958,7 @@
    },
    {
     "id": "skin-49296f9e5232",
-    "name": "갈릴 돌격소총 | Sky Mandala",
+    "name": "갈릴 돌격소총 | 하늘 만다라",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -16969,7 +16969,7 @@
    },
    {
     "id": "skin-37ac474a54e4",
-    "name": "UMP-45 | Warm Blooded",
+    "name": "UMP-45 | 온혈",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -16980,7 +16980,7 @@
    },
    {
     "id": "skin-0843472a9098",
-    "name": "제우스 x27 | Earth Mandala",
+    "name": "제우스 x27 | 지상 만다라",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -16991,7 +16991,7 @@
    },
    {
     "id": "skin-6f23920b8406",
-    "name": "파이브 세븐 | Fraise Crane",
+    "name": "파이브 세븐 | 프레이즈 꽃과 두루미",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -17024,7 +17024,7 @@
    },
    {
     "id": "skin-bc5a36f177b0",
-    "name": "M4A1-S | Party Animal",
+    "name": "M4A1-S | 파티광",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "기밀",
@@ -17914,7 +17914,7 @@
    },
    {
     "id": "skin-9197715f9f3f",
-    "name": "AK-47 | Aphrodite",
+    "name": "AK-47 | 아프로디테",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "극비",

@@ -16458,7 +16458,7 @@
    },
    {
     "id": "skin-a5639c9731c1",
-    "name": "P2000 | Grip Tape",
+    "name": "P2000 | 握把膠帶",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -16469,7 +16469,7 @@
    },
    {
     "id": "skin-a92d1a70ebc1",
-    "name": "AK-47 | Breakthrough",
+    "name": "AK-47 | 突破",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -16480,7 +16480,7 @@
    },
    {
     "id": "skin-9eb900056828",
-    "name": "Glock-18 | Trace Lock",
+    "name": "Glock-18 | 追蹤鎖定",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -16491,7 +16491,7 @@
    },
    {
     "id": "skin-76f19247a21d",
-    "name": "AWP | The End",
+    "name": "AWP | 終點",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "機密",
@@ -16826,7 +16826,7 @@
   "contains": [
    {
     "id": "skin-9a7b0a3e260f",
-    "name": "SG 553 | Safari Print",
+    "name": "SG 553 | 狩獵印花",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16837,7 +16837,7 @@
    },
    {
     "id": "skin-f9f850e1e389",
-    "name": "FAMAS | Byproduct",
+    "name": "FAMAS | 副產品",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16859,7 +16859,7 @@
    },
    {
     "id": "skin-0b2ec5b2c5ef",
-    "name": "Sawed-Off | Crimson Batik",
+    "name": "Sawed-Off | 赤紅蠟染",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16870,7 +16870,7 @@
    },
    {
     "id": "skin-56333a38bf41",
-    "name": "CZ75-Auto | Honey Paisley",
+    "name": "CZ75-Auto | 蜂蜜佩利斯",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16881,7 +16881,7 @@
    },
    {
     "id": "skin-2f4f4e0aaa4e",
-    "name": "R8 Revolver | Mauve Aside",
+    "name": "R8 Revolver | 藕荷側身",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16892,7 +16892,7 @@
    },
    {
     "id": "skin-07db077aad75",
-    "name": "MP9 | Bee-Tron",
+    "name": "MP9 | 蜜蜂龍",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "消費級",
@@ -16903,7 +16903,7 @@
    },
    {
     "id": "skin-33edc6632c92",
-    "name": "MP7 | Coral Paisley",
+    "name": "MP7 | 珊瑚佩斯利",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "工業級",
@@ -16914,7 +16914,7 @@
    },
    {
     "id": "skin-105633b3f165",
-    "name": "MP5-SD | Picnic",
+    "name": "MP5-SD | 野餐區",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "工業級",
@@ -16925,7 +16925,7 @@
    },
    {
     "id": "skin-25af68e7c19c",
-    "name": "Tec-9 | Banana Leaf",
+    "name": "Tec-9 | 香蕉葉",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "工業級",
@@ -16936,7 +16936,7 @@
    },
    {
     "id": "skin-674317d93e09",
-    "name": "XM1014 | XoooM",
+    "name": "XM1014 | 咻~",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "工業級",
@@ -16947,7 +16947,7 @@
    },
    {
     "id": "skin-2efacc35df16",
-    "name": "SSG 08 | Calligrafaux",
+    "name": "SSG 08 | 假書法",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "工業級",
@@ -16958,7 +16958,7 @@
    },
    {
     "id": "skin-49296f9e5232",
-    "name": "Galil AR | Sky Mandala",
+    "name": "Galil AR | 天空曼陀羅",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -16969,7 +16969,7 @@
    },
    {
     "id": "skin-37ac474a54e4",
-    "name": "UMP-45 | Warm Blooded",
+    "name": "UMP-45 | 溫血動物",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -16980,7 +16980,7 @@
    },
    {
     "id": "skin-0843472a9098",
-    "name": "Zeus x27 | Earth Mandala",
+    "name": "Zeus x27 | 大地曼陀羅",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -17002,7 +17002,7 @@
    },
    {
     "id": "skin-d384f428d432",
-    "name": "AWP | Exothermic",
+    "name": "AWP | 放熱",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -17013,7 +17013,7 @@
    },
    {
     "id": "skin-a060f0657eb4",
-    "name": "USP-S | Sleeping Potion",
+    "name": "USP-S | 睡眠魔藥",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -17024,7 +17024,7 @@
    },
    {
     "id": "skin-bc5a36f177b0",
-    "name": "M4A1-S | Party Animal",
+    "name": "M4A1-S | 派對動物",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "機密",
