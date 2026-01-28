@@ -16277,7 +16277,7 @@
  },
  {
   "id": "collection-set-timed-drops-achroma",
-  "name": "The Achroma Collection",
+  "name": "De Achroma-collectie",
   "crates": [],
   "contains": [
    {
@@ -16821,7 +16821,7 @@
  },
  {
   "id": "collection-set-timed-drops-exuberant",
-  "name": "The Harlequin Collection",
+  "name": "De Harlequin-collectie",
   "crates": [],
   "contains": [
    {
@@ -16914,7 +16914,7 @@
    },
    {
     "id": "skin-105633b3f165",
-    "name": "MP5-SD | Picnic",
+    "name": "MP5-SD | Picknick",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Industrieel",
