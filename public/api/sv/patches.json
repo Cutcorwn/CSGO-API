@@ -379,7 +379,7 @@
  {
   "id": "patch-4583",
   "name": "Tygmärke | Metal The Global Elite ★",
-  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>Congratulations, you've arrived. Now the real challenge begins.</i>",
+  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>Grattis till att ha tagit dig så här långt. Nu börjar den riktiga utmaningen.</i>",
   "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
@@ -444,7 +444,7 @@
  {
   "id": "patch-4588",
   "name": "Tygmärke | Metal Supreme Master",
-  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>A winged defuser is flanked by six stars on this SMFC patch.</i>",
+  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>En bevingad tång omges av sex stjärnor på detta SMFC-tygmärke.</i>",
   "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
@@ -600,7 +600,7 @@
  {
   "id": "patch-4697",
   "name": "Tygmärke | Metal The Global Elite",
-  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>Congratulations, you've arrived. Now the real challenge begins.</i>",
+  "description": "Detta tygmärke kan fästas på dina agenter. När det har fästs kan det tas bort, men inte återfås.<br><br><i>Grattis till att ha tagit dig så här långt. Nu börjar den riktiga utmaningen.</i>",
   "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
