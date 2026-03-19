@@ -15719,11 +15719,11 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "死亡之手收藏",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
    }
   ],
@@ -15906,7 +15906,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | 完全調諧",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "隱蔽",

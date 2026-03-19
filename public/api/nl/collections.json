@@ -15719,11 +15719,11 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "De Dead Hand-collectie",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Verzegelde Dead Hand-terminal",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
    }
   ],

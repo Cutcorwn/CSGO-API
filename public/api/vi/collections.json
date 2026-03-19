@@ -15719,11 +15719,11 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "Bộ sưu tập Dead Hand",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Thiết bị đầu nối Dead Hand (Nguyên bọc)",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
    }
   ],

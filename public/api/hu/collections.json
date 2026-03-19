@@ -15719,18 +15719,18 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "A Halott Kéz Gyűjtemény",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
    }
   ],
   "contains": [
    {
     "id": "skin-526e890d5739",
-    "name": "M249 | Bock Blocks",
+    "name": "M249 | Bock Blokkok",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15741,7 +15741,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | Zubabot",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15752,7 +15752,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "UMP-45 | Fragment",
+    "name": "UMP-45 | Töredék",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15763,7 +15763,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "Lefűrészelt csövű sörétes | Fusion",
+    "name": "Lefűrészelt csövű sörétes | Fúzió",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15774,7 +15774,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "Five-SeveN | Dark Polymer",
+    "name": "Five-SeveN | Sötét Műanyag",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15785,7 +15785,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "USP-S | Silent Shot",
+    "name": "USP-S | Csendes Lövés",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15807,7 +15807,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "Desert Eagle | Firebreathing",
+    "name": "Desert Eagle | Tűzokádó",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15818,7 +15818,7 @@
    },
    {
     "id": "skin-62ecfa87b86d",
-    "name": "M4A1-S | Electrum",
+    "name": "M4A1-S | Elektrum",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15840,7 +15840,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "Galil AR | Galigator",
+    "name": "Galil AR | Galigátor",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15851,7 +15851,7 @@
    },
    {
     "id": "skin-36e373c7de1c",
-    "name": "MP9 | Urban Sovereign",
+    "name": "MP9 | Városi Uralkodó",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15862,7 +15862,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "AK-47 | Crane Flight",
+    "name": "AK-47 | Repülő Daru",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -15873,7 +15873,7 @@
    },
    {
     "id": "skin-2f5828f37817",
-    "name": "P250 | Kintsugi",
+    "name": "P250 | Kincugi",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -15884,7 +15884,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "P90 | Deathgaze",
+    "name": "P90 | Halálpillantás",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -15895,7 +15895,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | Vezércsel",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Fedett",
@@ -15906,7 +15906,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | Teljes Tuning",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Fedett",
