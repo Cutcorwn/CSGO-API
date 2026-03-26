@@ -15730,7 +15730,7 @@
   "contains": [
    {
     "id": "skin-526e890d5739",
-    "name": "M249 | Bock Blocks",
+    "name": "M249 | 보크 블록",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15741,7 +15741,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | 날카로운 이빨",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15752,7 +15752,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "UMP-45 | Fragment",
+    "name": "UMP-45 | 산산조각",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15763,7 +15763,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "소드오프 | Fusion",
+    "name": "소드오프 | 퓨전",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15774,7 +15774,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "파이브 세븐 | Dark Polymer",
+    "name": "파이브 세븐 | 다크 폴리머",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15785,7 +15785,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "USP-S | Silent Shot",
+    "name": "USP-S | 사일런트 샷",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "군용",
@@ -15807,7 +15807,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "데저트 이글 | Firebreathing",
+    "name": "데저트 이글 | 불의 숨결",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -15818,7 +15818,7 @@
    },
    {
     "id": "skin-62ecfa87b86d",
-    "name": "M4A1-S | Electrum",
+    "name": "M4A1-S | 일렉트럼",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -15829,7 +15829,7 @@
    },
    {
     "id": "skin-55d44f236355",
-    "name": "MP7 | Amberline",
+    "name": "MP7 | 엠버라인",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -15840,7 +15840,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "갈릴 돌격소총 | Galigator",
+    "name": "갈릴 돌격소총 | 갈리게이터",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -15851,7 +15851,7 @@
    },
    {
     "id": "skin-36e373c7de1c",
-    "name": "MP9 | Urban Sovereign",
+    "name": "MP9 | 어반 소버린",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "제한",
@@ -15862,7 +15862,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "AK-47 | Crane Flight",
+    "name": "AK-47 | 두루미의 날갯짓",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "기밀",
@@ -15873,7 +15873,7 @@
    },
    {
     "id": "skin-2f5828f37817",
-    "name": "P250 | Kintsugi",
+    "name": "P250 | 킨츠기",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "기밀",
@@ -15884,7 +15884,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "P90 | Deathgaze",
+    "name": "P90 | 죽음의 시선",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "기밀",
@@ -15895,7 +15895,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | 퀸스 갬빗",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "극비",
@@ -15906,7 +15906,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "글록 18 | Fully Tuned",
+    "name": "글록 18 | 완벽 튜닝",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "극비",
