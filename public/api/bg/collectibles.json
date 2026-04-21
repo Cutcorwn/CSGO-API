@@ -1907,7 +1907,7 @@
  {
   "id": "collectible-1004",
   "name": "Монета за картата Museum",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Museum Map Coin</font></b>",
   "def_index": "1004",
   "rarity": {
    "id": "rarity_ancient",
@@ -1922,7 +1922,7 @@
  {
   "id": "collectible-1005",
   "name": "Монета за картата Downtown",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Downtown Map Coin</font></b>",
   "def_index": "1005",
   "rarity": {
    "id": "rarity_ancient",
@@ -1937,7 +1937,7 @@
  {
   "id": "collectible-1006",
   "name": "Монета за картата Thunder",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Thunder Map Coin</font></b>",
   "def_index": "1006",
   "rarity": {
    "id": "rarity_ancient",
@@ -1952,7 +1952,7 @@
  {
   "id": "collectible-1007",
   "name": "Монета за картата Favela",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Favela Map Coin</font></b>",
   "def_index": "1007",
   "rarity": {
    "id": "rarity_ancient",
@@ -1967,7 +1967,7 @@
  {
   "id": "collectible-1008",
   "name": "Монета за картата Motel",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Motel Map Coin</font></b>",
   "def_index": "1008",
   "rarity": {
    "id": "rarity_ancient",
@@ -1982,7 +1982,7 @@
  {
   "id": "collectible-1009",
   "name": "Монета за картата Seaside",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Seaside Map Coin</font></b>",
   "def_index": "1009",
   "rarity": {
    "id": "rarity_ancient",
@@ -1997,7 +1997,7 @@
  {
   "id": "collectible-1010",
   "name": "Монета за картата Library",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Library Map Coin</font></b>",
   "def_index": "1010",
   "rarity": {
    "id": "rarity_ancient",
@@ -2642,7 +2642,7 @@
  {
   "id": "collectible-1054",
   "name": "Монета за картата Subzero",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Subzero Map Coin</font></b>",
   "def_index": "1054",
   "rarity": {
    "id": "rarity_ancient",
@@ -2657,7 +2657,7 @@
  {
   "id": "collectible-1055",
   "name": "Монета за картата Biome",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Biome Map Coin</font></b>",
   "def_index": "1055",
   "rarity": {
    "id": "rarity_ancient",
@@ -2687,7 +2687,7 @@
  {
   "id": "collectible-1057",
   "name": "Монета за картата Ruby",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Ruby Map Coin</font></b>",
   "def_index": "1057",
   "rarity": {
    "id": "rarity_ancient",
@@ -2717,7 +2717,7 @@
  {
   "id": "collectible-1059",
   "name": "Монета за картата Studio",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Studio Map Coin</font></b>",
   "def_index": "1059",
   "rarity": {
    "id": "rarity_ancient",
@@ -2732,7 +2732,7 @@
  {
   "id": "collectible-1060",
   "name": "Монета за картата Jungle",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Jungle Map Coin</font></b>",
   "def_index": "1060",
   "rarity": {
    "id": "rarity_ancient",
@@ -2747,7 +2747,7 @@
  {
   "id": "collectible-1061",
   "name": "Монета за картата Anubis",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Anubis Map Coin</font></b>",
   "def_index": "1061",
   "rarity": {
    "id": "rarity_ancient",
@@ -2762,7 +2762,7 @@
  {
   "id": "collectible-1062",
   "name": "Монета за картата Chlorine",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Chlorine Map Coin</font></b>",
   "def_index": "1062",
   "rarity": {
    "id": "rarity_ancient",
@@ -2777,7 +2777,7 @@
  {
   "id": "collectible-1063",
   "name": "Монета за картата Mutiny",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Mutiny Map Coin</font></b>",
   "def_index": "1063",
   "rarity": {
    "id": "rarity_ancient",
@@ -2792,7 +2792,7 @@
  {
   "id": "collectible-1064",
   "name": "Монета за картата Swamp",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Swamp Map Coin</font></b>",
   "def_index": "1064",
   "rarity": {
    "id": "rarity_ancient",
@@ -2882,7 +2882,7 @@
  {
   "id": "collectible-1070",
   "name": "Монета за картата Grind",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Grind Map Coin</font></b>",
   "def_index": "1070",
   "rarity": {
    "id": "rarity_ancient",
@@ -2897,7 +2897,7 @@
  {
   "id": "collectible-1071",
   "name": "Монета за картата Mocha",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Mocha Map Coin</font></b>",
   "def_index": "1071",
   "rarity": {
    "id": "rarity_ancient",
@@ -2912,7 +2912,7 @@
  {
   "id": "collectible-1072",
   "name": "Монета за картата Calavera",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Calavera Map Coin</font></b>",
   "def_index": "1072",
   "rarity": {
    "id": "rarity_ancient",
@@ -2927,7 +2927,7 @@
  {
   "id": "collectible-1073",
   "name": "Монета за картата Pitstop",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Pitstop Map Coin</font></b>",
   "def_index": "1073",
   "rarity": {
    "id": "rarity_ancient",
@@ -2942,7 +2942,7 @@
  {
   "id": "collectible-1074",
   "name": "Монета за картата Basalt",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Basalt Map Coin</font></b>",
   "def_index": "1074",
   "rarity": {
    "id": "rarity_ancient",
@@ -2957,7 +2957,7 @@
  {
   "id": "collectible-1075",
   "name": "Монета за картата Insertion II",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Insertion II Map Coin</font></b>",
   "def_index": "1075",
   "rarity": {
    "id": "rarity_ancient",
@@ -2972,7 +2972,7 @@
  {
   "id": "collectible-1076",
   "name": "Монета за картата Ravine",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Ravine Map Coin</font></b>",
   "def_index": "1076",
   "rarity": {
    "id": "rarity_ancient",
@@ -2987,7 +2987,7 @@
  {
   "id": "collectible-1077",
   "name": "Монета за картата Extraction",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Extraction Map Coin</font></b>",
   "def_index": "1077",
   "rarity": {
    "id": "rarity_ancient",
@@ -3002,7 +3002,7 @@
  {
   "id": "collectible-1078",
   "name": "Монета за картата County",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>County Map Coin</font></b>",
   "def_index": "1078",
   "rarity": {
    "id": "rarity_ancient",
@@ -3017,7 +3017,7 @@
  {
   "id": "collectible-1079",
   "name": "Монета за картата Iris",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Iris Map Coin</font></b>",
   "def_index": "1079",
   "rarity": {
    "id": "rarity_ancient",
@@ -3032,7 +3032,7 @@
  {
   "id": "collectible-1080",
   "name": "Монета за картата Climb",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Climb Map Coin</font></b>",
   "def_index": "1080",
   "rarity": {
    "id": "rarity_ancient",
@@ -3047,7 +3047,7 @@
  {
   "id": "collectible-1081",
   "name": "Монета за картата Crete",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Crete Map Coin</font></b>",
   "def_index": "1081",
   "rarity": {
    "id": "rarity_ancient",
@@ -3062,7 +3062,7 @@
  {
   "id": "collectible-1082",
   "name": "Монета за картата Hive",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Hive Map Coin</font></b>",
   "def_index": "1082",
   "rarity": {
    "id": "rarity_ancient",
@@ -3077,7 +3077,7 @@
  {
   "id": "collectible-1083",
   "name": "Монета за картата Vineyard",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Vineyard Map Coin</font></b>",
   "def_index": "1083",
   "rarity": {
    "id": "rarity_ancient",
@@ -3092,7 +3092,7 @@
  {
   "id": "collectible-1084",
   "name": "Монета за картата Ember",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Ember Map Coin</font></b>",
   "def_index": "1084",
   "rarity": {
    "id": "rarity_ancient",
@@ -3107,7 +3107,7 @@
  {
   "id": "collectible-1085",
   "name": "Монета за картата Tuscan",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Tuscan Map Coin</font></b>",
   "def_index": "1085",
   "rarity": {
    "id": "rarity_ancient",
@@ -3122,7 +3122,7 @@
  {
   "id": "collectible-1086",
   "name": "Монета за картата Cascade",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Cascade Map Coin</font></b>",
   "def_index": "1086",
   "rarity": {
    "id": "rarity_ancient",
@@ -3137,7 +3137,7 @@
  {
   "id": "collectible-1087",
   "name": "Монета за картата Blagai",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Blagai Map Coin</font></b>",
   "def_index": "1087",
   "rarity": {
    "id": "rarity_ancient",
@@ -3152,7 +3152,7 @@
  {
   "id": "collectible-1088",
   "name": "Монета за картата Boyard",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Boyard Map Coin</font></b>",
   "def_index": "1088",
   "rarity": {
    "id": "rarity_ancient",
@@ -3167,7 +3167,7 @@
  {
   "id": "collectible-1089",
   "name": "Монета за картата Chalice",
-  "description": null,
+  "description": "<b><font color='#F2A93E'>Chalice Map Coin</font></b>",
   "def_index": "1089",
   "rarity": {
    "id": "rarity_ancient",
