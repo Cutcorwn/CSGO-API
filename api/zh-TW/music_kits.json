@@ -29,7 +29,7 @@
  },
  {
   "id": "music_kit-3",
-  "name": "音樂包 | Daniel Sadowski, Crimson Assault",
+  "name": "音樂包 | Daniel Sadowski - Crimson Assault",
   "description": "遊戲音樂作曲家 Daniel Sadowski 為音樂包創作了狂熱旋律，既前衛又激昂，讓人激奮不已。",
   "def_index": "3",
   "rarity": {
@@ -43,7 +43,7 @@
  },
  {
   "id": "music_kit-3_st",
-  "name": "StatTrak™ 音樂包 | Daniel Sadowski, Crimson Assault",
+  "name": "StatTrak™ 音樂包 | Daniel Sadowski - Crimson Assault",
   "description": "遊戲音樂作曲家 Daniel Sadowski 為音樂包創作了狂熱旋律，既前衛又激昂，讓人激奮不已。",
   "def_index": "3",
   "rarity": {
@@ -57,7 +57,7 @@
  },
  {
   "id": "music_kit-4",
-  "name": "音樂包 | Noisia, Sharpened",
+  "name": "音樂包 | Noisia - Sharpened",
   "description": "荷蘭電子樂三人組 Noisia 帶來的音樂強悍有電影感，以獨特的方式融合了傳統與創新。",
   "def_index": "4",
   "rarity": {
@@ -71,7 +71,7 @@
  },
  {
   "id": "music_kit-4_st",
-  "name": "StatTrak™ 音樂包 | Noisia, Sharpened",
+  "name": "StatTrak™ 音樂包 | Noisia - Sharpened",
   "description": "荷蘭電子樂三人組 Noisia 帶來的音樂強悍有電影感，以獨特的方式融合了傳統與創新。",
   "def_index": "4",
   "rarity": {
@@ -85,7 +85,7 @@
  },
  {
   "id": "music_kit-5",
-  "name": "音樂包 | Robert Allaire, Insurgency",
+  "name": "音樂包 | Robert Allaire - Insurgency",
   "description": "用音樂碾碎您的敵人。讓他們因獲獎作曲家 Robert Allaire 比你先走一步吧。",
   "def_index": "5",
   "rarity": {
@@ -99,7 +99,7 @@
  },
  {
   "id": "music_kit-5_st",
-  "name": "StatTrak™ 音樂包 | Robert Allaire, Insurgency",
+  "name": "StatTrak™ 音樂包 | Robert Allaire - Insurgency",
   "description": "用音樂碾碎您的敵人。讓他們因獲獎作曲家 Robert Allaire 比你先走一步吧。",
   "def_index": "5",
   "rarity": {
@@ -113,7 +113,7 @@
  },
  {
   "id": "music_kit-6",
-  "name": "音樂包 | Sean Murray, A*D*8",
+  "name": "音樂包 | Sean Murray - A*D*8",
   "description": "由世上最大兩款戰爭遊戲的作曲家，以音波武裝將您的敵人送入地獄之門！！",
   "def_index": "6",
   "rarity": {
@@ -127,7 +127,7 @@
  },
  {
   "id": "music_kit-6_st",
-  "name": "StatTrak™ 音樂包 | Sean Murray, A*D*8",
+  "name": "StatTrak™ 音樂包 | Sean Murray - A*D*8",
   "description": "由世上最大兩款戰爭遊戲的作曲家，以音波武裝將您的敵人送入地獄之門！！",
   "def_index": "6",
   "rarity": {
@@ -141,7 +141,7 @@
  },
  {
   "id": "music_kit-7",
-  "name": "音樂包 | Feed Me, High Noon",
+  "name": "音樂包 | Feed Me - High Noon",
   "description": "知名電子音樂人 Feed Me 所呈現的是現代電子空間中的西部拓荒大秀。",
   "def_index": "7",
   "rarity": {
@@ -155,7 +155,7 @@
  },
  {
   "id": "music_kit-7_st",
-  "name": "StatTrak™ 音樂包 | Feed Me, High Noon",
+  "name": "StatTrak™ 音樂包 | Feed Me - High Noon",
   "description": "知名電子音樂人 Feed Me 所呈現的是現代電子空間中的西部拓荒大秀。",
   "def_index": "7",
   "rarity": {
@@ -169,7 +169,7 @@
  },
  {
   "id": "music_kit-8",
-  "name": "音樂包 | Dren, Death's Head Demolition",
+  "name": "音樂包 | Dren - Death's Head Demolition",
   "description": "由遊戲音樂作曲家 Dren 製作，這電影超級英雄金屬風的音樂包將使菜雞蛻變成大殺器！",
   "def_index": "8",
   "rarity": {
@@ -183,7 +183,7 @@
  },
  {
   "id": "music_kit-8_st",
-  "name": "StatTrak™ 音樂包 | Dren, Death's Head Demolition",
+  "name": "StatTrak™ 音樂包 | Dren - Death's Head Demolition",
   "description": "由遊戲音樂作曲家 Dren 製作，這電影超級英雄金屬風的音樂包將使菜雞蛻變成大殺器！",
   "def_index": "8",
   "rarity": {
@@ -197,7 +197,7 @@
  },
  {
   "id": "music_kit-9",
-  "name": "音樂包 | Austin Wintory, Desert Fire",
+  "name": "音樂包 | Austin Wintory - Desert Fire",
   "description": "獲葛萊美獎提名的遊戲配樂作曲人 Austin Wintory 提問了，如果能用一個致命的瘋狂探戈把敵人引誘過來，又何必那麼麻煩的追著他們跑？",
   "def_index": "9",
   "rarity": {
@@ -211,7 +211,7 @@
  },
  {
   "id": "music_kit-9_st",
-  "name": "StatTrak™ 音樂包 | Austin Wintory, Desert Fire",
+  "name": "StatTrak™ 音樂包 | Austin Wintory - Desert Fire",
   "description": "獲葛萊美獎提名的遊戲配樂作曲人 Austin Wintory 提問了，如果能用一個致命的瘋狂探戈把敵人引誘過來，又何必那麼麻煩的追著他們跑？",
   "def_index": "9",
   "rarity": {
@@ -225,7 +225,7 @@
  },
  {
   "id": "music_kit-10",
-  "name": "音樂包 | Sasha, LNOE",
+  "name": "音樂包 | Sasha - LNOE",
   "description": "讓自己沉浸在這支電影般的原聲帶中，滿滿的飛揚弦樂、動人旋律還有鼓聲震動，全都出自舉世知名的 DJ 兼製作人 Sasha 之手。",
   "def_index": "10",
   "rarity": {
@@ -239,7 +239,7 @@
  },
  {
   "id": "music_kit-10_st",
-  "name": "StatTrak™ 音樂包 | Sasha, LNOE",
+  "name": "StatTrak™ 音樂包 | Sasha - LNOE",
   "description": "讓自己沉浸在這支電影般的原聲帶中，滿滿的飛揚弦樂、動人旋律還有鼓聲震動，全都出自舉世知名的 DJ 兼製作人 Sasha 之手。",
   "def_index": "10",
   "rarity": {
@@ -253,7 +253,7 @@
  },
  {
   "id": "music_kit-11",
-  "name": "音樂包 | Skog, Metal",
+  "name": "音樂包 | Skog - Metal",
   "description": "讓金屬樂創作者 Skog 教教您什麼才是煞氣。",
   "def_index": "11",
   "rarity": {
@@ -267,7 +267,7 @@
  },
  {
   "id": "music_kit-11_st",
-  "name": "StatTrak™ 音樂包 | Skog, Metal",
+  "name": "StatTrak™ 音樂包 | Skog - Metal",
   "description": "讓金屬樂創作者 Skog 教教您什麼才是煞氣。",
   "def_index": "11",
   "rarity": {
@@ -281,7 +281,7 @@
  },
  {
   "id": "music_kit-12",
-  "name": "音樂包 | Midnight Riders, All I Want for Christmas",
+  "name": "音樂包 | Midnight Riders - All I Want for Christmas",
   "description": "「佳節快樂，**蛋們！」\\n  -Midnight Riders",
   "def_index": "12",
   "rarity": {
@@ -295,7 +295,7 @@
  },
  {
   "id": "music_kit-12_st",
-  "name": "StatTrak™ 音樂包 | Midnight Riders, All I Want for Christmas",
+  "name": "StatTrak™ 音樂包 | Midnight Riders - All I Want for Christmas",
   "description": "「佳節快樂，**蛋們！」\\n  -Midnight Riders",
   "def_index": "12",
   "rarity": {
@@ -309,7 +309,7 @@
  },
  {
   "id": "music_kit-13",
-  "name": "音樂包 | Matt Lange, IsoRhythm",
+  "name": "音樂包 | Matt Lange - IsoRhythm",
   "description": "來場聽覺饗宴，這是一個具電影感、干擾氛圍和強力搏動韻律的組曲，由電子樂製作人兼創新人士 Matt Lange 製做。",
   "def_index": "13",
   "rarity": {
@@ -323,7 +323,7 @@
  },
  {
   "id": "music_kit-13_st",
-  "name": "StatTrak™ 音樂包 | Matt Lange, IsoRhythm",
+  "name": "StatTrak™ 音樂包 | Matt Lange - IsoRhythm",
   "description": "來場聽覺饗宴，這是一個具電影感、干擾氛圍和強力搏動韻律的組曲，由電子樂製作人兼創新人士 Matt Lange 製做。",
   "def_index": "13",
   "rarity": {
@@ -337,7 +337,7 @@
  },
  {
   "id": "music_kit-14",
-  "name": "音樂包 | Mateo Messina, For No Mankind",
+  "name": "音樂包 | Mateo Messina - For No Mankind",
   "description": "玩弄敵人於掌心。由葛萊美得獎作曲家 Mateo Messina 獻上的純粹震撼力。",
   "def_index": "14",
   "rarity": {
@@ -351,7 +351,7 @@
  },
  {
   "id": "music_kit-14_st",
-  "name": "StatTrak™ 音樂包 | Mateo Messina, For No Mankind",
+  "name": "StatTrak™ 音樂包 | Mateo Messina - For No Mankind",
   "description": "玩弄敵人於掌心。由葛萊美得獎作曲家 Mateo Messina 獻上的純粹震撼力。",
   "def_index": "14",
   "rarity": {
@@ -365,7 +365,7 @@
  },
  {
   "id": "music_kit-15",
-  "name": "音樂包 | Various Artists, Hotline Miami",
+  "name": "音樂包 | Various Artists - Hotline Miami",
   "description": "由風格各異的電子音樂人共同出手，在指標性遊戲《Hotline Miami》這個振奮人心的音樂包中帶來殘暴的節奏打擊。",
   "def_index": "15",
   "rarity": {
@@ -379,7 +379,7 @@
  },
  {
   "id": "music_kit-15_st",
-  "name": "StatTrak™ 音樂包 | Various Artists, Hotline Miami",
+  "name": "StatTrak™ 音樂包 | Various Artists - Hotline Miami",
   "description": "由風格各異的電子音樂人共同出手，在指標性遊戲《Hotline Miami》這個振奮人心的音樂包中帶來殘暴的節奏打擊。",
   "def_index": "15",
   "rarity": {
@@ -393,7 +393,7 @@
  },
  {
   "id": "music_kit-16",
-  "name": "音樂包 | Daniel Sadowski, Total Domination",
+  "name": "音樂包 | Daniel Sadowski - Total Domination",
   "description": "作曲家 Daniel Sadowski 把整個門檻都提高了，這組作品充滿激進的電子樂節奏、創意音效和一種令人興奮又有未來感的氛圍。「小心：腎上腺素即將飆高！」",
   "def_index": "16",
   "rarity": {
@@ -407,7 +407,7 @@
  },
  {
   "id": "music_kit-16_st",
-  "name": "StatTrak™ 音樂包 | Daniel Sadowski, Total Domination",
+  "name": "StatTrak™ 音樂包 | Daniel Sadowski - Total Domination",
   "description": "作曲家 Daniel Sadowski 把整個門檻都提高了，這組作品充滿激進的電子樂節奏、創意音效和一種令人興奮又有未來感的氛圍。「小心：腎上腺素即將飆高！」",
   "def_index": "16",
   "rarity": {
@@ -421,7 +421,7 @@
  },
  {
   "id": "music_kit-17",
-  "name": "音樂包 | Damjan Mravunac, The Talos Principle",
+  "name": "音樂包 | Damjan Mravunac - The Talos Principle",
   "description": "作曲家 Damjan Mravunac 所創作的音樂包混合了電影般的能量動感與史詩般的合唱於一身，擷取了 Croteam 出品、極富盛名的作品《The Talos Principle》的音樂精華。",
   "def_index": "17",
   "rarity": {
@@ -435,7 +435,7 @@
  },
  {
   "id": "music_kit-17_st",
-  "name": "StatTrak™ 音樂包 | Damjan Mravunac, The Talos Principle",
+  "name": "StatTrak™ 音樂包 | Damjan Mravunac - The Talos Principle",
   "description": "作曲家 Damjan Mravunac 所創作的音樂包混合了電影般的能量動感與史詩般的合唱於一身，擷取了 Croteam 出品、極富盛名的作品《The Talos Principle》的音樂精華。",
   "def_index": "17",
   "rarity": {
@@ -449,7 +449,7 @@
  },
  {
   "id": "music_kit-18",
-  "name": "音樂包 | Proxy, Battlepack",
+  "name": "音樂包 | Proxy - Battlepack",
   "description": "俄式重度電音藝術家 PROXY 為絕對武力帶來了他自己獨特的重砲。合成武器音效與最精細的混音室技術交迸出的火花創造了這份獨一無二的音樂包。",
   "def_index": "18",
   "rarity": {
@@ -463,7 +463,7 @@
  },
  {
   "id": "music_kit-18_st",
-  "name": "StatTrak™ 音樂包 | Proxy, Battlepack",
+  "name": "StatTrak™ 音樂包 | Proxy - Battlepack",
   "description": "俄式重度電音藝術家 PROXY 為絕對武力帶來了他自己獨特的重砲。合成武器音效與最精細的混音室技術交迸出的火花創造了這份獨一無二的音樂包。",
   "def_index": "18",
   "rarity": {
@@ -477,7 +477,7 @@
  },
  {
   "id": "music_kit-19",
-  "name": "音樂包 | Ki:Theory, MOLOTOV",
+  "name": "音樂包 | Ki:Theory - MOLOTOV",
   "description": "錄音藝術家兼 Dota 第 4 屆國際錦標賽上的表演者 Ki:Theory 投下重磅巨彈！帶來這組燙手的銳利電子黑暗搖滾音樂包。",
   "def_index": "19",
   "rarity": {
@@ -491,7 +491,7 @@
  },
  {
   "id": "music_kit-19_st",
-  "name": "StatTrak™ 音樂包 | Ki:Theory, MOLOTOV",
+  "name": "StatTrak™ 音樂包 | Ki:Theory - MOLOTOV",
   "description": "錄音藝術家兼 Dota 第 4 屆國際錦標賽上的表演者 Ki:Theory 投下重磅巨彈！帶來這組燙手的銳利電子黑暗搖滾音樂包。",
   "def_index": "19",
   "rarity": {
@@ -505,7 +505,7 @@
  },
  {
   "id": "music_kit-20",
-  "name": "音樂包 | Troels Folmann, Uber Blasto Phone",
+  "name": "音樂包 | Troels Folmann - Uber Blasto Phone",
   "description": "勝利號角般的樂聲結合現代性的脈動創造出這套炸裂全場的組曲，創作者為贏得無數獎項的得獎作曲家 Troels Folmann。",
   "def_index": "20",
   "rarity": {
@@ -519,7 +519,7 @@
  },
  {
   "id": "music_kit-20_st",
-  "name": "StatTrak™ 音樂包 | Troels Folmann, Uber Blasto Phone",
+  "name": "StatTrak™ 音樂包 | Troels Folmann - Uber Blasto Phone",
   "description": "勝利號角般的樂聲結合現代性的脈動創造出這套炸裂全場的組曲，創作者為贏得無數獎項的得獎作曲家 Troels Folmann。",
   "def_index": "20",
   "rarity": {
@@ -533,7 +533,7 @@
  },
  {
   "id": "music_kit-21",
-  "name": "音樂包 | Kelly Bailey, Hazardous Environments",
+  "name": "音樂包 | Kelly Bailey - Hazardous Environments",
   "description": "Kelly Bailey，Valve《戰慄時空》系列的作曲家，創作出一組了受《戰慄時空》宇宙的黑暗面啟發的全新末世風音樂。",
   "def_index": "21",
   "rarity": {
@@ -547,7 +547,7 @@
  },
  {
   "id": "music_kit-21_st",
-  "name": "StatTrak™ 音樂包 | Kelly Bailey, Hazardous Environments",
+  "name": "StatTrak™ 音樂包 | Kelly Bailey - Hazardous Environments",
   "description": "Kelly Bailey，Valve《戰慄時空》系列的作曲家，創作出一組了受《戰慄時空》宇宙的黑暗面啟發的全新末世風音樂。",
   "def_index": "21",
   "rarity": {
@@ -561,7 +561,7 @@
  },
  {
   "id": "music_kit-22",
-  "name": "音樂包 | Skog, II-Headshot",
+  "name": "音樂包 | Skog - II-Headshot",
   "description": "金屬樂作曲家兼製作人 Jocke Skog 帶著全新的強力重擊金屬音樂包回歸。此組曲一出，其它 CS:GO 音樂包都成了可愛溫馨舒適小曲。現在就去贏得 MVP 讓每個人都聽見您有多厲害！",
   "def_index": "22",
   "rarity": {
@@ -575,7 +575,7 @@
  },
  {
   "id": "music_kit-22_st",
-  "name": "StatTrak™ 音樂包 | Skog, II-Headshot",
+  "name": "StatTrak™ 音樂包 | Skog - II-Headshot",
   "description": "金屬樂作曲家兼製作人 Jocke Skog 帶著全新的強力重擊金屬音樂包回歸。此組曲一出，其它 CS:GO 音樂包都成了可愛溫馨舒適小曲。現在就去贏得 MVP 讓每個人都聽見您有多厲害！",
   "def_index": "22",
   "rarity": {
@@ -589,7 +589,7 @@
  },
  {
   "id": "music_kit-23",
-  "name": "音樂包 | Daniel Sadowski, The 8-Bit Kit",
+  "name": "音樂包 | Daniel Sadowski - The 8-Bit Kit",
   "description": "Daniel Sadowski 使用純正的 8 位元音效為絕對武力創作了首個 8 位元音樂包。",
   "def_index": "23",
   "rarity": {
@@ -603,7 +603,7 @@
  },
  {
   "id": "music_kit-23_st",
-  "name": "StatTrak™ 音樂包 | Daniel Sadowski, The 8-Bit Kit",
+  "name": "StatTrak™ 音樂包 | Daniel Sadowski - The 8-Bit Kit",
   "description": "Daniel Sadowski 使用純正的 8 位元音效為絕對武力創作了首個 8 位元音樂包。",
   "def_index": "23",
   "rarity": {
@@ -617,7 +617,7 @@
  },
  {
   "id": "music_kit-24",
-  "name": "音樂包 | AWOLNATION, I Am",
+  "name": "音樂包 | AWOLNATION - I Am",
   "description": "AWOLNATION 另類搖滾樂團 AWOLNATION 為您帶來值得永久珍藏的音樂包。此音樂包收錄了多首曲風迥異的金曲，以及單曲\\\"I Am\\\"和多白金銷量的熱門歌曲\\\"Sail\\\"片段。",
   "def_index": "24",
   "rarity": {
@@ -631,7 +631,7 @@
  },
  {
   "id": "music_kit-24_st",
-  "name": "StatTrak™ 音樂包 | AWOLNATION, I Am",
+  "name": "StatTrak™ 音樂包 | AWOLNATION - I Am",
   "description": "AWOLNATION 另類搖滾樂團 AWOLNATION 為您帶來值得永久珍藏的音樂包。此音樂包收錄了多首曲風迥異的金曲，以及單曲\\\"I Am\\\"和多白金銷量的熱門歌曲\\\"Sail\\\"片段。",
   "def_index": "24",
   "rarity": {
@@ -645,7 +645,7 @@
  },
  {
   "id": "music_kit-25",
-  "name": "音樂包 | Mord Fustang, Diamonds",
+  "name": "音樂包 | Mord Fustang - Diamonds",
   "description": "鑽石恆久遠，一顆永流傳。投入 Mord Fustang 的快速電子琶音之中，享受這一組全新的律動與氛圍。",
   "def_index": "25",
   "rarity": {
@@ -659,7 +659,7 @@
  },
  {
   "id": "music_kit-25_st",
-  "name": "StatTrak™ 音樂包 | Mord Fustang, Diamonds",
+  "name": "StatTrak™ 音樂包 | Mord Fustang - Diamonds",
   "description": "鑽石恆久遠，一顆永流傳。投入 Mord Fustang 的快速電子琶音之中，享受這一組全新的律動與氛圍。",
   "def_index": "25",
   "rarity": {
@@ -673,7 +673,7 @@
  },
  {
   "id": "music_kit-26",
-  "name": "音樂包 | Michael Bross, Invasion!",
+  "name": "音樂包 | Michael Bross - Invasion!",
   "description": "Michael Bross 結合了史詩與電影在鐵克諾加頹廢搖滾的樂音之中，讓您在戰鬥中充滿身為狠角色的感受。",
   "def_index": "26",
   "rarity": {
@@ -687,7 +687,7 @@
  },
  {
   "id": "music_kit-26_st",
-  "name": "StatTrak™ 音樂包 | Michael Bross, Invasion!",
+  "name": "StatTrak™ 音樂包 | Michael Bross - Invasion!",
   "description": "Michael Bross 結合了史詩與電影在鐵克諾加頹廢搖滾的樂音之中，讓您在戰鬥中充滿身為狠角色的感受。",
   "def_index": "26",
   "rarity": {
@@ -701,7 +701,7 @@
  },
  {
   "id": "music_kit-27",
-  "name": "音樂包 | Ian Hultquist, Lion's Mouth",
+  "name": "音樂包 | Ian Hultquist - Lion's Mouth",
   "description": "混合了讓人悸動的弦樂與合成樂，再加上隆隆的戰鼓聲，作曲家 Ian Hultquist 帶來的強有力原聲帶讓您準備好上戰場一較高下。",
   "def_index": "27",
   "rarity": {
@@ -715,7 +715,7 @@
  },
  {
   "id": "music_kit-27_st",
-  "name": "StatTrak™ 音樂包 | Ian Hultquist, Lion's Mouth",
+  "name": "StatTrak™ 音樂包 | Ian Hultquist - Lion's Mouth",
   "description": "混合了讓人悸動的弦樂與合成樂，再加上隆隆的戰鼓聲，作曲家 Ian Hultquist 帶來的強有力原聲帶讓您準備好上戰場一較高下。",
   "def_index": "27",
   "rarity": {
@@ -729,7 +729,7 @@
  },
  {
   "id": "music_kit-28",
-  "name": "音樂包 | New Beat Fund, Sponge Fingerz",
+  "name": "音樂包 | New Beat Fund - Sponge Fingerz",
   "description": "陽光衝浪搖滾加上嘻哈、龐克與車庫流行元素。放手一戰，爆頭擊殺。",
   "def_index": "28",
   "rarity": {
@@ -743,7 +743,7 @@
  },
  {
   "id": "music_kit-28_st",
-  "name": "StatTrak™ 音樂包 | New Beat Fund, Sponge Fingerz",
+  "name": "StatTrak™ 音樂包 | New Beat Fund - Sponge Fingerz",
   "description": "陽光衝浪搖滾加上嘻哈、龐克與車庫流行元素。放手一戰，爆頭擊殺。",
   "def_index": "28",
   "rarity": {
@@ -757,7 +757,7 @@
  },
  {
   "id": "music_kit-29",
-  "name": "音樂包 | Beartooth, Disgusting",
+  "name": "音樂包 | Beartooth - Disgusting",
   "description": "Beartooth 帶來能讓觀眾燥動起來、氣勢洶洶的返璞歸真重硬核節奏。最適合在用 Scout 不用開鏡擊殺敵人時聆聽。盡情搖滾，至死方休！",
   "def_index": "29",
   "rarity": {
@@ -771,7 +771,7 @@
  },
  {
   "id": "music_kit-29_st",
-  "name": "StatTrak™ 音樂包 | Beartooth, Disgusting",
+  "name": "StatTrak™ 音樂包 | Beartooth - Disgusting",
   "description": "Beartooth 帶來能讓觀眾燥動起來、氣勢洶洶的返璞歸真重硬核節奏。最適合在用 Scout 不用開鏡擊殺敵人時聆聽。盡情搖滾，至死方休！",
   "def_index": "29",
   "rarity": {
@@ -785,7 +785,7 @@
  },
  {
   "id": "music_kit-30",
-  "name": "音樂包 | Lennie Moore, Java Havana Funkaloo",
+  "name": "音樂包 | Lennie Moore - Java Havana Funkaloo",
   "description": "遊戲作曲家 Lennie Moore 獻上一道芳香又辛辣的爵士放克。冷冷地聽也對味，正像被您火爆了結後的敵人屍體一樣。",
   "def_index": "30",
   "rarity": {
@@ -799,7 +799,7 @@
  },
  {
   "id": "music_kit-30_st",
-  "name": "StatTrak™ 音樂包 | Lennie Moore, Java Havana Funkaloo",
+  "name": "StatTrak™ 音樂包 | Lennie Moore - Java Havana Funkaloo",
   "description": "遊戲作曲家 Lennie Moore 獻上一道芳香又辛辣的爵士放克。冷冷地聽也對味，正像被您火爆了結後的敵人屍體一樣。",
   "def_index": "30",
   "rarity": {
@@ -813,7 +813,7 @@
  },
  {
   "id": "music_kit-31",
-  "name": "音樂包 | Darude, Moments CS:GO",
+  "name": "音樂包 | Darude - Moments CS:GO",
   "description": "放心屈服於充滿芬蘭創作者 Darude 音樂風味與格調的音景之中吧。 來自一位著名的舞曲先驅的音樂作品集，讓自己沈浸於具革新泛音及刺激旋律結構的重節奏混合音樂。",
   "def_index": "31",
   "rarity": {
@@ -827,7 +827,7 @@
  },
  {
   "id": "music_kit-31_st",
-  "name": "StatTrak™ 音樂包 | Darude, Moments CS:GO",
+  "name": "StatTrak™ 音樂包 | Darude - Moments CS:GO",
   "description": "放心屈服於充滿芬蘭創作者 Darude 音樂風味與格調的音景之中吧。 來自一位著名的舞曲先驅的音樂作品集，讓自己沈浸於具革新泛音及刺激旋律結構的重節奏混合音樂。",
   "def_index": "31",
   "rarity": {
@@ -841,7 +841,7 @@
  },
  {
   "id": "music_kit-32_st",
-  "name": "StatTrak™ 音樂包 | Beartooth, Aggressive",
+  "name": "StatTrak™ 音樂包 | Beartooth - Aggressive",
   "description": "Beartooth 再次回歸。這全新的音樂包比上回的節奏更強烈，更氣勢洶洶。而且我們再三加強了 MVP 主題曲的節奏，這樣您的對手在落敗的時候情緒便會更加低落。",
   "def_index": "32",
   "rarity": {
@@ -855,7 +855,7 @@
  },
  {
   "id": "music_kit-33_st",
-  "name": "StatTrak™ 音樂包 | Blitz Kids, The Good Youth",
+  "name": "StatTrak™ 音樂包 | Blitz Kids - The Good Youth",
   "description": "英式搖滾 / 龐克樂團 Blitz Kids 為大家帶來能讓您在突擊 B 點的路上，回想起高中時期與好友深夜飆車美好時光的音樂包。飆速疾走與感受青春時這個音樂包再適合不過。",
   "def_index": "33",
   "rarity": {
@@ -869,7 +869,7 @@
  },
  {
   "id": "music_kit-34_st",
-  "name": "StatTrak™ 音樂包 | Hundredth, FREE",
+  "name": "StatTrak™ 音樂包 | Hundredth - FREE",
   "description": "Hundredth 以他們對旋律硬核獨特的見解把重金屬帶到這個世界。聽著這絕配的音樂逃離束縛（《Break Free》）或回到 Dust 炸爆那些不值一提的人吧。",
   "def_index": "34",
   "rarity": {
@@ -883,7 +883,7 @@
  },
  {
   "id": "music_kit-35_st",
-  "name": "StatTrak™ 音樂包 | Neck Deep, Life's Not Out To Get You",
+  "name": "StatTrak™ 音樂包 | Neck Deep - Life's Not Out To Get You",
   "description": "有時候就是要聽著流行龐克渡過艱苦的一天。不論是被蹲點狙擊手為難，還是被斷掉超高的連殺，Neck Deep 在此向大家證明人生並沒有故意要針對您（《Life's Not Out To Get You》），但敵方隊伍絕對有意。",
   "def_index": "35",
   "rarity": {
@@ -897,7 +897,7 @@
  },
  {
   "id": "music_kit-36_st",
-  "name": "StatTrak™ 音樂包 | Roam, Backbone",
+  "name": "StatTrak™ 音樂包 | Roam - Backbone",
   "description": "Roam 為大家帶來快節奏且直接了當的流行龐克，無論是觀眾還是玩家都會跟著音樂動起來。帶著這個音樂包突襲敵人，在對方還未搞清楚狀況之前將其隊伍殲滅，證明自己是個有「Backbone」（骨氣）的人吧。",
   "def_index": "36",
   "rarity": {
@@ -911,7 +911,7 @@
  },
  {
   "id": "music_kit-37_st",
-  "name": "StatTrak™ 音樂包 | Twin Atlantic, GLA",
+  "name": "StatTrak™ 音樂包 | Twin Atlantic - GLA",
   "description": "Twin Atlantic 為 CS:GO 帶來比以往更重節奏、更喧鬧和更大聲的音樂，以蘇格蘭搖滾的火力助大家震懾敵人。",
   "def_index": "37",
   "rarity": {
@@ -925,7 +925,7 @@
  },
  {
   "id": "music_kit-38_st",
-  "name": "StatTrak™ 音樂包 | Skog, III-Arena",
+  "name": "StatTrak™ 音樂包 | Skog - III-Arena",
   "description": "Skog 帶著第三部粉碎重金屬音樂包再次到來。這次的音樂添加了活潑的電子風，在大量的吉他重覆樂段中結合了同樣多的高潮樂段、循環元素以及持續音。",
   "def_index": "38",
   "rarity": {
@@ -939,7 +939,7 @@
  },
  {
   "id": "music_kit-39",
-  "name": "音樂包 | The Verkkars, EZ4ENCE",
+  "name": "音樂包 | The Verkkars - EZ4ENCE",
   "description": "The Verkkars 憑著這首向 ENCE 致敬的震撼心靈之作登上芬蘭音樂排行榜。真的有那麼 EZ 嗎？",
   "def_index": "39",
   "rarity": {
@@ -953,7 +953,7 @@
  },
  {
   "id": "music_kit-39_st",
-  "name": "StatTrak™ 音樂包 | The Verkkars, EZ4ENCE",
+  "name": "StatTrak™ 音樂包 | The Verkkars - EZ4ENCE",
   "description": "The Verkkars 憑著這首向 ENCE 致敬的震撼心靈之作登上芬蘭音樂排行榜。真的有那麼 EZ 嗎？",
   "def_index": "39",
   "rarity": {
@@ -981,7 +981,7 @@
  },
  {
   "id": "music_kit-41",
-  "name": "音樂包 | Scarlxrd: King, Scar",
+  "name": "音樂包 | Scarlxrd: King - Scar",
   "description": "Scarlxrd 將重陷阱拍子融入自己的表演風格，製造出屬於他獨特的音樂子流派。如他在現場表演此令人興奮的混合音樂總能抓住所有觀眾的注意力。",
   "def_index": "41",
   "rarity": {
@@ -995,7 +995,7 @@
  },
  {
   "id": "music_kit-41_st",
-  "name": "StatTrak™ 音樂包 | Scarlxrd: King, Scar",
+  "name": "StatTrak™ 音樂包 | Scarlxrd: King - Scar",
   "description": "Scarlxrd 將重陷阱拍子融入自己的表演風格，製造出屬於他獨特的音樂子流派。如他在現場表演此令人興奮的混合音樂總能抓住所有觀眾的注意力。",
   "def_index": "41",
   "rarity": {
@@ -1261,7 +1261,7 @@
  },
  {
   "id": "music_kit-52",
-  "name": "音樂包 | Neck Deep，《The Lowlife》組合",
+  "name": "音樂包 | Neck Deep -《The Lowlife》組合",
   "description": "以 Neck Deep 全新的音樂包，來證明自己並非凡夫俗子（比地圖上所有人優越），當中包含樂團專輯《All Distortions Are Intentional》中的曲目。",
   "def_index": "52",
   "rarity": {
@@ -1275,7 +1275,7 @@
  },
  {
   "id": "music_kit-52_st",
-  "name": "StatTrak™ 音樂包 | Neck Deep，《The Lowlife》組合",
+  "name": "StatTrak™ 音樂包 | Neck Deep -《The Lowlife》組合",
   "description": "以 Neck Deep 全新的音樂包，來證明自己並非凡夫俗子（比地圖上所有人優越），當中包含樂團專輯《All Distortions Are Intentional》中的曲目。",
   "def_index": "52",
   "rarity": {
@@ -1289,7 +1289,7 @@
  },
  {
   "id": "music_kit-53",
-  "name": "音樂包 | Scarlxrd，《CHAIN$AW.LXADXUT》",
+  "name": "音樂包 | Scarlxrd - CHAIN$AW.LXADXUT",
   "description": "SCARLXRD 在 CHAIN$AW 中以粗獷的演唱配合拍子強烈的音樂，展現了前所未有的最佳狀態。",
   "def_index": "53",
   "rarity": {
@@ -1303,7 +1303,7 @@
  },
  {
   "id": "music_kit-53_st",
-  "name": "StatTrak™ 音樂包 | Scarlxrd，《CHAIN$AW.LXADXUT》",
+  "name": "StatTrak™ 音樂包 | Scarlxrd - CHAIN$AW.LXADXUT",
   "description": "SCARLXRD 在 CHAIN$AW 中以粗獷的演唱配合拍子強烈的音樂，展現了前所未有的最佳狀態。",
   "def_index": "53",
   "rarity": {
@@ -1485,7 +1485,7 @@
  },
  {
   "id": "music_kit-60",
-  "name": "音樂包 | bbno$, u mad!",
+  "name": "音樂包 | bbno$ - u mad!",
   "description": "bbno$ 專為惡毒玩家打造的代表歌曲《u mad!》！你惱羞喔？笑死，多練練再來吧。研究顯示帶著這個音樂包進行遊戲，馬上就能從銀牌上地球。",
   "def_index": "60",
   "rarity": {
@@ -1499,7 +1499,7 @@
  },
  {
   "id": "music_kit-60_st",
-  "name": "StatTrak™ 音樂包 | bbno$, u mad!",
+  "name": "StatTrak™ 音樂包 | bbno$ - u mad!",
   "description": "bbno$ 專為惡毒玩家打造的代表歌曲《u mad!》！你惱羞喔？笑死，多練練再來吧。研究顯示帶著這個音樂包進行遊戲，馬上就能從銀牌上地球。",
   "def_index": "60",
   "rarity": {
@@ -2479,7 +2479,7 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
+  "name": "音樂包 | ALRT - DOPAMINE HIT",
   "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
   "def_index": "98",
   "rarity": {
@@ -2493,7 +2493,7 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+  "name": "StatTrak™ 音樂包 | ALRT - DOPAMINE HIT",
   "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
   "def_index": "98",
   "rarity": {
@@ -2507,7 +2507,7 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
+  "name": "音樂包 | Altare - Change My Mind",
   "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
   "def_index": "99",
   "rarity": {
@@ -2521,7 +2521,7 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
+  "name": "StatTrak™ 音樂包 | Altare - Change My Mind",
   "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
   "def_index": "99",
   "rarity": {
