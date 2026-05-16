@@ -2479,8 +2479,8 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Trilha Sonora | ALRT, DOPAMINE HIT",
+  "description": "O baixo vibrante das gravações de ALRT entregam o ápice do \\\"DOPAMINE HIT\\\", um soco de dopamina, mantendo você alerta e de prontidão para se sobressair quando mais for preciso.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2493,8 +2493,8 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Trilha Sonora StatTrak™ | ALRT, DOPAMINE HIT",
+  "description": "O baixo vibrante das gravações de ALRT entregam o ápice do \\\"DOPAMINE HIT\\\", um soco de dopamina, mantendo você alerta e de prontidão para se sobressair quando mais for preciso.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2507,8 +2507,8 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Trilha Sonora | Altare, Change My Mind",
+  "description": "O eufórico hino eletrônico de Altare, \\\"Change My Mind\\\", é perfeito para os seus melhores momentos, quando parece que ninguém pode entrar no seu caminho.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2521,8 +2521,8 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Trilha Sonora StatTrak™ | Altare, Change My Mind",
+  "description": "O eufórico hino eletrônico de Altare, \\\"Change My Mind\\\", é perfeito para os seus melhores momentos, quando parece que ninguém pode entrar no seu caminho.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2535,8 +2535,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Trilha Sonora | borne, Give It To Me",
+  "description": "O baixo afiado de borne no hino \\\"Give It To Me\\\" deixará os jogadores igualmente afiados contra os seus inimigos do Counter-Strike, e além.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2549,8 +2549,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Trilha Sonora StatTrak™ | borne, Give It To Me",
+  "description": "O baixo afiado de borne no hino \\\"Give It To Me\\\" deixará os jogadores igualmente afiados contra os seus inimigos do Counter-Strike, e além.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2563,8 +2563,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Trilha Sonora | Pirapus, EVERYNITE",
+  "description": "Os acordes agudos de baixo e percussão de Pirapus no hino \\\"EVERYNITE\\\" evocam a sensação de estar à beira da grandeza. Fazendo jus ao nome, \\\"TODANOITE\\\", você ficará alerta todas as noites.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2577,8 +2577,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Trilha Sonora StatTrak™ | Pirapus, EVERYNITE",
+  "description": "Os acordes agudos de baixo e percussão de Pirapus no hino \\\"EVERYNITE\\\" evocam a sensação de estar à beira da grandeza. Fazendo jus ao nome, \\\"TODANOITE\\\", você ficará alerta todas as noites.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2591,8 +2591,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Trilha Sonora | Repiet & Julia Kleijn, On And On",
+  "description": "Esteja de prontidão para qualquer desafio com a música contagiante de Repiet e Julia Kleijn, \\\"On And On\\\". Passando por altos e baixos, as melodias definem o tom para qualquer ataque.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Trilha Sonora StatTrak™ | Repiet & Julia Kleijn, On And On",
+  "description": "Esteja de prontidão para qualquer desafio com a música contagiante de Repiet e Julia Kleijn, \\\"On And On\\\". Passando por altos e baixos, as melodias definem o tom para qualquer ataque.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2619,8 +2619,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Trilha Sonora | ShockOne, Voices",
+  "description": "Liberte-se com a alta energia da percussão e do baixo de ShockOne em \\\"Voices\\\". Perfeita para os momentos de clutch, esta trilha sonora traz acordes de baixo que carregarão você a diversos momentos de destaque.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -2633,8 +2633,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Trilha Sonora StatTrak™ | ShockOne, Voices",
+  "description": "Liberte-se com a alta energia da percussão e do baixo de ShockOne em \\\"Voices\\\". Perfeita para os momentos de clutch, esta trilha sonora traz acordes de baixo que carregarão você a diversos momentos de destaque.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",

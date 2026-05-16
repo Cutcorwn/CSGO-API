@@ -2256,7 +2256,7 @@
  {
   "id": "music_kit-89",
   "name": "Hudební balíček | HEALTH – RAT WARS",
-  "description": "Popadni bouchačku a do sluchátek nahoď brutální industriální metal z alba RAT WARS od nikoho jiného než od legendárních HEALTH.",
+  "description": "Popadni bouchačku a do sluchátek nahoď brutální industriální metal z alba „RAT WARS“ od nikoho jiného než od legendárních HEALTH.",
   "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
@@ -2270,7 +2270,7 @@
  {
   "id": "music_kit-89_st",
   "name": "Hudební balíček StatTrak™ | HEALTH – RAT WARS",
-  "description": "Popadni bouchačku a do sluchátek nahoď brutální industriální metal z alba RAT WARS od nikoho jiného než od legendárních HEALTH.",
+  "description": "Popadni bouchačku a do sluchátek nahoď brutální industriální metal z alba „RAT WARS“ od nikoho jiného než od legendárních HEALTH.",
   "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
@@ -2312,7 +2312,7 @@
  {
   "id": "music_kit-91",
   "name": "Hudební balíček | Jonathan Young – Starship Velociraptor",
-  "description": "Jak jsme si sakra mohli myslet, že CS2 bude kompletní bez power metalu ve stylu vesmírných pirátů? Naštěstí se objevil Jonathan Young se svým albem Starship Velociraptor, které se zhlédlo v anime a videohrách, a konečně zaplnil tuhle mezeru o velikosti mezihvězdné fregaty.",
+  "description": "Jak jsme si sakra mohli myslet, že CS2 bude kompletní bez power metalu ve stylu vesmírných pirátů? Naštěstí se objevil Jonathan Young se svým albem „Starship Velociraptor“, které se zhlédlo v anime a videohrách, a konečně zaplnil tuhle mezeru o velikosti mezihvězdné fregaty.",
   "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
@@ -2326,7 +2326,7 @@
  {
   "id": "music_kit-91_st",
   "name": "Hudební balíček StatTrak™ | Jonathan Young – Starship Velociraptor",
-  "description": "Jak jsme si sakra mohli myslet, že CS2 bude kompletní bez power metalu ve stylu vesmírných pirátů? Naštěstí se objevil Jonathan Young se svým albem Starship Velociraptor, které se zhlédlo v anime a videohrách, a konečně zaplnil tuhle mezeru o velikosti mezihvězdné fregaty.",
+  "description": "Jak jsme si sakra mohli myslet, že CS2 bude kompletní bez power metalu ve stylu vesmírných pirátů? Naštěstí se objevil Jonathan Young se svým albem „Starship Velociraptor“, které se zhlédlo v anime a videohrách, a konečně zaplnil tuhle mezeru o velikosti mezihvězdné fregaty.",
   "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
@@ -2479,8 +2479,8 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Hudební balíček | ALRT – DOPAMINE HIT",
+  "description": "Injekce dopaminu ve formě hudebního balíčku! ALRTův energický bass housový počin „DOPAMINE HIT“ je zkrátka dokonalý pomocník pro situace, kdy se potřebuješ „locknout“ a vytáhnout ze sebe maximum!",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2493,8 +2493,8 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Hudební balíček StatTrak™ | ALRT – DOPAMINE HIT",
+  "description": "Injekce dopaminu ve formě hudebního balíčku! ALRTův energický bass housový počin „DOPAMINE HIT“ je zkrátka dokonalý pomocník pro situace, kdy se potřebuješ „locknout“ a vytáhnout ze sebe maximum!",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2507,8 +2507,8 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Hudební balíček | Altare – Change My Mind",
+  "description": "„Change My Mind“ je Altareho euforická pocta žánru wave, která perfektně doplní topové momenty, kdy máš pocit, že tě nikdo nezastaví. A ať někdo zkusí změnit tvůj názor!",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2521,8 +2521,8 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Hudební balíček StatTrak™ | Altare – Change My Mind",
+  "description": "„Change My Mind“ je Altareho euforická pocta žánru wave, která perfektně doplní topové momenty, kdy máš pocit, že tě nikdo nezastaví. A ať někdo zkusí změnit tvůj názor!",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2535,8 +2535,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Hudební balíček | borne – Give It To Me",
+  "description": "„Jen do mě!“ řve borne skrz svůj drsný bass housový nářez „Give It To Me“ a ty se k němu můžeš přidat. Jestli si teda troufáš!",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2549,8 +2549,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Hudební balíček StatTrak™ | borne – Give It To Me",
+  "description": "„Jen do mě!“ řve borne skrz svůj drsný bass housový nářez „Give It To Me“ a ty se k němu můžeš přidat. Jestli si teda troufáš!",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2563,8 +2563,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Hudební balíček | Pirapus – EVERYNITE",
+  "description": "„EVERYNITE“ od Pirapuse je našlapaná hymna žánru drum’n’bass, která tě dovede až k branám dokonalosti, a to prosím pěkně každý večer, sedm dní v týdnu.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2577,8 +2577,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Hudební balíček StatTrak™ | Pirapus – EVERYNITE",
+  "description": "„EVERYNITE“ od Pirapuse je našlapaná hymna žánru drum’n’bass, která tě dovede až k branám dokonalosti, a to prosím pěkně každý večer, sedm dní v týdnu.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2591,8 +2591,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Hudební balíček | Repiet & Julia Kleijn – On And On",
+  "description": "Repiet a Julia Kleijn přináší nakažlivě rytmický balíček „On And On“, který udá tempo všem herním situacím a pomůže ti překonat všechny výzvy.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Hudební balíček StatTrak™ | Repiet & Julia Kleijn – On And On",
+  "description": "Repiet a Julia Kleijn přináší nakažlivě rytmický balíček „On And On“, který udá tempo všem herním situacím a pomůže ti překonat všechny výzvy.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2619,8 +2619,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Hudební balíček | ShockOne – Voices",
+  "description": "Prolom okovy průměrnosti díky brutálně energickému drum’n’bass balíčku „Voices“ od DJ známého jako ShockOne a nech se jeho údernou basou vynést až mezi nejlepší hráče.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -2633,8 +2633,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Hudební balíček StatTrak™ | ShockOne – Voices",
+  "description": "Prolom okovy průměrnosti díky brutálně energickému drum’n’bass balíčku „Voices“ od DJ známého jako ShockOne a nech se jeho údernou basou vynést až mezi nejlepší hráče.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
