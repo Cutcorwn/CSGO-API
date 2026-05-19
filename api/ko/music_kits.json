@@ -1920,7 +1920,7 @@
  {
   "id": "music_kit-76",
   "name": "음악 키트 | TWERL, Ekko & Sidetrack, Under Bright Lights",
-  "description": "주목을 받을 때만큼 즐거운 순간은 없습니다. 드럼과 베이스 기타가 돋보이는 TWERL과 Ekko & Sidetrack의 'Under Bright Lights'를 들으며 팀을 한 단계 더 높은 곳으로 끌어올려 보세요.",
+  "description": "주목을 받을 때만큼 즐거운 순간은 없습니다. TWERL과 Ekko & Sidetrack의 드럼 앤 베이스 트랙인 'Under Bright Lights'를 들으며 팀을 한 단계 더 높은 곳으로 끌어올려 보세요.",
   "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
@@ -1934,7 +1934,7 @@
  {
   "id": "music_kit-76_st",
   "name": "StatTrak™ 음악 키트 | TWERL, Ekko & Sidetrack, Under Bright Lights",
-  "description": "주목을 받을 때만큼 즐거운 순간은 없습니다. 드럼과 베이스 기타가 돋보이는 TWERL과 Ekko & Sidetrack의 'Under Bright Lights'를 들으며 팀을 한 단계 더 높은 곳으로 끌어올려 보세요.",
+  "description": "주목을 받을 때만큼 즐거운 순간은 없습니다. TWERL과 Ekko & Sidetrack의 드럼 앤 베이스 트랙인 'Under Bright Lights'를 들으며 팀을 한 단계 더 높은 곳으로 끌어올려 보세요.",
   "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
@@ -2479,8 +2479,8 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "음악 키트 | ALRT, DOPAMINE HIT",
+  "description": "ALRT의 신나는 베이스 하우스 트랙은 가장 중요한 순간에 최고의 기량을 발휘할 수 있도록 도파민을 최대한으로 끌어올립니다.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2493,8 +2493,8 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "StatTrak™ 음악 키트 | ALRT, DOPAMINE HIT",
+  "description": "ALRT의 신나는 베이스 하우스 트랙은 가장 중요한 순간에 최고의 기량을 발휘할 수 있도록 도파민을 최대한으로 끌어올립니다.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2507,8 +2507,8 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "음악 키트 | Altare, Change My Mind",
+  "description": "Altare의 감정을 고조시키는 몽환적인 웨이브 트랙인 'Change My Mind'는 누구도 여러분을 막을 수 없을 것 같은 최고의 순간에 완벽하게 어울립니다.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2521,8 +2521,8 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "StatTrak™ 음악 키트 | Altare, Change My Mind",
+  "description": "Altare의 감정을 고조시키는 몽환적인 웨이브 트랙인 'Change My Mind'는 누구도 여러분을 막을 수 없을 것 같은 최고의 순간에 완벽하게 어울립니다.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2535,8 +2535,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "음악 키트 | borne, Give It To Me",
+  "description": "borne의 거친 베이스가 돋보이는 곡인 'Give It To Me'는 플레이어들이 Counter-Strike는 물론 그 외의 게임에서도 상대에게 강력한 타격을 가할 수 있는 힘을 줍니다.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2549,8 +2549,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "StatTrak™ 음악 키트 | borne, Give It To Me",
+  "description": "borne의 거친 베이스가 돋보이는 곡인 'Give It To Me'는 플레이어들이 Counter-Strike는 물론 그 외의 게임에서도 상대에게 강력한 타격을 가할 수 있는 힘을 줍니다.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2563,8 +2563,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "음악 키트 | Pirapus, EVERYNITE",
+  "description": "Pirapus의 강렬한 드럼 앤 베이스 트랙인 'EVERYNITE'는 최고의 순간에 서 있는 듯한 느낌을 불러일으킵니다. 곡 제목처럼, 매일 밤 플레이어를 사로잡을 것입니다.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2577,8 +2577,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "StatTrak™ 음악 키트 | Pirapus, EVERYNITE",
+  "description": "Pirapus의 강렬한 드럼 앤 베이스 트랙인 'EVERYNITE'는 최고의 순간에 서 있는 듯한 느낌을 불러일으킵니다. 곡 제목처럼, 매일 밤 플레이어를 사로잡을 것입니다.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2591,8 +2591,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "음악 키트 | Repiet & Julia Kleijn, On And On",
+  "description": "Repiet과 Julia Kleijn이 함께 작업한 중독성이 강한 트랙인 'On And On'을 즐기면서 다가오는 모든 도전에 맞서 보세요. 강렬한 에너지와 은은한 분위기가 공존하는 이 트랙은 어떤 장애물도 극복할 수 있도록 용기를 북돋아 줍니다.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "StatTrak™ 음악 키트 | Repiet & Julia Kleijn, On And On",
+  "description": "Repiet과 Julia Kleijn이 함께 작업한 중독성이 강한 트랙인 'On And On'을 즐기면서 다가오는 모든 도전에 맞서 보세요. 강렬한 에너지와 은은한 분위기가 공존하는 이 트랙은 어떤 장애물도 극복할 수 있도록 용기를 북돋아 줍니다.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2619,8 +2619,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "음악 키트 | ShockOne, Voices",
+  "description": "ShockOne의 에너지 넘치는 드럼 앤 베이스 트랙인 'Voices'로 자유를 만끽하세요. 클러치 순간에 진가를 발휘하는 이 음악 키트는 타격감 있는 베이스라인으로 수많은 MVP를 안겨줄 것입니다.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -2633,8 +2633,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "StatTrak™ 음악 키트 | ShockOne, Voices",
+  "description": "ShockOne의 에너지 넘치는 드럼 앤 베이스 트랙인 'Voices'로 자유를 만끽하세요. 클러치 순간에 진가를 발휘하는 이 음악 키트는 타격감 있는 베이스라인으로 수많은 MVP를 안겨줄 것입니다.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",

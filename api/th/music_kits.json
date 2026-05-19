@@ -2479,8 +2479,8 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "ชุดอุปกรณ์เพลง | ALRT, DOPAMINE HIT",
+  "description": "เพลงแนว Bass House สุดมันส์ของ ALRT พร้อมมอบ \\\"DOPAMINE HIT\\\" ขั้นสุดยอด ทำให้คุณโฟกัสอยู่กับเกมและพร้อมที่จะรับมือในช่วงเวลาที่สำคัญที่สุดได้",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2493,8 +2493,8 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | ALRT, DOPAMINE HIT",
+  "description": "เพลงแนว Bass House สุดมันส์ของ ALRT พร้อมมอบ \\\"DOPAMINE HIT\\\" ขั้นสุดยอด ทำให้คุณโฟกัสอยู่กับเกมและพร้อมที่จะรับมือในช่วงเวลาที่สำคัญที่สุดได้",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2507,8 +2507,8 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "ชุดอุปกรณ์เพลง | Altare, Change My Mind",
+  "description": "\\\"Change My Mind\\\" เพลงสรรเสริญแนว Euphoric Wave ของ Altare เป็นเพลงที่เหมาะเป็นอย่างยิ่งสำหรับช่วงเวลาที่พุ่งทะยานสู่จุดสูงสุด ซึ่งเป็นตอนที่คุณรู้สึกว่าไม่มีใครหน้าไหนสามารถขวางทางคุณได้อีกต่อไป",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2521,8 +2521,8 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | Altare, Change My Mind",
+  "description": "\\\"Change My Mind\\\" เพลงสรรเสริญแนว Euphoric Wave ของ Altare เป็นเพลงที่เหมาะเป็นอย่างยิ่งสำหรับช่วงเวลาที่พุ่งทะยานสู่จุดสูงสุด ซึ่งเป็นตอนที่คุณรู้สึกว่าไม่มีใครหน้าไหนสามารถขวางทางคุณได้อีกต่อไป",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2535,8 +2535,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "ชุดอุปกรณ์เพลง | borne, Give It To Me",
+  "description": "เพลง \\\"Give It To Me\\\" พร้อมเบสอันหนักแน่นของ borne จะทำให้ผู้เล่นพร้อมที่จะจัดหนักใส่คู่ต่อสู้ทั้งในเกม Counter-Strike และเกมอื่น ๆ หลังจากนี้",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2549,8 +2549,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | borne, Give It To Me",
+  "description": "เพลง \\\"Give It To Me\\\" พร้อมเบสอันหนักแน่นของ borne จะทำให้ผู้เล่นพร้อมที่จะจัดหนักใส่คู่ต่อสู้ทั้งในเกม Counter-Strike และเกมอื่น ๆ หลังจากนี้",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2563,8 +2563,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "ชุดอุปกรณ์เพลง | Pirapus, EVERYNITE",
+  "description": "\\\"EVERYNITE\\\" เพลงสรรเสริญพร้อมเสียงกลองและเบสสุดมันส์ของ Pirapus จะช่วยปลุกเร้าความรู้สึกเหมือนว่าคุณกำลังยืนอยู่บนจุดสูงสุดของความสำเร็จ และสมกับชื่อเพลง เพราะเพลงนี้จะช่วยให้คุณโฟกัสและพร้อมลุยได้ในทุก ๆ คืน",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2577,8 +2577,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | Pirapus, EVERYNITE",
+  "description": "\\\"EVERYNITE\\\" เพลงสรรเสริญพร้อมเสียงกลองและเบสสุดมันส์ของ Pirapus จะช่วยปลุกเร้าความรู้สึกเหมือนว่าคุณกำลังยืนอยู่บนจุดสูงสุดของความสำเร็จ และสมกับชื่อเพลง เพราะเพลงนี้จะช่วยให้คุณโฟกัสและพร้อมลุยได้ในทุก ๆ คืน",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2591,8 +2591,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "ชุดอุปกรณ์เพลง | Repiet & Julia Kleijn, On And On",
+  "description": "เตรียมพร้อมสำหรับทุกความท้าทายด้วยเพลง \\\"On And On\\\" พร้อมจังหวะติดหูจาก Repiet และ Julia Kleijn ไม่ว่าจะต้องเผชิญกับช่วงเวลาที่ดีหรือร้าย นี่คือบทเพลงที่จะช่วยปรับอารมณ์ให้พร้อมพุ่งชนและทลายทุกอุปสรรคที่ขวางหน้า",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | Repiet & Julia Kleijn, On And On",
+  "description": "เตรียมพร้อมสำหรับทุกความท้าทายด้วยเพลง \\\"On And On\\\" พร้อมจังหวะติดหูจาก Repiet และ Julia Kleijn ไม่ว่าจะต้องเผชิญกับช่วงเวลาที่ดีหรือร้าย นี่คือบทเพลงที่จะช่วยปรับอารมณ์ให้พร้อมพุ่งชนและทลายทุกอุปสรรคที่ขวางหน้า",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2619,8 +2619,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "ชุดอุปกรณ์เพลง | ShockOne, Voices",
+  "description": "ปลดปล่อยตัวตนด้วยเพลง \\\"Voices\\\" พร้อมเสียงกลองและเบสสุดมันส์ของ ShockOne ที่ถูกจัดเตรียมมาให้คุณพร้อมลุยในช่วงเวลาคลัตช์ ชุดอุปกรณ์เพลงนี้นำเสนอเสียงเบสที่หนักแน่นซึ่งจะช่วยผลักดันให้คุณคว้าตำแหน่ง MVP มาครองได้นับครั้งไม่ถ้วน",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -2633,8 +2633,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "ชุดอุปกรณ์เพลง StatTrak™ | ShockOne, Voices",
+  "description": "ปลดปล่อยตัวตนด้วยเพลง \\\"Voices\\\" พร้อมเสียงกลองและเบสสุดมันส์ของ ShockOne ที่ถูกจัดเตรียมมาให้คุณพร้อมลุยในช่วงเวลาคลัตช์ ชุดอุปกรณ์เพลงนี้นำเสนอเสียงเบสที่หนักแน่นซึ่งจะช่วยผลักดันให้คุณคว้าตำแหน่ง MVP มาครองได้นับครั้งไม่ถ้วน",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",

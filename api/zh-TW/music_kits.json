@@ -2480,7 +2480,7 @@
  {
   "id": "music_kit-98",
   "name": "音樂包 | ALRT - DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "description": "ALRT 這首動感十足的低音浩室舞曲帶來了極致的「多巴胺衝擊」，讓您全神貫注，隨時準備好在最關鍵的時刻挺身而出。",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2494,7 +2494,7 @@
  {
   "id": "music_kit-98_st",
   "name": "StatTrak™ 音樂包 | ALRT - DOPAMINE HIT",
-  "description": "ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "description": "ALRT 這首動感十足的低音浩室舞曲帶來了極致的「多巴胺衝擊」，讓您全神貫注，隨時準備好在最關鍵的時刻挺身而出。",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -2508,7 +2508,7 @@
  {
   "id": "music_kit-99",
   "name": "音樂包 | Altare - Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "description": "Altare 這首亢奮浪潮樂曲「Change My Mind」特別適合自覺無人能擋的超級巔峰時刻。",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2522,7 +2522,7 @@
  {
   "id": "music_kit-99_st",
   "name": "StatTrak™ 音樂包 | Altare - Change My Mind",
-  "description": "Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "description": "Altare 這首亢奮浪潮樂曲「Change My Mind」特別適合自覺無人能擋的超級巔峰時刻。",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -2535,8 +2535,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "音樂包 | borne - Give It To Me",
+  "description": "borne 這首粗獷低音節奏樂曲「Give It To Me」讓玩家隨時準備好向絕對武力遊戲內外的對手發動攻勢。",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2549,8 +2549,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "StatTrak™ 音樂包 | borne - Give It To Me",
+  "description": "borne 這首粗獷低音節奏樂曲「Give It To Me」讓玩家隨時準備好向絕對武力遊戲內外的對手發動攻勢。",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -2563,8 +2563,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "音樂包 | Pirapus - EVERYNITE",
+  "description": "Pirapus 這首高能量、充滿節奏與低音的歌曲「EVERYNITE」喚起邁向輝煌的感覺。正如其名，這首歌確保您每晚都沉醉其中。",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2577,8 +2577,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "StatTrak™ 音樂包 | Pirapus - EVERYNITE",
+  "description": "Pirapus 這首高能量、充滿節奏與低音的歌曲「EVERYNITE」喚起邁向輝煌的感覺。正如其名，這首歌確保您每晚都沉醉其中。",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -2591,8 +2591,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "音樂包 | Repiet & Julia Kleijn - On And On",
+  "description": "聽著 Repiet 與 Julia Kleijn 這首極具感染力的歌曲「On And On」來準備迎接任何挑戰。無論處於高峰或低谷，這首歌都能定下迎擊任何障礙的基調。",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "StatTrak™ 音樂包 | Repiet & Julia Kleijn - On And On",
+  "description": "聽著 Repiet 與 Julia Kleijn 這首極具感染力的歌曲「On And On」來準備迎接任何挑戰。無論處於高峰或低谷，這首歌都能定下迎擊任何障礙的基調。",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -2619,8 +2619,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "音樂包 | ShockOne - Voices",
+  "description": "聽著 ShockOne 高能量、充滿節奏與低音的歌曲「Voices」來突破極限。這音樂包極具感染力的低音旋律讓您隨時準備好於殘局取勝，將助您拿下無數 MVP。",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -2633,8 +2633,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "StatTrak™ 音樂包 | ShockOne - Voices",
+  "description": "聽著 ShockOne 高能量、充滿節奏與低音的歌曲「Voices」來突破極限。這音樂包極具感染力的低音旋律讓您隨時準備好於殘局取勝，將助您拿下無數 MVP。",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
