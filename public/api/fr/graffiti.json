@@ -29015,5 +29015,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10501",
+  "name": "Graffiti scellé | Vitality | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10502",
+  "name": "Graffiti scellé | Natus Vincere | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10503",
+  "name": "Graffiti scellé | Falcons | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10504",
+  "name": "Graffiti scellé | The Mongolz | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10505",
+  "name": "Graffiti scellé | PARIVISION | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10506",
+  "name": "Graffiti scellé | Aurora | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10507",
+  "name": "Graffiti scellé | FURIA | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10508",
+  "name": "Graffiti scellé | MOUZ | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10509",
+  "name": "Graffiti scellé | FUT | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FUT | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fut_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10510",
+  "name": "Graffiti scellé | Team Spirit | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10511",
+  "name": "Graffiti scellé | Astralis | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10512",
+  "name": "Graffiti scellé | G2 esports | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10513",
+  "name": "Graffiti scellé | Legacy | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10514",
+  "name": "Graffiti scellé | paiN Gaming | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10515",
+  "name": "Graffiti scellé | Monte | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Monte | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mont_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10516",
+  "name": "Graffiti scellé | 9z Team | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 9z Team | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nine_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10517",
+  "name": "Graffiti scellé | GamerLegion | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10518",
+  "name": "Graffiti scellé | B8 | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10519",
+  "name": "Graffiti scellé | HEROIC | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | HEROIC | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/hero_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10520",
+  "name": "Graffiti scellé | BetBoom | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BetBoom | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/bb_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10521",
+  "name": "Graffiti scellé | BIG | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BIG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/big_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10522",
+  "name": "Graffiti scellé | M80 | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10523",
+  "name": "Graffiti scellé | MIBR | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10524",
+  "name": "Graffiti scellé | Sinners | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10525",
+  "name": "Graffiti scellé | NRG | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10526",
+  "name": "Graffiti scellé | TYLOO | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10527",
+  "name": "Graffiti scellé | Sharks Esports | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sharks Esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/shrk_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10528",
+  "name": "Graffiti scellé | Gaimin Gladiators | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Gaimin Gladiators | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gaim_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10529",
+  "name": "Graffiti scellé | Team Liquid | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10530",
+  "name": "Graffiti scellé | Lynn Vision | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10531",
+  "name": "Graffiti scellé | THUNDER dOWNUNDER | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10532",
+  "name": "Graffiti scellé | FlyQuest | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10533",
+  "name": "Graffiti scellé | IEM | Cologne 2026",
+  "description": "Ceci est un conteneur scellé d'un motif graffiti. Une fois ce motif graffiti descellé, vous pourrez l'appliquer en jeu <b>50</b> fois.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Qualité supérieure",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | IEM | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/iem_graffiti_png.png"
  }
 ]
