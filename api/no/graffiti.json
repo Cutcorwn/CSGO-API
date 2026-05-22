@@ -29015,5 +29015,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10501",
+  "name": "Forseglet graffiti | Vitality | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10502",
+  "name": "Forseglet graffiti | Natus Vincere | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10503",
+  "name": "Forseglet graffiti | Falcons | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10504",
+  "name": "Forseglet graffiti | The Mongolz | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10505",
+  "name": "Forseglet graffiti | PARIVISION | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10506",
+  "name": "Forseglet graffiti | Aurora | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10507",
+  "name": "Forseglet graffiti | FURIA | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10508",
+  "name": "Forseglet graffiti | MOUZ | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10509",
+  "name": "Forseglet graffiti | FUT | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FUT | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fut_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10510",
+  "name": "Forseglet graffiti | Team Spirit | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10511",
+  "name": "Forseglet graffiti | Astralis | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10512",
+  "name": "Forseglet graffiti | G2 esports | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10513",
+  "name": "Forseglet graffiti | Legacy | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10514",
+  "name": "Forseglet graffiti | paiN Gaming | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10515",
+  "name": "Forseglet graffiti | Monte | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Monte | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mont_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10516",
+  "name": "Forseglet graffiti | 9z Team | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 9z Team | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nine_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10517",
+  "name": "Forseglet graffiti | GamerLegion | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10518",
+  "name": "Forseglet graffiti | B8 | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10519",
+  "name": "Forseglet graffiti | HEROIC | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | HEROIC | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/hero_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10520",
+  "name": "Forseglet graffiti | BetBoom | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BetBoom | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/bb_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10521",
+  "name": "Forseglet graffiti | BIG | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BIG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/big_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10522",
+  "name": "Forseglet graffiti | M80 | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10523",
+  "name": "Forseglet graffiti | MIBR | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10524",
+  "name": "Forseglet graffiti | Sinners | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10525",
+  "name": "Forseglet graffiti | NRG | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10526",
+  "name": "Forseglet graffiti | TYLOO | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10527",
+  "name": "Forseglet graffiti | Sharks Esports | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sharks Esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/shrk_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10528",
+  "name": "Forseglet graffiti | Gaimin Gladiators | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Gaimin Gladiators | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gaim_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10529",
+  "name": "Forseglet graffiti | Team Liquid | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10530",
+  "name": "Forseglet graffiti | Lynn Vision | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10531",
+  "name": "Forseglet graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10532",
+  "name": "Forseglet graffiti | FlyQuest | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10533",
+  "name": "Forseglet graffiti | IEM | Cologne 2026",
+  "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Høy klasse",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | IEM | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/iem_graffiti_png.png"
  }
 ]

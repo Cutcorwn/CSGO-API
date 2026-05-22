@@ -29015,5 +29015,434 @@
   "crates": [],
   "market_hash_name": "Sealed Graffiti | StarLadder | Budapest 2025",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10501",
+  "name": "Grafite Lacrado | Vitality | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Vitality | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/vita_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10502",
+  "name": "Grafite Lacrado | Natus Vincere | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/navi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10503",
+  "name": "Grafite Lacrado | Falcons | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Falcons | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fal_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10504",
+  "name": "Grafite Lacrado | The Mongolz | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | The Mongolz | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mngz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10505",
+  "name": "Grafite Lacrado | PARIVISION | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | PARIVISION | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pari_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10506",
+  "name": "Grafite Lacrado | Aurora | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Aurora | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/aura_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10507",
+  "name": "Grafite Lacrado | FURIA | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FURIA | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/furi_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10508",
+  "name": "Grafite Lacrado | MOUZ | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MOUZ | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mouz_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10509",
+  "name": "Grafite Lacrado | FUT | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FUT | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fut_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10510",
+  "name": "Grafite Lacrado | Team Spirit | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Spirit | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/spir_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10511",
+  "name": "Grafite Lacrado | Astralis | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Astralis | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/astr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10512",
+  "name": "Grafite Lacrado | G2 esports | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | G2 esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/g2_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10513",
+  "name": "Grafite Lacrado | Legacy | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Legacy | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lgcy_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10514",
+  "name": "Grafite Lacrado | paiN Gaming | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | paiN Gaming | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/pain_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10515",
+  "name": "Grafite Lacrado | Monte | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Monte | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mont_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10516",
+  "name": "Grafite Lacrado | 9z Team | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | 9z Team | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nine_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10517",
+  "name": "Grafite Lacrado | GamerLegion | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | GamerLegion | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10518",
+  "name": "Grafite Lacrado | B8 | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | B8 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/b8_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10519",
+  "name": "Grafite Lacrado | HEROIC | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | HEROIC | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/hero_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10520",
+  "name": "Grafite Lacrado | BetBoom | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BetBoom | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/bb_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10521",
+  "name": "Grafite Lacrado | BIG | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | BIG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/big_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10522",
+  "name": "Grafite Lacrado | M80 | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | M80 | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/m80_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10523",
+  "name": "Grafite Lacrado | MIBR | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | MIBR | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/mibr_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10524",
+  "name": "Grafite Lacrado | Sinners | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10525",
+  "name": "Grafite Lacrado | NRG | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | NRG | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/nrg_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10526",
+  "name": "Grafite Lacrado | TYLOO | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | TYLOO | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/tyl_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10527",
+  "name": "Grafite Lacrado | Sharks Esports | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Sharks Esports | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/shrk_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10528",
+  "name": "Grafite Lacrado | Gaimin Gladiators | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Gaimin Gladiators | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/gaim_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10529",
+  "name": "Grafite Lacrado | Team Liquid | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/liq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10530",
+  "name": "Grafite Lacrado | Lynn Vision | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Lynn Vision | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/lynn_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10531",
+  "name": "Grafite Lacrado | THUNDER dOWNUNDER | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10532",
+  "name": "Grafite Lacrado | FlyQuest | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | FlyQuest | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/fq_graffiti_png.png"
+ },
+ {
+  "id": "graffiti-10533",
+  "name": "Grafite Lacrado | IEM | Cologne 2026",
+  "description": "Este é um padrão de grafite ainda lacrado. Ao abri-lo, você receberá cargas para grafitar este padrão <b>50</b> vezes no mundo do jogo.",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | IEM | Cologne 2026",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/iem_graffiti_png.png"
  }
 ]
