@@ -29317,7 +29317,7 @@
  },
  {
   "id": "graffiti-10524",
-  "name": "Запечатани графити | Sinners | Cologne 2026",
+  "name": "Запечатани графити | SINNERS | Cologne 2026",
   "description": "Това е запечатан контейнер с шаблон за графити. След като бъде разпечатан, ще Ви предостави с достатъчно заряди, така че да приложите шаблона с графити <b>50</b> пъти в игралния свят.",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29408,7 +29408,7 @@
  },
  {
   "id": "graffiti-10531",
-  "name": "Запечатани графити | THUNDER dOWNUNDER | Cologne 2026",
+  "name": "Запечатани графити | THUNDERdOWNUNDER | Cologne 2026",
   "description": "Това е запечатан контейнер с шаблон за графити. След като бъде разпечатан, ще Ви предостави с достатъчно заряди, така че да приложите шаблона с графити <b>50</b> пъти в игралния свят.",
   "rarity": {
    "id": "rarity_rare",
@@ -29416,7 +29416,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {
