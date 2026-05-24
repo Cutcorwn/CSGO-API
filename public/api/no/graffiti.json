@@ -28862,7 +28862,7 @@
  },
  {
   "id": "graffiti-9642",
-  "name": "Forseglet graffiti | Parivision | Budapest 2025",
+  "name": "Forseglet graffiti | PARIVISION | Budapest 2025",
   "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
   "rarity": {
    "id": "rarity_rare",
@@ -28901,7 +28901,7 @@
  },
  {
   "id": "graffiti-9645",
-  "name": "Forseglet graffiti | Flyquest | Budapest 2025",
+  "name": "Forseglet graffiti | FlyQuest | Budapest 2025",
   "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
   "rarity": {
    "id": "rarity_rare",
@@ -29057,7 +29057,7 @@
  },
  {
   "id": "graffiti-10504",
-  "name": "Forseglet graffiti | The Mongolz | Cologne 2026",
+  "name": "Forseglet graffiti | The MongolZ | Cologne 2026",
   "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
   "rarity": {
    "id": "rarity_rare",
@@ -29161,7 +29161,7 @@
  },
  {
   "id": "graffiti-10512",
-  "name": "Forseglet graffiti | G2 esports | Cologne 2026",
+  "name": "Forseglet graffiti | G2 Esports | Cologne 2026",
   "description": "Dette er en forseglet beholder med et graffitimønster. Når forseglingen brytes, har den nok innhold til å påføre graffitimønsteret <b>50</b> ganger i spillverdenen.",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29416,7 +29416,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {

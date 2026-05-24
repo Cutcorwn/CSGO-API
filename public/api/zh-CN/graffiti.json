@@ -29317,7 +29317,7 @@
  },
  {
   "id": "graffiti-10524",
-  "name": "封装的涂鸦 | Sinners | Cologne 2026",
+  "name": "封装的涂鸦 | SINNERS | Cologne 2026",
   "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29408,7 +29408,7 @@
  },
  {
   "id": "graffiti-10531",
-  "name": "封装的涂鸦 | THUNDER dOWNUNDER | Cologne 2026",
+  "name": "封装的涂鸦 | THUNDERdOWNUNDER | Cologne 2026",
   "description": "这个罐子里封装着一个涂鸦图案。涂鸦一经开封，可以在游戏内喷涂 <b>50</b> 次。",
   "rarity": {
    "id": "rarity_rare",
@@ -29416,7 +29416,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {

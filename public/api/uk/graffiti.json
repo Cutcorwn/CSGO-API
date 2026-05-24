@@ -29031,7 +29031,7 @@
  },
  {
   "id": "graffiti-10502",
-  "name": "Запечатане графіті | Natus Vincere | Cologne 2026",
+  "name": "Запечатане графіті | Natus Vincere | Кельн 2026",
   "description": "Це запечатаний контейнер із шаблоном графіті. Після розпечатування шаблону ви отримаєте можливість застосувати шаблон <b>50</b> разів у ігровому світі.",
   "rarity": {
    "id": "rarity_rare",
@@ -29317,7 +29317,7 @@
  },
  {
   "id": "graffiti-10524",
-  "name": "Запечатане графіті | Sinners | Cologne 2026",
+  "name": "Запечатане графіті | SINNERS | Cologne 2026",
   "description": "Це запечатаний контейнер із шаблоном графіті. Після розпечатування шаблону ви отримаєте можливість застосувати шаблон <b>50</b> разів у ігровому світі.",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29382,7 +29382,7 @@
  },
  {
   "id": "graffiti-10529",
-  "name": "Запечатане графіті | Team Liquid | Cologne 2026",
+  "name": "Запечатане графіті | Team Liquid | Кельн 2026",
   "description": "Це запечатаний контейнер із шаблоном графіті. Після розпечатування шаблону ви отримаєте можливість застосувати шаблон <b>50</b> разів у ігровому світі.",
   "rarity": {
    "id": "rarity_rare",
@@ -29408,7 +29408,7 @@
  },
  {
   "id": "graffiti-10531",
-  "name": "Запечатане графіті | THUNDER dOWNUNDER | Cologne 2026",
+  "name": "Запечатане графіті | THUNDERdOWNUNDER | Cologne 2026",
   "description": "Це запечатаний контейнер із шаблоном графіті. Після розпечатування шаблону ви отримаєте можливість застосувати шаблон <b>50</b> разів у ігровому світі.",
   "rarity": {
    "id": "rarity_rare",
@@ -29416,7 +29416,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {

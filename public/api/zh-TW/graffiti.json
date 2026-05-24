@@ -29057,7 +29057,7 @@
  },
  {
   "id": "graffiti-10504",
-  "name": "密封的塗鴉 | The Mongolz | Cologne 2026",
+  "name": "密封的塗鴉 | The MongolZ | Cologne 2026",
   "description": "這是密封的塗鴉圖案。一旦開封後，會提供你 <b>50</b> 次將此塗鴉圖案用於遊戲內的機會。",
   "rarity": {
    "id": "rarity_rare",
@@ -29070,7 +29070,7 @@
  },
  {
   "id": "graffiti-10505",
-  "name": "密封的塗鴉 | PARIVISION | Cologne 2026",
+  "name": "密封的塗鴉 | Parivision | Cologne 2026",
   "description": "這是密封的塗鴉圖案。一旦開封後，會提供你 <b>50</b> 次將此塗鴉圖案用於遊戲內的機會。",
   "rarity": {
    "id": "rarity_rare",
@@ -29161,7 +29161,7 @@
  },
  {
   "id": "graffiti-10512",
-  "name": "密封的塗鴉 | G2 esports | Cologne 2026",
+  "name": "密封的塗鴉 | G2 Esports | Cologne 2026",
   "description": "這是密封的塗鴉圖案。一旦開封後，會提供你 <b>50</b> 次將此塗鴉圖案用於遊戲內的機會。",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29416,12 +29416,12 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {
   "id": "graffiti-10532",
-  "name": "密封的塗鴉 | FlyQuest | Cologne 2026",
+  "name": "密封的塗鴉 | Flyquest | Cologne 2026",
   "description": "這是密封的塗鴉圖案。一旦開封後，會提供你 <b>50</b> 次將此塗鴉圖案用於遊戲內的機會。",
   "rarity": {
    "id": "rarity_rare",

@@ -8236,8 +8236,8 @@
  },
  {
   "id": "collectible-5310",
-  "name": "Cologne 2026 Viewer Pass",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Cologne 2026 觀眾通行證",
+  "description": "此為緘封的 IEM Cologne 2026 CS2 特級錦標賽觀眾通行證。一旦啟封，便可在整個賽事中追蹤您的 Cologne 2026 硬幣進度、獲得 Cologne 2026 投注挑戰的參與資格、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間不限使用次數的遊戲內塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。每次硬幣升級時可獲得 300 枚 Cologne 2026 代幣。\\n\\n50% 的通行證收益將用於支持參與的選手和組織團體。",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8251,8 +8251,8 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Cologne 2026 觀眾通行證 + 900 枚代幣",
+  "description": "此為緘封的 IEM Cologne 2026 CS2 特級錦標賽觀眾通行證。一旦啟封，便可在整個賽事中追蹤您的 Cologne 2026 硬幣進度、獲得 Cologne 2026 投注挑戰的完整資格、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間不限使用次數的遊戲內塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。每次硬幣升級時可獲得 300 枚 Cologne 2026 代幣。\\n\\n啟用此觀眾通行證時，將隨 Cologne 2026 硬幣附贈 900 枚 Cologne 2026 代幣。\\n\\n50% 的通行證收益將用於支持參與的選手和組織團體。",
   "def_index": "5311",
   "rarity": {
    "id": null,
@@ -8266,7 +8266,7 @@
  },
  {
   "id": "collectible-5312",
-  "name": "Cologne 2026 Coin",
+  "name": "Cologne 2026 硬幣",
   "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
   "def_index": "5312",
   "rarity": {
@@ -8326,8 +8326,8 @@
  },
  {
   "id": "collectible-5319",
-  "name": "Champion at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "IEM Cologne 2026 冠軍",
+  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽冠軍選手的獎盃。",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -8341,8 +8341,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "IEM Cologne 2026 決賽選手",
+  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽亞軍選手的獎盃。",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8356,8 +8356,8 @@
  },
  {
   "id": "collectible-5321",
-  "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "IEM Cologne 2026 四強選手",
+  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽準前四強選手的獎盃。",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8371,8 +8371,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "IEM Cologne 2026 前八強選手",
+  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽前八強選手的獎盃。",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",

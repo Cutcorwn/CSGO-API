@@ -29057,7 +29057,7 @@
  },
  {
   "id": "graffiti-10504",
-  "name": "Lezárt falfirka | The Mongolz | Cologne 2026",
+  "name": "Lezárt falfirka | The MongolZ | Cologne 2026",
   "description": "Ez egy falfirka-mintát tartalmazó lezárt tároló. Miután a falfirka-minta felbontásra kerül, elegendő töltetet fog biztosítani, hogy <b>50</b> alkalommal használhasd a falfirka-mintát a játékvilágban.",
   "rarity": {
    "id": "rarity_rare",
@@ -29161,7 +29161,7 @@
  },
  {
   "id": "graffiti-10512",
-  "name": "Lezárt falfirka | G2 esports | Cologne 2026",
+  "name": "Lezárt falfirka | G2 Esports | Cologne 2026",
   "description": "Ez egy falfirka-mintát tartalmazó lezárt tároló. Miután a falfirka-minta felbontásra kerül, elegendő töltetet fog biztosítani, hogy <b>50</b> alkalommal használhasd a falfirka-mintát a játékvilágban.",
   "rarity": {
    "id": "rarity_rare",
@@ -29325,7 +29325,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | Sinners | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | SINNERS | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sinn_graffiti_png.png"
  },
  {
@@ -29416,7 +29416,7 @@
    "color": "#4b69ff"
   },
   "crates": [],
-  "market_hash_name": "Sealed Graffiti | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sealed Graffiti | THUNDERdOWNUNDER | Cologne 2026",
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/thun_graffiti_png.png"
  },
  {
