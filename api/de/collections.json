@@ -9916,7 +9916,7 @@
  },
  {
   "id": "collection-set-op9-characters",
-  "name": "„Zerfetztes Netz“-Agenten",
+  "name": "Agenten „Zerfetztes Netz“",
   "crates": [],
   "contains": [
    {
@@ -10144,7 +10144,7 @@
  },
  {
   "id": "collection-set-op10-characters",
-  "name": "„Zerbrochener Reißzahn“-Agenten",
+  "name": "Agenten „Zerbrochener Reißzahn“",
   "crates": [],
   "contains": [
    {
@@ -10352,7 +10352,7 @@
  },
  {
   "id": "collection-set-op11-characters",
-  "name": "Agenten der Operation Springflut",
+  "name": "Agenten „Operation Springflut“",
   "crates": [],
   "contains": [
    {

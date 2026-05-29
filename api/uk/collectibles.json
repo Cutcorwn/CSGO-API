@@ -8237,7 +8237,7 @@
  {
   "id": "collectible-5310",
   "name": "Глядацька перепустка «Кельн 2026»",
-  "description": "Це запечатана глядацька перепустка великого чемпіонату «IEM Кельн 2026». Якщо її відкрити, вона дасть монету «Кельн 2026», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано гравцям та організаціям, що беруть участь у цьому чемпіонаті.",
+  "description": "Це запечатана глядацька перепустка великого турніру «IEM Кельн 2026». Якщо її відкрити, вона дасть монету «Кельн 2026», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано гравцям та організаціям, що беруть участь у цьому турнірі.",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8251,8 +8251,8 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Глядацька перепустка «Кельн 2026» + 900 жетонів",
+  "description": "Це запечатана глядацька перепустка великого турніру з CS2 «IEM Кельн 2026». Якщо її відкрити, ви отримаєте монету «Кельн 2026», яка відстежує ваш поступ упродовж події, а також надає повний доступ до прогнозів, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.\\n\\nЦя глядацька перепустка одразу активує монету «Кельн 2026» та надає 900 жетонів.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано гравцям та організаціям, що беруть участь у цьому турнірі.",
   "def_index": "5311",
   "rarity": {
    "id": null,
@@ -8266,8 +8266,8 @@
  },
  {
   "id": "collectible-5312",
-  "name": "Cologne 2026 Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Монета «Кельн 2026»",
+  "description": "Це пам’ятна монета великого турніру з CS2 «IEM Кельн 2026», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань і необмежену кількість командних графіті на час турніру.\\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.",
   "def_index": "5312",
   "rarity": {
    "id": null,
@@ -8281,8 +8281,8 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Cologne 2026 Silver Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Срібна монета «Кельн 2026»",
+  "description": "Це пам’ятна монета великого турніру з CS2 «IEM Кельн 2026», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань і необмежену кількість командних графіті на час турніру.\\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.",
   "def_index": "5313",
   "rarity": {
    "id": null,
@@ -8296,8 +8296,8 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Cologne 2026 Gold Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Золота монета «Кельн 2026»",
+  "description": "Це пам’ятна монета великого турніру з CS2 «IEM Кельн 2026», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань і необмежену кількість командних графіті на час турніру.\\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.",
   "def_index": "5314",
   "rarity": {
    "id": null,
@@ -8311,8 +8311,8 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Cologne 2026 Diamond Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Діамантова монета «Кельн 2026»",
+  "description": "Це пам’ятна монета великого турніру з CS2 «IEM Кельн 2026», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань і необмежену кількість командних графіті на час турніру.\\n\\nПокращити монету «Кельн 2026» можна через виконання завдань. Отримуйте 300 жетонів «Кельн 2026» щоразу, як покращуєте свою монету.",
   "def_index": "5315",
   "rarity": {
    "id": null,
@@ -8326,8 +8326,8 @@
  },
  {
   "id": "collectible-5319",
-  "name": "Champion at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Чемпіон «IEM Кельн 2026»",
+  "description": "Цю нагороду вручено переможцю великого турніру з CS2 «IEM Кельн 2026».",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -8341,8 +8341,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Фіналіст «IEM Кельн 2026»",
+  "description": "Цю нагороду вручено фіналісту великого турніру з CS2 «IEM Кельн 2026».",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8356,8 +8356,8 @@
  },
  {
   "id": "collectible-5321",
-  "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Півфіналіст «IEM Кельн 2026»",
+  "description": "Цю нагороду вручено півфіналісту великого турніру з CS2 «IEM Кельн 2026».",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8371,8 +8371,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Чвертьфіналіст «IEM Кельн 2026»",
+  "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS2 «IEM Кельн 2026».",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",

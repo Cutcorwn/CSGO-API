@@ -8237,7 +8237,7 @@
  {
   "id": "collectible-5310",
   "name": "Pase de espectador de Colonia 2026",
-  "description": "Este es un pase de espectador precintado del Campeonato Major de CS2 IEM de Colonia 2026. Una vez abierto, te proporcionará una moneda de Colonia 2026 que registra tu progreso a lo largo del evento, acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nPuedes subir de nivel tu moneda de Colonia 2026 completando desafíos. Obtendrás 300 fichas de Colonia 2026 cada vez que la moneda suba de nivel.\\n\\nEl 50 % de los ingresos de la venta de este pase se destinará a las organizaciones y jugadores participantes.",
+  "description": "Este es un pase de espectador precintado del Campeonato Major de CS2 IEM Colonia 2026. Una vez abierto, te proporcionará una moneda de Colonia 2026 que registra tu progreso a lo largo del evento, acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nPuedes subir de nivel tu moneda de Colonia 2026 completando desafíos. Obtendrás 300 fichas de Colonia 2026 cada vez que la moneda suba de nivel.\\n\\nEl 50 % de los ingresos de la venta de este pase se destinará a las organizaciones y jugadores participantes.",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8251,8 +8251,8 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Pase de espectador de Colonia 2026 + 900 fichas",
+  "description": "Este es un pase de espectador precintado del Campeonato Major de CS2 IEM Colonia 2026. Una vez abierto, te proporcionará una moneda de Colonia 2026 que registra tu progreso a lo largo del evento, acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nPodrás subir de nivel tu moneda de Colonia 2026 completando los desafíos de moneda. Obtendrás 300 fichas de Colonia 2026 cada vez que la moneda suba de nivel.\\n\\nEste pase de espectador preactivará tu moneda de Colonia 2026 con 900 fichas de Colonia 2026.\\n\\nEl 50 % de las ganancias de la venta de este pase se destinará a las organizaciones y jugadores participantes.",
   "def_index": "5311",
   "rarity": {
    "id": null,
@@ -8266,8 +8266,8 @@
  },
  {
   "id": "collectible-5312",
-  "name": "Cologne 2026 Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Moneda de Colonia 2026",
+  "description": "Esta es una moneda conmemorativa del Campeonato Major de CS2 IEM Colonia 2026 que registra tu progreso a lo largo del evento, proporciona acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nMejora tu moneda de Colonia 2026 completando desafíos de moneda. Obtén 300 fichas de Colonia 2026 cada vez que mejores tu moneda.",
   "def_index": "5312",
   "rarity": {
    "id": null,
@@ -8281,8 +8281,8 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Cologne 2026 Silver Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Moneda de plata de Colonia 2026",
+  "description": "Esta es una moneda conmemorativa del Campeonato Major de CS2 IEM Colonia 2026 que registra tu progreso a lo largo del evento, proporciona acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nMejora tu moneda de Colonia 2026 completando desafíos de moneda. Obtén 300 fichas de Colonia 2026 cada vez que mejores tu moneda.",
   "def_index": "5313",
   "rarity": {
    "id": null,
@@ -8296,8 +8296,8 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Cologne 2026 Gold Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Moneda de oro de Colonia 2026",
+  "description": "Esta es una moneda conmemorativa del Campeonato Major de CS2 IEM Colonia 2026 que registra tu progreso a lo largo del evento, proporciona acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nMejora tu moneda de Colonia 2026 completando desafíos de moneda. Obtén 300 fichas de Colonia 2026 cada vez que mejores tu moneda.",
   "def_index": "5314",
   "rarity": {
    "id": null,
@@ -8311,8 +8311,8 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Cologne 2026 Diamond Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Moneda de diamante de Colonia 2026",
+  "description": "Esta es una moneda conmemorativa del Campeonato Major de CS2 IEM Colonia 2026 que registra tu progreso a lo largo del evento, proporciona acceso completo al Desafío Pick'Em de Colonia 2026, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nMejora tu moneda de Colonia 2026 completando desafíos de moneda. Obtén 300 fichas de Colonia 2026 cada vez que mejores tu moneda.",
   "def_index": "5315",
   "rarity": {
    "id": null,
@@ -8326,8 +8326,8 @@
  },
  {
   "id": "collectible-5319",
-  "name": "Champion at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Campeón del IEM Colonia 2026",
+  "description": "Este trofeo de campeonato fue otorgado al equipo campeón del Campeonato Major de CS2 IEM Colonia 2026.",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -8341,8 +8341,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Finalista del IEM Colonia 2026",
+  "description": "Este trofeo de campeonato fue otorgado al equipo finalista del Campeonato Major de CS2 IEM Colonia 2026.",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8356,8 +8356,8 @@
  },
  {
   "id": "collectible-5321",
-  "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Semifinalista del IEM Colonia 2026",
+  "description": "Este trofeo de campeonato fue otorgado al equipo semifinalista del Campeonato Major de CS2 IEM Colonia 2026.",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8371,8 +8371,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Cuartofinalista del IEM Colonia 2026",
+  "description": "Este trofeo de campeonato fue otorgado al equipo cuartofinalista del Campeonato Major de CS2 IEM Colonia 2026.",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",

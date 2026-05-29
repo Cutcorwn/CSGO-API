@@ -17,7 +17,7 @@
  {
   "id": "collectible-875",
   "name": "DreamHack 2013 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen voittajalle.",
+  "description": "2013 DreamHack SteelSeries CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
@@ -32,7 +32,7 @@
  {
   "id": "collectible-876",
   "name": "DreamHack 2013 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen finalistille.",
+  "description": "2013 DreamHack SteelSeries CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
@@ -47,7 +47,7 @@
  {
   "id": "collectible-877",
   "name": "DreamHack 2013 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen semifinalistille.",
+  "description": "2013 DreamHack SteelSeries CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
@@ -62,7 +62,7 @@
  {
   "id": "collectible-878",
   "name": "DreamHack 2013 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen neljännesfinalistille.",
+  "description": "2013 DreamHack SteelSeries CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
@@ -77,7 +77,7 @@
  {
   "id": "collectible-879",
   "name": "EMS One Katowice 2014 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen voittajalle.",
+  "description": "2014 EMS One Katowice CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
@@ -92,7 +92,7 @@
  {
   "id": "collectible-880",
   "name": "EMS One Katowice 2014 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen finalistille.",
+  "description": "2014 EMS One Katowice CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
@@ -107,7 +107,7 @@
  {
   "id": "collectible-881",
   "name": "EMS One Katowice 2014 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen semifinalistille",
+  "description": "2014 EMS One Katowice CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
@@ -122,7 +122,7 @@
  {
   "id": "collectible-882",
   "name": "EMS One Katowice 2014 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen neljännesfinalistille.",
+  "description": "2014 EMS One Katowice CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
@@ -137,7 +137,7 @@
  {
   "id": "collectible-883",
   "name": "ESL One Cologne 2014 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen voittajalle.",
+  "description": "2014 ESL One Köln CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "883",
   "rarity": {
    "id": "rarity_ancient",
@@ -152,7 +152,7 @@
  {
   "id": "collectible-884",
   "name": "ESL One Cologne 2014 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen finalistille.",
+  "description": "2014 ESL One Köln CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
@@ -167,7 +167,7 @@
  {
   "id": "collectible-885",
   "name": "ESL One Cologne 2014 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen semifinalistille.",
+  "description": "2014 ESL One Köln CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
@@ -182,7 +182,7 @@
  {
   "id": "collectible-886",
   "name": "ESL One Cologne 2014 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen neljännesfinalistille.",
+  "description": "2014 ESL One Köln CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
@@ -242,7 +242,7 @@
  {
   "id": "collectible-890",
   "name": "DreamHack Winter 2014 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen voittajalle.",
+  "description": "2014 DreamHack Winter CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
@@ -257,7 +257,7 @@
  {
   "id": "collectible-891",
   "name": "DreamHack Winter 2014 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen finalistille.",
+  "description": "2014 DreamHack Winter CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
@@ -272,7 +272,7 @@
  {
   "id": "collectible-892",
   "name": "DreamHack Winter 2014 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen semifinalistille.",
+  "description": "2014 DreamHack Winter CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
@@ -287,7 +287,7 @@
  {
   "id": "collectible-893",
   "name": "DreamHack Winter 2014 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winterin -CS2-turnauksen neljännesfinalistille.",
+  "description": "2014 DreamHack Winter CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
@@ -347,7 +347,7 @@
  {
   "id": "collectible-897",
   "name": "ESL One Katowice 2015 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen voittajalle.",
+  "description": "2015 EMS One Katowice CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
@@ -362,7 +362,7 @@
  {
   "id": "collectible-898",
   "name": "ESL One Katowice 2015 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen finalistille.",
+  "description": "2015 EMS One Katowice CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
@@ -377,7 +377,7 @@
  {
   "id": "collectible-899",
   "name": "ESL One Katowice 2015 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen semifinalistille",
+  "description": "2015 EMS One Katowice CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
@@ -392,7 +392,7 @@
  {
   "id": "collectible-900",
   "name": "ESL One Katowice 2015 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen neljännesfinalistille.",
+  "description": "2015 EMS One Katowice CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
@@ -452,7 +452,7 @@
  {
   "id": "collectible-904",
   "name": "ESL One Cologne 2015 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 -CS2-turnauksen voittajalle.",
+  "description": "2015 ESL One Köln CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
@@ -467,7 +467,7 @@
  {
   "id": "collectible-905",
   "name": "ESL One Cologne 2015 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 CS2 -turnauksen finalistille.",
+  "description": "2015 ESL One Köln CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
@@ -482,7 +482,7 @@
  {
   "id": "collectible-906",
   "name": "ESL One Cologne 2015 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 CS2 -turnauksen semifinalistille.",
+  "description": "2015 ESL One Köln CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
@@ -497,7 +497,7 @@
  {
   "id": "collectible-907",
   "name": "ESL One Cologne 2015 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 -CS2-turnauksen neljännesfinalistille.",
+  "description": "2015 ESL One Köln CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
@@ -647,7 +647,7 @@
  {
   "id": "collectible-917",
   "name": "DreamHack Cluj-Napoca 2015 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen voittajalle.",
+  "description": "2015 DreamHack Cluj-Napoca CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
@@ -662,7 +662,7 @@
  {
   "id": "collectible-918",
   "name": "DreamHack Cluj-Napoca 2015 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen finalistille.",
+  "description": "2015 DreamHack Cluj-Napoca CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
@@ -677,7 +677,7 @@
  {
   "id": "collectible-919",
   "name": "DreamHack Cluj-Napoca 2015 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen semifinalistille.",
+  "description": "2015 DreamHack Cluj-Napoca CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
@@ -692,7 +692,7 @@
  {
   "id": "collectible-920",
   "name": "DreamHack Cluj-Napoca 2015 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen neljännesfinalistille.",
+  "description": "2015 DreamHack Cluj-Napoca CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
@@ -797,7 +797,7 @@
  {
   "id": "collectible-927",
   "name": "MLG Columbus 2016 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen voittajalle.",
+  "description": "MLG Columbus 2016 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
@@ -812,7 +812,7 @@
  {
   "id": "collectible-928",
   "name": "MLG Columbus 2016 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen finalistille.",
+  "description": "MLG Columbus 2016 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
@@ -827,7 +827,7 @@
  {
   "id": "collectible-929",
   "name": "MLG Columbus 2016 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen semifinalistille.",
+  "description": "MLG Columbus 2016 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
@@ -842,7 +842,7 @@
  {
   "id": "collectible-930",
   "name": "MLG Columbus 2016 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen neljännesfinalistille.",
+  "description": "MLG Columbus 2016 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
@@ -857,7 +857,7 @@
  {
   "id": "collectible-931",
   "name": "ESL One Cologne 2016 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen voittajalle.",
+  "description": "2016 ESL One Köln CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
@@ -872,7 +872,7 @@
  {
   "id": "collectible-932",
   "name": "ESL One Cologne 2016 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen finalistille.",
+  "description": "2016 ESL One Köln CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
@@ -887,7 +887,7 @@
  {
   "id": "collectible-933",
   "name": "ESL One Cologne 2016 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen semifinalistille.",
+  "description": "2016 ESL One Köln CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
@@ -902,7 +902,7 @@
  {
   "id": "collectible-934",
   "name": "ESL One Cologne 2016 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen neljännesfinalistille.",
+  "description": "2016 ESL One Köln CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
@@ -1007,7 +1007,7 @@
  {
   "id": "collectible-941",
   "name": "ELEAGUE Atlanta 2017 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen voittajalle.",
+  "description": "ELEAGUE Atlanta 2017 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "941",
   "rarity": {
    "id": "rarity_ancient",
@@ -1022,7 +1022,7 @@
  {
   "id": "collectible-942",
   "name": "ELEAGUE Atlanta 2017 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen finalistille.",
+  "description": "ELEAGUE Atlanta 2017 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
@@ -1037,7 +1037,7 @@
  {
   "id": "collectible-943",
   "name": "ELEAGUE Atlanta 2017 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen semifinalistille.",
+  "description": "ELEAGUE Atlanta 2017 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
@@ -1052,7 +1052,7 @@
  {
   "id": "collectible-944",
   "name": "ELEAGUE Atlanta 2017 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen neljännesfinalistille.",
+  "description": "ELEAGUE Atlanta 2017 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
@@ -1112,7 +1112,7 @@
  {
   "id": "collectible-948",
   "name": "PGL Krakova 2017 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Krakova 2017 -CS2-turnauksen voittajalle.",
+  "description": "PGL Krakova 2017 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
@@ -1127,7 +1127,7 @@
  {
   "id": "collectible-949",
   "name": "PGL Krakova 2017 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen finalistille.",
+  "description": "PGL Krakova 2017 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
@@ -1142,7 +1142,7 @@
  {
   "id": "collectible-950",
   "name": "PGL Krakova 2017 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen semifinalistille.",
+  "description": "PGL Krakova 2017 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
@@ -1157,7 +1157,7 @@
  {
   "id": "collectible-951",
   "name": "PGL Krakova 2017 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen neljännesfinalistille.",
+  "description": "PGL Krakova 2017 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
@@ -1217,7 +1217,7 @@
  {
   "id": "collectible-955",
   "name": "ELEAGUE Boston 2018 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen voittajalle.",
+  "description": "ELEAGUE Boston 2018 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
@@ -1232,7 +1232,7 @@
  {
   "id": "collectible-956",
   "name": "ELEAGUE Boston 2018 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen finalistille.",
+  "description": "ELEAGUE Boston 2018 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
@@ -1247,7 +1247,7 @@
  {
   "id": "collectible-957",
   "name": "ELEAGUE Boston 2018 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen semifinalistille.",
+  "description": "ELEAGUE Boston 2018 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
@@ -1262,7 +1262,7 @@
  {
   "id": "collectible-958",
   "name": "ELEAGUE Boston 2018 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen neljännesfinalistille.",
+  "description": "ELEAGUE Boston 2018 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
@@ -1322,7 +1322,7 @@
  {
   "id": "collectible-962",
   "name": "FACEIT London 2018 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen voittajalle.",
+  "description": "FACEIT Lontoo 2018 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
@@ -1337,7 +1337,7 @@
  {
   "id": "collectible-963",
   "name": "FACEIT London 2018 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen finalistille.",
+  "description": "FACEIT Lontoo 2018 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
@@ -1352,7 +1352,7 @@
  {
   "id": "collectible-964",
   "name": "FACEIT London 2018 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen semifinalistille.",
+  "description": "FACEIT Lontoo 2018 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
@@ -1367,7 +1367,7 @@
  {
   "id": "collectible-965",
   "name": "FACEIT London 2018 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen neljännesfinalistille.",
+  "description": "FACEIT Lontoo 2018 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
@@ -1457,7 +1457,7 @@
  {
   "id": "collectible-971",
   "name": "IEM Katowice 2019 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin IEM Katowice 2019 -CS2-turnauksen voittajalle.",
+  "description": "IEM Katowice 2019 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
@@ -1472,7 +1472,7 @@
  {
   "id": "collectible-972",
   "name": "IEM Katowice 2019 -finalisti",
-  "description": "IEM Katowice 2019 CS2-kilpailujen finalistille annettu palkinto.",
+  "description": "IEM Katowice 2019 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
@@ -1487,7 +1487,7 @@
  {
   "id": "collectible-973",
   "name": "IEM Katowice 2019 -semifinalisti",
-  "description": "IEM Katowice 2019 CS2-kilpailujen semifinalistille annettu palkinto.",
+  "description": "IEM Katowice 2019 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
@@ -1502,7 +1502,7 @@
  {
   "id": "collectible-974",
   "name": "IEM Katowice 2019 -neljännesfinalisti",
-  "description": "Mestaruuspokaali myönnettiin IEM Katowice 2019 -CS2-turnauksen neljännesfinalistille.",
+  "description": "IEM Katowice 2019 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
@@ -1517,7 +1517,7 @@
  {
   "id": "collectible-975",
   "name": "StarLadder Berliini 2019 -mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen voittajalle.",
+  "description": "StarLadder Berliini 2019 CS:GO-turnauksen voittajalle annettu turnauspokaali.",
   "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
@@ -1532,7 +1532,7 @@
  {
   "id": "collectible-976",
   "name": "StarLadder Berliini 2019 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen finalistille.",
+  "description": "StarLadder Berliini 2019 CS:GO-turnauksen finalistille annettu turnauspokaali.",
   "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
@@ -1547,7 +1547,7 @@
  {
   "id": "collectible-977",
   "name": "StarLadder Berliini 2019 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen semifinalistille.",
+  "description": "StarLadder Berliini 2019 CS:GO-turnauksen semifinalistille annettu turnauspokaali.",
   "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
@@ -1562,7 +1562,7 @@
  {
   "id": "collectible-978",
   "name": "StarLadder Berlin 2019 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen neljännesfinalistille.",
+  "description": "StarLadder Berliini 2019 CS:GO-turnauksen neljännesfinalistille annettu turnauspokaali.",
   "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
@@ -1577,7 +1577,7 @@
  {
   "id": "collectible-979",
   "name": "PGL Tukholma 2021 -turnauksen mestari",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen voittajalle.",
+  "description": "PGL Tukholma 2021 CS:GO-majorin voittajalle annettu turnauspokaali.",
   "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
@@ -1592,7 +1592,7 @@
  {
   "id": "collectible-980",
   "name": "PGL Tukholma 2021 -finalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen finalistille.",
+  "description": "PGL Tukholma 2021 CS:GO-majorin finalistille annettu turnauspokaali.",
   "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
@@ -1607,7 +1607,7 @@
  {
   "id": "collectible-981",
   "name": "PGL Tukholma 2021 -semifinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen semifinalistille.",
+  "description": "PGL Tukholma 2021 CS:GO-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
@@ -1622,7 +1622,7 @@
  {
   "id": "collectible-982",
   "name": "PGL Tukholma 2021 -neljännesfinalisti",
-  "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen neljännesfinalistille.",
+  "description": "PGL Tukholma 2021 CS:GO-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
@@ -1637,7 +1637,7 @@
  {
   "id": "collectible-983",
   "name": "PGL Antwerpen 2022 -mestari",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerp 2022 CS2 Major Championship -mestaruuden mestarille.",
+  "description": "PGL Antwerpen 2022 CS:GO-majorin voittajalle annettu turnauspokaali.",
   "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
@@ -1652,7 +1652,7 @@
  {
   "id": "collectible-984",
   "name": "PGL Antwerpen 2022 -finalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun finalistille.",
+  "description": "PGL Antwerpen 2022 CS:GO-majorin finalistille annettu turnauspokaali.",
   "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
@@ -1667,7 +1667,7 @@
  {
   "id": "collectible-985",
   "name": "PGL Antwerpen 2022 -semifinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun semifinalistille.",
+  "description": "PGL Antwerpen 2022 CS:GO-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
@@ -1682,7 +1682,7 @@
  {
   "id": "collectible-986",
   "name": "PGL Antwerpen 2022 -neljännesfinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun neljännesfinalistille.",
+  "description": "PGL Antwerpen 2022 CS:GO-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
@@ -1712,7 +1712,7 @@
  {
   "id": "collectible-988",
   "name": "IEM Rio 2022 -mestari",
-  "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin mestarille.",
+  "description": "IEM Rio 2022 CS:GO-majorin voittajalle annettu turnauspokaali.",
   "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
@@ -1727,7 +1727,7 @@
  {
   "id": "collectible-989",
   "name": "IEM Rio 2022 -finalisti",
-  "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin finalistille.",
+  "description": "IEM Rio 2022 CS:GO-majorin finalistille annettu turnauspokaali.",
   "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
@@ -1742,7 +1742,7 @@
  {
   "id": "collectible-990",
   "name": "IEM Rio 2022 -semifinalisti",
-  "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin semifinalistille.",
+  "description": "IEM Rio 2022 CS:GO-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
@@ -1757,7 +1757,7 @@
  {
   "id": "collectible-991",
   "name": "IEM Rio 2022 -neljännesfinalisti",
-  "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin neljännesfinalistille.",
+  "description": "IEM Rio 2022 CS:GO-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
@@ -1772,7 +1772,7 @@
  {
   "id": "collectible-992",
   "name": "BLAST.tv Paris 2023 -mestari",
-  "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin mestarille.",
+  "description": "BLAST.tv Pariisi 2023 CS:GO-majorin voittajalle annettu turnauspokaali.",
   "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
@@ -1787,7 +1787,7 @@
  {
   "id": "collectible-993",
   "name": "BLAST.tv Paris 2023 -finalisti",
-  "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin finalistille.",
+  "description": "BLAST.tv Pariisi 2023 CS:GO-majorin finalistille annettu turnauspokaali.",
   "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
@@ -1802,7 +1802,7 @@
  {
   "id": "collectible-994",
   "name": "BLAST.tv Paris 2023 -semifinalisti",
-  "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin semifinalistille.",
+  "description": "BLAST.tv Pariisi 2023 CS:GO-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
@@ -1817,7 +1817,7 @@
  {
   "id": "collectible-995",
   "name": "BLAST.tv Paris 2023 -neljännesfinalisti",
-  "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin neljännesfinalistille.",
+  "description": "BLAST.tv Pariisi 2023 CS:GO-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
@@ -5522,7 +5522,7 @@
  {
   "id": "collectible-4933",
   "name": "PGL Kööpenhamina 2024 -mestari",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen voittajalle.",
+  "description": "PGL Kööpenhamina 2024 CS2-majorin voittajalle annettu turnauspokaali.",
   "def_index": "4933",
   "rarity": {
    "id": "rarity_ancient",
@@ -5537,7 +5537,7 @@
  {
   "id": "collectible-4934",
   "name": "PGL Kööpenhamina 2024 -finalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen finalistille.",
+  "description": "PGL Kööpenhamina 2024 CS2-majorin finalistille annettu turnauspokaali.",
   "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
@@ -5552,7 +5552,7 @@
  {
   "id": "collectible-4935",
   "name": "PGL Kööpenhamina 2024 -semifinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen semifinalistille.",
+  "description": "PGL Kööpenhamina 2024 CS2-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
@@ -5567,7 +5567,7 @@
  {
   "id": "collectible-4936",
   "name": "PGL Kööpenhamina 2024 -neljännesfinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen neljännesfinalistille.",
+  "description": "PGL Kööpenhamina 2024 CS2-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
@@ -5852,7 +5852,7 @@
  {
   "id": "collectible-4974",
   "name": "Perfect World Shanghai 2024 -mestari",
-  "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen voittajalle.",
+  "description": "Perfect World Shanghai 2024 CS2-majorin voittajalle annettu turnauspokaali.",
   "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
@@ -5867,7 +5867,7 @@
  {
   "id": "collectible-4975",
   "name": "Perfect World Shanghai 2024 -finalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen finalistille.",
+  "description": "Perfect World Shanghai 2024 CS2-majorin finalistille annettu turnauspokaali.",
   "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
@@ -5882,7 +5882,7 @@
  {
   "id": "collectible-4976",
   "name": "Perfect World Shanghai 2024 -semifinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen semifinalistille.",
+  "description": "Perfect World Shanghai 2024 CS2-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
@@ -5897,7 +5897,7 @@
  {
   "id": "collectible-4977",
   "name": "Perfect World Shanghai 2024 -neljännesfinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen neljännesfinalistille.",
+  "description": "Perfect World Shanghai 2024 CS2-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
@@ -6632,7 +6632,7 @@
  {
   "id": "collectible-5127",
   "name": "BLAST.tv Austin 2025 -mestari",
-  "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin mestarille.",
+  "description": "BLAST.tv Austin 2025 CS2-majorin voittajalle annettu turnauspokaali.",
   "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
@@ -6647,7 +6647,7 @@
  {
   "id": "collectible-5128",
   "name": "BLAST.tv Austin 2025 -finalisti",
-  "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin finalistille.",
+  "description": "BLAST.tv Austin 2025 CS2-majorin finalistille annettu turnauspokaali.",
   "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
@@ -6662,7 +6662,7 @@
  {
   "id": "collectible-5129",
   "name": "BLAST.tv Austin 2025 -semifinalisti",
-  "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin semifinalistille.",
+  "description": "BLAST.tv Austin 2025 CS2-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
@@ -6677,7 +6677,7 @@
  {
   "id": "collectible-5130",
   "name": "BLAST.tv Austin 2025 -neljännesfinalisti",
-  "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin neljännesfinalistille.",
+  "description": "BLAST.tv Austin 2025 CS2-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
@@ -7472,7 +7472,7 @@
  {
   "id": "collectible-5226",
   "name": "StarLadder Budapest 2025 -mestari",
-  "description": "Tämä mestaruuspalkinto myönnettiin StarLadder Budapest 2025 CS2 Major -mestaruusturnauksen voittajalle.",
+  "description": "StarLadder Budapest 2025 CS2-majorin voittajalle annettu turnauspokaali.",
   "def_index": "5226",
   "rarity": {
    "id": "rarity_ancient",
@@ -7487,7 +7487,7 @@
  {
   "id": "collectible-5227",
   "name": "StarLadder Budapest 2025 -finalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin StarLadder Budapest 2025 CS2 Major -mestaruusturnauksen finalistille.",
+  "description": "StarLadder Budapest 2025 CS2-majorin finalistille annettu turnauspokaali.",
   "def_index": "5227",
   "rarity": {
    "id": "rarity_ancient",
@@ -7502,7 +7502,7 @@
  {
   "id": "collectible-5228",
   "name": "StarLadder Budapest 2025 -semifinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin StarLadder Budapest 2025 CS2 Major -mestaruusturnauksen semifinalistille.",
+  "description": "StarLadder Budapest 2025 CS2-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "5228",
   "rarity": {
    "id": "rarity_ancient",
@@ -7517,7 +7517,7 @@
  {
   "id": "collectible-5229",
   "name": "StarLadder Budapest 2025 -neljännesfinalisti",
-  "description": "Tämä mestaruuspalkinto myönnettiin StarLadder Budapest 2025 CS2 Major -mestaruusturnauksen neljännesfinalistille.",
+  "description": "StarLadder Budapest 2025 CS2-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "5229",
   "rarity": {
    "id": "rarity_ancient",
@@ -8237,7 +8237,7 @@
  {
   "id": "collectible-5310",
   "name": "Köln 2026 -katsojapassi",
-  "description": "Tämä on sinetöity IEM Köln 2026 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Köln 2026 -kolikon, jolla seuraat edistymistäsi tapahtuman ajan. Passi sisältää myös pääsyn Köln 2026 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattomiin graffitien käyttömahdollisuuksiin pelissä tapahtuman ajan.\\n\\nPäivitä Köln 2026 -kolikkosi suorittamalla haasteita. Ansaitse 300 Köln 2026 -polettia joka kerta, kun kolikkosi päivittyy.\\n\\n50 % passin myyntituloista käytetään mukana olevien pelaajien ja organisaatioiden tukemiseen.",
+  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8251,7 +8251,7 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
+  "name": "Köln 2026 -katsojapassi + 900 polettia",
   "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
   "def_index": "5311",
   "rarity": {
@@ -8281,7 +8281,7 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Cologne 2026 Silver Coin",
+  "name": "Köln 2026 -hopeakolikko",
   "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
   "def_index": "5313",
   "rarity": {
@@ -8296,7 +8296,7 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Cologne 2026 Gold Coin",
+  "name": "Köln 2026 -kultakolikko",
   "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
   "def_index": "5314",
   "rarity": {
@@ -8311,7 +8311,7 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Cologne 2026 Diamond Coin",
+  "name": "Köln 2026 -timanttikolikko",
   "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
   "def_index": "5315",
   "rarity": {
@@ -8327,7 +8327,7 @@
  {
   "id": "collectible-5319",
   "name": "Champion at IEM Cologne 2026",
-  "description": "Tämä turnauspalkinto myönnettiin IEM Köln 2026 CS2 Majorin voittajalle.",
+  "description": "IEM Köln 2026 CS2-majorin voittajalle annettu turnauspokaali.",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -8342,7 +8342,7 @@
  {
   "id": "collectible-5320",
   "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "IEM Köln 2026 CS2-majorin finalistille annettu turnauspokaali.",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8357,7 +8357,7 @@
  {
   "id": "collectible-5321",
   "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "IEM Köln 2026 CS2-majorin semifinalistille annettu turnauspokaali.",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8372,7 +8372,7 @@
  {
   "id": "collectible-5322",
   "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "IEM Köln 2026 CS2-majorin neljännesfinalistille annettu turnauspokaali.",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",

@@ -1249,7 +1249,7 @@
  },
  {
   "id": "patch-5113",
-  "name": "パッチ | Tyloo | Stockholm 2021",
+  "name": "パッチ | TYLOO | Stockholm 2021",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
   "def_index": "5113",
   "rarity": {
@@ -1262,7 +1262,7 @@
  },
  {
   "id": "patch-5114",
-  "name": "パッチ | Tyloo (ゴールド) | Stockholm 2021",
+  "name": "パッチ | TYLOO (ゴールド) | Stockholm 2021",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
   "def_index": "5114",
   "rarity": {
