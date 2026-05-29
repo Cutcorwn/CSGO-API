@@ -1322,7 +1322,7 @@
  {
   "id": "collectible-962",
   "name": "FACEIT London 2018 冠軍",
-  "description": "這塊獎牌是授予給 2018 年 FACEIT London CS:GO 錦標賽冠軍的。",
+  "description": "頒給 FACEIT London 2018 CS:GO 錦標賽冠軍選手的獎盃。",
   "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
@@ -1337,7 +1337,7 @@
  {
   "id": "collectible-963",
   "name": "FACEIT London 2018 決賽選手",
-  "description": "這塊獎牌是授予給 FACEIT London 2018 CS:GO 錦標賽的決賽選手的。",
+  "description": "頒給 FACEIT London 2018 CS:GO 錦標賽亞軍選手的獎盃。",
   "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
@@ -1352,7 +1352,7 @@
  {
   "id": "collectible-964",
   "name": "FACEIT London 2018 準決賽選手",
-  "description": "這塊獎牌是授予給 FACEIT London 2018 CS:GO 錦標賽的準決賽選手的。",
+  "description": "頒給 FACEIT London 2018 CS:GO 錦標賽四強選手的獎盃。",
   "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
@@ -1367,7 +1367,7 @@
  {
   "id": "collectible-965",
   "name": "FACEIT London 2018 前八強選手",
-  "description": "這塊獎牌是授予給 FACEIT London 2018 CS:GO 錦標賽的前八強選手的。",
+  "description": "頒給 FACEIT London 2018 CS:GO 錦標賽八強選手的獎盃。",
   "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
@@ -1457,7 +1457,7 @@
  {
   "id": "collectible-971",
   "name": "IEM Katowice 2019 冠軍",
-  "description": "這塊獎牌是授予給 2019 年 IEM Katowice CS:GO 錦標賽冠軍的。",
+  "description": "頒給 IEM Katowice 2019 CS:GO 特級錦標賽冠軍選手的獎牌。",
   "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
@@ -1472,7 +1472,7 @@
  {
   "id": "collectible-972",
   "name": "IEM Katowice 2019 決賽選手",
-  "description": "這塊獎牌是授予給 IEM Katowice 2019 CS:GO 錦標賽的決賽選手的。",
+  "description": "頒給 IEM Katowice 2019 CS:GO 特級錦標賽亞軍選手的獎牌。",
   "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
@@ -1487,7 +1487,7 @@
  {
   "id": "collectible-973",
   "name": "IEM Katowice 2019 準決賽選手",
-  "description": "這塊獎牌是授予給 IEM Katowice 2019 CS:GO 錦標賽的準決賽選手的。",
+  "description": "頒給 IEM Katowice 2019 CS:GO 特級錦標賽四強選手的獎牌。",
   "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
@@ -1502,7 +1502,7 @@
  {
   "id": "collectible-974",
   "name": "IEM Katowice 2019 前八強選手",
-  "description": "這塊獎牌是授予給 IEM Katowice 2019 CS:GO 錦標賽的前八強選手的。",
+  "description": "頒給 IEM Katowice 2019 CS:GO 特級錦標賽八強選手的獎牌。",
   "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
@@ -1517,7 +1517,7 @@
  {
   "id": "collectible-975",
   "name": "StarLadder Berlin 2019 冠軍",
-  "description": "這塊獎牌是授予給 2019 年 StarLadder Berlin CS:GO 錦標賽冠軍的。",
+  "description": "頒給 StarLadder Berlin 2019 CS:GO 特級錦標賽冠軍選手的獎盃。",
   "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
@@ -1532,7 +1532,7 @@
  {
   "id": "collectible-976",
   "name": "StarLadder Berlin 2019 決賽選手",
-  "description": "這塊獎牌是授予給 StarLadder Berlin 2019 CS:GO 錦標賽的決賽選手的。",
+  "description": "頒給 StarLadder Berlin 2019 CS:GO 特級錦標賽亞軍選手的獎盃。",
   "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
@@ -1547,7 +1547,7 @@
  {
   "id": "collectible-977",
   "name": "StarLadder Berlin 2019 準決賽選手",
-  "description": "這塊獎牌是授予給 StarLadder Berlin 2019 CS:GO 錦標賽的準決賽選手的。",
+  "description": "頒給 StarLadder Berlin 2019 CS:GO 特級錦標賽四強選手的獎盃。",
   "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
@@ -1562,7 +1562,7 @@
  {
   "id": "collectible-978",
   "name": "StarLadder Berlin 2019  前八強選手",
-  "description": "這塊獎牌是授予給 StarLadder Berlin 2019 CS:GO 錦標賽的前八強選手的。",
+  "description": "頒給 StarLadder Berlin 2019 CS:GO 特級錦標賽八強選手的獎盃。",
   "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
@@ -1577,7 +1577,7 @@
  {
   "id": "collectible-979",
   "name": "PGL Stockholm 2021 冠軍",
-  "description": "這塊獎牌是授予給 2021 年 PGL Stockholm CS:GO 錦標賽冠軍的。",
+  "description": "頒給 PGL Stockholm 2021 CS:GO 特級錦標賽冠軍選手的獎牌。",
   "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
@@ -1592,7 +1592,7 @@
  {
   "id": "collectible-980",
   "name": "PGL Stockholm 2021 決賽選手",
-  "description": "這塊獎牌是授予給 PGL Stockholm 2021 CS:GO 錦標賽的決賽選手的。",
+  "description": "頒給 PGL Stockholm 2021 CS:GO 特級錦標賽亞軍選手的獎牌。",
   "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
@@ -1607,7 +1607,7 @@
  {
   "id": "collectible-981",
   "name": "PGL Stockholm 2021 準決賽選手",
-  "description": "這塊獎牌是授予給 PGL Stockholm 2021 CS:GO 錦標賽的準決賽選手的。",
+  "description": "頒給 PGL Stockholm 2021 CS:GO 特級錦標賽四強選手的獎牌。",
   "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
@@ -1622,7 +1622,7 @@
  {
   "id": "collectible-982",
   "name": "PGL Stockholm 2021 前八強選手",
-  "description": "這塊獎牌是授予給 PGL Stockholm 2021 CS:GO 錦標賽的前八強選手的。",
+  "description": "頒給 PGL Stockholm 2021 CS:GO 特級錦標賽八強選手的獎牌。",
   "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
@@ -1667,7 +1667,7 @@
  {
   "id": "collectible-985",
   "name": "PGL Antwerp 2022 四強選手",
-  "description": "頒給 2022 年 PGL Antwerp CS:GO 特級錦標賽前四強選手的獎盃。",
+  "description": "頒給 2022 年 PGL Antwerp CS:GO 特級錦標賽四強選手的獎盃。",
   "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
@@ -1682,7 +1682,7 @@
  {
   "id": "collectible-986",
   "name": "PGL Antwerp 2022 八強選手",
-  "description": "頒給 2022 年 PGL Antwerp CS:GO 特級錦標賽前八強選手的獎盃。",
+  "description": "頒給 2022 年 PGL Antwerp CS:GO 特級錦標賽八強選手的獎盃。",
   "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
@@ -1742,7 +1742,7 @@
  {
   "id": "collectible-990",
   "name": "IEM Rio 2022 四強選手",
-  "description": "頒給 2022 年 IEM Rio CS:GO 特級錦標賽準前四強選手的獎盃。",
+  "description": "頒給 2022 年 IEM Rio CS:GO 特級錦標賽準四強選手的獎盃。",
   "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
@@ -1757,7 +1757,7 @@
  {
   "id": "collectible-991",
   "name": "IEM Rio 2022 八強選手",
-  "description": "頒給 2022 年 IEM Rio CS:GO 特級錦標賽前八強選手的獎盃。",
+  "description": "頒給 2022 年 IEM Rio CS:GO 特級錦標賽八強選手的獎盃。",
   "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
@@ -1802,7 +1802,7 @@
  {
   "id": "collectible-994",
   "name": "BLAST.tv Paris 2023 的前四強選手",
-  "description": "頒給 2023 年 BLAST.tv Paris CS:GO 特級錦標賽前四強選手的獎盃。",
+  "description": "頒給 2023 年 BLAST.tv Paris CS:GO 特級錦標賽四強選手的獎盃。",
   "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
@@ -1817,7 +1817,7 @@
  {
   "id": "collectible-995",
   "name": "BLAST.tv Paris 2023 的前八強選手",
-  "description": "頒給 2023 年 BLAST.tv Paris CS:GO 特級錦標賽前八強選手的獎盃。",
+  "description": "頒給 2023 年 BLAST.tv Paris CS:GO 特級錦標賽八強選手的獎盃。",
   "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
@@ -5537,7 +5537,7 @@
  {
   "id": "collectible-4934",
   "name": "PGL Copenhagen 2024 決賽選手",
-  "description": "頒給 2024 年 PGL Copenhagen CS2 特級錦標賽決賽選手的獎盃。",
+  "description": "頒給 2024 年 PGL Copenhagen CS2 特級錦標賽亞軍選手的獎盃。",
   "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
@@ -5867,7 +5867,7 @@
  {
   "id": "collectible-4975",
   "name": "Perfect World Shanghai 2024 亞軍",
-  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽決賽選手的獎盃。",
+  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽亞軍選手的獎盃。",
   "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
@@ -5882,7 +5882,7 @@
  {
   "id": "collectible-4976",
   "name": "Perfect World Shanghai 2024 準決賽選手",
-  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽準決賽選手的獎盃。",
+  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽四強選手的獎盃。",
   "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
@@ -5897,7 +5897,7 @@
  {
   "id": "collectible-4977",
   "name": "Perfect World Shanghai 2024 前八強選手",
-  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽前八強選手的獎盃。",
+  "description": "頒給 Perfect World Shanghai 2024 CS2 特級錦標賽八強選手的獎盃。",
   "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
@@ -6662,7 +6662,7 @@
  {
   "id": "collectible-5129",
   "name": "BLAST.tv Austin 2025 的前四強選手",
-  "description": "頒給 BLAST.tv Austin 2025 CS2 特級錦標賽前四強選手的獎盃。",
+  "description": "頒給 BLAST.tv Austin 2025 CS2 特級錦標賽四強選手的獎盃。",
   "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
@@ -6677,7 +6677,7 @@
  {
   "id": "collectible-5130",
   "name": "BLAST.tv Austin 2025 的前八強選手",
-  "description": "頒給 BLAST.tv Austin 2025 CS2 特級錦標賽前八強選手的獎盃。",
+  "description": "頒給 BLAST.tv Austin 2025 CS2 特級錦標賽八強選手的獎盃。",
   "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
@@ -7472,7 +7472,7 @@
  {
   "id": "collectible-5226",
   "name": "StarLadder Budapest 2025 冠軍",
-  "description": "這塊獎牌是授予給 2025 年 StarLadder Budapest CS2 錦標賽冠軍的。",
+  "description": "頒給 StarLadder Budapest 2025 CS2 特級錦標賽冠軍選手的獎牌。",
   "def_index": "5226",
   "rarity": {
    "id": "rarity_ancient",
@@ -7487,7 +7487,7 @@
  {
   "id": "collectible-5227",
   "name": "StarLadder Budapest 2025 決賽選手",
-  "description": "這塊獎牌是授予給 StarLadder Budapest 2025 CS2 錦標賽的決賽選手的。",
+  "description": "頒給 StarLadder Budapest 2025 CS2 特級錦標賽亞軍選手的獎牌。",
   "def_index": "5227",
   "rarity": {
    "id": "rarity_ancient",
@@ -7502,7 +7502,7 @@
  {
   "id": "collectible-5228",
   "name": "StarLadder Budapest 2025 準決賽選手",
-  "description": "這塊獎牌是授予給 StarLadder Budapest 2025 CS2 錦標賽的準決賽選手的。",
+  "description": "頒給 StarLadder Budapest 2025 CS2 特級錦標賽四強選手的獎牌。",
   "def_index": "5228",
   "rarity": {
    "id": "rarity_ancient",
@@ -7517,7 +7517,7 @@
  {
   "id": "collectible-5229",
   "name": "StarLadder Budapest 2025 前八強選手",
-  "description": "這塊獎牌是授予給 StarLadder Budapest 2025 CS2 錦標賽的前八強選手的。",
+  "description": "頒給 StarLadder Budapest 2025 CS2 特級錦標賽八強選手的獎牌。",
   "def_index": "5229",
   "rarity": {
    "id": "rarity_ancient",
@@ -8267,7 +8267,7 @@
  {
   "id": "collectible-5312",
   "name": "Cologne 2026 硬幣",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "description": "此為 IEM Cologne 2026 CS2 特級錦標賽紀念硬幣，會在整個賽事中追蹤您的硬幣進度、獲取 Cologne 2026 投注挑戰的完整存取權、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間可用的無限隊伍塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。您會在每次硬幣升級時獲得 300 枚 Cologne 2026 代幣。",
   "def_index": "5312",
   "rarity": {
    "id": null,
@@ -8281,8 +8281,8 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Cologne 2026 Silver Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Cologne 2026 銀幣",
+  "description": "此為 IEM Cologne 2026 CS2 特級錦標賽紀念硬幣，會在整個賽事中追蹤您的硬幣進度、獲取 Cologne 2026 投注挑戰的完整存取權、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間可用的無限隊伍塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。您會在每次硬幣升級時獲得 300 枚 Cologne 2026 代幣。",
   "def_index": "5313",
   "rarity": {
    "id": null,
@@ -8296,8 +8296,8 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Cologne 2026 Gold Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Cologne 2026 金幣",
+  "description": "此為 IEM Cologne 2026 CS2 特級錦標賽紀念硬幣，會在整個賽事中追蹤您的硬幣進度、獲取 Cologne 2026 投注挑戰的完整存取權、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間可用的無限隊伍塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。您會在每次硬幣升級時獲得 300 枚 Cologne 2026 代幣。",
   "def_index": "5314",
   "rarity": {
    "id": null,
@@ -8311,8 +8311,8 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Cologne 2026 Diamond Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Cologne 2026 鑽石幣",
+  "description": "此為 IEM Cologne 2026 CS2 特級錦標賽紀念硬幣，會在整個賽事中追蹤您的硬幣進度、獲取 Cologne 2026 投注挑戰的完整存取權、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間可用的無限隊伍塗鴉。\\n\\n您可以透過完成挑戰來升級您的 Cologne 2026 硬幣。您會在每次硬幣升級時獲得 300 枚 Cologne 2026 代幣。",
   "def_index": "5315",
   "rarity": {
    "id": null,
@@ -8341,8 +8341,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "IEM Cologne 2026 決賽選手",
-  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽亞軍選手的獎盃。",
+  "name": "IEM Cologne 2026 亞軍",
+  "description": "頒給 IEM Cologne 2026 CS2 特級錦標賽亞軍選手的獎盃。",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8357,7 +8357,7 @@
  {
   "id": "collectible-5321",
   "name": "IEM Cologne 2026 四強選手",
-  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽準前四強選手的獎盃。",
+  "description": "頒給 IEM Cologne 2026 CS2 特級錦標賽四強選手的獎盃。",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8371,8 +8371,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "IEM Cologne 2026 前八強選手",
-  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽前八強選手的獎盃。",
+  "name": "IEM Cologne 2026 八強選手",
+  "description": "頒給 2026 年 IEM Cologne CS2 特級錦標賽八強選手的獎盃。",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",

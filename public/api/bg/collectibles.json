@@ -17,7 +17,7 @@
  {
   "id": "collectible-875",
   "name": "Шампион от DreamHack 2013",
-  "description": "<b><font color='#F2A93E'>Champion at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на победителя от DreamHack 2013 SteelSeries CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Champion at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на победителя от CS:GO шампионата DreamHack SteelSeries 2013.",
   "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
@@ -32,7 +32,7 @@
  {
   "id": "collectible-876",
   "name": "Финалист от DreamHack 2013",
-  "description": "<b><font color='#F2A93E'>Finalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на финалиста от DreamHack 2013 SteelSeries CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Finalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на финалиста от CS:GO шампионата DreamHack SteelSeries 2013.",
   "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
@@ -47,7 +47,7 @@
  {
   "id": "collectible-877",
   "name": "Полуфиналист от DreamHack 2013",
-  "description": "<b><font color='#F2A93E'>Semifinalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от DreamHack 2013 SteelSeries CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от CS:GO шампионата DreamHack SteelSeries 2013.",
   "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
@@ -62,7 +62,7 @@
  {
   "id": "collectible-878",
   "name": "Четвъртфиналист от DreamHack 2013",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от DreamHack 2013 SteelSeries CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at DreamHack 2013</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от CS:GO шампионата DreamHack SteelSeries 2013.",
   "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
@@ -77,7 +77,7 @@
  {
   "id": "collectible-879",
   "name": "Шампион от EMS One Katowice 2014",
-  "description": "<b><font color='#F2A93E'>Champion at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на победителя от CS:GO шампионата 2014 EMS One Katowice.",
+  "description": "<b><font color='#F2A93E'>Champion at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на победителя от CS:GO шампионата EMS One Katowice 2014.",
   "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
@@ -92,7 +92,7 @@
  {
   "id": "collectible-880",
   "name": "Финалист от EMS One Katowice 2014",
-  "description": "<b><font color='#F2A93E'>Finalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на финалиста от CS:GO шампионата 2014 EMS One Katowice.",
+  "description": "<b><font color='#F2A93E'>Finalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на финалиста от CS:GO шампионата EMS One Katowice 2014.",
   "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
@@ -107,7 +107,7 @@
  {
   "id": "collectible-881",
   "name": "Полуфиналист от EMS One Katowice 2014",
-  "description": "<b><font color='#F2A93E'>Semifinalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от CS:GO шампионата 2014 EMS One Katowice.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от CS:GO шампионата EMS One Katowice 2014.",
   "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
@@ -122,7 +122,7 @@
  {
   "id": "collectible-882",
   "name": "Четвъртфиналист от EMS One Katowice 2014",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от CS:GO шампионата 2014 EMS One Katowice.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at EMS One Katowice 2014</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от CS:GO шампионата EMS One Katowice 2014.",
   "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
@@ -1457,7 +1457,7 @@
  {
   "id": "collectible-971",
   "name": "Шампион от IEM Katowice 2019",
-  "description": "<b><font color='#F2A93E'>Champion at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на победителя от IEM Katowice 2019 CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Champion at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на победителя от CS:GO шампионата IEM Katowice 2019.",
   "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
@@ -1472,7 +1472,7 @@
  {
   "id": "collectible-972",
   "name": "Финалист от IEM Katowice 2019",
-  "description": "<b><font color='#F2A93E'>Finalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на финалиста от IEM Katowice 2019 CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Finalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на финалиста от CS:GO шампионата IEM Katowice 2019.",
   "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
@@ -1487,7 +1487,7 @@
  {
   "id": "collectible-973",
   "name": "Полуфиналист от IEM Katowice 2019",
-  "description": "<b><font color='#F2A93E'>Semifinalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от IEM Katowice 2019 CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от CS:GO шампионата IEM Katowice 2019.",
   "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
@@ -1502,7 +1502,7 @@
  {
   "id": "collectible-974",
   "name": "Четвъртфиналист от IEM Katowice 2019",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от IEM Katowice 2019 CS:GO шампионата.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at IEM Katowice 2019</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от CS:GO шампионата IEM Katowice 2019.",
   "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
@@ -1772,7 +1772,7 @@
  {
   "id": "collectible-992",
   "name": "Шампион от BLAST.tv Paris 2023",
-  "description": "<b><font color='#F2A93E'>Champion at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на победителя от значителния BLAST.tv Paris 2023 CS:GO шампионат.",
+  "description": "<b><font color='#F2A93E'>Champion at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на победителя от значителния CS:GO шампионат BLAST.tv Paris 2023.",
   "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
@@ -1787,7 +1787,7 @@
  {
   "id": "collectible-993",
   "name": "Финалист от BLAST.tv Paris 2023",
-  "description": "<b><font color='#F2A93E'>Finalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на финалиста от значителния BLAST.tv Paris 2023 CS:GO шампионат.",
+  "description": "<b><font color='#F2A93E'>Finalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на финалиста от значителния CS:GO шампионат BLAST.tv Paris 2023.",
   "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
@@ -1802,7 +1802,7 @@
  {
   "id": "collectible-994",
   "name": "Полуфиналист от BLAST.tv Paris 2023",
-  "description": "<b><font color='#F2A93E'>Semifinalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от значителния BLAST.tv Paris 2023 CS:GO шампионат.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от значителния CS:GO шампионат BLAST.tv Paris 2023.",
   "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
@@ -1817,7 +1817,7 @@
  {
   "id": "collectible-995",
   "name": "Четвъртфиналист от BLAST.tv Paris 2023",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от значителния BLAST.tv Paris 2023 CS:GO шампионат.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at BLAST.tv Paris 2023</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от значителния CS:GO шампионат BLAST.tv Paris 2023.",
   "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
@@ -6632,7 +6632,7 @@
  {
   "id": "collectible-5127",
   "name": "Шампион от BLAST.tv Austin 2025",
-  "description": "<b><font color='#F2A93E'>Champion at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на победителя от значителния BLAST.tv Austin 2025 CS2 шампионат.",
+  "description": "<b><font color='#F2A93E'>Champion at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на победителя от значителния CS2 шампионат BLAST.tv Austin 2025.",
   "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
@@ -6647,7 +6647,7 @@
  {
   "id": "collectible-5128",
   "name": "Финалист от BLAST.tv Austin 2025",
-  "description": "<b><font color='#F2A93E'>Finalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на финалиста от значителния BLAST.tv Austin 2025 CS2 шампионат.",
+  "description": "<b><font color='#F2A93E'>Finalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на финалиста от значителния CS2 шампионат BLAST.tv Austin 2025.",
   "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
@@ -6662,7 +6662,7 @@
  {
   "id": "collectible-5129",
   "name": "Полуфиналист от BLAST.tv Austin 2025",
-  "description": "<b><font color='#F2A93E'>Semifinalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от значителния BLAST.tv Austin 2025 CS2 шампионат.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от значителния CS2 шампионат BLAST.tv Austin 2025.",
   "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
@@ -6677,7 +6677,7 @@
  {
   "id": "collectible-5130",
   "name": "Четвъртфиналист от BLAST.tv Austin 2025",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от значителния BLAST.tv Austin 2025 CS2 шампионат.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at BLAST.tv Austin 2025</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от значителния CS2 шампионат BLAST.tv Austin 2025.",
   "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
@@ -7472,7 +7472,7 @@
  {
   "id": "collectible-5226",
   "name": "Шампион от StarLadder Budapest 2025",
-  "description": "<b><font color='#F2A93E'>Champion at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на победителя от CS2 шампионата StarLadder Budapest 2025.",
+  "description": "<b><font color='#F2A93E'>Champion at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на победителя от значителния CS2 шампионат StarLadder Budapest 2025.",
   "def_index": "5226",
   "rarity": {
    "id": "rarity_ancient",
@@ -7502,7 +7502,7 @@
  {
   "id": "collectible-5228",
   "name": "Полуфиналист от StarLadder Budapest 2025",
-  "description": "<b><font color='#F2A93E'>Semifinalist at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от CS2 шампионата StarLadder Budapest 2025.",
+  "description": "<b><font color='#F2A93E'>Semifinalist at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на полуфиналиста от значителния CS2 шампионат StarLadder Budapest 2025.",
   "def_index": "5228",
   "rarity": {
    "id": "rarity_ancient",
@@ -7517,7 +7517,7 @@
  {
   "id": "collectible-5229",
   "name": "Четвъртфиналист от StarLadder Budapest 2025",
-  "description": "<b><font color='#F2A93E'>Quarterfinalist at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от CS2 шампионата StarLadder Budapest 2025.",
+  "description": "<b><font color='#F2A93E'>Quarterfinalist at StarLadder Budapest 2025</font></b>\\n \\nТози трофей беше присъден на четвъртфиналиста от значителния CS2 шампионат StarLadder Budapest 2025.",
   "def_index": "5229",
   "rarity": {
    "id": "rarity_ancient",
@@ -8236,7 +8236,7 @@
  },
  {
   "id": "collectible-5310",
-  "name": "Cologne 2026 Viewer Pass",
+  "name": "Cologne 2026 зрителски пропуск",
   "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
   "def_index": "5310",
   "rarity": {
@@ -8251,7 +8251,7 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
+  "name": "Cologne 2026 зрителски пропуск + 900 жетона",
   "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
   "def_index": "5311",
   "rarity": {

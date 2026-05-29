@@ -8237,7 +8237,7 @@
  {
   "id": "collectible-5310",
   "name": "Köln 2026 İzleyici Bileti",
-  "description": "Bu bir mühürlü IEM Köln 2026 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Köln 2026 Rozeti, Köln 2026 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nRozet mücadelelerini tamamlayarak Köln 2026 Rozeti'ni yükselt. Rozetini her yükselttiğinde 300 Köln 2026 jetonu kazanırsın.\\n\\nBu biletin satışından elde edilen gelirin %50'si destek için katılımcı oyunculara ve organizasyonlara aktarılır.",
+  "description": "Bu bir mühürlü IEM Köln 2026 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Köln 2026 Jetonu, Köln 2026 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nJeton mücadelelerini tamamlayarak Köln 2026 Jetonu'nu yükselt. Jetonunu her yükselttiğinde 300 Köln 2026 kredi jetonu kazanırsın.\\n\\nBu biletin satışından elde edilen gelirin %50'si destek için katılımcı oyunculara ve organizasyonlara aktarılır.",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8252,7 +8252,7 @@
  {
   "id": "collectible-5311",
   "name": "Köln 2026 İzleyici Bileti + 900 Jeton",
-  "description": "Bu bir mühürlü IEM Köln 2026 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Köln 2026 Rozeti, Köln 2026 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nRozet mücadelelerini tamamlayarak Köln 2026 Rozeti'ni yükselt. Rozetini her yükselttiğinde 300 Köln 2026 jetonu kazanırsın.\\n\\nBu izleyici bileti, Köln 2026 Rozeti'ni 900 Köln jetonuyla önceden etkinleştirecektir.\\n\\nBu biletin satışından elde edilen gelirin %50'si katılımcı oyunculara ve organizasyonlara aktarılır.",
+  "description": "Bu bir mühürlü IEM Köln 2026 CS2 Major Şampiyonası izleyici biletidir. Bu biletin mührü açıldıktan sonra, etkinlik boyunca ilerlemeni takip eden Köln 2026 Jetonu, Köln 2026 Seçim Mücadelesi'ne tam erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve oyun içinde etkinlik boyunca kullanım sınırı olmayan grafitiler sağlar.\\n\\nJeton mücadelelerini tamamlayarak Köln 2026 Jetonu'nu yükselt. Jetonunu her yükselttiğinde 300 Köln 2026 kredi jetonu kazanırsın.\\n\\nBu izleyici bileti, Köln 2026 Jetonu'nu 900 Köln kredi jetonuyla önceden etkinleştirecektir.\\n\\nBu biletin satışından elde edilen gelirin %50'si katılımcı oyunculara ve organizasyonlara aktarılır.",
   "def_index": "5311",
   "rarity": {
    "id": null,
@@ -8266,8 +8266,8 @@
  },
  {
   "id": "collectible-5312",
-  "name": "Köln 2026 Rozeti",
-  "description": "Bu rozet IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Rozeti'ni, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 jetonu kazanırsın.",
+  "name": "Köln 2026 Jetonu",
+  "description": "Bu jeton IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Jetonu'nu, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 kredi jetonu kazanırsın.",
   "def_index": "5312",
   "rarity": {
    "id": null,
@@ -8281,8 +8281,8 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Köln 2026 Gümüş Rozeti",
-  "description": "Bu rozet IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Rozeti'ni, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 jetonu kazanırsın.",
+  "name": "Köln 2026 Gümüş Jetonu",
+  "description": "Bu jeton IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Jetonu'nu, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 kredi jetonu kazanırsın.",
   "def_index": "5313",
   "rarity": {
    "id": null,
@@ -8296,8 +8296,8 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Köln 2026 Altın Rozeti",
-  "description": "Bu rozet IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Rozeti'ni, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 jetonu kazanırsın.",
+  "name": "Köln 2026 Altın Jetonu",
+  "description": "Bu jeton IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Jetonu'nu, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 kredi jetonu kazanırsın.",
   "def_index": "5314",
   "rarity": {
    "id": null,
@@ -8311,8 +8311,8 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Köln 2026 Elmas Rozeti",
-  "description": "Bu rozet IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, rozet mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Rozeti'ni, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 jetonu kazanırsın.",
+  "name": "Köln 2026 Elmas Jetonu",
+  "description": "Bu jeton IEM Köln 2026 CS2 Major Şampiyonası anısınadır ve ayrıca etkinlik boyunca ilerlemeni kaydeder, etkinlik süresince Köln 2026 Seçim Mücadelesi'ne erişim, Steam.tv sohbet amblemleri, jeton mücadeleleri ve sınırsız takım grafitisi verir.\\n\\nKöln 2026 Jetonu'nu, mücadeleleri tamamlayarak yükseltebilirsin. Her yükseltmeden sonra 300 Köln 2026 kredi jetonu kazanırsın.",
   "def_index": "5315",
   "rarity": {
    "id": null,
