@@ -8237,7 +8237,7 @@
  {
   "id": "collectible-5310",
   "name": "Przepustka widza IEM Cologne 2026",
-  "description": "Jest to nieotwarta przepustka widza Wielkich Mistrzostw CS2 IEM Cologne 2026. Po jej otwarciu otrzymasz żeton IEM Cologne 2026, który śledzi twoje postępy podczas wydarzenia oraz daje ci pełny dostęp do Wyzwania Pick'em, ikon czatu Steam.tv, wyzwań żetonu i nielimitowanej liczby użyć graffiti drużyn w grze podczas wydarzenia.\\n\\nUlepsz swój żeton, wypełniając wyzwania żetonu. Zdobądź monetę pamiątek za każde ulepszenie żetonu wydarzenia.\\n\\n50% wpływów ze sprzedaży tej przepustki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
+  "description": "Jest to nieotwarta przepustka widza Wielkich Mistrzostw CS2 IEM Cologne 2026. Po jej otwarciu otrzymasz żeton IEM Cologne 2026, który śledzi twoje postępy podczas wydarzenia oraz daje ci pełny dostęp do Wyzwania Pick'em, ikon czatu Steam.tv, wyzwań żetonu i nielimitowanej liczby użyć graffiti drużyn w grze podczas wydarzenia.\\n\\nUlepsz swój żeton, wypełniając wyzwania żetonu. Zdobądź monetę pamiątek za każde ulepszenie żetonu wydarzenia.\\n\\n50% wpływów ze sprzedaży tej przepustki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
   "def_index": "5310",
   "rarity": {
    "id": null,
@@ -8252,7 +8252,7 @@
  {
   "id": "collectible-5311",
   "name": "Przepustka widza IEM Cologne 2026 + 900 monet pamiątek",
-  "description": "Jest to nieotwarta przepustka widza Wielkich Mistrzostw CS2 IEM Cologne 2026. Po jej otwarciu otrzymasz żeton IEM Cologne 2026, który śledzi twoje postępy podczas wydarzenia oraz daje ci pełny dostęp do Wyzwania Pick'em, ikon czatu Steam.tv, wyzwań żetonu i nielimitowanej liczby użyć graffiti drużyn w grze podczas wydarzenia.\\n\\nUlepsz swój żeton, wypełniając wyzwania żetonu. Zdobądź 300 monet pamiątek za każde ulepszenie żetonu wydarzenia.\\n\\nTa przepustka widza aktywuje 900 monet pamiątek dla twojego żetonu wydarzenia.\\n\\n50% wpływów ze sprzedaży tej przepustki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
+  "description": "Jest to nieotwarta przepustka widza Wielkich Mistrzostw CS2 IEM Cologne 2026. Po jej otwarciu otrzymasz żeton IEM Cologne 2026, który śledzi twoje postępy podczas wydarzenia oraz daje ci pełny dostęp do Wyzwania Pick'em, ikon czatu Steam.tv, wyzwań żetonu i nielimitowanej liczby użyć graffiti drużyn w grze podczas wydarzenia.\\n\\nUlepsz swój żeton, wypełniając wyzwania żetonu. Zdobądź 300 monet pamiątek za każde ulepszenie żetonu wydarzenia.\\n\\nTa przepustka widza aktywuje 900 monet pamiątek dla twojego żetonu wydarzenia.\\n\\n50% wpływów ze sprzedaży tej przepustki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
   "def_index": "5311",
   "rarity": {
    "id": null,
@@ -8326,8 +8326,8 @@
  },
  {
   "id": "collectible-5319",
-  "name": "Champion at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Mistrz IEM Cologne 2026",
+  "description": "To trofeum zostało przyznane członkom zwycięskiej drużyny na Wielkich Mistrzostwach CS2 IEM Cologne 2026.",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -8341,8 +8341,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Finalista IEM Cologne 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny finalistów na Wielkich Mistrzostwach CS2 IEM Cologne 2026.",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -8356,8 +8356,8 @@
  },
  {
   "id": "collectible-5321",
-  "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Półfinalista IEM Cologne 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny półfinalistów na Wielkich Mistrzostwach CS2 IEM Cologne 2026.",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -8371,8 +8371,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Ćwierćfinalista IEM Cologne 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny ćwierćfinalistów na Wielkich Mistrzostwach CS2 IEM Cologne 2026.",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",
